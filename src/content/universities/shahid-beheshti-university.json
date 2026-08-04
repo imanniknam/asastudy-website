@@ -1,0 +1,120 @@
+{
+  "slug": "shahid-beheshti-university",
+  "name": { "en": "Shahid Beheshti University (SBU)", "fa": "دانشگاه شهید بهشتی (SBU)" },
+  "shortName": { "en": "SBU", "fa": "SBU" },
+  "city": { "en": "Tehran", "fa": "تهران" },
+  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "established": "1969",
+  "ranking": {
+    "en": "One of the top public research universities in Iran, with a strong academic reputation and experienced faculty members.",
+    "fa": "یکی از دانشگاه‌های برتر دولتی و پژوهش‌محور ایران با سابقه علمی و آموزشی معتبر."
+  },
+  "featuredPrograms": {
+    "en": ["Engineering", "Basic Sciences", "Humanities", "Social Sciences", "Management and Economics", "Law"],
+    "fa": ["مهندسی", "علوم پایه", "علوم انسانی", "علوم اجتماعی", "مدیریت و اقتصاد", "حقوق"]
+  },
+  "summary": {
+    "en": "One of Iran's leading public research universities, SBU in Tehran offers a wide range of undergraduate, graduate, and doctoral programs across engineering, sciences, humanities, law, and management.",
+    "fa": "دانشگاه شهید بهشتی یکی از دانشگاه‌های دولتی و پژوهش‌محور برتر ایران در تهران است که طیف گسترده‌ای از رشته‌ها را در مقاطع کارشناسی، کارشناسی ارشد و دکتری در حوزه‌های مهندسی، علوم، علوم انسانی، حقوق و مدیریت ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "Shahid Beheshti University (SBU) is one of the leading public research universities in Iran, located in Tehran. Established in 1969, the university has developed into one of the country's most prominent academic institutions, known for its educational quality, research activities, and diverse academic programs.\n\nThe university operates under the supervision of the Ministry of Science, Research and Technology of Iran and offers a wide range of undergraduate, graduate, and doctoral programs across various fields, including humanities, social sciences, basic sciences, engineering, law, economics, management, and interdisciplinary studies.\n\nWith a large academic community, experienced faculty members, research centers, and international collaborations, Shahid Beheshti University provides a dynamic academic environment for both domestic and international students.",
+    "fa": "دانشگاه شهید بهشتی (SBU) یکی از دانشگاه‌های دولتی و پژوهش‌محور برجسته ایران است که در شهر تهران قرار دارد. این دانشگاه در سال ۱۳۴۸ (۱۹۶۹) تأسیس شد و طی بیش از پنج دهه فعالیت، به یکی از مراکز مهم آموزش عالی، پژوهش و نوآوری در کشور تبدیل شده است.\n\nاین دانشگاه زیر نظر وزارت علوم، تحقیقات و فناوری فعالیت می‌کند و طیف گسترده‌ای از رشته‌ها را در مقاطع کارشناسی، کارشناسی ارشد و دکتری ارائه می‌دهد.\n\nدانشگاه شهید بهشتی با برخورداری از دانشکده‌های متعدد، اعضای هیئت علمی متخصص، مراکز تحقیقاتی فعال و همکاری‌های علمی بین‌المللی، محیطی پویا برای دانشجویان داخلی و بین‌المللی فراهم کرده است."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold a valid academic qualification",
+      "Meet the academic requirements of the selected program",
+      "Provide complete application documents",
+      "Meet language requirements when necessary",
+      "Follow Iranian educational and residence regulations"
+    ],
+    "fa": [
+      "داشتن مدرک تحصیلی معتبر",
+      "برخورداری از شرایط علمی لازم برای رشته انتخابی",
+      "ارائه مدارک کامل",
+      "داشتن مدرک زبان در صورت نیاز",
+      "رعایت قوانین آموزشی و اقامتی ایران"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Official academic certificates",
+      "Academic transcripts",
+      "Certified translations of educational documents",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (SOP)",
+      "Academic recommendation letters (for graduate programs)",
+      "Personal photograph",
+      "Language certificate (Persian or English depending on the program)",
+      "Research background, publications, or portfolio (for selected fields)"
+    ],
+    "fa": [
+      "فرم تکمیل‌شده درخواست پذیرش",
+      "گذرنامه معتبر",
+      "مدارک تحصیلی قبلی",
+      "ریزنمرات رسمی",
+      "ترجمه رسمی مدارک تحصیلی",
+      "رزومه (CV)",
+      "انگیزه‌نامه (Statement of Purpose)",
+      "توصیه‌نامه علمی (برای مقاطع تحصیلات تکمیلی)",
+      "عکس پرسنلی",
+      "مدرک زبان فارسی یا انگلیسی (بسته به رشته)",
+      "سوابق پژوهشی، مقالات یا پورتفولیو (در برخی رشته‌ها)"
+    ]
+  },
+  "tuition": {
+    "en": "Tuition fees for international students vary depending on the faculty, degree level, and academic program. Approximate ranges are around €750 per semester for Humanities programs, around €1,000–€1,500 per semester for Engineering programs, and variable rates for medical or related fields. After admission, students may be required to pay an initial tuition deposit before final enrollment. Tuition fees are subject to annual changes according to university policies.",
+    "fa": "شهریه دانشجویان بین‌المللی در دانشگاه شهید بهشتی بر اساس رشته، دانشکده و مقطع تحصیلی متفاوت است. حدود تقریبی شهریه شامل حدود ۷۵۰ یورو در هر ترم برای علوم انسانی و حدود ۱۰۰۰ تا ۱۵۰۰ یورو در هر ترم برای رشته‌های فنی و مهندسی است؛ سایر رشته‌ها بسته به برنامه تحصیلی متفاوت است. پس از دریافت پذیرش، ممکن است پرداخت بخشی از شهریه اولیه برای تکمیل ثبت‌نام الزامی باشد. شهریه‌ها ممکن است هر سال توسط دانشگاه تغییر کند."
+  },
+  "tuitionNote": {
+    "en": "SBU may offer tuition discounts for eligible international students: 20% for the first-ranked student in each program, 10% for the second-ranked student, 10% for family members studying simultaneously, 10% for programs related to Persian language and Iranian studies, 20% for SBU graduates, and 10% for graduates of other Iranian universities.",
+    "fa": "دانشگاه شهید بهشتی ممکن است برای دانشجویان بین‌المللی واجد شرایط تخفیف شهریه در نظر بگیرد: ۲۰٪ برای دانشجوی رتبه اول هر رشته، ۱۰٪ برای رتبه دوم، ۱۰٪ برای تحصیل همزمان اعضای خانواده، ۱۰٪ برای رشته‌های مرتبط با زبان فارسی و ایران‌شناسی، ۲۰٪ برای فارغ‌التحصیلان دانشگاه شهید بهشتی، و ۱۰٪ برای فارغ‌التحصیلان سایر دانشگاه‌های ایران."
+  },
+  "programs": [
+    { "name": { "en": "Letters and Human Sciences", "fa": "ادبیات و علوم انسانی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Letters and Human Sciences", "fa": "دانشکده ادبیات و علوم انسانی" } },
+    { "name": { "en": "Law", "fa": "حقوق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Law", "fa": "دانشکده حقوق" } },
+    { "name": { "en": "Economics and Political Sciences", "fa": "اقتصاد و علوم سیاسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Economics and Political Sciences", "fa": "دانشکده اقتصاد و علوم سیاسی" } },
+    { "name": { "en": "Management and Accounting", "fa": "مدیریت و حسابداری" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Management and Accounting", "fa": "دانشکده مدیریت و حسابداری" } },
+    { "name": { "en": "Science", "fa": "علوم" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Science", "fa": "دانشکده علوم" } },
+    { "name": { "en": "Electrical and Computer Engineering", "fa": "مهندسی برق و کامپیوتر" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Electrical and Computer Engineering", "fa": "دانشکده مهندسی برق و کامپیوتر" } },
+    { "name": { "en": "Mechanical and Energy Engineering", "fa": "مهندسی مکانیک و انرژی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Mechanical and Energy Engineering", "fa": "دانشکده مهندسی مکانیک و انرژی" } },
+    { "name": { "en": "Architecture and Urban Planning", "fa": "معماری و شهرسازی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Architecture and Urban Planning", "fa": "دانشکده معماری و شهرسازی" } },
+    { "name": { "en": "Earth Sciences", "fa": "علوم زمین" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Earth Sciences", "fa": "دانشکده علوم زمین" } },
+    { "name": { "en": "Educational Sciences and Psychology", "fa": "علوم تربیتی و روان‌شناسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Behavioral Sciences", "fa": "دانشکده علوم تربیتی و روان‌شناسی" } },
+    { "name": { "en": "Biological Sciences", "fa": "علوم زیستی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Biological Sciences", "fa": "دانشکده علوم زیستی" } },
+    { "name": { "en": "Environmental Studies", "fa": "مطالعات محیط‌زیست" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Interdisciplinary Research Areas", "fa": "رشته‌های بین‌رشته‌ای" } }
+  ],
+  "studentLife": {
+    "en": "As the capital city of Iran, Tehran offers international students access to leading universities and research centers, libraries and cultural institutions, professional networking opportunities, public transportation facilities, and a diverse social and cultural environment. Estimated monthly student living costs include approximately $10-60 for transportation, $25-100 for dormitory, $25-100 for food, and $8-10 for insurance, with a total estimated monthly living cost of approximately $128-280.",
+    "fa": "تهران به عنوان پایتخت ایران، امکانات گسترده آموزشی، فرهنگی و حمل‌ونقل را در اختیار دانشجویان قرار می‌دهد؛ از جمله دسترسی به دانشگاه‌ها و مراکز تحقیقاتی معتبر، کتابخانه‌ها و مراکز فرهنگی، فرصت‌های حرفه‌ای و پژوهشی، و شبکه حمل‌ونقل شهری گسترده. هزینه تقریبی ماهانه دانشجویی شامل حدود ۱۰ تا ۶۰ دلار حمل‌ونقل، ۲۵ تا ۱۰۰ دلار خوابگاه، ۲۵ تا ۱۰۰ دلار غذا و ۸ تا ۱۰ دلار بیمه است که در مجموع حدود ۱۲۸ تا ۲۸۰ دلار در ماه برآورد می‌شود."
+  },
+  "dormitory": {
+    "en": "Shahid Beheshti University provides student dormitories for international students based on available capacity, along with digital libraries and academic resources, research centers and laboratories, counseling and student support services, sports and cultural facilities, and dedicated international student support services.",
+    "fa": "دانشگاه شهید بهشتی در صورت وجود ظرفیت، امکانات خوابگاهی را برای دانشجویان بین‌المللی فراهم می‌کند و همچنین کتابخانه‌ها و منابع دیجیتال، آزمایشگاه‌ها و مراکز تحقیقاتی، خدمات مشاوره و رفاهی، امکانات ورزشی و فرهنگی و پشتیبانی ویژه دانشجویان بین‌المللی را ارائه می‌دهد."
+  },
+  "faq": [
+    {
+      "question": { "en": "Does Shahid Beheshti University accept international students?", "fa": "آیا دانشگاه شهید بهشتی دانشجوی بین‌المللی می‌پذیرد؟" },
+      "answer": { "en": "Yes. International students can apply for available programs based on university regulations.", "fa": "بله، دانشجویان بین‌المللی می‌توانند برای رشته‌های ارائه‌شده طبق قوانین دانشگاه درخواست دهند." }
+    },
+    {
+      "question": { "en": "What programs are available for international students?", "fa": "چه رشته‌هایی برای دانشجویان خارجی ارائه می‌شود؟" },
+      "answer": { "en": "The university offers programs in various fields, including engineering, sciences, humanities, management, law, and social sciences.", "fa": "این دانشگاه در حوزه‌های مهندسی، علوم پایه، علوم انسانی، مدیریت، حقوق و علوم اجتماعی برنامه‌های متنوعی ارائه می‌دهد." }
+    },
+    {
+      "question": { "en": "Is English education available at SBU?", "fa": "آیا امکان تحصیل به زبان انگلیسی وجود دارد؟" },
+      "answer": { "en": "Some programs, especially at graduate levels, may be offered in English. Requirements depend on the selected program.", "fa": "برخی برنامه‌ها، به‌خصوص در مقاطع تحصیلات تکمیلی، ممکن است به زبان انگلیسی ارائه شوند." }
+    },
+    {
+      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه دارد؟" },
+      "answer": { "en": "Yes. Student accommodation may be available based on capacity.", "fa": "بله، خوابگاه دانشجویی بر اساس ظرفیت در اختیار دانشجویان قرار می‌گیرد." }
+    },
+    {
+      "question": { "en": "Are scholarships or tuition discounts available?", "fa": "آیا تخفیف شهریه وجود دارد؟" },
+      "answer": { "en": "Eligible students may receive tuition discounts according to university policies.", "fa": "بله، دانشجویان واجد شرایط می‌توانند از تخفیف‌های شهریه دانشگاه استفاده کنند." }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "tehran-university-of-medical-sciences",
+  "name": {
+    "en": "Tehran University of Medical Sciences (TUMS)",
+    "fa": "دانشگاه علوم پزشکی تهران (TUMS)"
+  },
+  "shortName": {
+    "en": "TUMS",
+    "fa": "TUMS"
+  },
+  "city": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
+  "type": {
+    "en": "Public University of Medical Sciences",
+    "fa": "دانشگاه دولتی علوم پزشکی"
+  },
+  "established": "1934",
+  "ranking": {
+    "en": "Widely regarded as Iran's highest-ranked and most prestigious medical university, with a strong international reputation and a prominent standing in national and international rankings.",
+    "fa": "به‌عنوان معتبرترین دانشگاه علوم پزشکی ایران شناخته می‌شود و همواره در رتبه‌بندی‌های ملی و بین‌المللی جایگاه برجسته‌ای داشته است."
+  },
+  "featuredPrograms": {
+    "en": ["General Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences", "Rehabilitation Sciences", "Traditional Medicine"],
+    "fa": ["پزشکی عمومی (MD)", "دندانپزشکی (DDS)", "داروسازی (PharmD)", "پرستاری و مامایی", "بهداشت", "علوم پیراپزشکی", "توانبخشی", "طب سنتی"]
+  },
+  "summary": {
+    "en": "Iran's oldest and most prestigious medical university, offering internationally recognized medical education and extensive clinical training through its International Campus in Tehran.",
+    "fa": "قدیمی‌ترین و معتبرترین دانشگاه علوم پزشکی ایران که از طریق پردیس بین‌الملل خود در تهران، آموزش پزشکی معتبر بین‌المللی و آموزش بالینی گسترده ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "Tehran University of Medical Sciences (TUMS) is Iran's oldest, most prestigious, and internationally recognized medical university. As one of the leading medical institutions in the Middle East, TUMS has built an outstanding reputation for excellence in medical education, scientific research, and healthcare services.\n\nLocated in Tehran, the university operates an extensive network of specialized schools, teaching hospitals, research institutes, and international academic collaborations. Through its International Campus, TUMS welcomes students from more than 60 countries, providing a multicultural learning environment and world-class medical education.\n\nStudents benefit from a comprehensive educational experience that combines rigorous academic instruction with extensive clinical training in some of Iran's largest and most advanced teaching hospitals.\n\nKey advantages include a long-standing history of educating international students, an extensive network of affiliated teaching hospitals and specialized healthcare centers, more than 200 research centers and advanced laboratories, excellent opportunities for international research collaboration, and a prime location in Tehran, Iran's largest educational and medical hub.",
+    "fa": "دانشگاه علوم پزشکی تهران (TUMS) معتبرترین و شناخته‌شده‌ترین دانشگاه علوم پزشکی ایران و یکی از برترین دانشگاه‌های علوم پزشکی در خاورمیانه است. این دانشگاه با سابقه‌ای طولانی در آموزش پزشکی، پژوهش و ارائه خدمات درمانی، همواره در رتبه‌بندی‌های ملی و بین‌المللی جایگاه برجسته‌ای داشته است.\n\nTUMS دارای دانشکده‌های تخصصی، بیمارستان‌های آموزشی، مراکز تحقیقاتی پیشرفته و پردیس بین‌المللی فعال است و هر ساله میزبان دانشجویان بین‌المللی از ده‌ها کشور جهان می‌شود. دانشجویان علاوه بر آموزش نظری، فرصت کسب تجربه عملی در یکی از بزرگ‌ترین شبکه‌های درمانی و آموزشی ایران را خواهند داشت.\n\nاز جمله مزیت‌های این دانشگاه می‌توان به سابقه طولانی در پذیرش دانشجویان بین‌المللی، پردیس بین‌الملل با برنامه‌های آموزشی متنوع، شبکه گسترده بیمارستان‌های آموزشی و مراکز درمانی، بیش از ۲۰۰ مرکز تحقیقاتی و آزمایشگاهی، فرصت‌های همکاری علمی و پژوهشی بین‌المللی، و قرارگیری در شهر تهران، بزرگ‌ترین قطب علمی و درمانی ایران اشاره کرد."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold non-Iranian citizenship",
+      "Reside outside Iran at the time of application",
+      "Select the intended academic program and degree level before applying",
+      "Hold recognized academic qualifications appropriate for the chosen degree",
+      "Complete the online application form",
+      "Submit all required supporting documents before the deadline",
+      "Note: Iranian citizens, including dual nationals holding Iranian citizenship, are not eligible to apply through the international admission pathway"
+    ],
+    "fa": [
+      "داشتن تابعیت غیرایرانی",
+      "اقامت خارج از ایران در زمان ثبت درخواست",
+      "انتخاب رشته و مقطع تحصیلی مورد نظر پیش از ثبت درخواست",
+      "داشتن مدارک تحصیلی معتبر و متناسب با مقطع انتخابی",
+      "تکمیل فرم درخواست آنلاین",
+      "ارسال تمامی مدارک موردنیاز پیش از مهلت مقرر",
+      "توجه: اتباع ایرانی، از جمله دارندگان تابعیت دوگانه، امکان استفاده از مسیر پذیرش بین‌المللی دانشگاه را ندارند"
+    ]
+  },
+  "requiredDocuments": {
+    "en": ["Completed online application form", "Valid passport", "Officially translated academic certificates and transcripts", "Curriculum Vitae (CV)", "Statement of Purpose (SOP)", "Academic recommendation letters (especially for graduate programs)", "English language proficiency certificate", "Medical health certificate"],
+    "fa": ["فرم درخواست آنلاین تکمیل‌شده", "گذرنامه معتبر", "مدارک تحصیلی و ریزنمرات ترجمه‌شده رسمی", "رزومه (CV)", "انگیزه‌نامه (Statement of Purpose)", "توصیه‌نامه‌های علمی (به‌ویژه برای تحصیلات تکمیلی)", "مدرک زبان انگلیسی", "گواهی سلامت"]
+  },
+  "tuition": {
+    "en": "The university's international admission materials do not publish specific tuition figures. Tuition varies by school, degree level, and program; applicants are advised to confirm current rates with the International Admissions Office during the application process.",
+    "fa": "هزینه شهریه دقیق در مدارک پذیرش بین‌المللی دانشگاه اعلام نشده است. شهریه بسته به دانشکده، مقطع و رشته تحصیلی متفاوت است و به داوطلبان توصیه می‌شود نرخ به‌روز را از دفتر پذیرش دانشجویان بین‌المللی استعلام کنند."
+  },
+  "tuitionNote": {
+    "en": "Tuition varies by program and degree level and may change from year to year; confirm current rates with the university before applying.",
+    "fa": "شهریه بسته به رشته و مقطع تحصیلی متفاوت است و ممکن است هر سال تغییر کند؛ پیش از ثبت‌نام نرخ به‌روز را از دانشگاه استعلام کنید."
+  },
+  "programs": [
+    { "name": { "en": "General Medicine (MD)", "fa": "پزشکی عمومی (MD)" }, "degreeLevel": { "en": "Doctorate (Professional)", "fa": "دکترای حرفه‌ای" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Dentistry (DDS)", "fa": "دندانپزشکی (DDS)" }, "degreeLevel": { "en": "Doctorate (Professional)", "fa": "دکترای حرفه‌ای" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
+    { "name": { "en": "Pharmacy (PharmD)", "fa": "داروسازی (PharmD)" }, "degreeLevel": { "en": "Doctorate (Professional)", "fa": "دکترای حرفه‌ای" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
+    { "name": { "en": "Bachelor's Degree Programs", "fa": "دوره‌های کارشناسی" }, "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" }, "faculty": { "en": "Schools of Nursing and Midwifery, Public Health, Allied Medical Sciences, and Rehabilitation", "fa": "دانشکده‌های پرستاری و مامایی، بهداشت، علوم پیراپزشکی و توانبخشی" } },
+    { "name": { "en": "Master's Degree Programs", "fa": "دوره‌های کارشناسی ارشد" }, "degreeLevel": { "en": "Master's", "fa": "کارشناسی ارشد" }, "faculty": { "en": "Schools of Nursing and Midwifery, Public Health, Allied Medical Sciences, and Rehabilitation", "fa": "دانشکده‌های پرستاری و مامایی، بهداشت، علوم پیراپزشکی و توانبخشی" } },
+    { "name": { "en": "Doctor of Philosophy (PhD)", "fa": "دکتری تخصصی (PhD)" }, "degreeLevel": { "en": "PhD", "fa": "دکتری تخصصی" }, "faculty": { "en": "Various Schools across TUMS", "fa": "دانشکده‌های مختلف دانشگاه" } },
+    { "name": { "en": "Residency Programs", "fa": "دوره‌های تخصص (Residency)" }, "degreeLevel": { "en": "Specialty (Residency)", "fa": "دوره تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Fellowship Programs", "fa": "دوره‌های فوق تخصص (Fellowship)" }, "degreeLevel": { "en": "Subspecialty (Fellowship)", "fa": "دوره فوق تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } }
+  ],
+  "studentLife": {
+    "en": "As Iran's capital and largest metropolitan city, Tehran is the country's leading center for higher education, healthcare, and scientific research. Students have access to internationally recognized hospitals, research institutes, academic conferences, libraries, cultural attractions, and an extensive public transportation network. Studying in Tehran also provides exceptional opportunities to build professional networks, participate in international collaborations, and develop a successful career in medicine and healthcare.",
+    "fa": "تهران به‌عنوان پایتخت ایران، بزرگ‌ترین مرکز علمی، درمانی و پژوهشی کشور است. دانشجویان بین‌المللی در این شهر به بیمارستان‌های تخصصی، مراکز تحقیقاتی، کتابخانه‌های علمی، همایش‌های علمی و بین‌المللی، جاذبه‌های فرهنگی و شبکه گسترده حمل‌ونقل عمومی دسترسی دارند. زندگی در تهران همچنین امکان برقراری ارتباط با جامعه علمی و حضور در یکی از پویاترین محیط‌های دانشگاهی منطقه را فراهم می‌کند."
+  },
+  "dormitory": {
+    "en": "TUMS offers student dormitories for international students, subject to availability, alongside an International Student Support Office, specialized and digital libraries, modern laboratories and research facilities, access to affiliated teaching hospitals, and cultural, social, and student welfare programs.",
+    "fa": "دانشگاه علوم پزشکی تهران خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت ارائه می‌دهد و همچنین دارای دفتر پشتیبانی دانشجویان بین‌المللی، کتابخانه‌های تخصصی و دیجیتال، آزمایشگاه‌ها و مراکز تحقیقاتی مدرن، دسترسی به بیمارستان‌های آموزشی وابسته، و خدمات فرهنگی، رفاهی و دانشجویی است."
+  },
+  "faq": [
+    {
+      "question": { "en": "Are English-taught programs available at TUMS?", "fa": "آیا دانشگاه علوم پزشکی تهران برنامه‌های انگلیسی‌زبان ارائه می‌دهد؟" },
+      "answer": { "en": "Yes. Several international programs, particularly in Medicine (MD), are offered in English, although clinical education is primarily conducted in Persian.", "fa": "بله. برخی از برنامه‌های بین‌المللی، به‌ویژه در رشته پزشکی، به زبان انگلیسی ارائه می‌شوند، هرچند آموزش‌های بالینی عمدتاً به زبان فارسی برگزار می‌شود." }
+    },
+    {
+      "question": { "en": "Is learning Persian mandatory?", "fa": "آیا یادگیری زبان فارسی ضروری است؟" },
+      "answer": { "en": "Yes. Persian language proficiency is essential for clinical rotations and effective communication with patients during hospital training.", "fa": "بله. برای شرکت در آموزش‌های بالینی و ارتباط مؤثر با بیماران، تسلط به زبان فارسی ضروری است." }
+    },
+    {
+      "question": { "en": "How long does the admission review process take?", "fa": "بررسی پرونده پذیرش چقدر زمان می‌برد؟" },
+      "answer": { "en": "For complete applications, the evaluation process typically takes between one and three months.", "fa": "در صورت کامل بودن مدارک، معمولاً بین ۱ تا ۳ ماه زمان نیاز است." }
+    },
+    {
+      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
+      "answer": { "en": "Yes. Student dormitories are available for international students, subject to availability.", "fa": "بله. خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+    }
+  ]
+}

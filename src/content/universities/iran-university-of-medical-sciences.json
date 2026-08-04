@@ -1,0 +1,109 @@
+{
+  "slug": "iran-university-of-medical-sciences",
+  "name": { "en": "Iran University of Medical Sciences (IUMS)", "fa": "دانشگاه علوم پزشکی ایران (IUMS)" },
+  "shortName": { "en": "IUMS", "fa": "IUMS" },
+  "city": { "en": "Tehran", "fa": "تهران" },
+  "type": { "en": "Public University of Medical Sciences", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "established": "1974",
+  "ranking": {
+    "en": "One of Iran's leading public medical universities and top-ranked institutions for medical education, with extensive experience in educating international students.",
+    "fa": "یکی از معتبرترین و پیشروترین دانشگاه‌های علوم پزشکی ایران با سابقه طولانی در پذیرش دانشجویان بین‌المللی."
+  },
+  "featuredPrograms": {
+    "en": ["Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Rehabilitation Sciences", "Iranian Traditional Medicine"],
+    "fa": ["پزشکی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "علوم توانبخشی", "طب سنتی ایرانی"]
+  },
+  "summary": {
+    "en": "One of Iran's leading public medical universities in Tehran, IUMS offers academic programs in both English and Persian across medicine, dentistry, pharmacy, and allied health sciences, backed by an extensive network of teaching hospitals.",
+    "fa": "دانشگاه علوم پزشکی ایران یکی از معتبرترین دانشگاه‌های دولتی علوم پزشکی در تهران است که برنامه‌های آموزشی خود را به دو زبان فارسی و انگلیسی در رشته‌های پزشکی، دندانپزشکی، داروسازی و علوم پیراپزشکی ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "Iran University of Medical Sciences (IUMS) is one of Iran's leading public medical universities, recognized for excellence in medical education, scientific research, and healthcare services. Located in Tehran, the university operates a wide network of specialized schools, teaching hospitals, research centers, and healthcare institutions, providing students with an outstanding academic and clinical learning environment.\n\nEach year, IUMS welcomes international students from around the world and offers a broad range of academic programs across medicine, dentistry, pharmacy, nursing, allied health sciences, and other healthcare disciplines. Students benefit from a balanced education that combines classroom instruction with extensive clinical training and research opportunities.",
+    "fa": "دانشگاه علوم پزشکی ایران (IUMS) یکی از معتبرترین و پیشروترین دانشگاه‌های علوم پزشکی ایران است که در شهر تهران قرار دارد. این دانشگاه با برخورداری از دانشکده‌های تخصصی، بیمارستان‌های آموزشی، مراکز تحقیقاتی پیشرفته و شبکه گسترده‌ای از مراکز درمانی، نقش مهمی در آموزش علوم پزشکی، پژوهش و ارائه خدمات سلامت در کشور ایفا می‌کند.\n\nدانشگاه علوم پزشکی ایران هر ساله میزبان دانشجویان بین‌المللی از کشورهای مختلف است و برنامه‌های آموزشی متنوعی را در رشته‌های علوم پزشکی و سلامت ارائه می‌دهد. دانشجویان علاوه بر آموزش تئوری، از فرصت آموزش عملی و کارآموزی در بیمارستان‌های آموزشی وابسته به دانشگاه بهره‌مند می‌شوند."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold non-Iranian citizenship",
+      "Reside outside Iran",
+      "Select the intended academic program before submitting an application",
+      "Hold recognized academic qualifications appropriate for the chosen degree",
+      "Complete the online application form",
+      "Submit all required supporting documents before the application deadline"
+    ],
+    "fa": [
+      "داشتن تابعیت غیرایرانی",
+      "اقامت خارج از ایران",
+      "انتخاب رشته و مقطع تحصیلی پیش از ثبت درخواست",
+      "داشتن مدارک تحصیلی معتبر و متناسب با مقطع انتخابی",
+      "تکمیل فرم درخواست آنلاین",
+      "ارسال تمامی مدارک موردنیاز پیش از مهلت مقرر"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Academic certificates",
+      "Official academic transcripts",
+      "Official Persian translations of academic documents",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (SOP)",
+      "Language proficiency certificate (if applicable)",
+      "Medical health certificate"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "گذرنامه معتبر",
+      "مدارک تحصیلی",
+      "ریزنمرات رسمی",
+      "ترجمه رسمی فارسی مدارک",
+      "رزومه (CV)",
+      "انگیزه‌نامه (Statement of Purpose)",
+      "مدرک زبان، در صورت نیاز",
+      "گواهی سلامت"
+    ]
+  },
+  "tuition": {
+    "en": "The university's international admission materials do not publish a detailed tuition schedule. Applicants should contact the ASA Study team or the university's admission office directly for the latest tuition information for their chosen program and degree level.",
+    "fa": "در مدارک منتشرشده دانشگاه برای پذیرش بین‌المللی، جدول دقیقی از شهریه ارائه نشده است. متقاضیان باید برای دریافت اطلاعات دقیق شهریه رشته و مقطع موردنظر خود، مستقیماً با تیم آسا استادی یا دفتر پذیرش دانشگاه تماس بگیرند."
+  },
+  "programs": [
+    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "دکترای حرفه‌ای پزشکی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Dentistry", "fa": "دندانپزشکی" }, "degreeLevel": { "en": "DDS", "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
+    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "دکترای حرفه‌ای داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
+    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
+    { "name": { "en": "Public Health", "fa": "بهداشت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" } },
+    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } },
+    { "name": { "en": "Rehabilitation Sciences", "fa": "علوم توانبخشی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Rehabilitation Sciences", "fa": "دانشکده علوم توانبخشی" } },
+    { "name": { "en": "Advanced Medical Technologies", "fa": "فناوری‌های نوین پزشکی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Advanced Technologies in Medicine", "fa": "دانشکده فناوری‌های نوین پزشکی" } },
+    { "name": { "en": "Iranian Traditional Medicine", "fa": "طب سنتی ایرانی" }, "degreeLevel": { "en": "Doctorate / PhD", "fa": "دکترای حرفه‌ای / دکتری تخصصی" }, "faculty": { "en": "School of Iranian Traditional Medicine", "fa": "دانشکده طب ایرانی" } },
+    { "name": { "en": "Medical Residency Programs", "fa": "دوره‌های تخصص پزشکی" }, "degreeLevel": { "en": "Residency", "fa": "دوره تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Fellowship Programs", "fa": "دوره‌های فوق تخصصی" }, "degreeLevel": { "en": "Fellowship", "fa": "فوق تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } }
+  ],
+  "studentLife": {
+    "en": "As the capital of Iran, Tehran is the country's largest educational, medical, and research hub. International students benefit from access to world-class hospitals, specialized healthcare centers, academic conferences, research institutes, cultural attractions, and an extensive public transportation network. Studying in Tehran provides excellent opportunities for academic collaboration, professional networking, and career development in the medical and healthcare sectors.",
+    "fa": "تهران به‌عنوان پایتخت ایران، بزرگ‌ترین مرکز آموزشی، درمانی و پژوهشی کشور محسوب می‌شود. دانشجویان بین‌المللی در این شهر به دانشگاه‌های معتبر، بیمارستان‌های تخصصی، مراکز تحقیقاتی، شبکه حمل‌ونقل گسترده و امکانات فرهنگی و رفاهی متنوع دسترسی دارند. تحصیل در تهران فرصت مناسبی برای ارتباط با جامعه علمی، حضور در همایش‌ها و توسعه مسیر حرفه‌ای در حوزه علوم پزشکی فراهم می‌کند."
+  },
+  "dormitory": {
+    "en": "Iran University of Medical Sciences offers a range of services designed to support international students, including student dormitories (subject to availability), international student counseling and support services, specialized libraries, modern laboratories and research facilities, access to affiliated teaching hospitals, and student welfare, cultural, and extracurricular services.",
+    "fa": "دانشگاه علوم پزشکی ایران خدمات متنوعی برای دانشجویان بین‌المللی ارائه می‌دهد، از جمله خوابگاه دانشجویی (بر اساس ظرفیت)، خدمات مشاوره و پشتیبانی دانشجویان بین‌المللی، کتابخانه‌های تخصصی، آزمایشگاه‌ها و مراکز تحقیقاتی، دسترسی به بیمارستان‌های آموزشی و خدمات فرهنگی، رفاهی و دانشجویی."
+  },
+  "faq": [
+    {
+      "question": { "en": "Are programs available in English?", "fa": "آیا امکان تحصیل به زبان انگلیسی وجود دارد؟" },
+      "answer": { "en": "Yes. Several international programs, particularly the MD program, offer pre-clinical education in English. However, clinical training is primarily conducted in Persian.", "fa": "بله، برخی برنامه‌های بین‌المللی، به‌ویژه دوره پزشکی، به زبان انگلیسی ارائه می‌شوند، اما آموزش‌های بالینی عمدتاً به زبان فارسی انجام می‌شود." }
+    },
+    {
+      "question": { "en": "Is learning Persian mandatory?", "fa": "آیا یادگیری زبان فارسی ضروری است؟" },
+      "answer": { "en": "Yes. Persian language proficiency is essential for clinical education and effective communication with patients during hospital training.", "fa": "بله، برای شرکت در دوره‌های بالینی و برقراری ارتباط با بیماران، تسلط به زبان فارسی ضروری است." }
+    },
+    {
+      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
+      "answer": { "en": "Yes. Student dormitories are available for international students, subject to availability.", "fa": "بله، خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+    },
+    {
+      "question": { "en": "Do my academic documents need official translation?", "fa": "آیا مدارک تحصیلی باید ترجمه رسمی شوند؟" },
+      "answer": { "en": "Yes. All academic documents must be officially translated into Persian and authenticated in accordance with the university's admission regulations.", "fa": "بله، تمامی مدارک باید به زبان فارسی ترجمه رسمی شده و مطابق ضوابط دانشگاه تأیید شوند." }
+    }
+  ]
+}

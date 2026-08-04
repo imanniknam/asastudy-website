@@ -1,0 +1,112 @@
+{
+  "slug": "shiraz-university-of-medical-sciences",
+  "name": { "en": "Shiraz University of Medical Sciences (SUMS)", "fa": "دانشگاه علوم پزشکی شیراز (SUMS)" },
+  "shortName": { "en": "SUMS", "fa": "SUMS" },
+  "city": { "en": "Shiraz", "fa": "شیراز" },
+  "type": { "en": "Public University of Medical Sciences", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "established": "1946",
+  "ranking": {
+    "en": "One of the oldest and most prestigious medical universities in Iran, with decades of experience in medical education, health research, and healthcare services.",
+    "fa": "یکی از قدیمی‌ترین و معتبرترین دانشگاه‌های علوم پزشکی ایران با چندین دهه سابقه در آموزش پزشکی، پژوهش سلامت و ارائه خدمات درمانی."
+  },
+  "featuredPrograms": {
+    "en": ["Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Public Health", "Rehabilitation Sciences"],
+    "fa": ["پزشکی عمومی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "بهداشت عمومی", "توانبخشی"]
+  },
+  "summary": {
+    "en": "One of Iran's oldest and most prestigious medical universities, SUMS in Shiraz offers medicine, dentistry, pharmacy, and health science programs with extensive teaching hospitals and English-taught options for select fields.",
+    "fa": "دانشگاه علوم پزشکی شیراز یکی از قدیمی‌ترین و معتبرترین دانشگاه‌های علوم پزشکی ایران است که رشته‌های پزشکی، دندانپزشکی، داروسازی و علوم سلامت را با شبکه گسترده بیمارستان‌های آموزشی ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "Shiraz University of Medical Sciences (SUMS) is one of the oldest and most prestigious medical universities in Iran, located in the historic city of Shiraz. With decades of experience in medical education, health research, and healthcare services, SUMS is recognized as one of Iran's leading institutions in medical sciences.\n\nThe university provides a comprehensive academic environment through its specialized schools, teaching hospitals, research centers, and experienced faculty members. International students benefit from both theoretical education and practical clinical training in affiliated hospitals and healthcare centers.\n\nEvery year, SUMS welcomes international students from different countries and provides opportunities to study in a multicultural and research-oriented academic environment.",
+    "fa": "دانشگاه علوم پزشکی شیراز (SUMS) یکی از قدیمی‌ترین و معتبرترین دانشگاه‌های علوم پزشکی ایران است که در شهر تاریخی شیراز قرار دارد. این دانشگاه با بیش از چندین دهه سابقه در آموزش پزشکی، پژوهش‌های علوم سلامت و ارائه خدمات درمانی، یکی از مراکز پیشرو آموزش پزشکی در کشور محسوب می‌شود.\n\nSUMS با برخورداری از دانشکده‌های تخصصی، بیمارستان‌های آموزشی بزرگ، مراکز تحقیقاتی فعال و اعضای هیئت علمی برجسته، محیطی علمی و بین‌المللی برای دانشجویان داخلی و خارجی فراهم کرده است.\n\nاین دانشگاه هر ساله دانشجویان بین‌المللی را از کشورهای مختلف در رشته‌های پزشکی و علوم سلامت جذب می‌کند و فرصت تحصیل در محیطی چندفرهنگی و پژوهش‌محور را فراهم می‌سازد."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold a non-Iranian nationality",
+      "Provide valid academic qualifications",
+      "Meet the academic requirements of the selected program",
+      "Submit complete application documents",
+      "Have no legal restrictions for studying in Iran",
+      "Follow university academic regulations"
+    ],
+    "fa": [
+      "داشتن تابعیت غیرایرانی",
+      "ارائه مدارک تحصیلی معتبر",
+      "داشتن شرایط علمی موردنیاز رشته انتخابی",
+      "ارائه مدارک کامل در زمان درخواست",
+      "نداشتن منع قانونی برای تحصیل در ایران",
+      "رعایت قوانین آموزشی دانشگاه"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Recent passport-size photograph",
+      "Officially translated academic certificates",
+      "Officially translated academic transcripts",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (SOP)",
+      "Academic recommendation letters (for some programs)",
+      "English language certificate (if required)",
+      "Research publications or academic achievements (if available)",
+      "Medical health certificate"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "گذرنامه معتبر",
+      "عکس پرسنلی",
+      "مدارک تحصیلی ترجمه‌شده رسمی",
+      "ریزنمرات رسمی ترجمه‌شده",
+      "رزومه (CV)",
+      "انگیزه‌نامه (Statement of Purpose)",
+      "توصیه‌نامه علمی (برای برخی مقاطع)",
+      "مدرک زبان انگلیسی (در صورت نیاز)",
+      "مدارک پژوهشی و علمی (در صورت وجود)",
+      "گواهی سلامت پزشکی"
+    ]
+  },
+  "tuition": {
+    "en": "The university's international admission materials do not publish specific tuition figures. Tuition fees depend on the selected field, program, and degree level; applicants are advised to confirm current rates with the International Affairs Office during the application process.",
+    "fa": "در مدارک پذیرش بین‌المللی دانشگاه، رقم مشخصی برای شهریه اعلام نشده است. هزینه شهریه بسته به رشته، برنامه و مقطع تحصیلی متفاوت است و متقاضیان باید نرخ به‌روز را از دفتر امور بین‌الملل دانشگاه استعلام کنند."
+  },
+  "programs": [
+    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "دکترای پزشکی عمومی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Dentistry", "fa": "دندانپزشکی" }, "degreeLevel": { "en": "DDS", "fa": "دکترای دندانپزشکی (DDS)" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
+    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "دکترای داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
+    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
+    { "name": { "en": "Public Health", "fa": "بهداشت عمومی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" } },
+    { "name": { "en": "Rehabilitation Sciences", "fa": "توانبخشی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Rehabilitation Sciences", "fa": "دانشکده توانبخشی" } },
+    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } },
+    { "name": { "en": "Advanced Medical Sciences and Technologies", "fa": "علوم و فناوری‌های نوین پزشکی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Advanced Medical Sciences and Technologies", "fa": "دانشکده علوم و فناوری‌های نوین پزشکی" } },
+    { "name": { "en": "Medical Residency Programs", "fa": "دوره‌های تخصص پزشکی" }, "degreeLevel": { "en": "Residency", "fa": "دوره تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Fellowship Programs", "fa": "دوره‌های فوق تخصصی" }, "degreeLevel": { "en": "Fellowship", "fa": "فوق تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } }
+  ],
+  "studentLife": {
+    "en": "Shiraz is one of Iran's most famous cities for its historical heritage, cultural attractions, and academic environment. With its welcoming atmosphere, vibrant student community, and lower living costs compared to Tehran, Shiraz is an attractive destination for international students. The city's advanced healthcare facilities, cultural diversity, and educational opportunities provide international students with a unique academic and living experience in Iran.",
+    "fa": "شیراز یکی از شناخته‌شده‌ترین شهرهای ایران از نظر تاریخی، فرهنگی و علمی است. این شهر با داشتن جاذبه‌های تاریخی، فضای دانشجویی پویا و هزینه‌های زندگی مناسب‌تر نسبت به تهران، مقصدی جذاب برای دانشجویان بین‌المللی محسوب می‌شود. وجود مراکز درمانی پیشرفته، دانشگاه‌های معتبر و محیط فرهنگی متنوع، تجربه‌ای متفاوت از زندگی دانشجویی در ایران ایجاد می‌کند."
+  },
+  "dormitory": {
+    "en": "Shiraz University of Medical Sciences provides various services for international students, including student dormitories (subject to availability), International Affairs Office support, specialized and digital libraries, research centers and laboratories, student healthcare services, sports facilities, and cultural and student programs.",
+    "fa": "دانشگاه علوم پزشکی شیراز امکانات مختلفی برای دانشجویان بین‌المللی فراهم می‌کند، از جمله خوابگاه دانشجویی (بر اساس ظرفیت)، خدمات دفتر امور بین‌الملل، کتابخانه‌های تخصصی و دیجیتال، مراکز تحقیقاتی و آزمایشگاه‌ها، خدمات درمانی دانشجویی، امکانات ورزشی و برنامه‌های فرهنگی و دانشجویی."
+  },
+  "faq": [
+    {
+      "question": { "en": "Does Shiraz University of Medical Sciences accept international students?", "fa": "آیا دانشگاه علوم پزشکی شیراز دانشجوی بین‌المللی می‌پذیرد؟" },
+      "answer": { "en": "Yes. SUMS accepts international students in various medical and health science programs at different academic levels.", "fa": "بله، این دانشگاه هر ساله دانشجویان بین‌المللی را در رشته‌ها و مقاطع مختلف علوم پزشکی می‌پذیرد." }
+    },
+    {
+      "question": { "en": "What is the language of instruction?", "fa": "زبان تحصیل در دانشگاه چیست؟" },
+      "answer": { "en": "The language of instruction depends on the program. Some courses are offered in English, while others are taught in Persian. Persian proficiency is essential for clinical training.", "fa": "بسته به رشته و برنامه آموزشی، زبان آموزش می‌تواند فارسی یا انگلیسی باشد؛ برای آموزش بالینی، آشنایی با زبان فارسی ضروری است." }
+    },
+    {
+      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
+      "answer": { "en": "Yes. Student dormitories are available for international students based on available capacity.", "fa": "بله، خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت موجود ارائه می‌شود." }
+    },
+    {
+      "question": { "en": "Is it possible to study medicine in English?", "fa": "آیا امکان تحصیل پزشکی به زبان انگلیسی وجود دارد؟" },
+      "answer": { "en": "Yes. Selected medicine and health science programs are offered in English for international students.", "fa": "بله، برخی برنامه‌های پزشکی و علوم سلامت برای دانشجویان بین‌المللی به زبان انگلیسی ارائه می‌شوند." }
+    }
+  ]
+}

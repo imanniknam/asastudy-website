@@ -1,0 +1,99 @@
+{
+  "slug": "zanjan-university-of-medical-sciences",
+  "name": { "en": "Zanjan University of Medical Sciences (ZUMS)", "fa": "دانشگاه علوم پزشکی زنجان (ZUMS)" },
+  "shortName": { "en": "ZUMS", "fa": "ZUMS" },
+  "city": { "en": "Zanjan", "fa": "زنجان" },
+  "type": { "en": "Public University of Medical Sciences", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "established": "1987",
+  "website": "",
+  "featuredPrograms": {
+    "en": ["Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences"],
+    "fa": ["پزشکی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "بهداشت", "علوم پیراپزشکی"]
+  },
+  "summary": {
+    "en": "A public medical university in northwestern Iran, ZUMS offers a free, no-fee online application, rolling admissions, English-taught options, and affordable living costs in the student-friendly city of Zanjan.",
+    "fa": "دانشگاه علوم پزشکی زنجان یک دانشگاه دولتی علوم پزشکی در شمال‌غرب ایران است که با پذیرش آنلاین بدون هزینه، ثبت‌نام پیوسته در طول سال، امکان تحصیل به زبان انگلیسی و هزینه زندگی مناسب در شهر زنجان شناخته می‌شود."
+  },
+  "overview": {
+    "en": "Zanjan University of Medical Sciences (ZUMS) is one of Iran's public medical universities, dedicated to excellence in medical education, scientific research, and healthcare services. Equipped with specialized schools, teaching hospitals, research centers, and modern educational facilities, the university offers an outstanding academic environment for international students.\n\nZUMS welcomes international applicants across a wide range of medical and health science disciplines, from undergraduate programs to doctoral and professional degrees in Medicine, Dentistry, Pharmacy, and related fields. In addition to classroom-based learning, students gain valuable hands-on clinical experience through the university's affiliated teaching hospitals and healthcare centers.\n\nZUMS is an appealing choice for international students, especially those seeking quality education in a calmer environment with more affordable living costs.",
+    "fa": "دانشگاه علوم پزشکی زنجان (ZUMS) یکی از دانشگاه‌های دولتی علوم پزشکی ایران است که در زمینه آموزش، پژوهش و ارائه خدمات درمانی فعالیت می‌کند. این دانشگاه با بهره‌مندی از دانشکده‌های تخصصی، بیمارستان‌های آموزشی، مراکز تحقیقاتی و امکانات آموزشی، محیطی مناسب برای تحصیل دانشجویان بین‌المللی فراهم کرده است.\n\nاین دانشگاه در رشته‌های مختلف علوم پزشکی و سلامت، از مقطع کارشناسی تا دکتری تخصصی و دوره‌های حرفه‌ای پزشکی، دندانپزشکی و داروسازی، دانشجو می‌پذیرد. همچنین دانشجویان در طول تحصیل علاوه بر آموزش نظری، از آموزش‌های عملی در مراکز درمانی وابسته به دانشگاه نیز بهره‌مند می‌شوند.\n\nدانشگاه علوم پزشکی زنجان برای بسیاری از دانشجویان بین‌المللی، به‌ویژه افرادی که به دنبال کیفیت تحصیل در محیطی آرام‌تر و با هزینه‌های زندگی مناسب‌تر هستند، انتخابی ایده‌آل است."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold non-Iranian citizenship",
+      "Reside outside Iran at the time of application",
+      "Possess recognized academic qualifications",
+      "Meet the university's academic admission criteria",
+      "Submit a complete application with all required documents",
+      "Provide English proficiency proof: IELTS 5.5+, TOEFL iBT 69+, or TOEFL PBT 525+ (waived for citizens of English-speaking countries or those who completed a previous degree entirely in English)"
+    ],
+    "fa": [
+      "داشتن تابعیت غیرایرانی",
+      "اقامت خارج از ایران در زمان ثبت درخواست",
+      "ارائه مدارک تحصیلی معتبر",
+      "برخورداری از شرایط علمی موردنیاز دانشگاه",
+      "ارائه مدارک کامل در زمان ثبت درخواست",
+      "ارائه مدرک زبان انگلیسی: حداقل نمره ۵.۵ آیلتس، ۶۹ تافل اینترنتی یا ۵۲۵ تافل کاغذی (به‌جز شهروندان کشورهای انگلیسی‌زبان یا افرادی که مقطع قبلی را به زبان انگلیسی گذرانده‌اند)"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed online application form",
+      "Valid passport",
+      "Officially translated academic certificates",
+      "Official academic transcripts",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (SOP)",
+      "Proof of English language proficiency (if applicable)",
+      "Research publications, certificates, or other academic achievements (if available)"
+    ],
+    "fa": [
+      "فرم درخواست آنلاین",
+      "گذرنامه معتبر",
+      "مدارک تحصیلی ترجمه‌شده رسمی",
+      "ریزنمرات رسمی",
+      "رزومه (CV)",
+      "انگیزه‌نامه (Statement of Purpose)",
+      "مدرک زبان انگلیسی (در صورت نیاز)",
+      "مدارک پژوهشی یا سایر دستاوردهای علمی (در صورت وجود)"
+    ]
+  },
+  "tuition": {
+    "en": "There is no application fee for international applicants at ZUMS. The university's published materials do not include a detailed tuition schedule; applicants should confirm current tuition rates for their specific program with the International Affairs Office.",
+    "fa": "ثبت درخواست پذیرش در دانشگاه علوم پزشکی زنجان رایگان است و هزینه‌ای برای آن دریافت نمی‌شود. جدول دقیق شهریه در مدارک منتشرشده دانشگاه ذکر نشده و متقاضیان باید نرخ شهریه رشته موردنظر خود را از دفتر امور بین‌الملل استعلام کنند."
+  },
+  "programs": [
+    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "دکترای حرفه‌ای پزشکی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
+    { "name": { "en": "Dentistry", "fa": "دندانپزشکی" }, "degreeLevel": { "en": "DDS", "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
+    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "دکترای حرفه‌ای داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
+    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
+    { "name": { "en": "Public Health", "fa": "بهداشت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" } },
+    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } }
+  ],
+  "studentLife": {
+    "en": "Zanjan is a safe, welcoming, and student-friendly city located in northwestern Iran. Compared with larger metropolitan areas such as Tehran, Zanjan offers a significantly lower cost of living, allowing students to enjoy a more affordable lifestyle while focusing on their studies. The city's peaceful environment, combined with access to quality healthcare facilities and educational resources, makes it an attractive destination for international students pursuing medical education.",
+    "fa": "زنجان یکی از شهرهای آرام و امن ایران است و در مقایسه با کلان‌شهرهایی مانند تهران، هزینه‌های زندگی پایین‌تری دارد. این موضوع باعث می‌شود دانشجویان بین‌المللی بتوانند با هزینه‌ای مناسب‌تر، بر تحصیل و فعالیت‌های علمی خود تمرکز کنند. همچنین دسترسی به مراکز درمانی و امکانات آموزشی دانشگاه، زندگی دانشجویی را برای دانشجویان تسهیل می‌کند."
+  },
+  "dormitory": {
+    "en": "To support international students throughout their academic journey, ZUMS offers a variety of student services, including student dormitories (subject to availability), International Affairs Office support, libraries and learning resources, research laboratories and scientific facilities, access to affiliated teaching hospitals, and student welfare, cultural, and extracurricular services.",
+    "fa": "دانشگاه علوم پزشکی زنجان خدمات مختلفی برای دانشجویان بین‌المللی ارائه می‌دهد، از جمله خوابگاه دانشجویی (بر اساس ظرفیت)، خدمات دفتر امور بین‌الملل، کتابخانه و منابع آموزشی، آزمایشگاه‌ها و مراکز تحقیقاتی، دسترسی به بیمارستان‌های آموزشی و خدمات فرهنگی و رفاهی دانشجویی."
+  },
+  "faq": [
+    {
+      "question": { "en": "Is there an application fee?", "fa": "آیا برای ثبت درخواست باید هزینه‌ای پرداخت کنم؟" },
+      "answer": { "en": "No. International applicants can submit their applications free of charge.", "fa": "خیر، ثبت درخواست پذیرش در دانشگاه علوم پزشکی زنجان رایگان است." }
+    },
+    {
+      "question": { "en": "How long does the admission process take?", "fa": "چه مدت طول می‌کشد تا نتیجه پذیرش اعلام شود؟" },
+      "answer": { "en": "Complete applications are typically reviewed within approximately three months.", "fa": "در صورت کامل بودن مدارک، بررسی پرونده معمولاً حدود سه ماه زمان می‌برد." }
+    },
+    {
+      "question": { "en": "Can I update my application after submission?", "fa": "آیا می‌توانم بعد از ثبت درخواست، مدارک جدید اضافه کنم؟" },
+      "answer": { "en": "No. Once your application has been submitted, it cannot be edited or supplemented with additional documents.", "fa": "خیر، پس از ارسال نهایی فرم، امکان ویرایش یا بارگذاری مدارک جدید وجود ندارد." }
+    },
+    {
+      "question": { "en": "Is proof of English proficiency required?", "fa": "آیا مدرک زبان انگلیسی الزامی است؟" },
+      "answer": { "en": "Yes. However, applicants from English-speaking countries or those who completed their previous degree in English may be exempt from this requirement.", "fa": "بله، مگر اینکه متقاضی از کشورهای انگلیسی‌زبان باشد یا تحصیلات قبلی خود را به زبان انگلیسی گذرانده باشد." }
+    }
+  ]
+}

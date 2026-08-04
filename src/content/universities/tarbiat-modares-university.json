@@ -1,0 +1,122 @@
+{
+  "slug": "tarbiat-modares-university",
+  "name": { "en": "Tarbiat Modares University (TMU)", "fa": "دانشگاه تربیت مدرس (TMU)" },
+  "shortName": { "en": "TMU", "fa": "TMU" },
+  "city": { "en": "Tehran", "fa": "تهران" },
+  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "established": "1982",
+  "ranking": {
+    "en": "One of Iran's leading research-oriented universities, focused exclusively on Master's and PhD education and training of future university professors and researchers.",
+    "fa": "یکی از معتبرترین دانشگاه‌های پژوهش‌محور ایران که به‌طور تخصصی بر آموزش تکمیلی در مقاطع کارشناسی ارشد و دکتری و تربیت اعضای هیئت علمی متمرکز است."
+  },
+  "featuredPrograms": {
+    "en": ["Electrical and Computer Engineering", "Civil and Environmental Engineering", "Biological Sciences", "Chemistry", "Agriculture", "Law"],
+    "fa": ["مهندسی برق و کامپیوتر", "مهندسی عمران و محیط زیست", "علوم زیستی", "شیمی", "کشاورزی", "حقوق"]
+  },
+  "summary": {
+    "en": "One of Iran's leading research-oriented universities in Tehran, TMU focuses exclusively on Master's and PhD education, specializing in training university professors, researchers, and highly qualified specialists.",
+    "fa": "دانشگاه تربیت مدرس یکی از معتبرترین دانشگاه‌های پژوهش‌محور ایران در تهران است که به‌طور تخصصی بر آموزش تکمیلی در مقاطع کارشناسی ارشد و دکتری و تربیت اعضای هیئت علمی متمرکز است."
+  },
+  "overview": {
+    "en": "Tarbiat Modares University (TMU) is one of Iran's leading research-oriented universities, located in Tehran. Unlike many universities in Iran, TMU is primarily focused on graduate education and specializes in training university professors, researchers, and highly qualified specialists.\n\nEstablished with the mission of developing advanced academic and research capabilities, TMU has become one of the country's major centers for scientific research and postgraduate studies.\n\nThe university offers programs in various fields, including humanities, basic sciences, engineering, agriculture, medical sciences, arts, and interdisciplinary studies. With experienced faculty members, advanced research facilities, and extensive academic collaborations, TMU provides an attractive environment for international students seeking Master's and PhD opportunities.",
+    "fa": "دانشگاه تربیت مدرس (TMU) یکی از معتبرترین دانشگاه‌های پژوهش‌محور ایران است که در تهران قرار دارد. این دانشگاه با هدف تربیت اعضای هیئت علمی و پژوهشگران متخصص تأسیس شده و برخلاف بسیاری از دانشگاه‌های ایران، تمرکز اصلی آن بر ارائه دوره‌های تحصیلات تکمیلی در مقاطع کارشناسی ارشد و دکتری است.\n\nاین دانشگاه به‌عنوان یکی از مراکز علمی مهم کشور، در حوزه‌های علوم انسانی، علوم پایه، مهندسی، کشاورزی، علوم پزشکی، هنر و رشته‌های بین‌رشته‌ای فعالیت می‌کند و میزبان تعداد زیادی از پژوهشگران و دانشجویان بین‌المللی است.\n\nدانشگاه تربیت مدرس به دلیل تمرکز بر پژوهش، ارتباط گسترده با مراکز علمی داخلی و خارجی و حضور اعضای هیئت علمی برجسته، یکی از گزینه‌های مناسب برای دانشجویانی است که قصد ادامه تحصیل در مقاطع تحصیلات تکمیلی را دارند."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold a valid degree from a recognized university",
+      "Meet academic requirements for the selected program",
+      "Provide complete educational and research documents",
+      "Comply with Iranian educational and residency regulations",
+      "Provide required language certificates (depending on the program)",
+      "Demonstrate research background for certain fields and PhD programs"
+    ],
+    "fa": [
+      "داشتن مدرک تحصیلی معتبر از دانشگاه مورد تأیید",
+      "برخورداری از شرایط علمی متناسب با مقطع مورد درخواست",
+      "ارائه مدارک کامل تحصیلی و پژوهشی",
+      "رعایت قوانین آموزشی و اقامتی ایران",
+      "ارائه مدرک زبان موردنیاز رشته",
+      "داشتن سابقه پژوهشی برای برخی رشته‌ها و مقاطع دکتری"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Previous academic degree certificates",
+      "Official academic transcripts",
+      "Officially translated educational documents",
+      "Academic CV (Resume)",
+      "Statement of Purpose (SOP)",
+      "Academic recommendation letters (for some programs)",
+      "Research records, publications, or academic achievements (if available)",
+      "Personal photo",
+      "Language proficiency certificate (if required)"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "گذرنامه معتبر",
+      "آخرین مدرک تحصیلی",
+      "ریزنمرات رسمی",
+      "ترجمه رسمی مدارک تحصیلی",
+      "رزومه علمی (CV)",
+      "انگیزه‌نامه (Statement of Purpose)",
+      "توصیه‌نامه علمی (برای برخی رشته‌ها)",
+      "مقالات و سوابق پژوهشی، در صورت وجود",
+      "عکس پرسنلی",
+      "مدرک زبان، در صورت نیاز"
+    ]
+  },
+  "tuition": {
+    "en": "Tuition fees for international students at Tarbiat Modares University vary depending on the faculty and academic field. Based on published information, approximate tuition per semester is around €750–€1,167 for Humanities, around €1,219–€2,084 for Medical Sciences, and around €1,000–€1,500 for other fields. A tuition deposit may be required after receiving admission confirmation, and fees may change annually.",
+    "fa": "شهریه دانشجویان بین‌المللی در دانشگاه تربیت مدرس بر اساس دانشکده و حوزه تحصیلی متفاوت است. بر اساس اطلاعات منتشرشده، شهریه تقریبی هر ترم حدود ۷۵۰ تا ۱۱۶۷ یورو برای علوم انسانی، حدود ۱۲۱۹ تا ۲۰۸۴ یورو برای علوم پزشکی و حدود ۱۰۰۰ تا ۱۵۰۰ یورو برای سایر رشته‌ها است. پرداخت پیش‌پرداخت شهریه پس از دریافت پذیرش الزامی است و مبلغ دقیق ممکن است هر سال تغییر کند."
+  },
+  "tuitionNote": {
+    "en": "TMU provides several tuition discount opportunities for eligible international students: 20% for the first-ranked student in each program per semester, 10% for the second-ranked student in classes with more than 10 students, 10% for family members studying simultaneously at TMU, 10% for programs related to Iranian language and culture, 20% for TMU graduates, and 10% for graduates of other Iranian universities.",
+    "fa": "دانشگاه تربیت مدرس تخفیف‌های شهریه متعددی برای دانشجویان بین‌المللی واجد شرایط در نظر می‌گیرد: ۲۰٪ برای رتبه اول هر رشته در هر ترم، ۱۰٪ برای رتبه دوم در کلاس‌های با بیش از ۱۰ نفر، ۱۰٪ برای تحصیل همزمان اعضای خانواده، ۱۰٪ برای رشته‌های مرتبط با زبان و فرهنگ ایران، ۲۰٪ برای فارغ‌التحصیلان دانشگاه تربیت مدرس و ۱۰٪ برای فارغ‌التحصیلان سایر دانشگاه‌های ایران."
+  },
+  "programs": [
+    { "name": { "en": "Humanities", "fa": "علوم انسانی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Law", "fa": "حقوق" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Law", "fa": "دانشکده حقوق" } },
+    { "name": { "en": "Management and Economics", "fa": "مدیریت و اقتصاد" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Management and Economics", "fa": "دانشکده مدیریت و اقتصاد" } },
+    { "name": { "en": "Biological Sciences", "fa": "علوم زیستی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Chemistry", "fa": "شیمی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Mathematics", "fa": "ریاضی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Physics", "fa": "فیزیک" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Electrical and Computer Engineering", "fa": "مهندسی برق و کامپیوتر" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
+    { "name": { "en": "Civil and Environmental Engineering", "fa": "مهندسی عمران و محیط زیست" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
+    { "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
+    { "name": { "en": "Materials Engineering", "fa": "مهندسی مواد" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
+    { "name": { "en": "Agriculture", "fa": "کشاورزی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture", "fa": "دانشکده کشاورزی" } },
+    { "name": { "en": "Natural Resources", "fa": "منابع طبیعی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Natural Resources", "fa": "دانشکده منابع طبیعی" } },
+    { "name": { "en": "Arts and Architecture", "fa": "هنر و معماری" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Art and Architecture", "fa": "دانشکده هنر و معماری" } },
+    { "name": { "en": "Medical Sciences", "fa": "علوم پزشکی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Medical Sciences", "fa": "دانشکده علوم پزشکی" } },
+    { "name": { "en": "Interdisciplinary Sciences", "fa": "علوم بین‌رشته‌ای" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Interdisciplinary Sciences", "fa": "علوم بین‌رشته‌ای" } }
+  ],
+  "studentLife": {
+    "en": "As the capital city of Iran, Tehran provides international students at TMU with extensive educational, cultural, and professional opportunities, along with access to major scientific, cultural, and economic facilities of the capital. Estimated monthly student expenses include approximately $25-100 for dormitory, $10-60 for transportation, $25-100 for food, and $8-10 for insurance, with a total estimated monthly living cost of approximately $128-280 depending on lifestyle and accommodation choices.",
+    "fa": "دانشگاه تربیت مدرس در تهران قرار دارد و دسترسی گسترده‌ای به امکانات علمی، فرهنگی و اقتصادی پایتخت را برای دانشجویان بین‌المللی فراهم می‌کند. هزینه‌های تقریبی ماهانه دانشجویی شامل حدود ۲۵ تا ۱۰۰ دلار خوابگاه، ۱۰ تا ۶۰ دلار حمل‌ونقل، ۲۵ تا ۱۰۰ دلار غذا و ۸ تا ۱۰ دلار بیمه است که مجموع هزینه زندگی معمولاً حدود ۱۲۸ تا ۲۸۰ دلار در ماه برآورد می‌شود."
+  },
+  "dormitory": {
+    "en": "TMU provides various services for international students, including student dormitories (based on availability), specialized libraries and academic resources, online learning platforms, research laboratories and academic centers, counseling and student support services, and cultural and sports facilities.",
+    "fa": "دانشگاه تربیت مدرس خدمات مختلفی برای دانشجویان بین‌المللی ارائه می‌دهد، از جمله خوابگاه دانشجویی (بر اساس ظرفیت)، کتابخانه‌های تخصصی، سامانه‌های آموزش الکترونیکی، آزمایشگاه‌ها و مراکز تحقیقاتی، خدمات مشاوره‌ای و رفاهی، و امکانات فرهنگی و ورزشی."
+  },
+  "faq": [
+    {
+      "question": { "en": "Does Tarbiat Modares University offer undergraduate programs?", "fa": "آیا دانشگاه تربیت مدرس دوره کارشناسی ارائه می‌دهد؟" },
+      "answer": { "en": "No. TMU mainly focuses on Master's and PhD programs.", "fa": "خیر. تمرکز اصلی دانشگاه تربیت مدرس بر دوره‌های کارشناسی ارشد و دکتری است." }
+    },
+    {
+      "question": { "en": "Can international students apply for PhD programs?", "fa": "آیا دانشجویان بین‌المللی می‌توانند برای دکتری اقدام کنند؟" },
+      "answer": { "en": "Yes. TMU is one of Iran's leading universities for doctoral studies and research-based programs.", "fa": "بله، این دانشگاه یکی از گزینه‌های اصلی ایران برای تحصیلات تکمیلی و پژوهش‌های دکتری است." }
+    },
+    {
+      "question": { "en": "Is a language certificate required?", "fa": "آیا ارائه مدرک زبان الزامی است؟" },
+      "answer": { "en": "Language requirements depend on the selected program and faculty. Many programs require proof of language proficiency.", "fa": "بسته به رشته و دانشکده متفاوت است، اما بسیاری از برنامه‌ها به اثبات مهارت زبان نیاز دارند." }
+    },
+    {
+      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه دارد؟" },
+      "answer": { "en": "Yes. Student housing is available for international students based on capacity.", "fa": "بله، خوابگاه برای دانشجویان بین‌المللی در صورت وجود ظرفیت ارائه می‌شود." }
+    }
+  ]
+}

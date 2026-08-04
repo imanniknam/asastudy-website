@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "siteName": "ASA-Study",
+    "defaultTitle": "ASA-Study — Your Gateway to Higher Education in Iran",
+    "defaultDescription": "ASA-Study guides international students through every step of studying in Iran: choosing a university, securing admission, obtaining a student visa, and settling in."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "universities": "Universities",
+    "programs": "Programs",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "applyNow": "Apply Now",
+    "toggleMenu": "Toggle menu",
+    "language": "Language"
+  },
+  "common": {
+    "primaryCta": "Apply Now",
+    "secondaryCta": "Get a Free Consultation",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "readMore": "Read More",
+    "backToUniversities": "Back to Universities",
+    "established": "Established",
+    "ranking": "Standing",
+    "city": "City",
+    "type": "Type",
+    "tuition": "Tuition",
+    "admissionRequirements": "Admission Requirements",
+    "requiredDocuments": "Required Documents",
+    "programsOffered": "Available Programs",
+    "studentLife": "Student Life",
+    "dormitory": "Dormitory & Housing",
+    "overview": "Overview",
+    "faq": "Frequently Asked Questions",
+    "gallery": "Gallery",
+    "degreeLevel": "Degree",
+    "faculty": "Faculty",
+    "searchUniversities": "Search universities...",
+    "noResults": "No universities match your search.",
+    "allCities": "All Cities",
+    "allTypes": "All Types"
+  },
+  "home": {
+    "hero": {
+      "h1": "Your Gateway to Higher Education in Iran",
+      "body": "Start your academic journey in Iran with confidence. ASA-Study supports international students at every stage — from choosing the right university and program to securing admission, obtaining a student visa, and completing enrollment. We're here to make your path to studying in Iran simple, smooth, and stress-free.",
+      "primaryCta": "Apply Now",
+      "secondaryCta": "Get a Free Consultation"
+    },
+    "trust": {
+      "items": [
+        "End-to-End Admission Support",
+        "Partnerships with Leading Iranian Universities",
+        "Expert Guidance for International Students",
+        "Assistance Before and After Your Arrival"
+      ]
+    },
+    "about": {
+      "eyebrow": "About ASA-Study",
+      "title": "Your Trusted Partner for Studying in Iran",
+      "body": "Studying abroad is a life-changing decision, and having the right guidance makes all the difference. At ASA-Study, we simplify the admission process for international students by providing personalized support every step of the way. From your first consultation to your first day on campus, we're committed to helping you achieve your academic goals in Iran.",
+      "highlightUniversities": "A Network of Leading Iranian Universities",
+      "highlightSupport": "Support From First Consultation to Enrollment",
+      "highlightTransparency": "Clear Guidance on Requirements and Costs"
+    },
+    "services": {
+      "eyebrow": "Our Services",
+      "title": "Everything You Need to Start Your Academic Journey",
+      "items": [
+        {
+          "title": "University Selection",
+          "description": "We help you choose the university and academic program that best match your qualifications, interests, and future goals."
+        },
+        {
+          "title": "Admission Assistance",
+          "description": "Our team carefully reviews your documents and manages the entire application process on your behalf."
+        },
+        {
+          "title": "Student Visa Support",
+          "description": "We guide you through every stage of the student visa process, ensuring all required documents and procedures are completed correctly."
+        },
+        {
+          "title": "Arrival & Settlement",
+          "description": "From enrollment to accommodation and settling into student life, we're here to support you even after you arrive in Iran."
+        }
+      ]
+    },
+    "journey": {
+      "eyebrow": "Admission Journey",
+      "title": "Your Journey to Studying in Iran",
+      "steps": [
+        {
+          "title": "Submit Your Application",
+          "description": "Complete the online application form and share your academic information with us."
+        },
+        {
+          "title": "Profile Evaluation",
+          "description": "Our advisors review your qualifications and identify the best options based on your background."
+        },
+        {
+          "title": "University Selection",
+          "description": "We recommend the most suitable universities and programs for your academic goals."
+        },
+        {
+          "title": "Document Preparation & Submission",
+          "description": "We help prepare and submit all required documents to your chosen university."
+        },
+        {
+          "title": "Receive Your Admission",
+          "description": "Once your application is approved, you'll receive your official admission letter."
+        },
+        {
+          "title": "Obtain Your Visa & Start Your Studies",
+          "description": "After securing your student visa, you'll be ready to begin your academic journey in Iran."
+        }
+      ]
+    },
+    "universities": {
+      "eyebrow": "Universities",
+      "title": "Study at Iran's Leading Universities",
+      "body": "ASA-Study collaborates with a network of recognized Iranian universities, giving you access to quality education across a wide range of academic disciplines.",
+      "cta": "Explore Universities"
+    },
+    "programs": {
+      "eyebrow": "Study Programs",
+      "title": "Find the Right Program for Your Future",
+      "items": ["Medicine", "Dentistry", "Pharmacy", "Engineering", "Business & Management", "Arts", "Humanities", "Basic Sciences"],
+      "cta": "Explore All Programs"
+    },
+    "whyIran": {
+      "eyebrow": "Why Study in Iran?",
+      "title": "Discover the Advantages of Studying in Iran",
+      "items": [
+        {
+          "title": "Affordable Tuition",
+          "description": "Receive a high-quality education at a fraction of the cost compared to many other countries."
+        },
+        {
+          "title": "Academic Excellence",
+          "description": "Iranian universities offer strong academic programs and internationally recognized degrees across various fields."
+        },
+        {
+          "title": "Affordable Living Costs",
+          "description": "Enjoy a comfortable student lifestyle with reasonable living expenses."
+        },
+        {
+          "title": "Rich Culture & Hospitality",
+          "description": "Experience a country known for its history, cultural heritage, and warm hospitality while building lifelong memories."
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "Frequently Asked Questions",
+      "title": "We're Here to Answer Your Questions",
+      "items": [
+        {
+          "question": "Do I need an English language certificate?",
+          "answer": "Admission requirements vary by university and program. Our advisors will help you understand the specific requirements that apply to your application."
+        },
+        {
+          "question": "How long does the admission process take?",
+          "answer": "Processing times depend on the university, but we'll keep you informed at every stage of your application."
+        },
+        {
+          "question": "Are scholarships available?",
+          "answer": "Some universities offer scholarships or tuition discounts for eligible international students. We'll help you explore the available opportunities."
+        },
+        {
+          "question": "Can you help with accommodation?",
+          "answer": "Yes. We provide guidance on student housing and accommodation options to help you settle comfortably in Iran."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Ready to Begin Your Academic Journey?",
+      "body": "Whether you're just starting your search or already know where you want to study, ASA-Study is here to guide you every step of the way.",
+      "primaryCta": "Apply Now",
+      "secondaryCta": "Get a Free Consultation"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About Us",
+      "title": "Helping International Students Build Their Future in Iran",
+      "body": "ASA-Study was founded to make studying in Iran accessible, transparent, and stress-free for students from around the world. We combine local expertise with genuine care for every student's journey."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "body": "To be the most trusted bridge between international students and Iran's leading universities — guiding every applicant from their first question to their first day of class."
+    },
+    "values": {
+      "title": "What Guides Us",
+      "items": [
+        { "title": "Transparency", "description": "Clear guidance on requirements, timelines, and costs — no surprises." },
+        { "title": "Personal Attention", "description": "Every student receives a dedicated advisor who knows their file inside and out." },
+        { "title": "Local Expertise", "description": "Deep, first-hand knowledge of Iranian universities and admission procedures." },
+        { "title": "Long-Term Support", "description": "We stay by your side well beyond admission — through visa, arrival, and settlement." }
+      ]
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Our Services",
+      "title": "Complete Support, From First Consultation to Graduation Day",
+      "body": "ASA-Study offers end-to-end services designed to remove the guesswork from studying in Iran."
+    },
+    "list": [
+      {
+        "title": "University & Program Selection",
+        "description": "Personalized recommendations based on your academic background, budget, and career goals."
+      },
+      {
+        "title": "Admission Assistance",
+        "description": "Document review, application submission, and direct follow-up with university admissions offices."
+      },
+      {
+        "title": "Student Visa Support",
+        "description": "Step-by-step guidance through visa paperwork, appointments, and requirements."
+      },
+      {
+        "title": "Arrival & Settlement",
+        "description": "Airport pickup coordination, enrollment support, and orientation to student life in Iran."
+      },
+      {
+        "title": "Dormitory & Housing Guidance",
+        "description": "Help finding on-campus dormitories or suitable off-campus housing."
+      },
+      {
+        "title": "Ongoing Academic Support",
+        "description": "Continued assistance throughout your studies, including registration and administrative matters."
+      }
+    ]
+  },
+  "universitiesPage": {
+    "hero": {
+      "eyebrow": "Universities",
+      "title": "Explore Iran's Leading Universities",
+      "body": "Browse recognized public universities and universities of medical sciences across Iran, and find the right academic home for your goals."
+    }
+  },
+  "universityDetail": {
+    "cta": {
+      "title": "Ready to Apply to {name}?",
+      "body": "Our advisors will guide you through every step of the admission process — from documents to enrollment.",
+      "primaryCta": "Apply Now",
+      "secondaryCta": "Get a Free Consultation"
+    }
+  },
+  "faqPage": {
+    "hero": {
+      "eyebrow": "FAQ",
+      "title": "Frequently Asked Questions",
+      "body": "Answers to the questions we hear most from international students."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact Us",
+      "title": "Let's Start Your Application Together",
+      "body": "Reach out to our advisors and take the first step toward studying in Iran."
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone / WhatsApp",
+      "message": "How can we help?",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": "Address",
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "social": "Social Media"
+    }
+  },
+  "footer": {
+    "tagline": "Your gateway to higher education in Iran.",
+    "contactTitle": "Contact Information",
+    "address": "Address",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "social": "Social Media",
+    "linksTitle": "Quick Links",
+    "links": {
+      "universities": "Universities",
+      "programs": "Study Programs",
+      "guide": "Admission Guide",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "rights": "All rights reserved."
+  }
+}

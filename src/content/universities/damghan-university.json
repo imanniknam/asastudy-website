@@ -1,0 +1,164 @@
+{
+  "slug": "damghan-university",
+  "name": {
+    "en": "Damghan University (DU)",
+    "fa": "دانشگاه دامغان (DU)"
+  },
+  "shortName": {
+    "en": "DU",
+    "fa": "دامغان"
+  },
+  "city": {
+    "en": "Damghan",
+    "fa": "دامغان"
+  },
+  "province": {
+    "en": "Semnan Province",
+    "fa": "استان سمنان"
+  },
+  "type": {
+    "en": "Public University",
+    "fa": "دانشگاه دولتی"
+  },
+  "established": "1988",
+  "featuredPrograms": {
+    "en": ["Physics", "Chemistry", "Mathematics", "Electrical Engineering", "Computer Engineering", "Mechanical Engineering"],
+    "fa": ["فیزیک", "شیمی", "ریاضی", "مهندسی برق", "مهندسی کامپیوتر", "مهندسی مکانیک"]
+  },
+  "summary": {
+    "en": "A public university in Damghan, Semnan Province, known for its strong focus on basic sciences, affordable living costs, and a calm academic environment for international students.",
+    "fa": "دانشگاهی دولتی در شهر دامغان، استان سمنان، که با تمرکز قوی بر علوم پایه، هزینه زندگی مناسب و محیطی آرام برای دانشجویان بین‌المللی شناخته می‌شود."
+  },
+  "overview": {
+    "en": "Damghan University (DU) is a public university located in Damghan, Semnan Province, Iran. The university was initially established in 1988 as Damghan University of Basic Sciences and later expanded into a comprehensive university offering a wide range of programs in natural sciences, engineering, humanities, and arts.\n\nAs one of the important academic institutions in eastern Semnan Province, Damghan University has a strong focus on scientific research and education, particularly in the fields of basic sciences. With experienced faculty members, specialized laboratories, research centers, and academic facilities, the university provides a suitable environment for both domestic and international students.\n\nDamghan University offers undergraduate, graduate, and doctoral programs and welcomes qualified international applicants interested in continuing their studies in Iran.",
+    "fa": "دانشگاه دامغان (Damghan University - DU) یکی از دانشگاه‌های دولتی ایران است که در شهر تاریخی دامغان، استان سمنان قرار دارد. این دانشگاه فعالیت خود را در سال ۱۳۶۷ (۱۹۸۸) با عنوان «دانشگاه علوم پایه دامغان» آغاز کرد و در ادامه با توسعه رشته‌ها و دانشکده‌های مختلف، به یک دانشگاه جامع در حوزه‌های علوم پایه، مهندسی، علوم انسانی و هنر تبدیل شد.\n\nدانشگاه دامغان به‌عنوان یکی از مراکز علمی مهم شرق استان سمنان، تمرکز ویژه‌ای بر آموزش و پژوهش در حوزه علوم پایه دارد و با برخورداری از اعضای هیئت علمی متخصص، آزمایشگاه‌های تحقیقاتی و مراکز علمی مختلف، محیط مناسبی برای ادامه تحصیل دانشجویان داخلی و بین‌المللی فراهم کرده است.\n\nاین دانشگاه در مقاطع کارشناسی، کارشناسی ارشد و دکتری رشته‌های متنوعی ارائه می‌دهد و از دانشجویان خارجی واجد شرایط نیز برای ادامه تحصیل در برنامه‌های آموزشی خود استقبال می‌کند."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold a valid academic qualification related to the selected program",
+      "Have an appropriate academic record",
+      "Submit complete application documents",
+      "Meet legal requirements for studying and residing in Iran",
+      "Follow Iranian educational and residence regulations",
+      "Have sufficient language skills according to the chosen program"
+    ],
+    "fa": [
+      "داشتن مدرک تحصیلی معتبر متناسب با رشته انتخابی",
+      "داشتن سوابق تحصیلی مناسب",
+      "ارائه کامل مدارک مورد نیاز",
+      "توانایی قانونی برای اقامت و تحصیل در ایران",
+      "رعایت قوانین آموزشی و اقامتی ایران",
+      "داشتن مهارت زبانی متناسب با برنامه تحصیلی"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Previous academic certificates with official translation",
+      "Academic transcripts with official translation",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (if required by the program)",
+      "Personal photo",
+      "Language certificate (if required)",
+      "Additional academic or research documents (if applicable)"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "گذرنامه معتبر",
+      "آخرین مدرک تحصیلی به همراه ترجمه رسمی",
+      "ریزنمرات ترجمه‌شده",
+      "رزومه علمی (CV)",
+      "انگیزه‌نامه (Statement of Purpose) در صورت نیاز رشته",
+      "عکس پرسنلی",
+      "مدرک زبان (در صورت درخواست برنامه)",
+      "سایر مدارک علمی یا پژوهشی (در صورت وجود)"
+    ]
+  },
+  "tuition": {
+    "en": "Tuition fees for international students vary depending on academic level and field of study. Estimated annual fees are: Bachelor's Degree around $1,000-$2,500; Master's Degree around $2,500-$5,000; PhD Programs around $2,500-$5,000.",
+    "fa": "شهریه دانشجویان بین‌المللی در دانشگاه دامغان بسته به رشته و مقطع تحصیلی متفاوت است. برآورد تقریبی شهریه سالانه: کارشناسی حدود 1000 تا 2500 دلار؛ کارشناسی ارشد حدود 2500 تا 5000 دلار؛ دکتری حدود 2500 تا 5000 دلار."
+  },
+  "tuitionNote": {
+    "en": "The exact tuition fees are determined annually by the university and may vary depending on the chosen program.",
+    "fa": "میزان دقیق شهریه هر سال توسط دانشگاه اعلام می‌شود و ممکن است بر اساس رشته تحصیلی تغییر کند."
+  },
+  "programs": [
+    {
+      "name": { "en": "Physics", "fa": "فیزیک" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+    },
+    {
+      "name": { "en": "Chemistry", "fa": "شیمی" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+    },
+    {
+      "name": { "en": "Mathematics", "fa": "ریاضی" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+    },
+    {
+      "name": { "en": "Biology", "fa": "زیست‌شناسی" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+    },
+    {
+      "name": { "en": "Earth Sciences", "fa": "علوم زمین" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+    },
+    {
+      "name": { "en": "Electrical Engineering", "fa": "مهندسی برق" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+    },
+    {
+      "name": { "en": "Computer Engineering", "fa": "مهندسی کامپیوتر" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+    },
+    {
+      "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+    },
+    {
+      "name": { "en": "Humanities and Social Sciences", "fa": "علوم انسانی و اجتماعی" },
+      "degreeLevel": { "en": "Bachelor's, Master's, PhD", "fa": "کارشناسی، کارشناسی ارشد، دکتری" },
+      "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" }
+    },
+    {
+      "name": { "en": "Art and Design", "fa": "هنر و طراحی" },
+      "degreeLevel": { "en": "Bachelor's, Master's", "fa": "کارشناسی، کارشناسی ارشد" },
+      "faculty": { "en": "Faculty of Art", "fa": "دانشکده هنر" }
+    }
+  ],
+  "studentLife": {
+    "en": "Damghan is a historic city in Iran known for its affordable living costs and peaceful environment. Compared with larger cities such as Tehran, accommodation, transportation, and daily expenses are generally more affordable. The city's calm atmosphere makes it a suitable choice for students who prefer an environment focused on education and research. Damghan's location also provides convenient access to nearby cities such as Semnan and Tehran.",
+    "fa": "دامغان یکی از شهرهای تاریخی ایران با هزینه‌های زندگی مناسب و محیطی آرام است. در مقایسه با شهرهای بزرگ مانند تهران، هزینه‌های مسکن، حمل‌ونقل و زندگی روزمره در این شهر پایین‌تر است و محیط آرام آن گزینه مناسبی برای دانشجویانی است که به دنبال تمرکز بر تحصیل و پژوهش هستند. موقعیت جغرافیایی دامغان نیز امکان دسترسی مناسب به شهرهای بزرگ مانند سمنان و تهران را فراهم می‌کند."
+  },
+  "dormitory": {
+    "en": "Damghan University provides student dormitories along with a central library, specialized laboratories and research facilities, research centers, an innovation and entrepreneurship center, sports facilities, and cultural and recreational services. The university has several dormitory complexes, and accommodation is offered to international students based on available capacity.",
+    "fa": "دانشگاه دامغان امکانات رفاهی و آموزشی متعددی از جمله خوابگاه‌های دانشجویی، کتابخانه مرکزی و منابع دیجیتال، آزمایشگاه‌های تخصصی و تحقیقاتی، مراکز پژوهشی، مرکز رشد و نوآوری، امکانات ورزشی و خدمات فرهنگی و رفاهی برای دانشجویان فراهم کرده است. دانشگاه دارای چندین مجموعه خوابگاهی است و اسکان دانشجویان بین‌المللی بر اساس ظرفیت موجود ارائه می‌شود."
+  },
+  "faq": [
+    {
+      "question": { "en": "Does Damghan University accept international students?", "fa": "آیا دانشگاه دامغان دانشجوی بین‌المللی می‌پذیرد؟" },
+      "answer": { "en": "Yes. Damghan University accepts qualified international students in various academic programs and degree levels.", "fa": "بله. دانشگاه دامغان امکان پذیرش دانشجویان خارجی واجد شرایط را در رشته‌ها و مقاطع مختلف دارد." }
+    },
+    {
+      "question": { "en": "What is the language of instruction?", "fa": "زبان تدریس در دانشگاه چیست؟" },
+      "answer": { "en": "The main language of instruction is Persian, although some academic resources and research activities may be available in English.", "fa": "زبان اصلی آموزش فارسی است، اما برخی منابع و فعالیت‌های پژوهشی ممکن است به زبان انگلیسی باشند." }
+    },
+    {
+      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه دارد؟" },
+      "answer": { "en": "Yes. Student dormitories are available for international students based on capacity.", "fa": "بله. خوابگاه دانشجویی در صورت وجود ظرفیت برای دانشجویان ارائه می‌شود." }
+    },
+    {
+      "question": { "en": "How much does studying at Damghan University cost?", "fa": "هزینه تحصیل در دانشگاه دامغان چقدر است؟" },
+      "answer": { "en": "Tuition fees vary depending on the program and degree level and are approximately between $1,000 and $5,000 per year.", "fa": "شهریه بسته به رشته و مقطع متفاوت است و معمولاً بین 1000 تا 5000 دلار در سال متغیر است." }
+    }
+  ]
+}

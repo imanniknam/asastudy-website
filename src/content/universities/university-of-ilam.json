@@ -1,0 +1,111 @@
+{
+  "slug": "university-of-ilam",
+  "name": { "en": "University of Ilam (UI)", "fa": "دانشگاه ایلام (UI)" },
+  "shortName": { "en": "UI", "fa": "UI" },
+  "city": { "en": "Ilam", "fa": "ایلام" },
+  "province": { "en": "Ilam Province", "fa": "استان ایلام" },
+  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "established": "1976",
+  "featuredPrograms": {
+    "en": ["Mathematics", "Civil Engineering", "Electrical Engineering", "Agriculture", "Natural Resources", "Literature and Languages"],
+    "fa": ["ریاضی", "مهندسی عمران", "مهندسی برق", "کشاورزی", "منابع طبیعی", "زبان و ادبیات"]
+  },
+  "summary": {
+    "en": "A public comprehensive university in western Iran, the University of Ilam offers a calm, affordable academic environment with programs across basic sciences, engineering, humanities, agriculture, and natural resources.",
+    "fa": "دانشگاه ایلام یک دانشگاه جامع دولتی در غرب ایران است که محیطی آرام و مقرون‌به‌صرفه را همراه با رشته‌های علوم پایه، مهندسی، علوم انسانی، کشاورزی و منابع طبیعی ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "University of Ilam (UI) is a public comprehensive university located in Ilam, the capital city of Ilam Province in western Iran. The university operates under the supervision of the Ministry of Science, Research and Technology of Iran and is considered one of the important higher education institutions in western Iran.\n\nThe university was established with the aim of expanding higher education and promoting academic and research activities in various fields. Today, University of Ilam includes several faculties, academic departments, research centers, and educational facilities.\n\nThe university offers programs in diverse fields, including basic sciences, engineering, agriculture, natural resources, humanities, social sciences, and arts. It provides undergraduate, graduate, and doctoral programs and welcomes qualified international students who wish to continue their studies in Iran.\n\nDue to its academic activities and regional importance, University of Ilam plays an important role in scientific, cultural, and educational development in western Iran.",
+    "fa": "دانشگاه ایلام (UI) یکی از دانشگاه‌های دولتی جامع ایران است که در شهر ایلام، مرکز استان ایلام در غرب کشور قرار دارد. این دانشگاه تحت نظارت وزارت علوم، تحقیقات و فناوری فعالیت می‌کند و یکی از مراکز مهم آموزش عالی در منطقه غرب ایران محسوب می‌شود.\n\nدانشگاه ایلام با هدف توسعه آموزش عالی و انجام فعالیت‌های علمی و پژوهشی در رشته‌های مختلف تأسیس شده و امروزه دارای دانشکده‌های متعدد، گروه‌های آموزشی متنوع، مراکز تحقیقاتی و امکانات آموزشی گسترده است.\n\nاین دانشگاه در حوزه‌های مختلف علمی از جمله علوم پایه، مهندسی، کشاورزی، علوم انسانی، علوم اجتماعی، منابع طبیعی و هنر فعالیت دارد و در مقاطع کارشناسی، کارشناسی ارشد و دکتری دانشجو می‌پذیرد.\n\nدانشگاه ایلام با توجه به موقعیت جغرافیایی خود، نقش مهمی در توسعه علمی، فرهنگی و پژوهشی غرب ایران ایفا می‌کند و از دانشجویان بین‌المللی واجد شرایط نیز برای ادامه تحصیل استقبال می‌کند."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold a valid academic qualification related to the chosen program",
+      "Have an appropriate academic record",
+      "Submit complete and valid documents",
+      "Meet Iranian educational and residence regulations",
+      "Have sufficient language skills according to the program requirements",
+      "Meet the academic requirements of the relevant department"
+    ],
+    "fa": [
+      "داشتن مدرک تحصیلی معتبر مرتبط با رشته انتخابی",
+      "داشتن سوابق تحصیلی مناسب",
+      "ارائه مدارک کامل و معتبر",
+      "رعایت قوانین آموزشی و اقامتی ایران",
+      "داشتن توانایی زبانی متناسب با برنامه تحصیلی",
+      "برخورداری از شرایط علمی موردنیاز گروه آموزشی"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Previous academic certificates with official translation",
+      "Academic transcripts with official translation",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (SOP), if required",
+      "Personal photo",
+      "Language certificate (if required by the program)",
+      "Additional academic or research documents (if applicable)"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "گذرنامه معتبر",
+      "آخرین مدرک تحصیلی به همراه ترجمه رسمی",
+      "ریزنمرات ترجمه‌شده",
+      "رزومه علمی (CV)",
+      "انگیزه‌نامه (Statement of Purpose)، در صورت نیاز",
+      "عکس پرسنلی",
+      "مدرک زبان (در صورت درخواست رشته)",
+      "مدارک علمی و پژوهشی تکمیلی (در صورت وجود)"
+    ]
+  },
+  "tuition": {
+    "en": "Tuition fees for international students at University of Ilam vary depending on academic program, degree level, and year of admission. Exact tuition fees are officially determined by the university and may include tuition per semester, student service fees, and student insurance costs. Applicants should contact the International Office of the university for updated tuition information.",
+    "fa": "شهریه دانشجویان بین‌المللی دانشگاه ایلام بسته به رشته، مقطع تحصیلی و سال پذیرش متفاوت است. میزان دقیق شهریه توسط دانشگاه اعلام می‌شود و ممکن است شامل شهریه آموزشی هر ترم، هزینه خدمات دانشجویی و بیمه دانشجویی باشد. متقاضیان باید برای دریافت اطلاعات دقیق شهریه با دفتر امور بین‌الملل دانشگاه تماس بگیرند."
+  },
+  "programs": [
+    { "name": { "en": "Mathematics", "fa": "ریاضی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Physics", "fa": "فیزیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Chemistry", "fa": "شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Biology", "fa": "زیست‌شناسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Civil Engineering", "fa": "مهندسی عمران" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Electrical Engineering", "fa": "مهندسی برق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Computer Engineering", "fa": "مهندسی کامپیوتر" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Literature and Languages", "fa": "زبان و ادبیات" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Educational Sciences", "fa": "علوم تربیتی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Social Sciences", "fa": "علوم اجتماعی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Economics", "fa": "اقتصاد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Management", "fa": "مدیریت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Agriculture", "fa": "کشاورزی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture and Natural Resources", "fa": "دانشکده کشاورزی و منابع طبیعی" } },
+    { "name": { "en": "Natural Resources", "fa": "منابع طبیعی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture and Natural Resources", "fa": "دانشکده کشاورزی و منابع طبیعی" } },
+    { "name": { "en": "Environmental Studies", "fa": "محیط زیست" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture and Natural Resources", "fa": "دانشکده کشاورزی و منابع طبیعی" } }
+  ],
+  "studentLife": {
+    "en": "Ilam is a city in western Iran known for its natural beauty, rich culture, and affordable living costs. Compared with larger cities such as Tehran, living expenses in Ilam are generally lower, and the city's peaceful environment makes it suitable for students who prefer a focused academic lifestyle. With its unique natural landscapes and cultural heritage, Ilam offers international students a different and enriching experience of student life in Iran.",
+    "fa": "ایلام یکی از شهرهای غربی ایران و مرکز استان ایلام است که به دلیل طبیعت زیبا، فرهنگ غنی و هزینه‌های زندگی مناسب شناخته می‌شود. در مقایسه با شهرهای بزرگی مانند تهران، هزینه‌های زندگی در ایلام پایین‌تر است و محیط آرام‌تر شهر می‌تواند برای دانشجویانی که به دنبال تمرکز بر تحصیل هستند مناسب باشد. این شهر با برخورداری از جاذبه‌های طبیعی و فرهنگی، تجربه متفاوتی از زندگی دانشجویی در ایران ارائه می‌دهد."
+  },
+  "dormitory": {
+    "en": "University of Ilam provides various educational and welfare facilities for students, including student dormitories (subject to availability), central library and academic resources, educational and research laboratories, research centers, administrative and student support services, sports facilities, and cultural and student programs.",
+    "fa": "دانشگاه ایلام امکانات آموزشی و رفاهی مختلفی برای دانشجویان فراهم کرده است، از جمله خوابگاه دانشجویی (بر اساس ظرفیت)، کتابخانه مرکزی و منابع علمی، آزمایشگاه‌های آموزشی و پژوهشی، مراکز تحقیقاتی، خدمات اداری و پشتیبانی دانشجویان، امکانات ورزشی و برنامه‌های فرهنگی و دانشجویی."
+  },
+  "faq": [
+    {
+      "question": { "en": "Does University of Ilam accept international students?", "fa": "آیا دانشگاه ایلام دانشجوی بین‌المللی می‌پذیرد؟" },
+      "answer": { "en": "Yes. University of Ilam accepts qualified international students in selected programs and degree levels.", "fa": "بله، دانشگاه ایلام از دانشجویان خارجی واجد شرایط در رشته‌ها و مقاطع مختلف پذیرش می‌کند." }
+    },
+    {
+      "question": { "en": "What is the language of instruction?", "fa": "زبان تدریس در دانشگاه چیست؟" },
+      "answer": { "en": "The main language of instruction is Persian, although some academic resources may be available in English.", "fa": "زبان اصلی آموزش فارسی است، اما برخی منابع علمی ممکن است به زبان انگلیسی باشند." }
+    },
+    {
+      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
+      "answer": { "en": "Yes. Student dormitories are available for students based on available capacity.", "fa": "بله، خوابگاه دانشجویی در صورت وجود ظرفیت برای دانشجویان فراهم می‌شود." }
+    },
+    {
+      "question": { "en": "How much does studying at University of Ilam cost?", "fa": "هزینه تحصیل در دانشگاه ایلام چقدر است؟" },
+      "answer": { "en": "Tuition fees depend on the selected program and degree level. Applicants should request the latest tuition information directly from the university.", "fa": "شهریه بر اساس رشته و مقطع تحصیلی تعیین می‌شود و متقاضیان باید مبلغ دقیق را از دانشگاه دریافت کنند." }
+    }
+  ]
+}

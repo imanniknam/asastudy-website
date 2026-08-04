@@ -1,0 +1,148 @@
+{
+  "slug": "mashhad-university-of-medical-sciences",
+  "name": {
+    "en": "Mashhad University of Medical Sciences",
+    "fa": "دانشگاه علوم پزشکی مشهد"
+  },
+  "shortName": {
+    "en": "MUMS",
+    "fa": "MUMS"
+  },
+  "city": {
+    "en": "Mashhad",
+    "fa": "مشهد"
+  },
+  "type": {
+    "en": "Public University of Medical Sciences",
+    "fa": "دانشگاه دولتی علوم پزشکی"
+  },
+  "established": "1949",
+  "featuredPrograms": {
+    "en": ["General Medicine", "Dentistry", "Pharmacy", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences", "Traditional Medicine", "Rehabilitation Sciences"],
+    "fa": ["پزشکی عمومی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "بهداشت عمومی", "علوم پیراپزشکی", "طب سنتی", "توانبخشی"]
+  },
+  "summary": {
+    "en": "One of Iran's largest and most prestigious public medical universities, MUMS in Mashhad offers programs from Bachelor's through PhD, MD, DDS, and PharmD, backed by an extensive network of teaching hospitals and research centers.",
+    "fa": "دانشگاه علوم پزشکی مشهد (MUMS) یکی از بزرگ‌ترین و معتبرترین دانشگاه‌های دولتی علوم پزشکی ایران است که طیف گسترده‌ای از مقاطع تحصیلی، از کارشناسی تا دکتری تخصصی، پزشکی، دندانپزشکی و داروسازی را همراه با شبکه‌ای گسترده از بیمارستان‌های آموزشی ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "Mashhad University of Medical Sciences (MUMS) is one of Iran's largest and most prestigious public medical universities, located in Mashhad, the country's second-largest city. Renowned for its excellence in medical education, scientific research, and healthcare services, the university is home to specialized schools, teaching hospitals, research institutes, and distinguished faculty members.\n\nIn addition to educating domestic students, MUMS welcomes international students from around the world and offers a wide range of academic programs in medicine and health sciences. Throughout their studies, students benefit from a balanced learning experience that combines theoretical education with hands-on clinical training at the university's affiliated teaching hospitals and healthcare centers.\n\nKey advantages of MUMS include an extensive network of teaching hospitals and advanced healthcare centers, a wide variety of undergraduate, graduate, and professional degree programs, strong research opportunities in medicine and health sciences, and a dynamic, internationally oriented academic environment with modern educational, laboratory, and research facilities.",
+    "fa": "دانشگاه علوم پزشکی مشهد (MUMS) یکی از بزرگ‌ترین و معتبرترین دانشگاه‌های علوم پزشکی ایران است که در شهر مشهد، دومین کلان‌شهر ایران، قرار دارد. این دانشگاه با برخورداری از دانشکده‌های تخصصی، بیمارستان‌های آموزشی، مراکز تحقیقاتی و اعضای هیئت علمی برجسته، نقش مهمی در آموزش علوم پزشکی، پژوهش و ارائه خدمات درمانی در کشور ایفا می‌کند.\n\nاین دانشگاه علاوه بر پذیرش دانشجویان ایرانی، هر ساله میزبان دانشجویان بین‌المللی از کشورهای مختلف است و طیف گسترده‌ای از رشته‌های علوم پزشکی و سلامت را در مقاطع مختلف ارائه می‌دهد. دانشجویان در طول دوره تحصیل، علاوه بر آموزش نظری، فرصت کسب تجربه عملی در بیمارستان‌ها و مراکز درمانی وابسته به دانشگاه را نیز خواهند داشت.\n\nاز مهم‌ترین مزایای این دانشگاه می‌توان به برخورداری از بیمارستان‌های آموزشی و مراکز درمانی پیشرفته، تنوع گسترده رشته‌ها و مقاطع تحصیلی، فرصت‌های پژوهشی در حوزه علوم پزشکی و سلامت، و محیط علمی پویا و بین‌المللی همراه با دسترسی به تجهیزات آموزشی و آزمایشگاهی مدرن اشاره کرد."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Be legally eligible to study and reside in Iran",
+      "Hold recognized academic qualifications appropriate for the intended degree level",
+      "Complete the university's application form and submit all required documents",
+      "Comply with the university's academic and disciplinary regulations",
+      "Submit an official medical health certificate approved by the Embassy or Consulate of the Islamic Republic of Iran",
+      "Provide officially recognized academic credentials from previous degrees when applying for graduate or professional programs"
+    ],
+    "fa": [
+      "برخورداری از امکان قانونی اقامت و تحصیل در ایران",
+      "ارائه مدارک تحصیلی معتبر متناسب با مقطع موردنظر",
+      "تکمیل فرم درخواست و ارسال مدارک کامل",
+      "رعایت مقررات آموزشی و انضباطی دانشگاه",
+      "ارائه گواهی سلامت پزشکی مورد تأیید سفارت یا کنسولگری جمهوری اسلامی ایران",
+      "ارائه مدارک تحصیلی مقاطع قبلی برای متقاضیان دوره‌های تحصیلات تکمیلی"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Two completed application forms",
+      "Curriculum Vitae (CV)",
+      "Officially translated academic certificate(s)",
+      "Officially translated academic transcripts",
+      "Two copies of all passport pages",
+      "Recent passport-size photographs",
+      "Medical health certificate",
+      "Any additional documents requested by the university"
+    ],
+    "fa": [
+      "دو نسخه فرم درخواست پذیرش",
+      "رزومه (CV)",
+      "آخرین مدرک تحصیلی به همراه ترجمه رسمی",
+      "ریزنمرات ترجمه‌شده و تأییدشده",
+      "دو نسخه از تمامی صفحات گذرنامه",
+      "عکس پرسنلی",
+      "گواهی سلامت پزشکی",
+      "سایر مدارک موردنیاز دانشگاه (در صورت درخواست)"
+    ]
+  },
+  "tuition": {
+    "en": "International students are required to pay their tuition fees before registration or at the beginning of each academic semester. Tuition fees vary depending on the academic program and degree level and are determined annually by the university.",
+    "fa": "دانشجویان بین‌المللی موظف هستند شهریه تحصیلی خود را پیش از ثبت‌نام یا در آغاز هر نیمسال تحصیلی پرداخت کنند. میزان شهریه بسته به رشته و مقطع تحصیلی متفاوت است و هر سال توسط دانشگاه تعیین می‌شود."
+  },
+  "tuitionNote": {
+    "en": "Tuition varies by program and degree level and is reviewed and set annually by the university.",
+    "fa": "میزان شهریه بر اساس رشته و مقطع تحصیلی متفاوت است و هر سال توسط دانشگاه بازبینی و تعیین می‌شود."
+  },
+  "programs": [
+    {
+      "name": { "en": "General Medicine (MD)", "fa": "پزشکی عمومی (دکترای حرفه‌ای)" },
+      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
+      "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" }
+    },
+    {
+      "name": { "en": "Dentistry (DDS)", "fa": "دندانپزشکی (DDS)" },
+      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
+      "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" }
+    },
+    {
+      "name": { "en": "Pharmacy (PharmD)", "fa": "داروسازی (PharmD)" },
+      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
+      "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" }
+    },
+    {
+      "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" },
+      "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" },
+      "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" }
+    },
+    {
+      "name": { "en": "Public Health", "fa": "بهداشت عمومی" },
+      "degreeLevel": { "en": "Master's", "fa": "کارشناسی ارشد" },
+      "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" }
+    },
+    {
+      "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" },
+      "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" },
+      "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" }
+    },
+    {
+      "name": { "en": "Traditional Medicine", "fa": "طب سنتی" },
+      "degreeLevel": { "en": "PhD", "fa": "دکتری تخصصی (PhD)" },
+      "faculty": { "en": "School of Traditional Medicine", "fa": "دانشکده طب سنتی" }
+    },
+    {
+      "name": { "en": "Rehabilitation Sciences", "fa": "توانبخشی" },
+      "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" },
+      "faculty": { "en": "School of Rehabilitation", "fa": "دانشکده توانبخشی" }
+    }
+  ],
+  "studentLife": {
+    "en": "Mashhad is Iran's second-largest city and one of the country's leading educational, healthcare, and cultural centers. With its advanced hospitals, modern healthcare facilities, public transportation network, cultural attractions, and vibrant student community, the city offers an excellent environment for students pursuing medical education. Compared with many major cities in the region, Mashhad also provides a relatively affordable cost of living, making it an attractive destination for international students.",
+    "fa": "مشهد دومین شهر بزرگ ایران و یکی از مهم‌ترین قطب‌های آموزشی، درمانی و فرهنگی کشور است. وجود بیمارستان‌های تخصصی، مراکز درمانی پیشرفته، امکانات حمل‌ونقل شهری، مراکز فرهنگی و محیط دانشجویی پویا، این شهر را به یکی از بهترین گزینه‌ها برای تحصیل در رشته‌های علوم پزشکی تبدیل کرده است. همچنین هزینه زندگی در مشهد در مقایسه با بسیاری از شهرهای بزرگ منطقه، برای دانشجویان بین‌المللی مناسب و مقرون‌به‌صرفه است."
+  },
+  "dormitory": {
+    "en": "Mashhad University of Medical Sciences provides student dormitories for international students, subject to availability and capacity. The university also offers a wide range of support services, including student healthcare and insurance, specialized libraries, research laboratories and centers, International Affairs Office support, orientation programs introducing students to the university and Iranian culture, and student welfare and cultural services.",
+    "fa": "دانشگاه علوم پزشکی مشهد خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت موجود فراهم می‌کند. علاوه بر این، خدماتی نظیر خدمات درمانی و بیمه دانشجویی، کتابخانه‌های تخصصی، آزمایشگاه‌ها و مراکز تحقیقاتی، خدمات دفتر امور بین‌الملل، برنامه‌های آشنایی با دانشگاه و فرهنگ ایران و خدمات فرهنگی و رفاهی دانشجویان نیز ارائه می‌شود."
+  },
+  "faq": [
+    {
+      "question": { "en": "Do I need to know Persian before starting my studies?", "fa": "آیا برای تحصیل باید زبان فارسی بدانم؟" },
+      "answer": { "en": "Yes. Since most academic programs are taught in Persian, international students are required to complete Persian language training before or during the early stages of their studies.", "fa": "بله. از آنجا که بیشتر برنامه‌های آموزشی به زبان فارسی برگزار می‌شوند، دانشجویان بین‌المللی باید پیش از شروع یا در ابتدای تحصیل، دوره آموزش زبان فارسی را بگذرانند." }
+    },
+    {
+      "question": { "en": "How long does the admission process take?", "fa": "بررسی پرونده پذیرش چقدر زمان می‌برد؟" },
+      "answer": { "en": "For complete applications, admission decisions are typically issued within approximately three months.", "fa": "در صورت کامل بودن مدارک، نتیجه بررسی معمولاً طی حدود سه ماه اعلام می‌شود." }
+    },
+    {
+      "question": { "en": "Is a medical health certificate required?", "fa": "آیا ارائه گواهی سلامت الزامی است؟" },
+      "answer": { "en": "Yes. All applicants must submit an official medical health certificate approved by the Embassy or Consulate of the Islamic Republic of Iran, confirming freedom from communicable diseases such as HIV, Hepatitis B, and Hepatitis C.", "fa": "بله. تمامی متقاضیان باید گواهی سلامت پزشکی مورد تأیید سفارت یا کنسولگری جمهوری اسلامی ایران را ارائه دهند که نشان‌دهنده عدم ابتلا به بیماری‌های واگیردار مانند HIV، هپاتیت B و C است." }
+    },
+    {
+      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
+      "answer": { "en": "Yes. Student dormitories are available for international students, subject to capacity.", "fa": "بله. خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "semnan-university",
+  "name": {
+    "en": "Semnan University (SU)",
+    "fa": "دانشگاه سمنان (SU)"
+  },
+  "shortName": { "en": "SU", "fa": "SU" },
+  "city": { "en": "Semnan", "fa": "سمنان" },
+  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "established": "1974",
+  "featuredPrograms": {
+    "en": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Architecture", "Management", "Physics"],
+    "fa": ["مهندسی مکانیک", "مهندسی برق", "مهندسی عمران", "معماری", "مدیریت", "فیزیک"]
+  },
+  "summary": {
+    "en": "A public comprehensive university located between Tehran and Mashhad, Semnan University offers engineering, basic sciences, humanities, art and architecture programs in a peaceful, affordable city.",
+    "fa": "دانشگاه سمنان، دانشگاهی دولتی و جامع در فاصله میان تهران و مشهد است که رشته‌های مهندسی، علوم پایه، علوم انسانی، هنر و معماری را در شهری آرام و مقرون‌به‌صرفه ارائه می‌دهد."
+  },
+  "overview": {
+    "en": "Semnan University (SU) is a public comprehensive university located in Semnan, Iran. Situated between Tehran and Mashhad, the university is one of the important higher education centers in central Iran.\n\nEstablished in 1974, Semnan University has gradually developed from a small educational institution into a comprehensive university offering a wide range of academic programs in engineering, basic sciences, humanities, arts, architecture, and technology.\n\nThe university provides education at undergraduate, master's, and doctoral levels and has developed various research centers, laboratories, and academic facilities to support scientific activities. With qualified faculty members, research infrastructure, and a growing academic environment, Semnan University is considered one of Iran's developing research-oriented universities.",
+    "fa": "دانشگاه سمنان یکی از دانشگاه‌های جامع و دولتی ایران است که در شهر سمنان، در فاصله میان تهران و مشهد قرار دارد. این دانشگاه یکی از مراکز مهم آموزش عالی در شرق استان تهران و منطقه مرکزی ایران محسوب می‌شود و طی چند دهه فعالیت، از یک مرکز آموزشی محدود به مجموعه‌ای گسترده از دانشکده‌ها با مراکز پژوهشی تبدیل شده است.\n\nاین دانشگاه در زمینه‌های مختلف علمی از جمله مهندسی، علوم پایه، علوم انسانی، هنر، معماری و فناوری فعالیت دارد و در مقاطع کارشناسی، کارشناسی ارشد و دکتری دانشجو می‌پذیرد.\n\nدانشگاه سمنان با برخورداری از اعضای هیئت علمی متخصص، آزمایشگاه‌های تحقیقاتی، مراکز نوآوری و زیرساخت‌های آموزشی، یکی از دانشگاه‌های در حال توسعه و پژوهش‌محور ایران محسوب می‌شود."
+  },
+  "admissionRequirements": {
+    "en": [
+      "Hold a valid academic qualification related to the chosen field",
+      "Have an acceptable academic record",
+      "Complete the university application form",
+      "Follow Iranian educational and residency regulations",
+      "Submit complete and valid documents",
+      "Meet the language requirements of the selected program"
+    ],
+    "fa": [
+      "داشتن مدرک تحصیلی معتبر مرتبط با رشته انتخابی",
+      "ارائه سوابق تحصیلی مناسب",
+      "تکمیل فرم درخواست پذیرش",
+      "رعایت قوانین آموزشی و اقامتی ایران",
+      "ارائه مدارک کامل و معتبر",
+      "داشتن سطح زبان مورد نیاز رشته"
+    ]
+  },
+  "requiredDocuments": {
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Previous academic certificates",
+      "Academic transcripts",
+      "Official translations of educational documents",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (if required)",
+      "Passport-size photographs",
+      "Language certificate (if required by the program)",
+      "Research records and academic publications for graduate applicants (if available)"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "پاسپورت معتبر",
+      "آخرین مدرک تحصیلی",
+      "ریزنمرات تحصیلی",
+      "ترجمه رسمی مدارک تحصیلی",
+      "رزومه (CV)",
+      "انگیزه‌نامه، در صورت نیاز",
+      "عکس پرسنلی",
+      "مدرک زبان، در صورت درخواست رشته",
+      "مدارک علمی و پژوهشی برای مقاطع تحصیلات تکمیلی، در صورت وجود"
+    ]
+  },
+  "tuition": {
+    "en": "Tuition fees for international students at Semnan University vary depending on academic level, field of study, and the number of credits taken. Exact tuition fees are announced annually by the university, and applicants are advised to contact the International Office for the latest tuition information before final registration.",
+    "fa": "شهریه دانشجویان بین‌المللی دانشگاه سمنان بر اساس مقطع تحصیلی، رشته انتخابی و تعداد واحدهای درسی تعیین می‌شود. میزان دقیق شهریه هر سال توسط دانشگاه اعلام می‌شود و متقاضیان باید پیش از ثبت‌نام نهایی، اطلاعات به‌روز را از دفتر امور بین‌الملل دریافت کنند."
+  },
+  "programs": [
+    { "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Electrical Engineering", "fa": "مهندسی برق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Civil Engineering", "fa": "مهندسی عمران" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Computer Engineering", "fa": "مهندسی کامپیوتر" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Materials Engineering", "fa": "مهندسی مواد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Chemical Engineering", "fa": "مهندسی شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
+    { "name": { "en": "Mathematics", "fa": "ریاضی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Physics", "fa": "فیزیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Chemistry", "fa": "شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Biology", "fa": "زیست‌شناسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
+    { "name": { "en": "Management", "fa": "مدیریت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Economics", "fa": "اقتصاد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Law", "fa": "حقوق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Persian Language and Literature", "fa": "زبان و ادبیات فارسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Social Sciences", "fa": "علوم اجتماعی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
+    { "name": { "en": "Architecture", "fa": "معماری" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Art and Architecture", "fa": "دانشکده هنر و معماری" } },
+    { "name": { "en": "Urban Planning", "fa": "شهرسازی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Art and Architecture", "fa": "دانشکده هنر و معماری" } }
+  ],
+  "studentLife": {
+    "en": "Semnan is one of Iran's historic cities, known for its peaceful environment, affordable living costs, and suitable conditions for students. Compared with major cities such as Tehran, living expenses in Semnan are generally lower, allowing students to manage their daily costs more easily. The city's geographical location also provides relatively convenient access to Tehran and other major Iranian cities.",
+    "fa": "شهر سمنان یکی از شهرهای تاریخی ایران است که به دلیل هزینه‌های مناسب زندگی، امنیت نسبی و آرامش شهری، محیط مناسبی برای دانشجویان فراهم می‌کند. در مقایسه با شهرهای بزرگی مانند تهران، هزینه‌های زندگی در سمنان پایین‌تر است و دانشجویان می‌توانند با هزینه مناسب‌تری دوران تحصیل خود را سپری کنند. موقعیت جغرافیایی سمنان نیز امکان دسترسی نسبتاً آسان به تهران و دیگر شهرهای ایران را فراهم می‌کند."
+  },
+  "dormitory": {
+    "en": "Semnan University provides student dormitories subject to availability, along with a central library and digital resources, specialized laboratories, research centers, sports facilities, and cultural and welfare services. Dormitories are generally available to international students depending on capacity.",
+    "fa": "دانشگاه سمنان خوابگاه‌های دانشجویی را بر اساس ظرفیت موجود در اختیار دانشجویان قرار می‌دهد و همچنین امکاناتی مانند کتابخانه مرکزی و منابع دیجیتال، آزمایشگاه‌های تخصصی، مراکز تحقیقاتی، امکانات ورزشی و خدمات رفاهی و فرهنگی ارائه می‌دهد. خوابگاه‌ها معمولاً برای دانشجویان غیرایرانی نیز در صورت وجود ظرفیت قابل استفاده هستند."
+  },
+  "faq": [
+    {
+      "question": { "en": "Does Semnan University accept international students?", "fa": "آیا دانشگاه سمنان دانشجوی بین‌المللی می‌پذیرد؟" },
+      "answer": { "en": "Yes, Semnan University accepts international applicants in various academic programs.", "fa": "بله، دانشگاه سمنان امکان پذیرش دانشجویان خارجی را در رشته‌های مختلف دارد." }
+    },
+    {
+      "question": { "en": "What is the language of instruction at the university?", "fa": "زبان تحصیل در دانشگاه چیست؟" },
+      "answer": { "en": "The main language of instruction is Persian, although English academic resources may be used in some programs.", "fa": "زبان اصلی آموزش فارسی است، اما در برخی رشته‌ها از منابع انگلیسی نیز استفاده می‌شود." }
+    },
+    {
+      "question": { "en": "Does the university provide accommodation for international students?", "fa": "آیا خوابگاه برای دانشجویان خارجی وجود دارد؟" },
+      "answer": { "en": "Yes, if capacity allows, international students can use university dormitories.", "fa": "بله، در صورت وجود ظرفیت، دانشجویان بین‌المللی می‌توانند از خوابگاه استفاده کنند." }
+    },
+    {
+      "question": { "en": "Is it possible to study at Master's and PhD levels?", "fa": "آیا امکان تحصیل در مقاطع ارشد و دکتری وجود دارد؟" },
+      "answer": { "en": "Yes, Semnan University also accepts students at Master's and PhD levels.", "fa": "بله، دانشگاه سمنان در مقاطع کارشناسی ارشد و دکتری نیز پذیرش دارد." }
+    }
+  ]
+}
