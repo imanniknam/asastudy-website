@@ -41,7 +41,13 @@
     "searchUniversities": "Search universities...",
     "noResults": "No universities match your search.",
     "allCities": "All Cities",
-    "allTypes": "All Types"
+    "allTypes": "All Types",
+    "category": "Field of Study",
+    "categoryAll": "All Universities",
+    "categoryMedical": "Medical Sciences",
+    "categoryNonMedical": "Non-Medical",
+    "categoryMedicalShort": "Medical",
+    "categoryCount": "{count} universities"
   },
   "home": {
     "hero": {

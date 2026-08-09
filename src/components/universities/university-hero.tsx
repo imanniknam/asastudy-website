@@ -1,6 +1,7 @@
 import { GraduationCap, MapPin } from "lucide-react";
 import type { University, Locale } from "@/types/university";
 import { Badge } from "@/components/ui/badge";
+import { CategoryBadge } from "@/components/universities/category-badge";
 
 function initials(name: string) {
   return name
@@ -34,6 +35,7 @@ export function UniversityHero({
         </div>
 
         <div className="flex flex-wrap items-center justify-center gap-2">
+          <CategoryBadge category={university.category} tone="onDark" className="px-3 py-1.5 text-xs" />
           <Badge className="border-white/20 bg-white/10 text-white">
             <MapPin className="size-3.5" />
             {university.city[locale]}

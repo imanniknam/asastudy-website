@@ -1,17 +1,44 @@
 {
   "slug": "iran-university-of-medical-sciences",
-  "name": { "en": "Iran University of Medical Sciences (IUMS)", "fa": "دانشگاه علوم پزشکی ایران (IUMS)" },
-  "shortName": { "en": "IUMS", "fa": "IUMS" },
-  "city": { "en": "Tehran", "fa": "تهران" },
-  "type": { "en": "Public University of Medical Sciences", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "category": "medical",
+  "name": {
+    "en": "Iran University of Medical Sciences (IUMS)",
+    "fa": "دانشگاه علوم پزشکی ایران (IUMS)"
+  },
+  "shortName": {
+    "en": "IUMS",
+    "fa": "IUMS"
+  },
+  "city": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
+  "type": {
+    "en": "Public University of Medical Sciences",
+    "fa": "دانشگاه دولتی علوم پزشکی"
+  },
   "established": "1974",
   "ranking": {
     "en": "One of Iran's leading public medical universities and top-ranked institutions for medical education, with extensive experience in educating international students.",
     "fa": "یکی از معتبرترین و پیشروترین دانشگاه‌های علوم پزشکی ایران با سابقه طولانی در پذیرش دانشجویان بین‌المللی."
   },
   "featuredPrograms": {
-    "en": ["Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Rehabilitation Sciences", "Iranian Traditional Medicine"],
-    "fa": ["پزشکی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "علوم توانبخشی", "طب سنتی ایرانی"]
+    "en": [
+      "Medicine (MD)",
+      "Dentistry (DDS)",
+      "Pharmacy (PharmD)",
+      "Nursing and Midwifery",
+      "Rehabilitation Sciences",
+      "Iranian Traditional Medicine"
+    ],
+    "fa": [
+      "پزشکی",
+      "دندانپزشکی",
+      "داروسازی",
+      "پرستاری و مامایی",
+      "علوم توانبخشی",
+      "طب سنتی ایرانی"
+    ]
   },
   "summary": {
     "en": "One of Iran's leading public medical universities in Tehran, IUMS offers academic programs in both English and Persian across medicine, dentistry, pharmacy, and allied health sciences, backed by an extensive network of teaching hospitals.",
@@ -68,17 +95,160 @@
     "fa": "در مدارک منتشرشده دانشگاه برای پذیرش بین‌المللی، جدول دقیقی از شهریه ارائه نشده است. متقاضیان باید برای دریافت اطلاعات دقیق شهریه رشته و مقطع موردنظر خود، مستقیماً با تیم آسا استادی یا دفتر پذیرش دانشگاه تماس بگیرند."
   },
   "programs": [
-    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "دکترای حرفه‌ای پزشکی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Dentistry", "fa": "دندانپزشکی" }, "degreeLevel": { "en": "DDS", "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
-    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "دکترای حرفه‌ای داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
-    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
-    { "name": { "en": "Public Health", "fa": "بهداشت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" } },
-    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } },
-    { "name": { "en": "Rehabilitation Sciences", "fa": "علوم توانبخشی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Rehabilitation Sciences", "fa": "دانشکده علوم توانبخشی" } },
-    { "name": { "en": "Advanced Medical Technologies", "fa": "فناوری‌های نوین پزشکی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Advanced Technologies in Medicine", "fa": "دانشکده فناوری‌های نوین پزشکی" } },
-    { "name": { "en": "Iranian Traditional Medicine", "fa": "طب سنتی ایرانی" }, "degreeLevel": { "en": "Doctorate / PhD", "fa": "دکترای حرفه‌ای / دکتری تخصصی" }, "faculty": { "en": "School of Iranian Traditional Medicine", "fa": "دانشکده طب ایرانی" } },
-    { "name": { "en": "Medical Residency Programs", "fa": "دوره‌های تخصص پزشکی" }, "degreeLevel": { "en": "Residency", "fa": "دوره تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Fellowship Programs", "fa": "دوره‌های فوق تخصصی" }, "degreeLevel": { "en": "Fellowship", "fa": "فوق تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } }
+    {
+      "name": {
+        "en": "Medicine",
+        "fa": "پزشکی"
+      },
+      "degreeLevel": {
+        "en": "MD",
+        "fa": "دکترای حرفه‌ای پزشکی (MD)"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Dentistry",
+        "fa": "دندانپزشکی"
+      },
+      "degreeLevel": {
+        "en": "DDS",
+        "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)"
+      },
+      "faculty": {
+        "en": "School of Dentistry",
+        "fa": "دانشکده دندانپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Pharmacy",
+        "fa": "داروسازی"
+      },
+      "degreeLevel": {
+        "en": "PharmD",
+        "fa": "دکترای حرفه‌ای داروسازی (PharmD)"
+      },
+      "faculty": {
+        "en": "School of Pharmacy",
+        "fa": "دانشکده داروسازی"
+      }
+    },
+    {
+      "name": {
+        "en": "Nursing and Midwifery",
+        "fa": "پرستاری و مامایی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Nursing and Midwifery",
+        "fa": "دانشکده پرستاری و مامایی"
+      }
+    },
+    {
+      "name": {
+        "en": "Public Health",
+        "fa": "بهداشت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "School of Public Health",
+        "fa": "دانشکده بهداشت"
+      }
+    },
+    {
+      "name": {
+        "en": "Allied Medical Sciences",
+        "fa": "علوم پیراپزشکی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Allied Medical Sciences",
+        "fa": "دانشکده پیراپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Rehabilitation Sciences",
+        "fa": "علوم توانبخشی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Rehabilitation Sciences",
+        "fa": "دانشکده علوم توانبخشی"
+      }
+    },
+    {
+      "name": {
+        "en": "Advanced Medical Technologies",
+        "fa": "فناوری‌های نوین پزشکی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "School of Advanced Technologies in Medicine",
+        "fa": "دانشکده فناوری‌های نوین پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Iranian Traditional Medicine",
+        "fa": "طب سنتی ایرانی"
+      },
+      "degreeLevel": {
+        "en": "Doctorate / PhD",
+        "fa": "دکترای حرفه‌ای / دکتری تخصصی"
+      },
+      "faculty": {
+        "en": "School of Iranian Traditional Medicine",
+        "fa": "دانشکده طب ایرانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Medical Residency Programs",
+        "fa": "دوره‌های تخصص پزشکی"
+      },
+      "degreeLevel": {
+        "en": "Residency",
+        "fa": "دوره تخصص"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Fellowship Programs",
+        "fa": "دوره‌های فوق تخصصی"
+      },
+      "degreeLevel": {
+        "en": "Fellowship",
+        "fa": "فوق تخصص"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    }
   ],
   "studentLife": {
     "en": "As the capital of Iran, Tehran is the country's largest educational, medical, and research hub. International students benefit from access to world-class hospitals, specialized healthcare centers, academic conferences, research institutes, cultural attractions, and an extensive public transportation network. Studying in Tehran provides excellent opportunities for academic collaboration, professional networking, and career development in the medical and healthcare sectors.",
@@ -90,20 +260,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Are programs available in English?", "fa": "آیا امکان تحصیل به زبان انگلیسی وجود دارد؟" },
-      "answer": { "en": "Yes. Several international programs, particularly the MD program, offer pre-clinical education in English. However, clinical training is primarily conducted in Persian.", "fa": "بله، برخی برنامه‌های بین‌المللی، به‌ویژه دوره پزشکی، به زبان انگلیسی ارائه می‌شوند، اما آموزش‌های بالینی عمدتاً به زبان فارسی انجام می‌شود." }
+      "question": {
+        "en": "Are programs available in English?",
+        "fa": "آیا امکان تحصیل به زبان انگلیسی وجود دارد؟"
+      },
+      "answer": {
+        "en": "Yes. Several international programs, particularly the MD program, offer pre-clinical education in English. However, clinical training is primarily conducted in Persian.",
+        "fa": "بله، برخی برنامه‌های بین‌المللی، به‌ویژه دوره پزشکی، به زبان انگلیسی ارائه می‌شوند، اما آموزش‌های بالینی عمدتاً به زبان فارسی انجام می‌شود."
+      }
     },
     {
-      "question": { "en": "Is learning Persian mandatory?", "fa": "آیا یادگیری زبان فارسی ضروری است؟" },
-      "answer": { "en": "Yes. Persian language proficiency is essential for clinical education and effective communication with patients during hospital training.", "fa": "بله، برای شرکت در دوره‌های بالینی و برقراری ارتباط با بیماران، تسلط به زبان فارسی ضروری است." }
+      "question": {
+        "en": "Is learning Persian mandatory?",
+        "fa": "آیا یادگیری زبان فارسی ضروری است؟"
+      },
+      "answer": {
+        "en": "Yes. Persian language proficiency is essential for clinical education and effective communication with patients during hospital training.",
+        "fa": "بله، برای شرکت در دوره‌های بالینی و برقراری ارتباط با بیماران، تسلط به زبان فارسی ضروری است."
+      }
     },
     {
-      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
-      "answer": { "en": "Yes. Student dormitories are available for international students, subject to availability.", "fa": "بله، خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+      "question": {
+        "en": "Does the university provide student accommodation?",
+        "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes. Student dormitories are available for international students, subject to availability.",
+        "fa": "بله، خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است."
+      }
     },
     {
-      "question": { "en": "Do my academic documents need official translation?", "fa": "آیا مدارک تحصیلی باید ترجمه رسمی شوند؟" },
-      "answer": { "en": "Yes. All academic documents must be officially translated into Persian and authenticated in accordance with the university's admission regulations.", "fa": "بله، تمامی مدارک باید به زبان فارسی ترجمه رسمی شده و مطابق ضوابط دانشگاه تأیید شوند." }
+      "question": {
+        "en": "Do my academic documents need official translation?",
+        "fa": "آیا مدارک تحصیلی باید ترجمه رسمی شوند؟"
+      },
+      "answer": {
+        "en": "Yes. All academic documents must be officially translated into Persian and authenticated in accordance with the university's admission regulations.",
+        "fa": "بله، تمامی مدارک باید به زبان فارسی ترجمه رسمی شده و مطابق ضوابط دانشگاه تأیید شوند."
+      }
     }
   ]
 }

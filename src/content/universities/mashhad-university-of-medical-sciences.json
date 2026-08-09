@@ -1,5 +1,6 @@
 {
   "slug": "mashhad-university-of-medical-sciences",
+  "category": "medical",
   "name": {
     "en": "Mashhad University of Medical Sciences",
     "fa": "دانشگاه علوم پزشکی مشهد"
@@ -18,8 +19,26 @@
   },
   "established": "1949",
   "featuredPrograms": {
-    "en": ["General Medicine", "Dentistry", "Pharmacy", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences", "Traditional Medicine", "Rehabilitation Sciences"],
-    "fa": ["پزشکی عمومی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "بهداشت عمومی", "علوم پیراپزشکی", "طب سنتی", "توانبخشی"]
+    "en": [
+      "General Medicine",
+      "Dentistry",
+      "Pharmacy",
+      "Nursing and Midwifery",
+      "Public Health",
+      "Allied Medical Sciences",
+      "Traditional Medicine",
+      "Rehabilitation Sciences"
+    ],
+    "fa": [
+      "پزشکی عمومی",
+      "دندانپزشکی",
+      "داروسازی",
+      "پرستاری و مامایی",
+      "بهداشت عمومی",
+      "علوم پیراپزشکی",
+      "طب سنتی",
+      "توانبخشی"
+    ]
   },
   "summary": {
     "en": "One of Iran's largest and most prestigious public medical universities, MUMS in Mashhad offers programs from Bachelor's through PhD, MD, DDS, and PharmD, backed by an extensive network of teaching hospitals and research centers.",
@@ -79,44 +98,116 @@
   },
   "programs": [
     {
-      "name": { "en": "General Medicine (MD)", "fa": "پزشکی عمومی (دکترای حرفه‌ای)" },
-      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
-      "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" }
+      "name": {
+        "en": "General Medicine (MD)",
+        "fa": "پزشکی عمومی (دکترای حرفه‌ای)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
     },
     {
-      "name": { "en": "Dentistry (DDS)", "fa": "دندانپزشکی (DDS)" },
-      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
-      "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" }
+      "name": {
+        "en": "Dentistry (DDS)",
+        "fa": "دندانپزشکی (DDS)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "School of Dentistry",
+        "fa": "دانشکده دندانپزشکی"
+      }
     },
     {
-      "name": { "en": "Pharmacy (PharmD)", "fa": "داروسازی (PharmD)" },
-      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
-      "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" }
+      "name": {
+        "en": "Pharmacy (PharmD)",
+        "fa": "داروسازی (PharmD)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "School of Pharmacy",
+        "fa": "دانشکده داروسازی"
+      }
     },
     {
-      "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" },
-      "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" },
-      "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" }
+      "name": {
+        "en": "Nursing and Midwifery",
+        "fa": "پرستاری و مامایی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's",
+        "fa": "کارشناسی"
+      },
+      "faculty": {
+        "en": "School of Nursing and Midwifery",
+        "fa": "دانشکده پرستاری و مامایی"
+      }
     },
     {
-      "name": { "en": "Public Health", "fa": "بهداشت عمومی" },
-      "degreeLevel": { "en": "Master's", "fa": "کارشناسی ارشد" },
-      "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" }
+      "name": {
+        "en": "Public Health",
+        "fa": "بهداشت عمومی"
+      },
+      "degreeLevel": {
+        "en": "Master's",
+        "fa": "کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Public Health",
+        "fa": "دانشکده بهداشت"
+      }
     },
     {
-      "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" },
-      "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" },
-      "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" }
+      "name": {
+        "en": "Allied Medical Sciences",
+        "fa": "علوم پیراپزشکی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's",
+        "fa": "کارشناسی"
+      },
+      "faculty": {
+        "en": "School of Allied Medical Sciences",
+        "fa": "دانشکده پیراپزشکی"
+      }
     },
     {
-      "name": { "en": "Traditional Medicine", "fa": "طب سنتی" },
-      "degreeLevel": { "en": "PhD", "fa": "دکتری تخصصی (PhD)" },
-      "faculty": { "en": "School of Traditional Medicine", "fa": "دانشکده طب سنتی" }
+      "name": {
+        "en": "Traditional Medicine",
+        "fa": "طب سنتی"
+      },
+      "degreeLevel": {
+        "en": "PhD",
+        "fa": "دکتری تخصصی (PhD)"
+      },
+      "faculty": {
+        "en": "School of Traditional Medicine",
+        "fa": "دانشکده طب سنتی"
+      }
     },
     {
-      "name": { "en": "Rehabilitation Sciences", "fa": "توانبخشی" },
-      "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" },
-      "faculty": { "en": "School of Rehabilitation", "fa": "دانشکده توانبخشی" }
+      "name": {
+        "en": "Rehabilitation Sciences",
+        "fa": "توانبخشی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's",
+        "fa": "کارشناسی"
+      },
+      "faculty": {
+        "en": "School of Rehabilitation",
+        "fa": "دانشکده توانبخشی"
+      }
     }
   ],
   "studentLife": {
@@ -129,20 +220,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Do I need to know Persian before starting my studies?", "fa": "آیا برای تحصیل باید زبان فارسی بدانم؟" },
-      "answer": { "en": "Yes. Since most academic programs are taught in Persian, international students are required to complete Persian language training before or during the early stages of their studies.", "fa": "بله. از آنجا که بیشتر برنامه‌های آموزشی به زبان فارسی برگزار می‌شوند، دانشجویان بین‌المللی باید پیش از شروع یا در ابتدای تحصیل، دوره آموزش زبان فارسی را بگذرانند." }
+      "question": {
+        "en": "Do I need to know Persian before starting my studies?",
+        "fa": "آیا برای تحصیل باید زبان فارسی بدانم؟"
+      },
+      "answer": {
+        "en": "Yes. Since most academic programs are taught in Persian, international students are required to complete Persian language training before or during the early stages of their studies.",
+        "fa": "بله. از آنجا که بیشتر برنامه‌های آموزشی به زبان فارسی برگزار می‌شوند، دانشجویان بین‌المللی باید پیش از شروع یا در ابتدای تحصیل، دوره آموزش زبان فارسی را بگذرانند."
+      }
     },
     {
-      "question": { "en": "How long does the admission process take?", "fa": "بررسی پرونده پذیرش چقدر زمان می‌برد؟" },
-      "answer": { "en": "For complete applications, admission decisions are typically issued within approximately three months.", "fa": "در صورت کامل بودن مدارک، نتیجه بررسی معمولاً طی حدود سه ماه اعلام می‌شود." }
+      "question": {
+        "en": "How long does the admission process take?",
+        "fa": "بررسی پرونده پذیرش چقدر زمان می‌برد؟"
+      },
+      "answer": {
+        "en": "For complete applications, admission decisions are typically issued within approximately three months.",
+        "fa": "در صورت کامل بودن مدارک، نتیجه بررسی معمولاً طی حدود سه ماه اعلام می‌شود."
+      }
     },
     {
-      "question": { "en": "Is a medical health certificate required?", "fa": "آیا ارائه گواهی سلامت الزامی است؟" },
-      "answer": { "en": "Yes. All applicants must submit an official medical health certificate approved by the Embassy or Consulate of the Islamic Republic of Iran, confirming freedom from communicable diseases such as HIV, Hepatitis B, and Hepatitis C.", "fa": "بله. تمامی متقاضیان باید گواهی سلامت پزشکی مورد تأیید سفارت یا کنسولگری جمهوری اسلامی ایران را ارائه دهند که نشان‌دهنده عدم ابتلا به بیماری‌های واگیردار مانند HIV، هپاتیت B و C است." }
+      "question": {
+        "en": "Is a medical health certificate required?",
+        "fa": "آیا ارائه گواهی سلامت الزامی است؟"
+      },
+      "answer": {
+        "en": "Yes. All applicants must submit an official medical health certificate approved by the Embassy or Consulate of the Islamic Republic of Iran, confirming freedom from communicable diseases such as HIV, Hepatitis B, and Hepatitis C.",
+        "fa": "بله. تمامی متقاضیان باید گواهی سلامت پزشکی مورد تأیید سفارت یا کنسولگری جمهوری اسلامی ایران را ارائه دهند که نشان‌دهنده عدم ابتلا به بیماری‌های واگیردار مانند HIV، هپاتیت B و C است."
+      }
     },
     {
-      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
-      "answer": { "en": "Yes. Student dormitories are available for international students, subject to capacity.", "fa": "بله. خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+      "question": {
+        "en": "Does the university provide student accommodation?",
+        "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes. Student dormitories are available for international students, subject to capacity.",
+        "fa": "بله. خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است."
+      }
     }
   ]
 }

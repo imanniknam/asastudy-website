@@ -1,17 +1,44 @@
 {
   "slug": "shahid-beheshti-university",
-  "name": { "en": "Shahid Beheshti University (SBU)", "fa": "دانشگاه شهید بهشتی (SBU)" },
-  "shortName": { "en": "SBU", "fa": "SBU" },
-  "city": { "en": "Tehran", "fa": "تهران" },
-  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "category": "non-medical",
+  "name": {
+    "en": "Shahid Beheshti University (SBU)",
+    "fa": "دانشگاه شهید بهشتی (SBU)"
+  },
+  "shortName": {
+    "en": "SBU",
+    "fa": "SBU"
+  },
+  "city": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
+  "type": {
+    "en": "Public University",
+    "fa": "دانشگاه دولتی"
+  },
   "established": "1969",
   "ranking": {
     "en": "One of the top public research universities in Iran, with a strong academic reputation and experienced faculty members.",
     "fa": "یکی از دانشگاه‌های برتر دولتی و پژوهش‌محور ایران با سابقه علمی و آموزشی معتبر."
   },
   "featuredPrograms": {
-    "en": ["Engineering", "Basic Sciences", "Humanities", "Social Sciences", "Management and Economics", "Law"],
-    "fa": ["مهندسی", "علوم پایه", "علوم انسانی", "علوم اجتماعی", "مدیریت و اقتصاد", "حقوق"]
+    "en": [
+      "Engineering",
+      "Basic Sciences",
+      "Humanities",
+      "Social Sciences",
+      "Management and Economics",
+      "Law"
+    ],
+    "fa": [
+      "مهندسی",
+      "علوم پایه",
+      "علوم انسانی",
+      "علوم اجتماعی",
+      "مدیریت و اقتصاد",
+      "حقوق"
+    ]
   },
   "summary": {
     "en": "One of Iran's leading public research universities, SBU in Tehran offers a wide range of undergraduate, graduate, and doctoral programs across engineering, sciences, humanities, law, and management.",
@@ -74,18 +101,174 @@
     "fa": "دانشگاه شهید بهشتی ممکن است برای دانشجویان بین‌المللی واجد شرایط تخفیف شهریه در نظر بگیرد: ۲۰٪ برای دانشجوی رتبه اول هر رشته، ۱۰٪ برای رتبه دوم، ۱۰٪ برای تحصیل همزمان اعضای خانواده، ۱۰٪ برای رشته‌های مرتبط با زبان فارسی و ایران‌شناسی، ۲۰٪ برای فارغ‌التحصیلان دانشگاه شهید بهشتی، و ۱۰٪ برای فارغ‌التحصیلان سایر دانشگاه‌های ایران."
   },
   "programs": [
-    { "name": { "en": "Letters and Human Sciences", "fa": "ادبیات و علوم انسانی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Letters and Human Sciences", "fa": "دانشکده ادبیات و علوم انسانی" } },
-    { "name": { "en": "Law", "fa": "حقوق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Law", "fa": "دانشکده حقوق" } },
-    { "name": { "en": "Economics and Political Sciences", "fa": "اقتصاد و علوم سیاسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Economics and Political Sciences", "fa": "دانشکده اقتصاد و علوم سیاسی" } },
-    { "name": { "en": "Management and Accounting", "fa": "مدیریت و حسابداری" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Management and Accounting", "fa": "دانشکده مدیریت و حسابداری" } },
-    { "name": { "en": "Science", "fa": "علوم" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Science", "fa": "دانشکده علوم" } },
-    { "name": { "en": "Electrical and Computer Engineering", "fa": "مهندسی برق و کامپیوتر" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Electrical and Computer Engineering", "fa": "دانشکده مهندسی برق و کامپیوتر" } },
-    { "name": { "en": "Mechanical and Energy Engineering", "fa": "مهندسی مکانیک و انرژی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Mechanical and Energy Engineering", "fa": "دانشکده مهندسی مکانیک و انرژی" } },
-    { "name": { "en": "Architecture and Urban Planning", "fa": "معماری و شهرسازی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Architecture and Urban Planning", "fa": "دانشکده معماری و شهرسازی" } },
-    { "name": { "en": "Earth Sciences", "fa": "علوم زمین" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Earth Sciences", "fa": "دانشکده علوم زمین" } },
-    { "name": { "en": "Educational Sciences and Psychology", "fa": "علوم تربیتی و روان‌شناسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Behavioral Sciences", "fa": "دانشکده علوم تربیتی و روان‌شناسی" } },
-    { "name": { "en": "Biological Sciences", "fa": "علوم زیستی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Biological Sciences", "fa": "دانشکده علوم زیستی" } },
-    { "name": { "en": "Environmental Studies", "fa": "مطالعات محیط‌زیست" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Interdisciplinary Research Areas", "fa": "رشته‌های بین‌رشته‌ای" } }
+    {
+      "name": {
+        "en": "Letters and Human Sciences",
+        "fa": "ادبیات و علوم انسانی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Letters and Human Sciences",
+        "fa": "دانشکده ادبیات و علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Law",
+        "fa": "حقوق"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Law",
+        "fa": "دانشکده حقوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Economics and Political Sciences",
+        "fa": "اقتصاد و علوم سیاسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Economics and Political Sciences",
+        "fa": "دانشکده اقتصاد و علوم سیاسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Management and Accounting",
+        "fa": "مدیریت و حسابداری"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Management and Accounting",
+        "fa": "دانشکده مدیریت و حسابداری"
+      }
+    },
+    {
+      "name": {
+        "en": "Science",
+        "fa": "علوم"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Science",
+        "fa": "دانشکده علوم"
+      }
+    },
+    {
+      "name": {
+        "en": "Electrical and Computer Engineering",
+        "fa": "مهندسی برق و کامپیوتر"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Electrical and Computer Engineering",
+        "fa": "دانشکده مهندسی برق و کامپیوتر"
+      }
+    },
+    {
+      "name": {
+        "en": "Mechanical and Energy Engineering",
+        "fa": "مهندسی مکانیک و انرژی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Mechanical and Energy Engineering",
+        "fa": "دانشکده مهندسی مکانیک و انرژی"
+      }
+    },
+    {
+      "name": {
+        "en": "Architecture and Urban Planning",
+        "fa": "معماری و شهرسازی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Architecture and Urban Planning",
+        "fa": "دانشکده معماری و شهرسازی"
+      }
+    },
+    {
+      "name": {
+        "en": "Earth Sciences",
+        "fa": "علوم زمین"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Earth Sciences",
+        "fa": "دانشکده علوم زمین"
+      }
+    },
+    {
+      "name": {
+        "en": "Educational Sciences and Psychology",
+        "fa": "علوم تربیتی و روان‌شناسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Behavioral Sciences",
+        "fa": "دانشکده علوم تربیتی و روان‌شناسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Biological Sciences",
+        "fa": "علوم زیستی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Biological Sciences",
+        "fa": "دانشکده علوم زیستی"
+      }
+    },
+    {
+      "name": {
+        "en": "Environmental Studies",
+        "fa": "مطالعات محیط‌زیست"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Interdisciplinary Research Areas",
+        "fa": "رشته‌های بین‌رشته‌ای"
+      }
+    }
   ],
   "studentLife": {
     "en": "As the capital city of Iran, Tehran offers international students access to leading universities and research centers, libraries and cultural institutions, professional networking opportunities, public transportation facilities, and a diverse social and cultural environment. Estimated monthly student living costs include approximately $10-60 for transportation, $25-100 for dormitory, $25-100 for food, and $8-10 for insurance, with a total estimated monthly living cost of approximately $128-280.",
@@ -97,24 +280,54 @@
   },
   "faq": [
     {
-      "question": { "en": "Does Shahid Beheshti University accept international students?", "fa": "آیا دانشگاه شهید بهشتی دانشجوی بین‌المللی می‌پذیرد؟" },
-      "answer": { "en": "Yes. International students can apply for available programs based on university regulations.", "fa": "بله، دانشجویان بین‌المللی می‌توانند برای رشته‌های ارائه‌شده طبق قوانین دانشگاه درخواست دهند." }
+      "question": {
+        "en": "Does Shahid Beheshti University accept international students?",
+        "fa": "آیا دانشگاه شهید بهشتی دانشجوی بین‌المللی می‌پذیرد؟"
+      },
+      "answer": {
+        "en": "Yes. International students can apply for available programs based on university regulations.",
+        "fa": "بله، دانشجویان بین‌المللی می‌توانند برای رشته‌های ارائه‌شده طبق قوانین دانشگاه درخواست دهند."
+      }
     },
     {
-      "question": { "en": "What programs are available for international students?", "fa": "چه رشته‌هایی برای دانشجویان خارجی ارائه می‌شود؟" },
-      "answer": { "en": "The university offers programs in various fields, including engineering, sciences, humanities, management, law, and social sciences.", "fa": "این دانشگاه در حوزه‌های مهندسی، علوم پایه، علوم انسانی، مدیریت، حقوق و علوم اجتماعی برنامه‌های متنوعی ارائه می‌دهد." }
+      "question": {
+        "en": "What programs are available for international students?",
+        "fa": "چه رشته‌هایی برای دانشجویان خارجی ارائه می‌شود؟"
+      },
+      "answer": {
+        "en": "The university offers programs in various fields, including engineering, sciences, humanities, management, law, and social sciences.",
+        "fa": "این دانشگاه در حوزه‌های مهندسی، علوم پایه، علوم انسانی، مدیریت، حقوق و علوم اجتماعی برنامه‌های متنوعی ارائه می‌دهد."
+      }
     },
     {
-      "question": { "en": "Is English education available at SBU?", "fa": "آیا امکان تحصیل به زبان انگلیسی وجود دارد؟" },
-      "answer": { "en": "Some programs, especially at graduate levels, may be offered in English. Requirements depend on the selected program.", "fa": "برخی برنامه‌ها، به‌خصوص در مقاطع تحصیلات تکمیلی، ممکن است به زبان انگلیسی ارائه شوند." }
+      "question": {
+        "en": "Is English education available at SBU?",
+        "fa": "آیا امکان تحصیل به زبان انگلیسی وجود دارد؟"
+      },
+      "answer": {
+        "en": "Some programs, especially at graduate levels, may be offered in English. Requirements depend on the selected program.",
+        "fa": "برخی برنامه‌ها، به‌خصوص در مقاطع تحصیلات تکمیلی، ممکن است به زبان انگلیسی ارائه شوند."
+      }
     },
     {
-      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه دارد؟" },
-      "answer": { "en": "Yes. Student accommodation may be available based on capacity.", "fa": "بله، خوابگاه دانشجویی بر اساس ظرفیت در اختیار دانشجویان قرار می‌گیرد." }
+      "question": {
+        "en": "Does the university provide accommodation?",
+        "fa": "آیا دانشگاه خوابگاه دارد؟"
+      },
+      "answer": {
+        "en": "Yes. Student accommodation may be available based on capacity.",
+        "fa": "بله، خوابگاه دانشجویی بر اساس ظرفیت در اختیار دانشجویان قرار می‌گیرد."
+      }
     },
     {
-      "question": { "en": "Are scholarships or tuition discounts available?", "fa": "آیا تخفیف شهریه وجود دارد؟" },
-      "answer": { "en": "Eligible students may receive tuition discounts according to university policies.", "fa": "بله، دانشجویان واجد شرایط می‌توانند از تخفیف‌های شهریه دانشگاه استفاده کنند." }
+      "question": {
+        "en": "Are scholarships or tuition discounts available?",
+        "fa": "آیا تخفیف شهریه وجود دارد؟"
+      },
+      "answer": {
+        "en": "Eligible students may receive tuition discounts according to university policies.",
+        "fa": "بله، دانشجویان واجد شرایط می‌توانند از تخفیف‌های شهریه دانشگاه استفاده کنند."
+      }
     }
   ]
 }

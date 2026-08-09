@@ -1,5 +1,6 @@
 {
   "slug": "shahid-beheshti-university-of-medical-sciences",
+  "category": "medical",
   "name": {
     "en": "Shahid Beheshti University of Medical Sciences",
     "fa": "دانشگاه علوم پزشکی شهید بهشتی"
@@ -97,49 +98,130 @@
   },
   "programs": [
     {
-      "name": { "en": "Doctor of Medicine (MD)", "fa": "دکترای حرفه‌ای پزشکی (MD)" },
-      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
-      "faculty": { "en": "Faculty of Medicine", "fa": "دانشکده پزشکی" }
+      "name": {
+        "en": "Doctor of Medicine (MD)",
+        "fa": "دکترای حرفه‌ای پزشکی (MD)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "Faculty of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
     },
     {
-      "name": { "en": "Doctor of Dental Surgery (DDS)", "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)" },
-      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
-      "faculty": { "en": "Faculty of Dentistry", "fa": "دانشکده دندانپزشکی" }
+      "name": {
+        "en": "Doctor of Dental Surgery (DDS)",
+        "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "Faculty of Dentistry",
+        "fa": "دانشکده دندانپزشکی"
+      }
     },
     {
-      "name": { "en": "Doctor of Pharmacy (PharmD)", "fa": "دکترای حرفه‌ای داروسازی (PharmD)" },
-      "degreeLevel": { "en": "Doctorate", "fa": "دکترای حرفه‌ای" },
-      "faculty": { "en": "Faculty of Pharmacy", "fa": "دانشکده داروسازی" }
+      "name": {
+        "en": "Doctor of Pharmacy (PharmD)",
+        "fa": "دکترای حرفه‌ای داروسازی (PharmD)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "Faculty of Pharmacy",
+        "fa": "دانشکده داروسازی"
+      }
     },
     {
-      "name": { "en": "Allied Health & Medical Sciences Programs", "fa": "رشته‌های علوم پیراپزشکی و سلامت" },
-      "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" },
-      "faculty": { "en": "Faculty of Allied Medical Sciences", "fa": "دانشکده علوم پیراپزشکی" }
+      "name": {
+        "en": "Allied Health & Medical Sciences Programs",
+        "fa": "رشته‌های علوم پیراپزشکی و سلامت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "Faculty of Allied Medical Sciences",
+        "fa": "دانشکده علوم پیراپزشکی"
+      }
     },
     {
-      "name": { "en": "Master's Programs", "fa": "دوره‌های کارشناسی ارشد" },
-      "degreeLevel": { "en": "Master's", "fa": "کارشناسی ارشد" },
-      "faculty": { "en": "Graduate Studies", "fa": "تحصیلات تکمیلی" }
+      "name": {
+        "en": "Master's Programs",
+        "fa": "دوره‌های کارشناسی ارشد"
+      },
+      "degreeLevel": {
+        "en": "Master's",
+        "fa": "کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "Graduate Studies",
+        "fa": "تحصیلات تکمیلی"
+      }
     },
     {
-      "name": { "en": "Doctor of Philosophy (PhD)", "fa": "دکترای تخصصی (PhD)" },
-      "degreeLevel": { "en": "PhD", "fa": "دکترای تخصصی" },
-      "faculty": { "en": "Graduate Studies", "fa": "تحصیلات تکمیلی" }
+      "name": {
+        "en": "Doctor of Philosophy (PhD)",
+        "fa": "دکترای تخصصی (PhD)"
+      },
+      "degreeLevel": {
+        "en": "PhD",
+        "fa": "دکترای تخصصی"
+      },
+      "faculty": {
+        "en": "Graduate Studies",
+        "fa": "تحصیلات تکمیلی"
+      }
     },
     {
-      "name": { "en": "Medical Residency Programs", "fa": "دوره‌های دستیاری تخصصی" },
-      "degreeLevel": { "en": "Residency", "fa": "تخصص" },
-      "faculty": { "en": "Faculty of Medicine", "fa": "دانشکده پزشکی" }
+      "name": {
+        "en": "Medical Residency Programs",
+        "fa": "دوره‌های دستیاری تخصصی"
+      },
+      "degreeLevel": {
+        "en": "Residency",
+        "fa": "تخصص"
+      },
+      "faculty": {
+        "en": "Faculty of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
     },
     {
-      "name": { "en": "Fellowship Programs", "fa": "دوره‌های فلوشیپ" },
-      "degreeLevel": { "en": "Fellowship", "fa": "فلوشیپ" },
-      "faculty": { "en": "Faculty of Medicine", "fa": "دانشکده پزشکی" }
+      "name": {
+        "en": "Fellowship Programs",
+        "fa": "دوره‌های فلوشیپ"
+      },
+      "degreeLevel": {
+        "en": "Fellowship",
+        "fa": "فلوشیپ"
+      },
+      "faculty": {
+        "en": "Faculty of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
     },
     {
-      "name": { "en": "Subspecialty Programs", "fa": "دوره‌های فوق‌تخصصی" },
-      "degreeLevel": { "en": "Subspecialty", "fa": "فوق تخصص" },
-      "faculty": { "en": "Faculty of Medicine", "fa": "دانشکده پزشکی" }
+      "name": {
+        "en": "Subspecialty Programs",
+        "fa": "دوره‌های فوق‌تخصصی"
+      },
+      "degreeLevel": {
+        "en": "Subspecialty",
+        "fa": "فوق تخصص"
+      },
+      "faculty": {
+        "en": "Faculty of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
     }
   ],
   "studentLife": {
@@ -152,20 +234,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Do I need an English language certificate?", "fa": "آیا برای پذیرش به مدرک زبان انگلیسی نیاز دارم؟" },
-      "answer": { "en": "Language requirements vary depending on the program; some programs may require an English language interview or proof of English proficiency.", "fa": "شرایط زبان بسته به رشته و مقطع تحصیلی متفاوت است؛ برخی برنامه‌ها ممکن است ارزیابی زبان انگلیسی یا مصاحبه داشته باشند." }
+      "question": {
+        "en": "Do I need an English language certificate?",
+        "fa": "آیا برای پذیرش به مدرک زبان انگلیسی نیاز دارم؟"
+      },
+      "answer": {
+        "en": "Language requirements vary depending on the program; some programs may require an English language interview or proof of English proficiency.",
+        "fa": "شرایط زبان بسته به رشته و مقطع تحصیلی متفاوت است؛ برخی برنامه‌ها ممکن است ارزیابی زبان انگلیسی یا مصاحبه داشته باشند."
+      }
     },
     {
-      "question": { "en": "Is student accommodation available?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
-      "answer": { "en": "Yes, student dormitories are available for international students, subject to university capacity.", "fa": "بله، خوابگاه برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+      "question": {
+        "en": "Is student accommodation available?",
+        "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes, student dormitories are available for international students, subject to university capacity.",
+        "fa": "بله، خوابگاه برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است."
+      }
     },
     {
-      "question": { "en": "Is the application process completed online?", "fa": "آیا پذیرش به‌صورت آنلاین انجام می‌شود؟" },
-      "answer": { "en": "Yes, initial applications and document submission are completed through the university's online admission system.", "fa": "بله، ثبت درخواست اولیه و ارسال مدارک از طریق سامانه پذیرش آنلاین دانشگاه انجام می‌شود." }
+      "question": {
+        "en": "Is the application process completed online?",
+        "fa": "آیا پذیرش به‌صورت آنلاین انجام می‌شود؟"
+      },
+      "answer": {
+        "en": "Yes, initial applications and document submission are completed through the university's online admission system.",
+        "fa": "بله، ثبت درخواست اولیه و ارسال مدارک از طریق سامانه پذیرش آنلاین دانشگاه انجام می‌شود."
+      }
     },
     {
-      "question": { "en": "Do I need a student visa after receiving admission?", "fa": "آیا پس از دریافت پذیرش، ویزای تحصیلی نیز باید دریافت کنم؟" },
-      "answer": { "en": "Yes, all international students must obtain a valid Iranian student visa, including a SAORG code, before completing their final enrollment.", "fa": "بله، دریافت ویزای تحصیلی معتبر ایران، از جمله دریافت کد SAORG، یکی از الزامات پیش از ثبت‌نام نهایی در دانشگاه است." }
+      "question": {
+        "en": "Do I need a student visa after receiving admission?",
+        "fa": "آیا پس از دریافت پذیرش، ویزای تحصیلی نیز باید دریافت کنم؟"
+      },
+      "answer": {
+        "en": "Yes, all international students must obtain a valid Iranian student visa, including a SAORG code, before completing their final enrollment.",
+        "fa": "بله، دریافت ویزای تحصیلی معتبر ایران، از جمله دریافت کد SAORG، یکی از الزامات پیش از ثبت‌نام نهایی در دانشگاه است."
+      }
     }
   ]
 }

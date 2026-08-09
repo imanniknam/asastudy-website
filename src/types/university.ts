@@ -21,8 +21,17 @@ export interface FaqItem {
   answer: LocalizedText;
 }
 
+/**
+ * ASA-Study organises its whole portfolio along this split, so it drives the
+ * universities directory, the home page, and every university card.
+ */
+export type UniversityCategory = "medical" | "non-medical";
+
+export const UNIVERSITY_CATEGORIES: UniversityCategory[] = ["medical", "non-medical"];
+
 export interface University {
   slug: string;
+  category: UniversityCategory;
   name: LocalizedText;
   shortName?: LocalizedText;
   city: LocalizedText;

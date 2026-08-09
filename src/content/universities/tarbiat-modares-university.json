@@ -1,17 +1,44 @@
 {
   "slug": "tarbiat-modares-university",
-  "name": { "en": "Tarbiat Modares University (TMU)", "fa": "دانشگاه تربیت مدرس (TMU)" },
-  "shortName": { "en": "TMU", "fa": "TMU" },
-  "city": { "en": "Tehran", "fa": "تهران" },
-  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "category": "non-medical",
+  "name": {
+    "en": "Tarbiat Modares University (TMU)",
+    "fa": "دانشگاه تربیت مدرس (TMU)"
+  },
+  "shortName": {
+    "en": "TMU",
+    "fa": "TMU"
+  },
+  "city": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
+  "type": {
+    "en": "Public University",
+    "fa": "دانشگاه دولتی"
+  },
   "established": "1982",
   "ranking": {
     "en": "One of Iran's leading research-oriented universities, focused exclusively on Master's and PhD education and training of future university professors and researchers.",
     "fa": "یکی از معتبرترین دانشگاه‌های پژوهش‌محور ایران که به‌طور تخصصی بر آموزش تکمیلی در مقاطع کارشناسی ارشد و دکتری و تربیت اعضای هیئت علمی متمرکز است."
   },
   "featuredPrograms": {
-    "en": ["Electrical and Computer Engineering", "Civil and Environmental Engineering", "Biological Sciences", "Chemistry", "Agriculture", "Law"],
-    "fa": ["مهندسی برق و کامپیوتر", "مهندسی عمران و محیط زیست", "علوم زیستی", "شیمی", "کشاورزی", "حقوق"]
+    "en": [
+      "Electrical and Computer Engineering",
+      "Civil and Environmental Engineering",
+      "Biological Sciences",
+      "Chemistry",
+      "Agriculture",
+      "Law"
+    ],
+    "fa": [
+      "مهندسی برق و کامپیوتر",
+      "مهندسی عمران و محیط زیست",
+      "علوم زیستی",
+      "شیمی",
+      "کشاورزی",
+      "حقوق"
+    ]
   },
   "summary": {
     "en": "One of Iran's leading research-oriented universities in Tehran, TMU focuses exclusively on Master's and PhD education, specializing in training university professors, researchers, and highly qualified specialists.",
@@ -76,22 +103,230 @@
     "fa": "دانشگاه تربیت مدرس تخفیف‌های شهریه متعددی برای دانشجویان بین‌المللی واجد شرایط در نظر می‌گیرد: ۲۰٪ برای رتبه اول هر رشته در هر ترم، ۱۰٪ برای رتبه دوم در کلاس‌های با بیش از ۱۰ نفر، ۱۰٪ برای تحصیل همزمان اعضای خانواده، ۱۰٪ برای رشته‌های مرتبط با زبان و فرهنگ ایران، ۲۰٪ برای فارغ‌التحصیلان دانشگاه تربیت مدرس و ۱۰٪ برای فارغ‌التحصیلان سایر دانشگاه‌های ایران."
   },
   "programs": [
-    { "name": { "en": "Humanities", "fa": "علوم انسانی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Law", "fa": "حقوق" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Law", "fa": "دانشکده حقوق" } },
-    { "name": { "en": "Management and Economics", "fa": "مدیریت و اقتصاد" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Management and Economics", "fa": "دانشکده مدیریت و اقتصاد" } },
-    { "name": { "en": "Biological Sciences", "fa": "علوم زیستی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Chemistry", "fa": "شیمی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Mathematics", "fa": "ریاضی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Physics", "fa": "فیزیک" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Electrical and Computer Engineering", "fa": "مهندسی برق و کامپیوتر" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Civil and Environmental Engineering", "fa": "مهندسی عمران و محیط زیست" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Materials Engineering", "fa": "مهندسی مواد" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Agriculture", "fa": "کشاورزی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture", "fa": "دانشکده کشاورزی" } },
-    { "name": { "en": "Natural Resources", "fa": "منابع طبیعی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Natural Resources", "fa": "دانشکده منابع طبیعی" } },
-    { "name": { "en": "Arts and Architecture", "fa": "هنر و معماری" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Art and Architecture", "fa": "دانشکده هنر و معماری" } },
-    { "name": { "en": "Medical Sciences", "fa": "علوم پزشکی" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Medical Sciences", "fa": "دانشکده علوم پزشکی" } },
-    { "name": { "en": "Interdisciplinary Sciences", "fa": "علوم بین‌رشته‌ای" }, "degreeLevel": { "en": "Master's / PhD", "fa": "کارشناسی ارشد / دکتری" }, "faculty": { "en": "Interdisciplinary Sciences", "fa": "علوم بین‌رشته‌ای" } }
+    {
+      "name": {
+        "en": "Humanities",
+        "fa": "علوم انسانی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Law",
+        "fa": "حقوق"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Law",
+        "fa": "دانشکده حقوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Management and Economics",
+        "fa": "مدیریت و اقتصاد"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Management and Economics",
+        "fa": "دانشکده مدیریت و اقتصاد"
+      }
+    },
+    {
+      "name": {
+        "en": "Biological Sciences",
+        "fa": "علوم زیستی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Chemistry",
+        "fa": "شیمی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Mathematics",
+        "fa": "ریاضی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Physics",
+        "fa": "فیزیک"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Electrical and Computer Engineering",
+        "fa": "مهندسی برق و کامپیوتر"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Civil and Environmental Engineering",
+        "fa": "مهندسی عمران و محیط زیست"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Mechanical Engineering",
+        "fa": "مهندسی مکانیک"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Materials Engineering",
+        "fa": "مهندسی مواد"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Agriculture",
+        "fa": "کشاورزی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Agriculture",
+        "fa": "دانشکده کشاورزی"
+      }
+    },
+    {
+      "name": {
+        "en": "Natural Resources",
+        "fa": "منابع طبیعی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Natural Resources",
+        "fa": "دانشکده منابع طبیعی"
+      }
+    },
+    {
+      "name": {
+        "en": "Arts and Architecture",
+        "fa": "هنر و معماری"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Art and Architecture",
+        "fa": "دانشکده هنر و معماری"
+      }
+    },
+    {
+      "name": {
+        "en": "Medical Sciences",
+        "fa": "علوم پزشکی"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Medical Sciences",
+        "fa": "دانشکده علوم پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Interdisciplinary Sciences",
+        "fa": "علوم بین‌رشته‌ای"
+      },
+      "degreeLevel": {
+        "en": "Master's / PhD",
+        "fa": "کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Interdisciplinary Sciences",
+        "fa": "علوم بین‌رشته‌ای"
+      }
+    }
   ],
   "studentLife": {
     "en": "As the capital city of Iran, Tehran provides international students at TMU with extensive educational, cultural, and professional opportunities, along with access to major scientific, cultural, and economic facilities of the capital. Estimated monthly student expenses include approximately $25-100 for dormitory, $10-60 for transportation, $25-100 for food, and $8-10 for insurance, with a total estimated monthly living cost of approximately $128-280 depending on lifestyle and accommodation choices.",
@@ -103,20 +338,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Does Tarbiat Modares University offer undergraduate programs?", "fa": "آیا دانشگاه تربیت مدرس دوره کارشناسی ارائه می‌دهد؟" },
-      "answer": { "en": "No. TMU mainly focuses on Master's and PhD programs.", "fa": "خیر. تمرکز اصلی دانشگاه تربیت مدرس بر دوره‌های کارشناسی ارشد و دکتری است." }
+      "question": {
+        "en": "Does Tarbiat Modares University offer undergraduate programs?",
+        "fa": "آیا دانشگاه تربیت مدرس دوره کارشناسی ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "No. TMU mainly focuses on Master's and PhD programs.",
+        "fa": "خیر. تمرکز اصلی دانشگاه تربیت مدرس بر دوره‌های کارشناسی ارشد و دکتری است."
+      }
     },
     {
-      "question": { "en": "Can international students apply for PhD programs?", "fa": "آیا دانشجویان بین‌المللی می‌توانند برای دکتری اقدام کنند؟" },
-      "answer": { "en": "Yes. TMU is one of Iran's leading universities for doctoral studies and research-based programs.", "fa": "بله، این دانشگاه یکی از گزینه‌های اصلی ایران برای تحصیلات تکمیلی و پژوهش‌های دکتری است." }
+      "question": {
+        "en": "Can international students apply for PhD programs?",
+        "fa": "آیا دانشجویان بین‌المللی می‌توانند برای دکتری اقدام کنند؟"
+      },
+      "answer": {
+        "en": "Yes. TMU is one of Iran's leading universities for doctoral studies and research-based programs.",
+        "fa": "بله، این دانشگاه یکی از گزینه‌های اصلی ایران برای تحصیلات تکمیلی و پژوهش‌های دکتری است."
+      }
     },
     {
-      "question": { "en": "Is a language certificate required?", "fa": "آیا ارائه مدرک زبان الزامی است؟" },
-      "answer": { "en": "Language requirements depend on the selected program and faculty. Many programs require proof of language proficiency.", "fa": "بسته به رشته و دانشکده متفاوت است، اما بسیاری از برنامه‌ها به اثبات مهارت زبان نیاز دارند." }
+      "question": {
+        "en": "Is a language certificate required?",
+        "fa": "آیا ارائه مدرک زبان الزامی است؟"
+      },
+      "answer": {
+        "en": "Language requirements depend on the selected program and faculty. Many programs require proof of language proficiency.",
+        "fa": "بسته به رشته و دانشکده متفاوت است، اما بسیاری از برنامه‌ها به اثبات مهارت زبان نیاز دارند."
+      }
     },
     {
-      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه دارد؟" },
-      "answer": { "en": "Yes. Student housing is available for international students based on capacity.", "fa": "بله، خوابگاه برای دانشجویان بین‌المللی در صورت وجود ظرفیت ارائه می‌شود." }
+      "question": {
+        "en": "Does the university provide accommodation?",
+        "fa": "آیا دانشگاه خوابگاه دارد؟"
+      },
+      "answer": {
+        "en": "Yes. Student housing is available for international students based on capacity.",
+        "fa": "بله، خوابگاه برای دانشجویان بین‌المللی در صورت وجود ظرفیت ارائه می‌شود."
+      }
     }
   ]
 }

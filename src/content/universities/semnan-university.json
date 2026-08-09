@@ -1,16 +1,40 @@
 {
   "slug": "semnan-university",
+  "category": "non-medical",
   "name": {
     "en": "Semnan University (SU)",
     "fa": "دانشگاه سمنان (SU)"
   },
-  "shortName": { "en": "SU", "fa": "SU" },
-  "city": { "en": "Semnan", "fa": "سمنان" },
-  "type": { "en": "Public University", "fa": "دانشگاه دولتی" },
+  "shortName": {
+    "en": "SU",
+    "fa": "SU"
+  },
+  "city": {
+    "en": "Semnan",
+    "fa": "سمنان"
+  },
+  "type": {
+    "en": "Public University",
+    "fa": "دانشگاه دولتی"
+  },
   "established": "1974",
   "featuredPrograms": {
-    "en": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Architecture", "Management", "Physics"],
-    "fa": ["مهندسی مکانیک", "مهندسی برق", "مهندسی عمران", "معماری", "مدیریت", "فیزیک"]
+    "en": [
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Civil Engineering",
+      "Architecture",
+      "Management",
+      "Physics"
+    ],
+    "fa": [
+      "مهندسی مکانیک",
+      "مهندسی برق",
+      "مهندسی عمران",
+      "معماری",
+      "مدیریت",
+      "فیزیک"
+    ]
   },
   "summary": {
     "en": "A public comprehensive university located between Tehran and Mashhad, Semnan University offers engineering, basic sciences, humanities, art and architecture programs in a peaceful, affordable city.",
@@ -69,23 +93,244 @@
     "fa": "شهریه دانشجویان بین‌المللی دانشگاه سمنان بر اساس مقطع تحصیلی، رشته انتخابی و تعداد واحدهای درسی تعیین می‌شود. میزان دقیق شهریه هر سال توسط دانشگاه اعلام می‌شود و متقاضیان باید پیش از ثبت‌نام نهایی، اطلاعات به‌روز را از دفتر امور بین‌الملل دریافت کنند."
   },
   "programs": [
-    { "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
-    { "name": { "en": "Electrical Engineering", "fa": "مهندسی برق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
-    { "name": { "en": "Civil Engineering", "fa": "مهندسی عمران" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
-    { "name": { "en": "Computer Engineering", "fa": "مهندسی کامپیوتر" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
-    { "name": { "en": "Materials Engineering", "fa": "مهندسی مواد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
-    { "name": { "en": "Chemical Engineering", "fa": "مهندسی شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" } },
-    { "name": { "en": "Mathematics", "fa": "ریاضی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Physics", "fa": "فیزیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Chemistry", "fa": "شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Biology", "fa": "زیست‌شناسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Management", "fa": "مدیریت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Economics", "fa": "اقتصاد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Law", "fa": "حقوق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Persian Language and Literature", "fa": "زبان و ادبیات فارسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Social Sciences", "fa": "علوم اجتماعی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Architecture", "fa": "معماری" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Art and Architecture", "fa": "دانشکده هنر و معماری" } },
-    { "name": { "en": "Urban Planning", "fa": "شهرسازی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Art and Architecture", "fa": "دانشکده هنر و معماری" } }
+    {
+      "name": {
+        "en": "Mechanical Engineering",
+        "fa": "مهندسی مکانیک"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Electrical Engineering",
+        "fa": "مهندسی برق"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Civil Engineering",
+        "fa": "مهندسی عمران"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Computer Engineering",
+        "fa": "مهندسی کامپیوتر"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Materials Engineering",
+        "fa": "مهندسی مواد"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Chemical Engineering",
+        "fa": "مهندسی شیمی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Mathematics",
+        "fa": "ریاضی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Physics",
+        "fa": "فیزیک"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Chemistry",
+        "fa": "شیمی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Biology",
+        "fa": "زیست‌شناسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Management",
+        "fa": "مدیریت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Economics",
+        "fa": "اقتصاد"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Law",
+        "fa": "حقوق"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Persian Language and Literature",
+        "fa": "زبان و ادبیات فارسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Social Sciences",
+        "fa": "علوم اجتماعی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Architecture",
+        "fa": "معماری"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Art and Architecture",
+        "fa": "دانشکده هنر و معماری"
+      }
+    },
+    {
+      "name": {
+        "en": "Urban Planning",
+        "fa": "شهرسازی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Art and Architecture",
+        "fa": "دانشکده هنر و معماری"
+      }
+    }
   ],
   "studentLife": {
     "en": "Semnan is one of Iran's historic cities, known for its peaceful environment, affordable living costs, and suitable conditions for students. Compared with major cities such as Tehran, living expenses in Semnan are generally lower, allowing students to manage their daily costs more easily. The city's geographical location also provides relatively convenient access to Tehran and other major Iranian cities.",
@@ -97,20 +342,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Does Semnan University accept international students?", "fa": "آیا دانشگاه سمنان دانشجوی بین‌المللی می‌پذیرد؟" },
-      "answer": { "en": "Yes, Semnan University accepts international applicants in various academic programs.", "fa": "بله، دانشگاه سمنان امکان پذیرش دانشجویان خارجی را در رشته‌های مختلف دارد." }
+      "question": {
+        "en": "Does Semnan University accept international students?",
+        "fa": "آیا دانشگاه سمنان دانشجوی بین‌المللی می‌پذیرد؟"
+      },
+      "answer": {
+        "en": "Yes, Semnan University accepts international applicants in various academic programs.",
+        "fa": "بله، دانشگاه سمنان امکان پذیرش دانشجویان خارجی را در رشته‌های مختلف دارد."
+      }
     },
     {
-      "question": { "en": "What is the language of instruction at the university?", "fa": "زبان تحصیل در دانشگاه چیست؟" },
-      "answer": { "en": "The main language of instruction is Persian, although English academic resources may be used in some programs.", "fa": "زبان اصلی آموزش فارسی است، اما در برخی رشته‌ها از منابع انگلیسی نیز استفاده می‌شود." }
+      "question": {
+        "en": "What is the language of instruction at the university?",
+        "fa": "زبان تحصیل در دانشگاه چیست؟"
+      },
+      "answer": {
+        "en": "The main language of instruction is Persian, although English academic resources may be used in some programs.",
+        "fa": "زبان اصلی آموزش فارسی است، اما در برخی رشته‌ها از منابع انگلیسی نیز استفاده می‌شود."
+      }
     },
     {
-      "question": { "en": "Does the university provide accommodation for international students?", "fa": "آیا خوابگاه برای دانشجویان خارجی وجود دارد؟" },
-      "answer": { "en": "Yes, if capacity allows, international students can use university dormitories.", "fa": "بله، در صورت وجود ظرفیت، دانشجویان بین‌المللی می‌توانند از خوابگاه استفاده کنند." }
+      "question": {
+        "en": "Does the university provide accommodation for international students?",
+        "fa": "آیا خوابگاه برای دانشجویان خارجی وجود دارد؟"
+      },
+      "answer": {
+        "en": "Yes, if capacity allows, international students can use university dormitories.",
+        "fa": "بله، در صورت وجود ظرفیت، دانشجویان بین‌المللی می‌توانند از خوابگاه استفاده کنند."
+      }
     },
     {
-      "question": { "en": "Is it possible to study at Master's and PhD levels?", "fa": "آیا امکان تحصیل در مقاطع ارشد و دکتری وجود دارد؟" },
-      "answer": { "en": "Yes, Semnan University also accepts students at Master's and PhD levels.", "fa": "بله، دانشگاه سمنان در مقاطع کارشناسی ارشد و دکتری نیز پذیرش دارد." }
+      "question": {
+        "en": "Is it possible to study at Master's and PhD levels?",
+        "fa": "آیا امکان تحصیل در مقاطع ارشد و دکتری وجود دارد؟"
+      },
+      "answer": {
+        "en": "Yes, Semnan University also accepts students at Master's and PhD levels.",
+        "fa": "بله، دانشگاه سمنان در مقاطع کارشناسی ارشد و دکتری نیز پذیرش دارد."
+      }
     }
   ]
 }

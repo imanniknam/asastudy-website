@@ -1,9 +1,9 @@
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowUpRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
-import type { University } from "@/types/university";
-import type { Locale } from "@/types/university";
+import type { University, Locale } from "@/types/university";
 import { Badge } from "@/components/ui/badge";
+import { CategoryBadge } from "@/components/universities/category-badge";
 
 function initials(name: string) {
   return name
@@ -32,9 +32,12 @@ export function UniversityCard({ university }: { university: University }) {
       </div>
 
       <div className="flex flex-1 flex-col gap-3 p-6">
-        <div className="flex items-center gap-1.5 text-xs font-medium text-muted">
-          <MapPin className="size-3.5 text-accent" />
-          {university.city[locale]}
+        <div className="flex flex-wrap items-center gap-2">
+          <CategoryBadge category={university.category} />
+          <span className="flex items-center gap-1.5 text-xs font-medium text-muted">
+            <MapPin className="size-3.5 text-accent" />
+            {university.city[locale]}
+          </span>
         </div>
         <h3 className="text-lg font-semibold leading-snug text-text transition-colors group-hover:text-accent">
           {university.name[locale]}

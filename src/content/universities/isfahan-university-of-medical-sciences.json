@@ -1,17 +1,44 @@
 {
   "slug": "isfahan-university-of-medical-sciences",
-  "name": { "en": "Isfahan University of Medical Sciences (IUMS)", "fa": "دانشگاه علوم پزشکی اصفهان (IUMS)" },
-  "shortName": { "en": "IUMS", "fa": "IUMS" },
-  "city": { "en": "Isfahan", "fa": "اصفهان" },
-  "type": { "en": "Public Medical University", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "category": "medical",
+  "name": {
+    "en": "Isfahan University of Medical Sciences (IUMS)",
+    "fa": "دانشگاه علوم پزشکی اصفهان (IUMS)"
+  },
+  "shortName": {
+    "en": "IUMS",
+    "fa": "IUMS"
+  },
+  "city": {
+    "en": "Isfahan",
+    "fa": "اصفهان"
+  },
+  "type": {
+    "en": "Public Medical University",
+    "fa": "دانشگاه دولتی علوم پزشکی"
+  },
   "established": "1946",
   "ranking": {
     "en": "One of Iran's most recognized medical universities, with a long-standing history in medical education and healthcare research.",
     "fa": "یکی از شناخته‌شده‌ترین دانشگاه‌های علوم پزشکی ایران با سابقه طولانی در آموزش پزشکی و پژوهش‌های سلامت."
   },
   "featuredPrograms": {
-    "en": ["Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Health", "Rehabilitation Sciences"],
-    "fa": ["پزشکی عمومی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "بهداشت", "علوم توانبخشی"]
+    "en": [
+      "Medicine (MD)",
+      "Dentistry (DDS)",
+      "Pharmacy (PharmD)",
+      "Nursing and Midwifery",
+      "Health",
+      "Rehabilitation Sciences"
+    ],
+    "fa": [
+      "پزشکی عمومی",
+      "دندانپزشکی",
+      "داروسازی",
+      "پرستاری و مامایی",
+      "بهداشت",
+      "علوم توانبخشی"
+    ]
   },
   "summary": {
     "en": "One of Iran's most recognized medical universities, IUMS in the historic city of Isfahan offers a wide range of medical and health science programs backed by teaching hospitals and active research centers.",
@@ -72,14 +99,118 @@
     "fa": "دانشجویان بین‌المللی موظف به پرداخت شهریه تحصیلی مطابق قوانین دانشگاه هستند. میزان شهریه به عوامل مختلفی از جمله رشته تحصیلی، مقطع تحصیلی، نوع برنامه آموزشی و قوانین سالانه دانشگاه بستگی دارد. متقاضیان باید برای اطلاع از آخرین شهریه‌ها با دفتر امور بین‌الملل دانشگاه تماس بگیرند."
   },
   "programs": [
-    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "پزشکی عمومی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Dentistry", "fa": "دندانپزشکی" }, "degreeLevel": { "en": "DDS", "fa": "دندانپزشکی (DDS)" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
-    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
-    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
-    { "name": { "en": "Health", "fa": "بهداشت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Health", "fa": "دانشکده بهداشت" } },
-    { "name": { "en": "Rehabilitation Sciences", "fa": "علوم توانبخشی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Rehabilitation Sciences", "fa": "دانشکده علوم توانبخشی" } },
-    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } },
-    { "name": { "en": "Medical Residency and Fellowship Programs", "fa": "دوره‌های تخصص و فوق تخصص پزشکی" }, "degreeLevel": { "en": "Residency / Fellowship", "fa": "تخصص / فوق تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } }
+    {
+      "name": {
+        "en": "Medicine",
+        "fa": "پزشکی"
+      },
+      "degreeLevel": {
+        "en": "MD",
+        "fa": "پزشکی عمومی (MD)"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Dentistry",
+        "fa": "دندانپزشکی"
+      },
+      "degreeLevel": {
+        "en": "DDS",
+        "fa": "دندانپزشکی (DDS)"
+      },
+      "faculty": {
+        "en": "School of Dentistry",
+        "fa": "دانشکده دندانپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Pharmacy",
+        "fa": "داروسازی"
+      },
+      "degreeLevel": {
+        "en": "PharmD",
+        "fa": "داروسازی (PharmD)"
+      },
+      "faculty": {
+        "en": "School of Pharmacy",
+        "fa": "دانشکده داروسازی"
+      }
+    },
+    {
+      "name": {
+        "en": "Nursing and Midwifery",
+        "fa": "پرستاری و مامایی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Nursing and Midwifery",
+        "fa": "دانشکده پرستاری و مامایی"
+      }
+    },
+    {
+      "name": {
+        "en": "Health",
+        "fa": "بهداشت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "School of Health",
+        "fa": "دانشکده بهداشت"
+      }
+    },
+    {
+      "name": {
+        "en": "Rehabilitation Sciences",
+        "fa": "علوم توانبخشی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Rehabilitation Sciences",
+        "fa": "دانشکده علوم توانبخشی"
+      }
+    },
+    {
+      "name": {
+        "en": "Allied Medical Sciences",
+        "fa": "علوم پیراپزشکی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Allied Medical Sciences",
+        "fa": "دانشکده پیراپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Medical Residency and Fellowship Programs",
+        "fa": "دوره‌های تخصص و فوق تخصص پزشکی"
+      },
+      "degreeLevel": {
+        "en": "Residency / Fellowship",
+        "fa": "تخصص / فوق تخصص"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    }
   ],
   "studentLife": {
     "en": "Isfahan is one of Iran's most important cultural, historical, and academic cities. In addition to its educational facilities, the city provides an attractive environment for student life. With its rich cultural heritage, modern urban facilities, reasonable living costs, and safe environment, Isfahan has become a popular destination for both domestic and international students, who can enjoy studying in a high-quality academic environment while experiencing one of Iran's most important cultural cities.",
@@ -91,20 +222,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Does Isfahan University of Medical Sciences accept international students?", "fa": "آیا دانشگاه علوم پزشکی اصفهان دانشجوی بین‌المللی می‌پذیرد؟" },
-      "answer": { "en": "Yes. The university accepts international students in various medical and health science programs according to its admission regulations.", "fa": "بله، این دانشگاه در رشته‌ها و مقاطع مختلف علوم پزشکی، دانشجویان بین‌المللی را می‌پذیرد." }
+      "question": {
+        "en": "Does Isfahan University of Medical Sciences accept international students?",
+        "fa": "آیا دانشگاه علوم پزشکی اصفهان دانشجوی بین‌المللی می‌پذیرد؟"
+      },
+      "answer": {
+        "en": "Yes. The university accepts international students in various medical and health science programs according to its admission regulations.",
+        "fa": "بله، این دانشگاه در رشته‌ها و مقاطع مختلف علوم پزشکی، دانشجویان بین‌المللی را می‌پذیرد."
+      }
     },
     {
-      "question": { "en": "Is Persian language required for studying at IUMS?", "fa": "آیا برای تحصیل در این دانشگاه باید زبان فارسی بدانم؟" },
-      "answer": { "en": "Yes. Persian language skills are especially important for clinical programs and communication with patients.", "fa": "بله، به‌خصوص در رشته‌های بالینی، تسلط به زبان فارسی برای ارتباط با بیماران ضروری است." }
+      "question": {
+        "en": "Is Persian language required for studying at IUMS?",
+        "fa": "آیا برای تحصیل در این دانشگاه باید زبان فارسی بدانم؟"
+      },
+      "answer": {
+        "en": "Yes. Persian language skills are especially important for clinical programs and communication with patients.",
+        "fa": "بله، به‌خصوص در رشته‌های بالینی، تسلط به زبان فارسی برای ارتباط با بیماران ضروری است."
+      }
     },
     {
-      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
-      "answer": { "en": "Yes. Dormitory accommodation is available for international students, subject to capacity.", "fa": "بله، خوابگاه دانشجویی در صورت وجود ظرفیت در اختیار دانشجویان قرار می‌گیرد." }
+      "question": {
+        "en": "Does the university provide accommodation?",
+        "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes. Dormitory accommodation is available for international students, subject to capacity.",
+        "fa": "بله، خوابگاه دانشجویی در صورت وجود ظرفیت در اختیار دانشجویان قرار می‌گیرد."
+      }
     },
     {
-      "question": { "en": "How long does the admission process take?", "fa": "بررسی پرونده پذیرش چقدر طول می‌کشد؟" },
-      "answer": { "en": "The evaluation period varies depending on the program and completeness of documents. It may take several months.", "fa": "زمان بررسی بسته به رشته و کامل بودن مدارک متفاوت است و ممکن است چند ماه زمان ببرد." }
+      "question": {
+        "en": "How long does the admission process take?",
+        "fa": "بررسی پرونده پذیرش چقدر طول می‌کشد؟"
+      },
+      "answer": {
+        "en": "The evaluation period varies depending on the program and completeness of documents. It may take several months.",
+        "fa": "زمان بررسی بسته به رشته و کامل بودن مدارک متفاوت است و ممکن است چند ماه زمان ببرد."
+      }
     }
   ]
 }

@@ -1,5 +1,6 @@
 {
   "slug": "university-of-arak",
+  "category": "non-medical",
   "name": {
     "en": "University of Arak",
     "fa": "دانشگاه اراک"
@@ -22,8 +23,26 @@
   },
   "established": "1971",
   "featuredPrograms": {
-    "en": ["Mechanical Engineering", "Electrical Engineering", "Civil Engineering", "Computer Engineering", "Agricultural Sciences", "Economics and Administrative Sciences", "Literature and Humanities", "Art and Design"],
-    "fa": ["مهندسی مکانیک", "مهندسی برق", "مهندسی عمران", "مهندسی کامپیوتر", "علوم کشاورزی", "اقتصاد و علوم اداری", "زبان و ادبیات", "هنر و طراحی"]
+    "en": [
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Civil Engineering",
+      "Computer Engineering",
+      "Agricultural Sciences",
+      "Economics and Administrative Sciences",
+      "Literature and Humanities",
+      "Art and Design"
+    ],
+    "fa": [
+      "مهندسی مکانیک",
+      "مهندسی برق",
+      "مهندسی عمران",
+      "مهندسی کامپیوتر",
+      "علوم کشاورزی",
+      "اقتصاد و علوم اداری",
+      "زبان و ادبیات",
+      "هنر و طراحی"
+    ]
   },
   "summary": {
     "en": "A public comprehensive university in Arak, Markazi Province, offering a wide range of undergraduate and graduate programs in engineering, sciences, humanities, agriculture, and the arts with affordable tuition and living costs.",
@@ -54,8 +73,28 @@
     ]
   },
   "requiredDocuments": {
-    "en": ["Completed application form", "Valid passport", "Academic certificates and official transcripts", "Official translations of educational documents", "Curriculum Vitae (CV)", "Statement of Purpose (if required)", "Passport-size photographs", "Language proficiency certificate (if required)", "Additional academic or research documents for graduate applicants, where applicable"],
-    "fa": ["فرم درخواست پذیرش", "پاسپورت معتبر", "آخرین مدرک تحصیلی و ریزنمرات", "ترجمه رسمی مدارک تحصیلی", "رزومه (CV)", "انگیزه‌نامه (Statement of Purpose) در صورت نیاز", "عکس پرسنلی", "مدرک زبان (در صورت نیاز رشته)", "مدارک علمی و پژوهشی برای متقاضیان تحصیلات تکمیلی، در صورت وجود"]
+    "en": [
+      "Completed application form",
+      "Valid passport",
+      "Academic certificates and official transcripts",
+      "Official translations of educational documents",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (if required)",
+      "Passport-size photographs",
+      "Language proficiency certificate (if required)",
+      "Additional academic or research documents for graduate applicants, where applicable"
+    ],
+    "fa": [
+      "فرم درخواست پذیرش",
+      "پاسپورت معتبر",
+      "آخرین مدرک تحصیلی و ریزنمرات",
+      "ترجمه رسمی مدارک تحصیلی",
+      "رزومه (CV)",
+      "انگیزه‌نامه (Statement of Purpose) در صورت نیاز",
+      "عکس پرسنلی",
+      "مدرک زبان (در صورت نیاز رشته)",
+      "مدارک علمی و پژوهشی برای متقاضیان تحصیلات تکمیلی، در صورت وجود"
+    ]
   },
   "tuition": {
     "en": "Tuition fees are not published as fixed figures; they vary depending on degree level, faculty, and academic program, and are determined by the university annually. Applicants are encouraged to contact the International Office or ASA Study for the latest tuition information before applying.",
@@ -66,26 +105,286 @@
     "fa": "شهریه بسته به مقطع تحصیلی، دانشکده و تعداد واحدهای درسی متفاوت است و هر سال توسط دانشگاه بازبینی و اعلام می‌شود."
   },
   "programs": [
-    { "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Electrical Engineering", "fa": "مهندسی برق" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Civil Engineering", "fa": "مهندسی عمران" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Computer Engineering", "fa": "مهندسی کامپیوتر" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Chemical Engineering", "fa": "مهندسی شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Materials Engineering", "fa": "مهندسی مواد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده فنی و مهندسی" } },
-    { "name": { "en": "Mathematics", "fa": "ریاضی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Physics", "fa": "فیزیک" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Chemistry", "fa": "شیمی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Biology", "fa": "زیست‌شناسی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Earth Sciences", "fa": "علوم زمین" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" } },
-    { "name": { "en": "Management", "fa": "مدیریت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Economics and Administrative Sciences", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Economics", "fa": "اقتصاد" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Economics and Administrative Sciences", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Language and Literature", "fa": "زبان و ادبیات" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Literature and Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Educational Sciences", "fa": "علوم تربیتی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Literature and Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Social Sciences", "fa": "علوم اجتماعی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Literature and Humanities", "fa": "دانشکده علوم انسانی" } },
-    { "name": { "en": "Agricultural Sciences", "fa": "علوم کشاورزی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture and Natural Resources", "fa": "دانشکده کشاورزی" } },
-    { "name": { "en": "Natural Resources", "fa": "منابع طبیعی" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "Faculty of Agriculture and Natural Resources", "fa": "دانشکده کشاورزی" } },
-    { "name": { "en": "Art and Design", "fa": "هنر و طراحی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "Faculty of Arts", "fa": "دانشکده هنر" } },
-    { "name": { "en": "Sports Sciences", "fa": "علوم ورزشی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "Faculty of Sports Sciences", "fa": "دانشکده علوم ورزشی" } }
+    {
+      "name": {
+        "en": "Mechanical Engineering",
+        "fa": "مهندسی مکانیک"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Electrical Engineering",
+        "fa": "مهندسی برق"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Civil Engineering",
+        "fa": "مهندسی عمران"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Computer Engineering",
+        "fa": "مهندسی کامپیوتر"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Chemical Engineering",
+        "fa": "مهندسی شیمی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Materials Engineering",
+        "fa": "مهندسی مواد"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده فنی و مهندسی"
+      }
+    },
+    {
+      "name": {
+        "en": "Mathematics",
+        "fa": "ریاضی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Physics",
+        "fa": "فیزیک"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Chemistry",
+        "fa": "شیمی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Biology",
+        "fa": "زیست‌شناسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Earth Sciences",
+        "fa": "علوم زمین"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
+    },
+    {
+      "name": {
+        "en": "Management",
+        "fa": "مدیریت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Economics and Administrative Sciences",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Economics",
+        "fa": "اقتصاد"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Economics and Administrative Sciences",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Language and Literature",
+        "fa": "زبان و ادبیات"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Literature and Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Educational Sciences",
+        "fa": "علوم تربیتی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Literature and Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Social Sciences",
+        "fa": "علوم اجتماعی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Literature and Humanities",
+        "fa": "دانشکده علوم انسانی"
+      }
+    },
+    {
+      "name": {
+        "en": "Agricultural Sciences",
+        "fa": "علوم کشاورزی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Agriculture and Natural Resources",
+        "fa": "دانشکده کشاورزی"
+      }
+    },
+    {
+      "name": {
+        "en": "Natural Resources",
+        "fa": "منابع طبیعی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Agriculture and Natural Resources",
+        "fa": "دانشکده کشاورزی"
+      }
+    },
+    {
+      "name": {
+        "en": "Art and Design",
+        "fa": "هنر و طراحی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "Faculty of Arts",
+        "fa": "دانشکده هنر"
+      }
+    },
+    {
+      "name": {
+        "en": "Sports Sciences",
+        "fa": "علوم ورزشی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "Faculty of Sports Sciences",
+        "fa": "دانشکده علوم ورزشی"
+      }
+    }
   ],
   "studentLife": {
     "en": "Arak is one of Iran's major industrial and educational cities, located in the country's central region. The city offers a comfortable student environment with relatively affordable living expenses compared to Tehran and other large metropolitan areas. Students benefit from reliable public transportation, healthcare facilities, shopping centers, recreational spaces, and easy access to other major cities across Iran. Its combination of academic opportunities, industrial development, and lower living costs makes Arak an attractive destination for international students.",
@@ -97,24 +396,54 @@
   },
   "faq": [
     {
-      "question": { "en": "Does the university accept international students?", "fa": "آیا دانشگاه اراک دانشجوی بین‌المللی می‌پذیرد؟" },
-      "answer": { "en": "Yes. University of Arak welcomes international applicants in a variety of undergraduate and graduate programs.", "fa": "بله. دانشگاه اراک امکان پذیرش دانشجویان خارجی را در رشته‌های مختلف دارد." }
+      "question": {
+        "en": "Does the university accept international students?",
+        "fa": "آیا دانشگاه اراک دانشجوی بین‌المللی می‌پذیرد؟"
+      },
+      "answer": {
+        "en": "Yes. University of Arak welcomes international applicants in a variety of undergraduate and graduate programs.",
+        "fa": "بله. دانشگاه اراک امکان پذیرش دانشجویان خارجی را در رشته‌های مختلف دارد."
+      }
     },
     {
-      "question": { "en": "What language are courses taught in?", "fa": "زبان تحصیل در دانشگاه چیست؟" },
-      "answer": { "en": "Most programs are taught in Persian. English textbooks and academic references are commonly used, particularly in graduate programs.", "fa": "زبان اصلی آموزش فارسی است، اما در برخی دوره‌ها به‌ویژه در مقاطع کارشناسی ارشد و دکتری، منابع علمی انگلیسی نیز استفاده می‌شود." }
+      "question": {
+        "en": "What language are courses taught in?",
+        "fa": "زبان تحصیل در دانشگاه چیست؟"
+      },
+      "answer": {
+        "en": "Most programs are taught in Persian. English textbooks and academic references are commonly used, particularly in graduate programs.",
+        "fa": "زبان اصلی آموزش فارسی است، اما در برخی دوره‌ها به‌ویژه در مقاطع کارشناسی ارشد و دکتری، منابع علمی انگلیسی نیز استفاده می‌شود."
+      }
     },
     {
-      "question": { "en": "Are student dormitories available for international students?", "fa": "آیا خوابگاه برای دانشجویان خارجی وجود دارد؟" },
-      "answer": { "en": "Yes. Dormitory accommodation is available for international students, subject to university capacity.", "fa": "بله، در صورت وجود ظرفیت، دانشجویان بین‌المللی می‌توانند از خوابگاه دانشگاه استفاده کنند." }
+      "question": {
+        "en": "Are student dormitories available for international students?",
+        "fa": "آیا خوابگاه برای دانشجویان خارجی وجود دارد؟"
+      },
+      "answer": {
+        "en": "Yes. Dormitory accommodation is available for international students, subject to university capacity.",
+        "fa": "بله، در صورت وجود ظرفیت، دانشجویان بین‌المللی می‌توانند از خوابگاه دانشگاه استفاده کنند."
+      }
     },
     {
-      "question": { "en": "How long does the admission process take?", "fa": "بررسی پرونده پذیرش چقدر طول می‌کشد؟" },
-      "answer": { "en": "Processing time depends on the academic program and the completeness of the application; applicants are encouraged to apply several months before their intended enrollment.", "fa": "زمان بررسی پرونده بسته به رشته، مقطع و کامل بودن مدارک متفاوت است و توصیه می‌شود چند ماه قبل از موعد ثبت‌نام مورد نظر اقدام کنید." }
+      "question": {
+        "en": "How long does the admission process take?",
+        "fa": "بررسی پرونده پذیرش چقدر طول می‌کشد؟"
+      },
+      "answer": {
+        "en": "Processing time depends on the academic program and the completeness of the application; applicants are encouraged to apply several months before their intended enrollment.",
+        "fa": "زمان بررسی پرونده بسته به رشته، مقطع و کامل بودن مدارک متفاوت است و توصیه می‌شود چند ماه قبل از موعد ثبت‌نام مورد نظر اقدام کنید."
+      }
     },
     {
-      "question": { "en": "Is it possible to study at the Master's and PhD levels?", "fa": "آیا امکان تحصیل در مقاطع ارشد و دکتری وجود دارد؟" },
-      "answer": { "en": "Yes. University of Arak also admits students at the Master's and PhD levels, in addition to the Bachelor's level.", "fa": "بله. دانشگاه اراک در مقاطع کارشناسی ارشد و دکتری نیز، علاوه بر کارشناسی، دانشجو می‌پذیرد." }
+      "question": {
+        "en": "Is it possible to study at the Master's and PhD levels?",
+        "fa": "آیا امکان تحصیل در مقاطع ارشد و دکتری وجود دارد؟"
+      },
+      "answer": {
+        "en": "Yes. University of Arak also admits students at the Master's and PhD levels, in addition to the Bachelor's level.",
+        "fa": "بله. دانشگاه اراک در مقاطع کارشناسی ارشد و دکتری نیز، علاوه بر کارشناسی، دانشجو می‌پذیرد."
+      }
     }
   ]
 }

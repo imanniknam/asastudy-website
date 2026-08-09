@@ -1,5 +1,6 @@
 {
   "slug": "tehran-university-of-medical-sciences",
+  "category": "medical",
   "name": {
     "en": "Tehran University of Medical Sciences (TUMS)",
     "fa": "دانشگاه علوم پزشکی تهران (TUMS)"
@@ -22,8 +23,26 @@
     "fa": "به‌عنوان معتبرترین دانشگاه علوم پزشکی ایران شناخته می‌شود و همواره در رتبه‌بندی‌های ملی و بین‌المللی جایگاه برجسته‌ای داشته است."
   },
   "featuredPrograms": {
-    "en": ["General Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences", "Rehabilitation Sciences", "Traditional Medicine"],
-    "fa": ["پزشکی عمومی (MD)", "دندانپزشکی (DDS)", "داروسازی (PharmD)", "پرستاری و مامایی", "بهداشت", "علوم پیراپزشکی", "توانبخشی", "طب سنتی"]
+    "en": [
+      "General Medicine (MD)",
+      "Dentistry (DDS)",
+      "Pharmacy (PharmD)",
+      "Nursing and Midwifery",
+      "Public Health",
+      "Allied Medical Sciences",
+      "Rehabilitation Sciences",
+      "Traditional Medicine"
+    ],
+    "fa": [
+      "پزشکی عمومی (MD)",
+      "دندانپزشکی (DDS)",
+      "داروسازی (PharmD)",
+      "پرستاری و مامایی",
+      "بهداشت",
+      "علوم پیراپزشکی",
+      "توانبخشی",
+      "طب سنتی"
+    ]
   },
   "summary": {
     "en": "Iran's oldest and most prestigious medical university, offering internationally recognized medical education and extensive clinical training through its International Campus in Tehran.",
@@ -54,8 +73,26 @@
     ]
   },
   "requiredDocuments": {
-    "en": ["Completed online application form", "Valid passport", "Officially translated academic certificates and transcripts", "Curriculum Vitae (CV)", "Statement of Purpose (SOP)", "Academic recommendation letters (especially for graduate programs)", "English language proficiency certificate", "Medical health certificate"],
-    "fa": ["فرم درخواست آنلاین تکمیل‌شده", "گذرنامه معتبر", "مدارک تحصیلی و ریزنمرات ترجمه‌شده رسمی", "رزومه (CV)", "انگیزه‌نامه (Statement of Purpose)", "توصیه‌نامه‌های علمی (به‌ویژه برای تحصیلات تکمیلی)", "مدرک زبان انگلیسی", "گواهی سلامت"]
+    "en": [
+      "Completed online application form",
+      "Valid passport",
+      "Officially translated academic certificates and transcripts",
+      "Curriculum Vitae (CV)",
+      "Statement of Purpose (SOP)",
+      "Academic recommendation letters (especially for graduate programs)",
+      "English language proficiency certificate",
+      "Medical health certificate"
+    ],
+    "fa": [
+      "فرم درخواست آنلاین تکمیل‌شده",
+      "گذرنامه معتبر",
+      "مدارک تحصیلی و ریزنمرات ترجمه‌شده رسمی",
+      "رزومه (CV)",
+      "انگیزه‌نامه (Statement of Purpose)",
+      "توصیه‌نامه‌های علمی (به‌ویژه برای تحصیلات تکمیلی)",
+      "مدرک زبان انگلیسی",
+      "گواهی سلامت"
+    ]
   },
   "tuition": {
     "en": "The university's international admission materials do not publish specific tuition figures. Tuition varies by school, degree level, and program; applicants are advised to confirm current rates with the International Admissions Office during the application process.",
@@ -66,14 +103,118 @@
     "fa": "شهریه بسته به رشته و مقطع تحصیلی متفاوت است و ممکن است هر سال تغییر کند؛ پیش از ثبت‌نام نرخ به‌روز را از دانشگاه استعلام کنید."
   },
   "programs": [
-    { "name": { "en": "General Medicine (MD)", "fa": "پزشکی عمومی (MD)" }, "degreeLevel": { "en": "Doctorate (Professional)", "fa": "دکترای حرفه‌ای" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Dentistry (DDS)", "fa": "دندانپزشکی (DDS)" }, "degreeLevel": { "en": "Doctorate (Professional)", "fa": "دکترای حرفه‌ای" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
-    { "name": { "en": "Pharmacy (PharmD)", "fa": "داروسازی (PharmD)" }, "degreeLevel": { "en": "Doctorate (Professional)", "fa": "دکترای حرفه‌ای" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
-    { "name": { "en": "Bachelor's Degree Programs", "fa": "دوره‌های کارشناسی" }, "degreeLevel": { "en": "Bachelor's", "fa": "کارشناسی" }, "faculty": { "en": "Schools of Nursing and Midwifery, Public Health, Allied Medical Sciences, and Rehabilitation", "fa": "دانشکده‌های پرستاری و مامایی، بهداشت، علوم پیراپزشکی و توانبخشی" } },
-    { "name": { "en": "Master's Degree Programs", "fa": "دوره‌های کارشناسی ارشد" }, "degreeLevel": { "en": "Master's", "fa": "کارشناسی ارشد" }, "faculty": { "en": "Schools of Nursing and Midwifery, Public Health, Allied Medical Sciences, and Rehabilitation", "fa": "دانشکده‌های پرستاری و مامایی، بهداشت، علوم پیراپزشکی و توانبخشی" } },
-    { "name": { "en": "Doctor of Philosophy (PhD)", "fa": "دکتری تخصصی (PhD)" }, "degreeLevel": { "en": "PhD", "fa": "دکتری تخصصی" }, "faculty": { "en": "Various Schools across TUMS", "fa": "دانشکده‌های مختلف دانشگاه" } },
-    { "name": { "en": "Residency Programs", "fa": "دوره‌های تخصص (Residency)" }, "degreeLevel": { "en": "Specialty (Residency)", "fa": "دوره تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Fellowship Programs", "fa": "دوره‌های فوق تخصص (Fellowship)" }, "degreeLevel": { "en": "Subspecialty (Fellowship)", "fa": "دوره فوق تخصص" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } }
+    {
+      "name": {
+        "en": "General Medicine (MD)",
+        "fa": "پزشکی عمومی (MD)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate (Professional)",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Dentistry (DDS)",
+        "fa": "دندانپزشکی (DDS)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate (Professional)",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "School of Dentistry",
+        "fa": "دانشکده دندانپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Pharmacy (PharmD)",
+        "fa": "داروسازی (PharmD)"
+      },
+      "degreeLevel": {
+        "en": "Doctorate (Professional)",
+        "fa": "دکترای حرفه‌ای"
+      },
+      "faculty": {
+        "en": "School of Pharmacy",
+        "fa": "دانشکده داروسازی"
+      }
+    },
+    {
+      "name": {
+        "en": "Bachelor's Degree Programs",
+        "fa": "دوره‌های کارشناسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's",
+        "fa": "کارشناسی"
+      },
+      "faculty": {
+        "en": "Schools of Nursing and Midwifery, Public Health, Allied Medical Sciences, and Rehabilitation",
+        "fa": "دانشکده‌های پرستاری و مامایی، بهداشت، علوم پیراپزشکی و توانبخشی"
+      }
+    },
+    {
+      "name": {
+        "en": "Master's Degree Programs",
+        "fa": "دوره‌های کارشناسی ارشد"
+      },
+      "degreeLevel": {
+        "en": "Master's",
+        "fa": "کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "Schools of Nursing and Midwifery, Public Health, Allied Medical Sciences, and Rehabilitation",
+        "fa": "دانشکده‌های پرستاری و مامایی، بهداشت، علوم پیراپزشکی و توانبخشی"
+      }
+    },
+    {
+      "name": {
+        "en": "Doctor of Philosophy (PhD)",
+        "fa": "دکتری تخصصی (PhD)"
+      },
+      "degreeLevel": {
+        "en": "PhD",
+        "fa": "دکتری تخصصی"
+      },
+      "faculty": {
+        "en": "Various Schools across TUMS",
+        "fa": "دانشکده‌های مختلف دانشگاه"
+      }
+    },
+    {
+      "name": {
+        "en": "Residency Programs",
+        "fa": "دوره‌های تخصص (Residency)"
+      },
+      "degreeLevel": {
+        "en": "Specialty (Residency)",
+        "fa": "دوره تخصص"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Fellowship Programs",
+        "fa": "دوره‌های فوق تخصص (Fellowship)"
+      },
+      "degreeLevel": {
+        "en": "Subspecialty (Fellowship)",
+        "fa": "دوره فوق تخصص"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    }
   ],
   "studentLife": {
     "en": "As Iran's capital and largest metropolitan city, Tehran is the country's leading center for higher education, healthcare, and scientific research. Students have access to internationally recognized hospitals, research institutes, academic conferences, libraries, cultural attractions, and an extensive public transportation network. Studying in Tehran also provides exceptional opportunities to build professional networks, participate in international collaborations, and develop a successful career in medicine and healthcare.",
@@ -85,20 +226,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Are English-taught programs available at TUMS?", "fa": "آیا دانشگاه علوم پزشکی تهران برنامه‌های انگلیسی‌زبان ارائه می‌دهد؟" },
-      "answer": { "en": "Yes. Several international programs, particularly in Medicine (MD), are offered in English, although clinical education is primarily conducted in Persian.", "fa": "بله. برخی از برنامه‌های بین‌المللی، به‌ویژه در رشته پزشکی، به زبان انگلیسی ارائه می‌شوند، هرچند آموزش‌های بالینی عمدتاً به زبان فارسی برگزار می‌شود." }
+      "question": {
+        "en": "Are English-taught programs available at TUMS?",
+        "fa": "آیا دانشگاه علوم پزشکی تهران برنامه‌های انگلیسی‌زبان ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes. Several international programs, particularly in Medicine (MD), are offered in English, although clinical education is primarily conducted in Persian.",
+        "fa": "بله. برخی از برنامه‌های بین‌المللی، به‌ویژه در رشته پزشکی، به زبان انگلیسی ارائه می‌شوند، هرچند آموزش‌های بالینی عمدتاً به زبان فارسی برگزار می‌شود."
+      }
     },
     {
-      "question": { "en": "Is learning Persian mandatory?", "fa": "آیا یادگیری زبان فارسی ضروری است؟" },
-      "answer": { "en": "Yes. Persian language proficiency is essential for clinical rotations and effective communication with patients during hospital training.", "fa": "بله. برای شرکت در آموزش‌های بالینی و ارتباط مؤثر با بیماران، تسلط به زبان فارسی ضروری است." }
+      "question": {
+        "en": "Is learning Persian mandatory?",
+        "fa": "آیا یادگیری زبان فارسی ضروری است؟"
+      },
+      "answer": {
+        "en": "Yes. Persian language proficiency is essential for clinical rotations and effective communication with patients during hospital training.",
+        "fa": "بله. برای شرکت در آموزش‌های بالینی و ارتباط مؤثر با بیماران، تسلط به زبان فارسی ضروری است."
+      }
     },
     {
-      "question": { "en": "How long does the admission review process take?", "fa": "بررسی پرونده پذیرش چقدر زمان می‌برد؟" },
-      "answer": { "en": "For complete applications, the evaluation process typically takes between one and three months.", "fa": "در صورت کامل بودن مدارک، معمولاً بین ۱ تا ۳ ماه زمان نیاز است." }
+      "question": {
+        "en": "How long does the admission review process take?",
+        "fa": "بررسی پرونده پذیرش چقدر زمان می‌برد؟"
+      },
+      "answer": {
+        "en": "For complete applications, the evaluation process typically takes between one and three months.",
+        "fa": "در صورت کامل بودن مدارک، معمولاً بین ۱ تا ۳ ماه زمان نیاز است."
+      }
     },
     {
-      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
-      "answer": { "en": "Yes. Student dormitories are available for international students, subject to availability.", "fa": "بله. خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+      "question": {
+        "en": "Does the university provide student accommodation?",
+        "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes. Student dormitories are available for international students, subject to availability.",
+        "fa": "بله. خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است."
+      }
     }
   ]
 }

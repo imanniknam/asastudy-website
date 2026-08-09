@@ -1,14 +1,41 @@
 {
   "slug": "zanjan-university-of-medical-sciences",
-  "name": { "en": "Zanjan University of Medical Sciences (ZUMS)", "fa": "دانشگاه علوم پزشکی زنجان (ZUMS)" },
-  "shortName": { "en": "ZUMS", "fa": "ZUMS" },
-  "city": { "en": "Zanjan", "fa": "زنجان" },
-  "type": { "en": "Public University of Medical Sciences", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "category": "medical",
+  "name": {
+    "en": "Zanjan University of Medical Sciences (ZUMS)",
+    "fa": "دانشگاه علوم پزشکی زنجان (ZUMS)"
+  },
+  "shortName": {
+    "en": "ZUMS",
+    "fa": "ZUMS"
+  },
+  "city": {
+    "en": "Zanjan",
+    "fa": "زنجان"
+  },
+  "type": {
+    "en": "Public University of Medical Sciences",
+    "fa": "دانشگاه دولتی علوم پزشکی"
+  },
   "established": "1987",
   "website": "",
   "featuredPrograms": {
-    "en": ["Medicine (MD)", "Dentistry (DDS)", "Pharmacy (PharmD)", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences"],
-    "fa": ["پزشکی", "دندانپزشکی", "داروسازی", "پرستاری و مامایی", "بهداشت", "علوم پیراپزشکی"]
+    "en": [
+      "Medicine (MD)",
+      "Dentistry (DDS)",
+      "Pharmacy (PharmD)",
+      "Nursing and Midwifery",
+      "Public Health",
+      "Allied Medical Sciences"
+    ],
+    "fa": [
+      "پزشکی",
+      "دندانپزشکی",
+      "داروسازی",
+      "پرستاری و مامایی",
+      "بهداشت",
+      "علوم پیراپزشکی"
+    ]
   },
   "summary": {
     "en": "A public medical university in northwestern Iran, ZUMS offers a free, no-fee online application, rolling admissions, English-taught options, and affordable living costs in the student-friendly city of Zanjan.",
@@ -63,12 +90,90 @@
     "fa": "ثبت درخواست پذیرش در دانشگاه علوم پزشکی زنجان رایگان است و هزینه‌ای برای آن دریافت نمی‌شود. جدول دقیق شهریه در مدارک منتشرشده دانشگاه ذکر نشده و متقاضیان باید نرخ شهریه رشته موردنظر خود را از دفتر امور بین‌الملل استعلام کنند."
   },
   "programs": [
-    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "دکترای حرفه‌ای پزشکی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Dentistry", "fa": "دندانپزشکی" }, "degreeLevel": { "en": "DDS", "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)" }, "faculty": { "en": "School of Dentistry", "fa": "دانشکده دندانپزشکی" } },
-    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "دکترای حرفه‌ای داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy", "fa": "دانشکده داروسازی" } },
-    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
-    { "name": { "en": "Public Health", "fa": "بهداشت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" } },
-    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } }
+    {
+      "name": {
+        "en": "Medicine",
+        "fa": "پزشکی"
+      },
+      "degreeLevel": {
+        "en": "MD",
+        "fa": "دکترای حرفه‌ای پزشکی (MD)"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Dentistry",
+        "fa": "دندانپزشکی"
+      },
+      "degreeLevel": {
+        "en": "DDS",
+        "fa": "دکترای حرفه‌ای دندانپزشکی (DDS)"
+      },
+      "faculty": {
+        "en": "School of Dentistry",
+        "fa": "دانشکده دندانپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Pharmacy",
+        "fa": "داروسازی"
+      },
+      "degreeLevel": {
+        "en": "PharmD",
+        "fa": "دکترای حرفه‌ای داروسازی (PharmD)"
+      },
+      "faculty": {
+        "en": "School of Pharmacy",
+        "fa": "دانشکده داروسازی"
+      }
+    },
+    {
+      "name": {
+        "en": "Nursing and Midwifery",
+        "fa": "پرستاری و مامایی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Nursing and Midwifery",
+        "fa": "دانشکده پرستاری و مامایی"
+      }
+    },
+    {
+      "name": {
+        "en": "Public Health",
+        "fa": "بهداشت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "School of Public Health",
+        "fa": "دانشکده بهداشت"
+      }
+    },
+    {
+      "name": {
+        "en": "Allied Medical Sciences",
+        "fa": "علوم پیراپزشکی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Allied Medical Sciences",
+        "fa": "دانشکده پیراپزشکی"
+      }
+    }
   ],
   "studentLife": {
     "en": "Zanjan is a safe, welcoming, and student-friendly city located in northwestern Iran. Compared with larger metropolitan areas such as Tehran, Zanjan offers a significantly lower cost of living, allowing students to enjoy a more affordable lifestyle while focusing on their studies. The city's peaceful environment, combined with access to quality healthcare facilities and educational resources, makes it an attractive destination for international students pursuing medical education.",
@@ -80,20 +185,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Is there an application fee?", "fa": "آیا برای ثبت درخواست باید هزینه‌ای پرداخت کنم؟" },
-      "answer": { "en": "No. International applicants can submit their applications free of charge.", "fa": "خیر، ثبت درخواست پذیرش در دانشگاه علوم پزشکی زنجان رایگان است." }
+      "question": {
+        "en": "Is there an application fee?",
+        "fa": "آیا برای ثبت درخواست باید هزینه‌ای پرداخت کنم؟"
+      },
+      "answer": {
+        "en": "No. International applicants can submit their applications free of charge.",
+        "fa": "خیر، ثبت درخواست پذیرش در دانشگاه علوم پزشکی زنجان رایگان است."
+      }
     },
     {
-      "question": { "en": "How long does the admission process take?", "fa": "چه مدت طول می‌کشد تا نتیجه پذیرش اعلام شود؟" },
-      "answer": { "en": "Complete applications are typically reviewed within approximately three months.", "fa": "در صورت کامل بودن مدارک، بررسی پرونده معمولاً حدود سه ماه زمان می‌برد." }
+      "question": {
+        "en": "How long does the admission process take?",
+        "fa": "چه مدت طول می‌کشد تا نتیجه پذیرش اعلام شود؟"
+      },
+      "answer": {
+        "en": "Complete applications are typically reviewed within approximately three months.",
+        "fa": "در صورت کامل بودن مدارک، بررسی پرونده معمولاً حدود سه ماه زمان می‌برد."
+      }
     },
     {
-      "question": { "en": "Can I update my application after submission?", "fa": "آیا می‌توانم بعد از ثبت درخواست، مدارک جدید اضافه کنم؟" },
-      "answer": { "en": "No. Once your application has been submitted, it cannot be edited or supplemented with additional documents.", "fa": "خیر، پس از ارسال نهایی فرم، امکان ویرایش یا بارگذاری مدارک جدید وجود ندارد." }
+      "question": {
+        "en": "Can I update my application after submission?",
+        "fa": "آیا می‌توانم بعد از ثبت درخواست، مدارک جدید اضافه کنم؟"
+      },
+      "answer": {
+        "en": "No. Once your application has been submitted, it cannot be edited or supplemented with additional documents.",
+        "fa": "خیر، پس از ارسال نهایی فرم، امکان ویرایش یا بارگذاری مدارک جدید وجود ندارد."
+      }
     },
     {
-      "question": { "en": "Is proof of English proficiency required?", "fa": "آیا مدرک زبان انگلیسی الزامی است؟" },
-      "answer": { "en": "Yes. However, applicants from English-speaking countries or those who completed their previous degree in English may be exempt from this requirement.", "fa": "بله، مگر اینکه متقاضی از کشورهای انگلیسی‌زبان باشد یا تحصیلات قبلی خود را به زبان انگلیسی گذرانده باشد." }
+      "question": {
+        "en": "Is proof of English proficiency required?",
+        "fa": "آیا مدرک زبان انگلیسی الزامی است؟"
+      },
+      "answer": {
+        "en": "Yes. However, applicants from English-speaking countries or those who completed their previous degree in English may be exempt from this requirement.",
+        "fa": "بله، مگر اینکه متقاضی از کشورهای انگلیسی‌زبان باشد یا تحصیلات قبلی خود را به زبان انگلیسی گذرانده باشد."
+      }
     }
   ]
 }

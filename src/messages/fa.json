@@ -41,7 +41,13 @@
     "searchUniversities": "جستجوی دانشگاه...",
     "noResults": "دانشگاهی مطابق با جستجوی شما یافت نشد.",
     "allCities": "همه شهرها",
-    "allTypes": "همه انواع"
+    "allTypes": "همه انواع",
+    "category": "حوزه تحصیلی",
+    "categoryAll": "همه دانشگاه‌ها",
+    "categoryMedical": "علوم پزشکی",
+    "categoryNonMedical": "غیرپزشکی",
+    "categoryMedicalShort": "پزشکی",
+    "categoryCount": "{count} دانشگاه"
   },
   "home": {
     "hero": {

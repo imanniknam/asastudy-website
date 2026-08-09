@@ -1,5 +1,6 @@
 {
   "slug": "shahid-rajaee-teacher-training-university",
+  "category": "non-medical",
   "name": {
     "en": "Shahid Rajaee Teacher Training University",
     "fa": "دانشگاه تربیت دبیر شهید رجایی"
@@ -101,69 +102,186 @@
   },
   "programs": [
     {
-      "name": { "en": "Electrical Engineering", "fa": "مهندسی برق" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+      "name": {
+        "en": "Electrical Engineering",
+        "fa": "مهندسی برق"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
     },
     {
-      "name": { "en": "Mechanical Engineering", "fa": "مهندسی مکانیک" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+      "name": {
+        "en": "Mechanical Engineering",
+        "fa": "مهندسی مکانیک"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
     },
     {
-      "name": { "en": "Civil Engineering", "fa": "مهندسی عمران" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+      "name": {
+        "en": "Civil Engineering",
+        "fa": "مهندسی عمران"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
     },
     {
-      "name": { "en": "Materials and Metallurgy Engineering", "fa": "مهندسی مواد و متالورژی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+      "name": {
+        "en": "Materials and Metallurgy Engineering",
+        "fa": "مهندسی مواد و متالورژی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
     },
     {
-      "name": { "en": "Computer Engineering", "fa": "مهندسی کامپیوتر" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Engineering", "fa": "دانشکده مهندسی" }
+      "name": {
+        "en": "Computer Engineering",
+        "fa": "مهندسی کامپیوتر"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Engineering",
+        "fa": "دانشکده مهندسی"
+      }
     },
     {
-      "name": { "en": "Mathematics", "fa": "ریاضی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+      "name": {
+        "en": "Mathematics",
+        "fa": "ریاضی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
     },
     {
-      "name": { "en": "Physics", "fa": "فیزیک" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+      "name": {
+        "en": "Physics",
+        "fa": "فیزیک"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
     },
     {
-      "name": { "en": "Chemistry", "fa": "شیمی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Basic Sciences", "fa": "دانشکده علوم پایه" }
+      "name": {
+        "en": "Chemistry",
+        "fa": "شیمی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Basic Sciences",
+        "fa": "دانشکده علوم پایه"
+      }
     },
     {
-      "name": { "en": "Educational Sciences", "fa": "علوم تربیتی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Humanities and Teacher Training", "fa": "حوزه علوم انسانی و تربیت معلم" }
+      "name": {
+        "en": "Educational Sciences",
+        "fa": "علوم تربیتی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities and Teacher Training",
+        "fa": "حوزه علوم انسانی و تربیت معلم"
+      }
     },
     {
-      "name": { "en": "Educational Planning", "fa": "برنامه‌ریزی آموزشی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Humanities and Teacher Training", "fa": "حوزه علوم انسانی و تربیت معلم" }
+      "name": {
+        "en": "Educational Planning",
+        "fa": "برنامه‌ریزی آموزشی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities and Teacher Training",
+        "fa": "حوزه علوم انسانی و تربیت معلم"
+      }
     },
     {
-      "name": { "en": "Technical and Vocational Education", "fa": "آموزش فنی و حرفه‌ای" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Faculty of Humanities and Teacher Training", "fa": "حوزه علوم انسانی و تربیت معلم" }
+      "name": {
+        "en": "Technical and Vocational Education",
+        "fa": "آموزش فنی و حرفه‌ای"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Faculty of Humanities and Teacher Training",
+        "fa": "حوزه علوم انسانی و تربیت معلم"
+      }
     },
     {
-      "name": { "en": "Educational Technology", "fa": "تکنولوژی آموزشی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Interdisciplinary Education and Technology Fields", "fa": "رشته‌های مرتبط با فناوری و آموزش" }
+      "name": {
+        "en": "Educational Technology",
+        "fa": "تکنولوژی آموزشی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Interdisciplinary Education and Technology Fields",
+        "fa": "رشته‌های مرتبط با فناوری و آموزش"
+      }
     },
     {
-      "name": { "en": "Engineering Education", "fa": "آموزش مهندسی" },
-      "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" },
-      "faculty": { "en": "Interdisciplinary Education and Technology Fields", "fa": "رشته‌های مرتبط با فناوری و آموزش" }
+      "name": {
+        "en": "Engineering Education",
+        "fa": "آموزش مهندسی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "Interdisciplinary Education and Technology Fields",
+        "fa": "رشته‌های مرتبط با فناوری و آموزش"
+      }
     }
   ],
   "studentLife": {
@@ -176,24 +294,54 @@
   },
   "faq": [
     {
-      "question": { "en": "Does SRTTU accept international students?", "fa": "آیا دانشگاه تربیت دبیر شهید رجایی برای دانشجویان بین‌المللی پذیرش دارد؟" },
-      "answer": { "en": "Yes, international students can apply for available programs at SRTTU according to university regulations.", "fa": "بله، این دانشگاه از دانشجویان بین‌المللی در برخی رشته‌ها و مقاطع پذیرش می‌کند." }
+      "question": {
+        "en": "Does SRTTU accept international students?",
+        "fa": "آیا دانشگاه تربیت دبیر شهید رجایی برای دانشجویان بین‌المللی پذیرش دارد؟"
+      },
+      "answer": {
+        "en": "Yes, international students can apply for available programs at SRTTU according to university regulations.",
+        "fa": "بله، این دانشگاه از دانشجویان بین‌المللی در برخی رشته‌ها و مقاطع پذیرش می‌کند."
+      }
     },
     {
-      "question": { "en": "What is the main language of instruction?", "fa": "آیا زبان فارسی برای تحصیل در این دانشگاه ضروری است؟" },
-      "answer": { "en": "The main language of instruction is Persian; some academic resources may be available in English.", "fa": "بله، زیرا بیشتر دوره‌ها به زبان فارسی ارائه می‌شوند." }
+      "question": {
+        "en": "What is the main language of instruction?",
+        "fa": "آیا زبان فارسی برای تحصیل در این دانشگاه ضروری است؟"
+      },
+      "answer": {
+        "en": "The main language of instruction is Persian; some academic resources may be available in English.",
+        "fa": "بله، زیرا بیشتر دوره‌ها به زبان فارسی ارائه می‌شوند."
+      }
     },
     {
-      "question": { "en": "Does the university only offer teacher training programs?", "fa": "آیا دانشگاه فقط رشته‌های تربیت معلم ارائه می‌دهد؟" },
-      "answer": { "en": "No, in addition to teacher training fields, SRTTU also offers engineering programs, basic sciences, and related fields.", "fa": "خیر، علاوه بر رشته‌های تربیت معلم، رشته‌های مهندسی، علوم پایه و حوزه‌های مرتبط نیز ارائه می‌شود." }
+      "question": {
+        "en": "Does the university only offer teacher training programs?",
+        "fa": "آیا دانشگاه فقط رشته‌های تربیت معلم ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "No, in addition to teacher training fields, SRTTU also offers engineering programs, basic sciences, and related fields.",
+        "fa": "خیر، علاوه بر رشته‌های تربیت معلم، رشته‌های مهندسی، علوم پایه و حوزه‌های مرتبط نیز ارائه می‌شود."
+      }
     },
     {
-      "question": { "en": "Does the university provide accommodation?", "fa": "آیا دانشگاه خوابگاه دارد؟" },
-      "answer": { "en": "Yes, student housing may be available based on capacity.", "fa": "بله، خوابگاه دانشجویی در صورت وجود ظرفیت ارائه می‌شود." }
+      "question": {
+        "en": "Does the university provide accommodation?",
+        "fa": "آیا دانشگاه خوابگاه دارد؟"
+      },
+      "answer": {
+        "en": "Yes, student housing may be available based on capacity.",
+        "fa": "بله، خوابگاه دانشجویی در صورت وجود ظرفیت ارائه می‌شود."
+      }
     },
     {
-      "question": { "en": "Are tuition discounts or scholarships available?", "fa": "آیا بورسیه یا تخفیف شهریه برای دانشجویان بین‌المللی وجود دارد؟" },
-      "answer": { "en": "Eligible students may receive tuition discounts according to university policies, such as reductions for top-ranked students, family members studying together, and university graduates.", "fa": "دانشگاه برای برخی دانشجویان واجد شرایط تخفیف شهریه در نظر می‌گیرد، از جمله برای رتبه‌های برتر، تحصیل همزمان اعضای خانواده و فارغ‌التحصیلان دانشگاه." }
+      "question": {
+        "en": "Are tuition discounts or scholarships available?",
+        "fa": "آیا بورسیه یا تخفیف شهریه برای دانشجویان بین‌المللی وجود دارد؟"
+      },
+      "answer": {
+        "en": "Eligible students may receive tuition discounts according to university policies, such as reductions for top-ranked students, family members studying together, and university graduates.",
+        "fa": "دانشگاه برای برخی دانشجویان واجد شرایط تخفیف شهریه در نظر می‌گیرد، از جمله برای رتبه‌های برتر، تحصیل همزمان اعضای خانواده و فارغ‌التحصیلان دانشگاه."
+      }
     }
   ]
 }

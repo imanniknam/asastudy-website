@@ -1,13 +1,38 @@
 {
   "slug": "ilam-university-of-medical-sciences",
-  "name": { "en": "Ilam University of Medical Sciences (IUMS)", "fa": "دانشگاه علوم پزشکی ایلام (IUMS)" },
-  "shortName": { "en": "IUMS", "fa": "IUMS" },
-  "city": { "en": "Ilam", "fa": "ایلام" },
-  "type": { "en": "Public University of Medical Sciences", "fa": "دانشگاه دولتی علوم پزشکی" },
+  "category": "medical",
+  "name": {
+    "en": "Ilam University of Medical Sciences (IUMS)",
+    "fa": "دانشگاه علوم پزشکی ایلام (IUMS)"
+  },
+  "shortName": {
+    "en": "IUMS",
+    "fa": "IUMS"
+  },
+  "city": {
+    "en": "Ilam",
+    "fa": "ایلام"
+  },
+  "type": {
+    "en": "Public University of Medical Sciences",
+    "fa": "دانشگاه دولتی علوم پزشکی"
+  },
   "established": "1995",
   "featuredPrograms": {
-    "en": ["Medicine (MD)", "Nursing and Midwifery", "Public Health", "Allied Medical Sciences", "Pharmacy"],
-    "fa": ["پزشکی", "پرستاری و مامایی", "بهداشت", "علوم پیراپزشکی", "داروسازی"]
+    "en": [
+      "Medicine (MD)",
+      "Nursing and Midwifery",
+      "Public Health",
+      "Allied Medical Sciences",
+      "Pharmacy"
+    ],
+    "fa": [
+      "پزشکی",
+      "پرستاری و مامایی",
+      "بهداشت",
+      "علوم پیراپزشکی",
+      "داروسازی"
+    ]
   },
   "summary": {
     "en": "A public medical university in Ilam, western Iran, IUMS offers a supportive academic environment with smaller class sizes, clinical training in affiliated hospitals, and a lower cost of living.",
@@ -62,11 +87,76 @@
     "fa": "در مدارک منتشرشده دانشگاه برای پذیرش بین‌المللی، جدول دقیقی از شهریه ارائه نشده است. متقاضیان باید برای دریافت آخرین اطلاعات شهریه رشته موردنظر خود با تیم آسا استادی یا دفتر امور بین‌الملل دانشگاه تماس بگیرند."
   },
   "programs": [
-    { "name": { "en": "Medicine", "fa": "پزشکی" }, "degreeLevel": { "en": "MD", "fa": "دکترای حرفه‌ای پزشکی (MD)" }, "faculty": { "en": "School of Medicine", "fa": "دانشکده پزشکی" } },
-    { "name": { "en": "Nursing and Midwifery", "fa": "پرستاری و مامایی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Nursing and Midwifery", "fa": "دانشکده پرستاری و مامایی" } },
-    { "name": { "en": "Public Health", "fa": "بهداشت" }, "degreeLevel": { "en": "Bachelor's / Master's / PhD", "fa": "کارشناسی / کارشناسی ارشد / دکتری" }, "faculty": { "en": "School of Public Health", "fa": "دانشکده بهداشت" } },
-    { "name": { "en": "Allied Medical Sciences", "fa": "علوم پیراپزشکی" }, "degreeLevel": { "en": "Bachelor's / Master's", "fa": "کارشناسی / کارشناسی ارشد" }, "faculty": { "en": "School of Allied Medical Sciences", "fa": "دانشکده پیراپزشکی" } },
-    { "name": { "en": "Pharmacy", "fa": "داروسازی" }, "degreeLevel": { "en": "PharmD", "fa": "دکترای حرفه‌ای داروسازی (PharmD)" }, "faculty": { "en": "School of Pharmacy (subject to program availability)", "fa": "دانشکده داروسازی (در صورت ارائه در سال پذیرش)" } }
+    {
+      "name": {
+        "en": "Medicine",
+        "fa": "پزشکی"
+      },
+      "degreeLevel": {
+        "en": "MD",
+        "fa": "دکترای حرفه‌ای پزشکی (MD)"
+      },
+      "faculty": {
+        "en": "School of Medicine",
+        "fa": "دانشکده پزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Nursing and Midwifery",
+        "fa": "پرستاری و مامایی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Nursing and Midwifery",
+        "fa": "دانشکده پرستاری و مامایی"
+      }
+    },
+    {
+      "name": {
+        "en": "Public Health",
+        "fa": "بهداشت"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's / PhD",
+        "fa": "کارشناسی / کارشناسی ارشد / دکتری"
+      },
+      "faculty": {
+        "en": "School of Public Health",
+        "fa": "دانشکده بهداشت"
+      }
+    },
+    {
+      "name": {
+        "en": "Allied Medical Sciences",
+        "fa": "علوم پیراپزشکی"
+      },
+      "degreeLevel": {
+        "en": "Bachelor's / Master's",
+        "fa": "کارشناسی / کارشناسی ارشد"
+      },
+      "faculty": {
+        "en": "School of Allied Medical Sciences",
+        "fa": "دانشکده پیراپزشکی"
+      }
+    },
+    {
+      "name": {
+        "en": "Pharmacy",
+        "fa": "داروسازی"
+      },
+      "degreeLevel": {
+        "en": "PharmD",
+        "fa": "دکترای حرفه‌ای داروسازی (PharmD)"
+      },
+      "faculty": {
+        "en": "School of Pharmacy (subject to program availability)",
+        "fa": "دانشکده داروسازی (در صورت ارائه در سال پذیرش)"
+      }
+    }
   ],
   "studentLife": {
     "en": "Ilam is one of Iran's most peaceful and affordable cities, making it an attractive destination for international students seeking a comfortable study environment. The city offers a lower cost of living than major metropolitan areas while providing access to quality healthcare facilities, university resources, and beautiful natural surroundings. Its welcoming atmosphere allows students to focus on their education and personal development throughout their academic journey.",
@@ -78,20 +168,44 @@
   },
   "faq": [
     {
-      "question": { "en": "Is Persian language proficiency required?", "fa": "آیا زبان فارسی برای تحصیل الزامی است؟" },
-      "answer": { "en": "Yes. Since most academic and clinical training is conducted in Persian, international students are expected to acquire sufficient Persian language skills before or during their studies.", "fa": "بله، از آنجا که بیشتر برنامه‌های آموزشی و بالینی به زبان فارسی برگزار می‌شوند، تسلط به زبان فارسی برای ادامه تحصیل ضروری است." }
+      "question": {
+        "en": "Is Persian language proficiency required?",
+        "fa": "آیا زبان فارسی برای تحصیل الزامی است؟"
+      },
+      "answer": {
+        "en": "Yes. Since most academic and clinical training is conducted in Persian, international students are expected to acquire sufficient Persian language skills before or during their studies.",
+        "fa": "بله، از آنجا که بیشتر برنامه‌های آموزشی و بالینی به زبان فارسی برگزار می‌شوند، تسلط به زبان فارسی برای ادامه تحصیل ضروری است."
+      }
     },
     {
-      "question": { "en": "Does the university provide student accommodation?", "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟" },
-      "answer": { "en": "Yes. Dormitory accommodation is available for international students, subject to availability.", "fa": "بله، خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است." }
+      "question": {
+        "en": "Does the university provide student accommodation?",
+        "fa": "آیا دانشگاه خوابگاه ارائه می‌دهد؟"
+      },
+      "answer": {
+        "en": "Yes. Dormitory accommodation is available for international students, subject to availability.",
+        "fa": "بله، خوابگاه دانشجویی برای دانشجویان بین‌المللی بر اساس ظرفیت در دسترس است."
+      }
     },
     {
-      "question": { "en": "Is an admission interview required?", "fa": "آیا ممکن است مصاحبه بخشی از فرآیند پذیرش باشد؟" },
-      "answer": { "en": "For some academic programs, the university may require an interview or additional academic evaluation as part of the admission process.", "fa": "بله، در برخی رشته‌ها یا مقاطع ممکن است دانشگاه مصاحبه یا ارزیابی علمی برگزار کند." }
+      "question": {
+        "en": "Is an admission interview required?",
+        "fa": "آیا ممکن است مصاحبه بخشی از فرآیند پذیرش باشد؟"
+      },
+      "answer": {
+        "en": "For some academic programs, the university may require an interview or additional academic evaluation as part of the admission process.",
+        "fa": "بله، در برخی رشته‌ها یا مقاطع ممکن است دانشگاه مصاحبه یا ارزیابی علمی برگزار کند."
+      }
     },
     {
-      "question": { "en": "Do my academic documents need official translation?", "fa": "آیا ارائه ترجمه رسمی مدارک الزامی است؟" },
-      "answer": { "en": "Yes. Academic certificates and transcripts must be officially translated, and in some cases, authenticated by the appropriate authorities before submission.", "fa": "بله، مدارک تحصیلی باید مطابق مقررات دانشگاه به‌صورت رسمی ترجمه شده و در صورت نیاز به تأیید مراجع مربوطه رسیده باشند." }
+      "question": {
+        "en": "Do my academic documents need official translation?",
+        "fa": "آیا ارائه ترجمه رسمی مدارک الزامی است؟"
+      },
+      "answer": {
+        "en": "Yes. Academic certificates and transcripts must be officially translated, and in some cases, authenticated by the appropriate authorities before submission.",
+        "fa": "بله، مدارک تحصیلی باید مطابق مقررات دانشگاه به‌صورت رسمی ترجمه شده و در صورت نیاز به تأیید مراجع مربوطه رسیده باشند."
+      }
     }
   ]
 }
