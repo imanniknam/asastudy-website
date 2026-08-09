@@ -1,6 +1,9 @@
 {
   "slug": "shiraz-university-of-medical-sciences",
   "category": "medical",
+  "images": [
+    "/images/universities/shiraz-university-of-medical-sciences.webp"
+  ],
   "name": {
     "en": "Shiraz University of Medical Sciences (SUMS)",
     "fa": "دانشگاه علوم پزشکی شیراز (SUMS)"

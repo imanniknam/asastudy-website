@@ -1,6 +1,9 @@
 {
   "slug": "iran-university-of-medical-sciences",
   "category": "medical",
+  "images": [
+    "/images/universities/iran-university-of-medical-sciences.webp"
+  ],
   "name": {
     "en": "Iran University of Medical Sciences (IUMS)",
     "fa": "دانشگاه علوم پزشکی ایران (IUMS)"

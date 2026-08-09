@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { GraduationCap, MapPin } from "lucide-react";
 import type { University, Locale } from "@/types/university";
 import { Badge } from "@/components/ui/badge";
@@ -20,9 +21,31 @@ export function UniversityHero({
   university: University;
   locale: Locale;
 }) {
+  const photo = university.images?.[0];
+
   return (
     <section className="relative overflow-hidden bg-primary py-20 sm:py-24">
-      <div className="absolute inset-0 bg-grid-fade opacity-[0.15]" />
+      {photo ? (
+        <>
+          <Image
+            src={photo}
+            alt={university.name[locale]}
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover object-center"
+          />
+          {/*
+            Two layers: a base wash that guarantees AA contrast for the white
+            headline over any photo, plus a vertical gradient that lets the
+            building stay visible toward the top and edges.
+          */}
+          <div className="absolute inset-0 bg-primary/75" />
+          <div className="absolute inset-0 bg-gradient-to-b from-primary/40 via-primary/10 to-primary/70" />
+        </>
+      ) : (
+        <div className="absolute inset-0 bg-grid-fade opacity-[0.15]" />
+      )}
       <div
         className="absolute -top-24 start-1/2 h-[360px] w-[640px] -translate-x-1/2 rounded-full opacity-40 blur-3xl"
         style={{
@@ -30,9 +53,11 @@ export function UniversityHero({
         }}
       />
       <div className="container-page relative flex flex-col items-center gap-5 text-center">
-        <div className="flex size-20 items-center justify-center rounded-[var(--radius-lg)] border border-white/20 bg-white/10 text-2xl font-extrabold text-white backdrop-blur-sm">
-          {initials(university.name.en)}
-        </div>
+        {!photo && (
+          <div className="flex size-20 items-center justify-center rounded-[var(--radius-lg)] border border-white/20 bg-white/10 text-2xl font-extrabold text-white backdrop-blur-sm">
+            {initials(university.name.en)}
+          </div>
+        )}
 
         <div className="flex flex-wrap items-center justify-center gap-2">
           <CategoryBadge category={university.category} tone="onDark" className="px-3 py-1.5 text-xs" />

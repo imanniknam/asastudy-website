@@ -32,6 +32,12 @@ export const UNIVERSITY_CATEGORIES: UniversityCategory[] = ["medical", "non-medi
 export interface University {
   slug: string;
   category: UniversityCategory;
+  /**
+   * Campus photos, as paths under /public. The first entry is the primary
+   * image used on the directory card and the detail page hero. Universities
+   * without photos fall back to a generated monogram.
+   */
+  images?: string[];
   name: LocalizedText;
   shortName?: LocalizedText;
   city: LocalizedText;

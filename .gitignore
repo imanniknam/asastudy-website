@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# source photography — originals are optimised into public/images/ before use
+/pics
+
 # vercel
 .vercel
 

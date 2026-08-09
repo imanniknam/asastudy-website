@@ -1,6 +1,9 @@
 {
   "slug": "shahid-beheshti-university-of-medical-sciences",
   "category": "medical",
+  "images": [
+    "/images/universities/shahid-beheshti-university-of-medical-sciences.webp"
+  ],
   "name": {
     "en": "Shahid Beheshti University of Medical Sciences",
     "fa": "دانشگاه علوم پزشکی شهید بهشتی"

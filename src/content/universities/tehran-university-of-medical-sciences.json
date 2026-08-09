@@ -1,6 +1,9 @@
 {
   "slug": "tehran-university-of-medical-sciences",
   "category": "medical",
+  "images": [
+    "/images/universities/tehran-university-of-medical-sciences.webp"
+  ],
   "name": {
     "en": "Tehran University of Medical Sciences (TUMS)",
     "fa": "دانشگاه علوم پزشکی تهران (TUMS)"

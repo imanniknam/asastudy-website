@@ -1,6 +1,9 @@
 {
   "slug": "zanjan-university-of-medical-sciences",
   "category": "medical",
+  "images": [
+    "/images/universities/zanjan-university-of-medical-sciences.webp"
+  ],
   "name": {
     "en": "Zanjan University of Medical Sciences (ZUMS)",
     "fa": "دانشگاه علوم پزشکی زنجان (ZUMS)"

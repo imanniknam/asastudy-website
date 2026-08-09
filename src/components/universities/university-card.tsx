@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { useLocale, useTranslations } from "next-intl";
 import { ArrowUpRight, MapPin } from "lucide-react";
 import { Link } from "@/i18n/navigation";
@@ -24,11 +25,26 @@ export function UniversityCard({ university }: { university: University }) {
       href={`/universities/${university.slug}`}
       className="group flex h-full flex-col overflow-hidden rounded-[var(--radius-lg)] border border-border bg-surface transition-all duration-300 hover:-translate-y-1.5 hover:border-accent/30 hover:shadow-xl hover:shadow-primary/10"
     >
-      <div className="relative flex h-40 items-center justify-center overflow-hidden bg-gradient-to-br from-primary to-[#0a1f38]">
-        <div className="absolute inset-0 bg-grid-fade opacity-20" />
-        <span className="relative text-4xl font-extrabold tracking-tight text-white/90">
-          {initials(university.name.en)}
-        </span>
+      <div className="relative flex h-44 items-center justify-center overflow-hidden bg-gradient-to-br from-primary to-[#0a1f38]">
+        {university.images?.[0] ? (
+          <>
+            <Image
+              src={university.images[0]}
+              alt={university.name[locale]}
+              fill
+              sizes="(max-width: 639px) 100vw, (max-width: 1023px) 50vw, 33vw"
+              className="object-cover transition-transform duration-500 group-hover:scale-[1.04]"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-primary/50 via-transparent to-transparent" />
+          </>
+        ) : (
+          <>
+            <div className="absolute inset-0 bg-grid-fade opacity-20" />
+            <span className="relative text-4xl font-extrabold tracking-tight text-white/90">
+              {initials(university.name.en)}
+            </span>
+          </>
+        )}
       </div>
 
       <div className="flex flex-1 flex-col gap-3 p-6">

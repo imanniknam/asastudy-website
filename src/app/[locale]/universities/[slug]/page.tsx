@@ -66,7 +66,7 @@ export default async function UniversityDetailPage({
               <ProseText text={university.overview[loc]} />
             </UniversityContentSection>
 
-            <UniversityGallery />
+            <UniversityGallery images={university.images} name={university.name[loc]} />
 
             <UniversityContentSection id="admission" title={t("admissionRequirements")}>
               <BulletList items={university.admissionRequirements[loc]} />
