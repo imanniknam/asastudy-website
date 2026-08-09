@@ -1,6 +1,9 @@
 {
   "slug": "damghan-university",
   "category": "non-medical",
+  "images": [
+    "/images/universities/damghan-university.webp"
+  ],
   "name": {
     "en": "Damghan University (DU)",
     "fa": "دانشگاه دامغان (DU)"

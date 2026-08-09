@@ -1,6 +1,9 @@
 {
   "slug": "tarbiat-modares-university",
   "category": "non-medical",
+  "images": [
+    "/images/universities/tarbiat-modares-university.webp"
+  ],
   "name": {
     "en": "Tarbiat Modares University (TMU)",
     "fa": "دانشگاه تربیت مدرس (TMU)"

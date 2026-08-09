@@ -1,6 +1,9 @@
 {
   "slug": "university-of-arak",
   "category": "non-medical",
+  "images": [
+    "/images/universities/university-of-arak.webp"
+  ],
   "name": {
     "en": "University of Arak",
     "fa": "دانشگاه اراک"

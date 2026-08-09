@@ -1,6 +1,9 @@
 {
   "slug": "shahid-beheshti-university",
   "category": "non-medical",
+  "images": [
+    "/images/universities/shahid-beheshti-university.webp"
+  ],
   "name": {
     "en": "Shahid Beheshti University (SBU)",
     "fa": "دانشگاه شهید بهشتی (SBU)"

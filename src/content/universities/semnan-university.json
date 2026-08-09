@@ -1,6 +1,9 @@
 {
   "slug": "semnan-university",
   "category": "non-medical",
+  "images": [
+    "/images/universities/semnan-university.webp"
+  ],
   "name": {
     "en": "Semnan University (SU)",
     "fa": "دانشگاه سمنان (SU)"

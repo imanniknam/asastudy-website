@@ -1,6 +1,9 @@
 {
   "slug": "university-of-ilam",
   "category": "non-medical",
+  "images": [
+    "/images/universities/university-of-ilam.webp"
+  ],
   "name": {
     "en": "University of Ilam (UI)",
     "fa": "دانشگاه ایلام (UI)"
