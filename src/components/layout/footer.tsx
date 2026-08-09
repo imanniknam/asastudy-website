@@ -51,7 +51,7 @@ export function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/services" className="flex min-h-11 items-center transition-colors hover:text-accent">
+              <Link href="/programs" className="flex min-h-11 items-center transition-colors hover:text-accent">
                 {t("links.programs")}
               </Link>
             </li>

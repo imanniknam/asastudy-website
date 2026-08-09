@@ -1,0 +1,228 @@
+{
+  "source": {
+    "label": {
+      "fa": "دبیرخانه شورای آموزش پزشکی و تخصصی، وزارت بهداشت، درمان و آموزش پزشکی",
+      "en": "Secretariat of the Council for Graduate Medical Education, Ministry of Health and Medical Education"
+    },
+    "url": "https://cgme.behdasht.gov.ir"
+  },
+  "tiers": [
+    {
+      "tier": "specialty",
+      "title": {
+        "fa": "رشته‌های تخصصی پزشکی (دستیاری)",
+        "en": "Medical Specialty Programs (Residency)"
+      },
+      "shortTitle": { "fa": "تخصص", "en": "Specialty" },
+      "description": {
+        "fa": "دورهٔ تخصصی یا «دستیاری» نخستین مقطع آموزش پزشکی پس از دکترای حرفه‌ای است. در این دوره، پزشک عمومی با حضور تمام‌وقت در بیمارستان‌های آموزشی و زیر نظر اعضای هیئت علمی، در یک رشتهٔ بالینی یا پایه آموزش می‌بیند و در پایان، مدرک تخصصی دریافت می‌کند.",
+        "en": "The specialty programme (residency) is the first stage of postgraduate medical training after the MD. Residents train full-time in teaching hospitals under faculty supervision within a single clinical or basic discipline, and receive a specialist degree on completion."
+      },
+      "entryRequirement": {
+        "fa": "دارا بودن مدرک دکترای حرفه‌ای پزشکی (MD) و پذیرش در آزمون پذیرش دستیار تخصصی",
+        "en": "A Doctor of Medicine (MD) degree and admission through the national residency entrance examination"
+      },
+      "typicalDuration": {
+        "fa": "معمولاً ۳ تا ۵ سال، بسته به رشته",
+        "en": "Typically 3 to 5 years, depending on the discipline"
+      },
+      "groups": [
+        {
+          "id": "specialty-medical",
+          "title": { "fa": "رشته‌های داخلی و بالینی", "en": "Medical and Clinical Disciplines" },
+          "programs": [
+            { "id": "internal-medicine", "name": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" }, "durationYears": 4 },
+            { "id": "pediatrics", "name": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" }, "durationYears": 4 },
+            { "id": "cardiology", "name": { "fa": "بیماری‌های قلب و عروق", "en": "Cardiology" }, "durationYears": 4 },
+            { "id": "neurology", "name": { "fa": "بیماری‌های مغز و اعصاب (نورولوژی)", "en": "Neurology" }, "durationYears": 4 },
+            { "id": "infectious-diseases", "name": { "fa": "بیماری‌های عفونی و گرمسیری", "en": "Infectious and Tropical Diseases" }, "durationYears": 4 },
+            { "id": "dermatology", "name": { "fa": "بیماری‌های پوست", "en": "Dermatology" }, "durationYears": 4 },
+            { "id": "psychiatry", "name": { "fa": "روان‌پزشکی", "en": "Psychiatry" }, "durationYears": 4 },
+            { "id": "emergency-medicine", "name": { "fa": "طب اورژانس", "en": "Emergency Medicine" }, "durationYears": 3 },
+            { "id": "family-medicine", "name": { "fa": "پزشکی خانواده", "en": "Family Medicine" }, "durationYears": 3 },
+            { "id": "physical-medicine", "name": { "fa": "طب فیزیکی و توانبخشی", "en": "Physical Medicine and Rehabilitation" }, "durationYears": 4 },
+            { "id": "geriatric-medicine", "name": { "fa": "طب سالمندی", "en": "Geriatric Medicine" }, "durationYears": 3 },
+            { "id": "sports-medicine", "name": { "fa": "پزشکی ورزشی", "en": "Sports Medicine" }, "durationYears": 3 },
+            { "id": "occupational-medicine", "name": { "fa": "طب کار", "en": "Occupational Medicine" }, "durationYears": 3 },
+            { "id": "traditional-medicine", "name": { "fa": "طب سنتی ایرانی", "en": "Traditional Persian Medicine" }, "durationYears": 4 }
+          ]
+        },
+        {
+          "id": "specialty-surgical",
+          "title": { "fa": "رشته‌های جراحی", "en": "Surgical Disciplines" },
+          "programs": [
+            { "id": "general-surgery", "name": { "fa": "جراحی عمومی", "en": "General Surgery" }, "durationYears": 4 },
+            { "id": "neurosurgery", "name": { "fa": "جراحی مغز و اعصاب", "en": "Neurosurgery" }, "durationYears": 5 },
+            { "id": "orthopedics", "name": { "fa": "جراحی استخوان و مفاصل (ارتوپدی)", "en": "Orthopedic Surgery" }, "durationYears": 4 },
+            { "id": "urology", "name": { "fa": "جراحی کلیه و مجاری ادراری (اورولوژی)", "en": "Urology" }, "durationYears": 4 },
+            { "id": "obstetrics-gynecology", "name": { "fa": "زنان و زایمان", "en": "Obstetrics and Gynecology" }, "durationYears": 4 },
+            { "id": "ophthalmology", "name": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" }, "durationYears": 4 },
+            { "id": "otolaryngology", "name": { "fa": "گوش و گلو و بینی و جراحی سر و گردن", "en": "Otorhinolaryngology and Head and Neck Surgery" }, "durationYears": 4 }
+          ]
+        },
+        {
+          "id": "specialty-diagnostic",
+          "title": { "fa": "رشته‌های تشخیصی و پایه", "en": "Diagnostic and Basic Disciplines" },
+          "programs": [
+            { "id": "radiology", "name": { "fa": "رادیولوژی (تصویربرداری تشخیصی)", "en": "Radiology" }, "durationYears": 4 },
+            { "id": "pathology", "name": { "fa": "آسیب‌شناسی (پاتولوژی)", "en": "Pathology" }, "durationYears": 4 },
+            { "id": "anesthesiology", "name": { "fa": "بیهوشی", "en": "Anesthesiology" }, "durationYears": 4 },
+            { "id": "nuclear-medicine", "name": { "fa": "پزشکی هسته‌ای", "en": "Nuclear Medicine" }, "durationYears": 3 },
+            { "id": "radiation-oncology", "name": { "fa": "رادیوتراپی-انکولوژی", "en": "Radiation Oncology" }, "durationYears": 4 },
+            { "id": "medical-genetics", "name": { "fa": "ژنتیک پزشکی", "en": "Medical Genetics" }, "durationYears": 4 },
+            { "id": "forensic-medicine", "name": { "fa": "پزشکی قانونی", "en": "Forensic Medicine" }, "durationYears": 4 },
+            { "id": "community-medicine", "name": { "fa": "پزشکی اجتماعی", "en": "Community Medicine" }, "durationYears": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "tier": "subspecialty",
+      "title": {
+        "fa": "رشته‌های فوق تخصصی پزشکی",
+        "en": "Medical Subspecialty Programs"
+      },
+      "shortTitle": { "fa": "فوق تخصص", "en": "Subspecialty" },
+      "description": {
+        "fa": "دورهٔ فوق تخصصی مقطعی پس از تخصص است که در آن پزشک متخصص، آموزش عمیق‌تری در یکی از شاخه‌های محدودتر رشتهٔ خود می‌بیند. ورود به هر رشتهٔ فوق تخصصی مشروط به داشتن مدرک تخصصی مرتبط است.",
+        "en": "A subspecialty programme follows the specialty degree and provides deeper training within a narrower branch of the specialist's own field. Entry to each subspecialty requires the corresponding specialty degree."
+      },
+      "entryRequirement": {
+        "fa": "دارا بودن مدرک تخصصی مرتبط و پذیرش در آزمون پذیرش دستیار فوق تخصصی",
+        "en": "The relevant specialty degree and admission through the national subspecialty entrance examination"
+      },
+      "typicalDuration": {
+        "fa": "معمولاً ۲ تا ۳ سال",
+        "en": "Typically 2 to 3 years"
+      },
+      "groups": [
+        {
+          "id": "sub-internal",
+          "title": { "fa": "شاخه‌های بیماری‌های داخلی", "en": "Branches of Internal Medicine" },
+          "programs": [
+            { "id": "gastroenterology", "name": { "fa": "گوارش و کبد بالغین", "en": "Gastroenterology and Hepatology" }, "prerequisite": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" } },
+            { "id": "endocrinology", "name": { "fa": "غدد درون‌ریز و متابولیسم بالغین", "en": "Endocrinology and Metabolism" }, "prerequisite": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" } },
+            { "id": "hematology-oncology", "name": { "fa": "خون و سرطان بالغین", "en": "Hematology and Medical Oncology" }, "prerequisite": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" } },
+            { "id": "nephrology", "name": { "fa": "بیماری‌های کلیه بالغین (نفرولوژی)", "en": "Nephrology" }, "prerequisite": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" } },
+            { "id": "pulmonology", "name": { "fa": "بیماری‌های ریه بالغین", "en": "Pulmonology" }, "prerequisite": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" } },
+            { "id": "rheumatology", "name": { "fa": "روماتولوژی", "en": "Rheumatology" }, "prerequisite": { "fa": "بیماری‌های داخلی", "en": "Internal Medicine" } },
+            { "id": "clinical-immunology", "name": { "fa": "ایمونولوژی و آلرژی بالینی", "en": "Clinical Immunology and Allergy" }, "prerequisite": { "fa": "بیماری‌های داخلی یا کودکان", "en": "Internal Medicine or Pediatrics" } }
+          ]
+        },
+        {
+          "id": "sub-pediatrics",
+          "title": { "fa": "شاخه‌های بیماری‌های کودکان", "en": "Branches of Pediatrics" },
+          "programs": [
+            { "id": "neonatology", "name": { "fa": "بیماری‌های نوزادان", "en": "Neonatology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-cardiology", "name": { "fa": "قلب کودکان", "en": "Pediatric Cardiology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-gastro", "name": { "fa": "گوارش و کبد کودکان", "en": "Pediatric Gastroenterology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-endocrine", "name": { "fa": "غدد درون‌ریز و متابولیسم کودکان", "en": "Pediatric Endocrinology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-hemato", "name": { "fa": "خون و سرطان کودکان", "en": "Pediatric Hematology and Oncology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-nephrology", "name": { "fa": "بیماری‌های کلیه کودکان", "en": "Pediatric Nephrology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-neurology", "name": { "fa": "بیماری‌های مغز و اعصاب کودکان", "en": "Pediatric Neurology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-pulmonology", "name": { "fa": "بیماری‌های ریه کودکان", "en": "Pediatric Pulmonology" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } },
+            { "id": "pediatric-infectious", "name": { "fa": "بیماری‌های عفونی کودکان", "en": "Pediatric Infectious Diseases" }, "prerequisite": { "fa": "بیماری‌های کودکان", "en": "Pediatrics" } }
+          ]
+        },
+        {
+          "id": "sub-surgical",
+          "title": { "fa": "شاخه‌های جراحی", "en": "Surgical Branches" },
+          "programs": [
+            { "id": "cardiac-surgery", "name": { "fa": "جراحی قلب و عروق", "en": "Cardiovascular Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "thoracic-surgery", "name": { "fa": "جراحی توراکس", "en": "Thoracic Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "pediatric-surgery", "name": { "fa": "جراحی کودکان", "en": "Pediatric Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "plastic-surgery", "name": { "fa": "جراحی پلاستیک، ترمیمی و سوختگی", "en": "Plastic, Reconstructive and Burn Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "vascular-surgery", "name": { "fa": "جراحی عروق", "en": "Vascular Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "colorectal-surgery", "name": { "fa": "جراحی کولورکتال", "en": "Colorectal Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } }
+          ]
+        },
+        {
+          "id": "sub-other",
+          "title": { "fa": "سایر شاخه‌ها", "en": "Other Branches" },
+          "programs": [
+            { "id": "child-psychiatry", "name": { "fa": "روان‌پزشکی کودک و نوجوان", "en": "Child and Adolescent Psychiatry" }, "prerequisite": { "fa": "روان‌پزشکی", "en": "Psychiatry" } },
+            { "id": "clinical-neurophysiology", "name": { "fa": "نوروفیزیولوژی بالینی", "en": "Clinical Neurophysiology" }, "prerequisite": { "fa": "بیماری‌های مغز و اعصاب", "en": "Neurology" } },
+            { "id": "critical-care", "name": { "fa": "مراقبت‌های ویژه", "en": "Critical Care Medicine" }, "prerequisite": { "fa": "بیهوشی یا بیماری‌های داخلی", "en": "Anesthesiology or Internal Medicine" } }
+          ]
+        }
+      ]
+    },
+    {
+      "tier": "fellowship",
+      "title": {
+        "fa": "دوره‌های تکمیلی تخصصی (فلوشیپ)",
+        "en": "Fellowship Programs"
+      },
+      "shortTitle": { "fa": "فلوشیپ", "en": "Fellowship" },
+      "description": {
+        "fa": "فلوشیپ یا دورهٔ تکمیلی تخصصی، آموزشی کوتاه‌تر و بسیار متمرکز است که پزشک متخصص یا فوق تخصص را در یک حوزهٔ باریک بالینی یا یک تکنیک خاص، مهارت‌محور تربیت می‌کند. برخلاف فوق تخصص، فلوشیپ بیشتر بر کسب مهارت عملی در یک زمینهٔ مشخص متمرکز است.",
+        "en": "A fellowship is a shorter, highly focused training period that equips a specialist or subspecialist with practical skills in a narrow clinical area or a specific technique. Unlike a subspecialty, a fellowship concentrates primarily on hands-on proficiency in one defined field."
+      },
+      "entryRequirement": {
+        "fa": "دارا بودن مدرک تخصصی یا فوق تخصصی مرتبط با رشتهٔ فلوشیپ",
+        "en": "A specialty or subspecialty degree relevant to the chosen fellowship"
+      },
+      "typicalDuration": {
+        "fa": "معمولاً ۱ تا ۲ سال",
+        "en": "Typically 1 to 2 years"
+      },
+      "groups": [
+        {
+          "id": "fellow-cardio",
+          "title": { "fa": "قلب و عروق", "en": "Cardiovascular" },
+          "programs": [
+            { "id": "interventional-cardiology", "name": { "fa": "اینترونشنال کاردیولوژی (آنژیوگرافی و آنژیوپلاستی)", "en": "Interventional Cardiology" }, "prerequisite": { "fa": "بیماری‌های قلب و عروق", "en": "Cardiology" } },
+            { "id": "echocardiography", "name": { "fa": "اکوکاردیوگرافی", "en": "Echocardiography" }, "prerequisite": { "fa": "بیماری‌های قلب و عروق", "en": "Cardiology" } },
+            { "id": "electrophysiology", "name": { "fa": "الکتروفیزیولوژی بالینی قلب", "en": "Cardiac Electrophysiology" }, "prerequisite": { "fa": "بیماری‌های قلب و عروق", "en": "Cardiology" } }
+          ]
+        },
+        {
+          "id": "fellow-ophthalmology",
+          "title": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" },
+          "programs": [
+            { "id": "vitreoretinal", "name": { "fa": "ویتره و رتین (شبکیه)", "en": "Vitreoretinal Surgery" }, "prerequisite": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" } },
+            { "id": "cornea", "name": { "fa": "قرنیه", "en": "Cornea" }, "prerequisite": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" } },
+            { "id": "glaucoma", "name": { "fa": "گلوکوم", "en": "Glaucoma" }, "prerequisite": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" } },
+            { "id": "strabismus", "name": { "fa": "استرابیسم و چشم‌پزشکی کودکان", "en": "Strabismus and Pediatric Ophthalmology" }, "prerequisite": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" } },
+            { "id": "oculoplasty", "name": { "fa": "اکولوپلاستی", "en": "Oculoplastic Surgery" }, "prerequisite": { "fa": "چشم‌پزشکی", "en": "Ophthalmology" } }
+          ]
+        },
+        {
+          "id": "fellow-surgery",
+          "title": { "fa": "جراحی", "en": "Surgery" },
+          "programs": [
+            { "id": "hand-surgery", "name": { "fa": "جراحی دست", "en": "Hand Surgery" }, "prerequisite": { "fa": "ارتوپدی یا جراحی پلاستیک", "en": "Orthopedics or Plastic Surgery" } },
+            { "id": "spine-surgery", "name": { "fa": "جراحی ستون فقرات", "en": "Spine Surgery" }, "prerequisite": { "fa": "ارتوپدی یا جراحی مغز و اعصاب", "en": "Orthopedics or Neurosurgery" } },
+            { "id": "surgical-oncology", "name": { "fa": "جراحی سرطان", "en": "Surgical Oncology" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "liver-transplant", "name": { "fa": "پیوند کبد", "en": "Liver Transplantation" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } },
+            { "id": "kidney-transplant", "name": { "fa": "پیوند کلیه", "en": "Kidney Transplantation" }, "prerequisite": { "fa": "جراحی عمومی یا اورولوژی", "en": "General Surgery or Urology" } },
+            { "id": "laparoscopy", "name": { "fa": "جراحی لاپاروسکوپی پیشرفته", "en": "Advanced Laparoscopic Surgery" }, "prerequisite": { "fa": "جراحی عمومی", "en": "General Surgery" } }
+          ]
+        },
+        {
+          "id": "fellow-women",
+          "title": { "fa": "زنان و زایمان", "en": "Obstetrics and Gynecology" },
+          "programs": [
+            { "id": "infertility", "name": { "fa": "نازایی و ناباروری (IVF)", "en": "Infertility and IVF" }, "prerequisite": { "fa": "زنان و زایمان", "en": "Obstetrics and Gynecology" } },
+            { "id": "gynecologic-oncology", "name": { "fa": "انکولوژی زنان", "en": "Gynecologic Oncology" }, "prerequisite": { "fa": "زنان و زایمان", "en": "Obstetrics and Gynecology" } },
+            { "id": "perinatology", "name": { "fa": "پریناتولوژی (طب مادر و جنین)", "en": "Perinatology" }, "prerequisite": { "fa": "زنان و زایمان", "en": "Obstetrics and Gynecology" } }
+          ]
+        },
+        {
+          "id": "fellow-other",
+          "title": { "fa": "سایر دوره‌ها", "en": "Other Fellowships" },
+          "programs": [
+            { "id": "interventional-radiology", "name": { "fa": "رادیولوژی مداخله‌ای (اینترونشنال)", "en": "Interventional Radiology" }, "prerequisite": { "fa": "رادیولوژی", "en": "Radiology" } },
+            { "id": "rhinology", "name": { "fa": "رینولوژی (جراحی بینی و سینوس)", "en": "Rhinology" }, "prerequisite": { "fa": "گوش و گلو و بینی", "en": "Otorhinolaryngology" } },
+            { "id": "otology", "name": { "fa": "اتولوژی و نورواتولوژی", "en": "Otology and Neurotology" }, "prerequisite": { "fa": "گوش و گلو و بینی", "en": "Otorhinolaryngology" } },
+            { "id": "pain-medicine", "name": { "fa": "طب درد", "en": "Pain Medicine" }, "prerequisite": { "fa": "بیهوشی", "en": "Anesthesiology" } },
+            { "id": "palliative-care", "name": { "fa": "طب تسکینی", "en": "Palliative Medicine" }, "prerequisite": { "fa": "رشته‌های بالینی مرتبط", "en": "Related clinical specialties" } },
+            { "id": "sleep-medicine", "name": { "fa": "طب خواب", "en": "Sleep Medicine" }, "prerequisite": { "fa": "رشته‌های بالینی مرتبط", "en": "Related clinical specialties" } },
+            { "id": "toxicology", "name": { "fa": "سم‌شناسی بالینی و مسمومیت‌ها", "en": "Clinical Toxicology" }, "prerequisite": { "fa": "بیماری‌های داخلی یا طب اورژانس", "en": "Internal Medicine or Emergency Medicine" } },
+            { "id": "neonatal-icu", "name": { "fa": "مراقبت‌های ویژه نوزادان", "en": "Neonatal Intensive Care" }, "prerequisite": { "fa": "بیماری‌های نوزادان", "en": "Neonatology" } }
+          ]
+        }
+      ]
+    }
+  ]
+}

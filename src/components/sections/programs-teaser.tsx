@@ -27,7 +27,7 @@ export function ProgramsTeaser() {
         </div>
 
         <Button asChild variant="secondary">
-          <Link href="/universities">
+          <Link href="/programs">
             {t("cta")}
             <ArrowUpRight className="size-4" />
           </Link>

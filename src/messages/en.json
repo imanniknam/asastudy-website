@@ -240,6 +240,20 @@
       }
     ]
   },
+  "programsPage": {
+    "hero": {
+      "eyebrow": "Study Programs",
+      "title": "Medical Specialty, Subspecialty and Fellowship Programs",
+      "body": "Postgraduate medical training in Iran has three tiers. Explore each one — its entry requirements, duration, and the disciplines it covers."
+    },
+    "tierLabel": "Training tier",
+    "entryRequirement": "Entry requirement",
+    "duration": "Duration",
+    "searchPlaceholder": "Search programs...",
+    "noResults": "No programs match your search.",
+    "years": "{count} years",
+    "sourceNote": "Official source for the programme roster and admission regulations:"
+  },
   "universitiesPage": {
     "hero": {
       "eyebrow": "Universities",
