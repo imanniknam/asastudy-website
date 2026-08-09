@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
-import { Clock, GraduationCap, Layers, Search, Stethoscope } from "lucide-react";
+import { Clock, FileCheck2, GraduationCap, Layers, Search, Stethoscope } from "lucide-react";
 import type { Locale } from "@/types/university";
 import type { MedicalProgramsContent, ProgramTier } from "@/types/medical-program";
 import { FadeIn } from "@/components/motion/fade-in";
@@ -29,11 +29,7 @@ export function ProgramsExplorer({ content }: { content: MedicalProgramsContent 
     return tier.groups
       .map((group) => ({
         ...group,
-        programs: group.programs.filter(
-          (p) =>
-            p.name[locale].toLowerCase().includes(q) ||
-            p.prerequisite?.[locale].toLowerCase().includes(q)
-        ),
+        programs: group.programs.filter((p) => p.name[locale].toLowerCase().includes(q)),
       }))
       .filter((group) => group.programs.length > 0);
   }, [tier, query, locale]);
@@ -152,20 +148,12 @@ export function ProgramsExplorer({ content }: { content: MedicalProgramsContent 
                       {program.name[locale]}
                     </span>
 
-                    <div className="mt-auto flex flex-wrap items-center gap-x-3 gap-y-1.5 pt-1 text-xs text-muted">
-                      {program.durationYears && (
-                        <span className="inline-flex items-center gap-1.5">
-                          <Clock className="size-3.5 text-accent" />
-                          {t("years", { count: program.durationYears })}
-                        </span>
-                      )}
-                      {program.prerequisite && (
-                        <span className="inline-flex items-center gap-1.5">
-                          <Stethoscope className="size-3.5 text-accent" />
-                          {program.prerequisite[locale]}
-                        </span>
-                      )}
-                    </div>
+                    {program.approvedAt && (
+                      <span className="mt-auto inline-flex items-center gap-1.5 pt-1 text-xs text-muted">
+                        <FileCheck2 className="size-3.5 text-accent" />
+                        {t("approvedAt", { date: program.approvedAt[locale] })}
+                      </span>
+                    )}
                   </li>
                 ))}
               </ul>

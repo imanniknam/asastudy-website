@@ -15,13 +15,12 @@ export interface MedicalProgram {
   /** Stable key, used for React keys and deep links. */
   id: string;
   name: LocalizedText;
-  /** Typical duration in years, as published by CGME. */
-  durationYears?: number;
   /**
-   * For subspecialty and fellowship tiers: the specialty a candidate must
-   * already hold. Omitted for the specialty tier, which is entered from an MD.
+   * Date the current curriculum was ratified, as published by CGME. Iranian
+   * calendar, so it is stored per locale rather than as a parsable date.
+   * Absent for the fellowship tier, which CGME lists without dates.
    */
-  prerequisite?: LocalizedText;
+  approvedAt?: LocalizedText;
 }
 
 export interface ProgramGroup {

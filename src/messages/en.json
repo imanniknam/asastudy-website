@@ -251,8 +251,8 @@
     "duration": "Duration",
     "searchPlaceholder": "Search programs...",
     "noResults": "No programs match your search.",
-    "years": "{count} years",
-    "sourceNote": "Official source for the programme roster and admission regulations:"
+    "approvedAt": "Curriculum approved: {date}",
+    "sourceNote": "This roster follows the approved curricula published by:"
   },
   "universitiesPage": {
     "hero": {
