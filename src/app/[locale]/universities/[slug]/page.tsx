@@ -7,6 +7,7 @@ import { routing } from "@/i18n/routing";
 import { UniversityHero } from "@/components/universities/university-hero";
 import { UniversitySidebar } from "@/components/universities/university-sidebar";
 import { UniversityGallery } from "@/components/universities/university-gallery";
+import { UniversityVideos } from "@/components/universities/university-videos";
 import { UniversityPrograms } from "@/components/universities/university-programs";
 import { UniversityFaq } from "@/components/universities/university-faq";
 import {
@@ -67,6 +68,8 @@ export default async function UniversityDetailPage({
             </UniversityContentSection>
 
             <UniversityGallery images={university.images} name={university.name[loc]} />
+
+            <UniversityVideos videos={university.videos} />
 
             <UniversityContentSection id="admission" title={t("admissionRequirements")}>
               <BulletList items={university.admissionRequirements[loc]} />

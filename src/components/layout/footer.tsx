@@ -56,7 +56,7 @@ export function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="/about" className="flex min-h-11 items-center transition-colors hover:text-accent">
+              <Link href="/admission" className="flex min-h-11 items-center transition-colors hover:text-accent">
                 {t("links.guide")}
               </Link>
             </li>

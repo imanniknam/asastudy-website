@@ -29,6 +29,17 @@ export type UniversityCategory = "medical" | "non-medical";
 
 export const UNIVERSITY_CATEGORIES: UniversityCategory[] = ["medical", "non-medical"];
 
+/**
+ * A YouTube video introducing a university or studying in Iran generally.
+ * `language` is the spoken language of the video, which is not always one of
+ * the site's own locales — some official clips are in Arabic.
+ */
+export interface VideoItem {
+  youtubeId: string;
+  title: LocalizedText;
+  language: "en" | "fa" | "ar";
+}
+
 export interface University {
   slug: string;
   category: UniversityCategory;
@@ -38,6 +49,8 @@ export interface University {
    * without photos fall back to a generated monogram.
    */
   images?: string[];
+  /** Official introduction or campus-tour videos, shown on the detail page. */
+  videos?: VideoItem[];
   name: LocalizedText;
   shortName?: LocalizedText;
   city: LocalizedText;

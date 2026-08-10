@@ -33,6 +33,7 @@ export function Navbar() {
     { href: "/services", label: t("services") },
     { href: "/universities", label: t("universities") },
     { href: "/programs", label: t("programs") },
+    { href: "/admission", label: t("admission") },
     { href: "/faq", label: t("faq") },
     { href: "/contact", label: t("contact") },
   ] as const;

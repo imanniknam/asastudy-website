@@ -4,6 +4,16 @@
   "images": [
     "/images/universities/shahid-beheshti-university-of-medical-sciences.webp"
   ],
+  "videos": [
+    {
+      "youtubeId": "Przl0EG29z8",
+      "language": "en",
+      "title": {
+        "en": "Shahid Beheshti University of Medical Sciences — MBBS in Iran",
+        "fa": "دانشگاه علوم پزشکی شهید بهشتی — تحصیل پزشکی در ایران"
+      }
+    }
+  ],
   "name": {
     "en": "Shahid Beheshti University of Medical Sciences",
     "fa": "دانشگاه علوم پزشکی شهید بهشتی"

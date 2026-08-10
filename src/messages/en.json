@@ -10,6 +10,7 @@
     "services": "Services",
     "universities": "Universities",
     "programs": "Programs",
+    "admission": "Admission",
     "faq": "FAQ",
     "contact": "Contact",
     "applyNow": "Apply Now",
@@ -36,6 +37,11 @@
     "overview": "Overview",
     "faq": "Frequently Asked Questions",
     "gallery": "Gallery",
+    "videos": "Videos",
+    "playVideo": "Play video",
+    "langEnglish": "English",
+    "langPersian": "Persian",
+    "langArabic": "Arabic",
     "degreeLevel": "Degree",
     "faculty": "Faculty",
     "searchUniversities": "Search universities...",
@@ -135,6 +141,11 @@
       "title": "Find the Right Program for Your Future",
       "items": ["Medicine", "Dentistry", "Pharmacy", "Engineering", "Business & Management", "Arts", "Humanities", "Basic Sciences"],
       "cta": "Explore All Programs"
+    },
+    "videos": {
+      "eyebrow": "See Iran for Yourself",
+      "title": "Life and Study in Iran, on Film",
+      "body": "A closer look at the country you may soon call home — its campuses, cities, and everyday student life."
     },
     "whyIran": {
       "eyebrow": "Why Study in Iran?",
@@ -239,6 +250,14 @@
         "description": "Continued assistance throughout your studies, including registration and administrative matters."
       }
     ]
+  },
+  "admissionPage": {
+    "hero": {
+      "eyebrow": "Admission Guide",
+      "title": "How to Apply to an Iranian University",
+      "body": "Every stage of the process, from checking your eligibility to arriving on campus — with the documents and requirements laid out at each step."
+    },
+    "sourceNote": "This guide follows the official international admission requirements published by:"
   },
   "programsPage": {
     "hero": {

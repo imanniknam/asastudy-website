@@ -1,0 +1,167 @@
+{
+  "source": {
+    "label": {
+      "fa": "راهنمای پذیرش دانشجویان بین‌المللی، دانشگاه علوم پزشکی شهید بهشتی",
+      "en": "International Admission Guide, Shahid Beheshti University of Medical Sciences"
+    },
+    "url": "https://en.sbmu.ac.ir/How-to-Apply-to-SBMU"
+  },
+  "disclaimer": {
+    "fa": "مراحل زیر بر اساس راهنمای رسمی پذیرش دانشجویان بین‌المللی تنظیم شده است. جزئیات، مهلت‌ها و مدارک ممکن است بسته به دانشگاه و مقطع تحصیلی متفاوت باشد؛ پیش از اقدام، شرایط دانشگاه مقصد را با مشاوران ما بررسی کنید.",
+    "en": "The steps below follow the official international admission guidance. Details, deadlines, and documents can differ by university and degree level — check your target university's requirements with our advisors before you apply."
+  },
+  "steps": [
+    {
+      "id": "eligibility",
+      "title": { "fa": "بررسی شرایط اولیه", "en": "Check Your Eligibility" },
+      "description": {
+        "fa": "پیش از هر اقدامی، مطمئن شوید شرایط پایه پذیرش دانشجوی بین‌المللی را دارید.",
+        "en": "Before anything else, confirm that you meet the baseline criteria for international admission."
+      },
+      "details": {
+        "fa": [
+          "در زمان ثبت درخواست، خارج از ایران اقامت داشته باشید",
+          "منع قانونی برای اقامت تحصیلی در ایران نداشته باشید",
+          "مدرک تحصیلی مرتبط (دیپلم، کارشناسی یا کارشناسی ارشد) به همراه ریزنمرات رسمی داشته باشید",
+          "گذرنامه معتبر داشته باشید",
+          "مدرک تحصیلی شما نباید از مؤسسات آموزشی داخل ایران اخذ شده باشد"
+        ],
+        "en": [
+          "Be residing outside Iran at the time of application",
+          "Have no legal barrier to academic residency in Iran",
+          "Hold the relevant qualification (secondary diploma, bachelor's, or master's) with official transcripts",
+          "Hold a valid passport",
+          "Your qualification must not have been obtained from an Iranian institution"
+        ]
+      }
+    },
+    {
+      "id": "choose",
+      "title": { "fa": "انتخاب دانشگاه و رشته", "en": "Choose Your University and Program" },
+      "description": {
+        "fa": "با توجه به سوابق تحصیلی، مقطع مورد نظر و اهداف شغلی خود، دانشگاه و رشته را انتخاب کنید. پذیرش بین‌المللی در مقاطع کارشناسی، کارشناسی ارشد، دکترا، پزشکی عمومی و همچنین دوره‌های تخصصی، فوق تخصصی و فلوشیپ انجام می‌شود.",
+        "en": "Select a university and programme that match your academic background, target degree level, and career goals. International admission is offered at bachelor's, master's, doctoral, and MD level, as well as for specialty, subspecialty, and fellowship programmes."
+      }
+    },
+    {
+      "id": "documents",
+      "title": { "fa": "آماده‌سازی مدارک", "en": "Prepare Your Documents" },
+      "description": {
+        "fa": "مدارک موردنیاز را مطابق مقطع تحصیلی خود تهیه و ترجمهٔ رسمی کنید.",
+        "en": "Gather and officially translate the documents required for your degree level."
+      },
+      "details": {
+        "fa": [
+          "فرم درخواست تکمیل‌شده",
+          "اسکن صفحهٔ اول گذرنامه",
+          "عکس جدید ۳×۴ (آقایان بدون کراوات، خانم‌ها با حجاب)",
+          "مدارک تحصیلی و ریزنمرات متناسب با مقطع",
+          "توصیه‌نامه (برای مقاطع تحصیلات تکمیلی)",
+          "انگیزه‌نامه و رزومه (برای مقاطع بالاتر)",
+          "مستندات سوابق پژوهشی شامل مقالات، ارائه در همایش‌ها یا تألیف کتاب",
+          "فرم ویزای تکمیل‌شده و کد ساورگ"
+        ],
+        "en": [
+          "Completed application form",
+          "Scan of the first page of your passport",
+          "Recent 3×4 cm photograph (men without a tie, women with hijab)",
+          "Academic certificates and transcripts matching your level",
+          "Recommendation letters (for graduate programmes)",
+          "Statement of purpose and curriculum vitae (for advanced programmes)",
+          "Evidence of research experience — publications, conference presentations, or authored books",
+          "Completed visa form and SAORG code"
+        ]
+      }
+    },
+    {
+      "id": "language",
+      "title": { "fa": "احراز شرایط زبان", "en": "Meet the Language Requirement" },
+      "description": {
+        "fa": "دوره‌ها به زبان انگلیسی ارائه می‌شوند و متقاضی باید تسلط خود را اثبات کند یا دورهٔ آمادگی را بگذراند. برای رشته‌هایی که با بیمار در ارتباط هستند، تسلط بر زبان فارسی نیز ضروری است.",
+        "en": "Programmes are taught in English, so you must demonstrate proficiency or complete a preparatory course. For programmes involving direct patient contact, Persian proficiency is also essential."
+      }
+    },
+    {
+      "id": "saorg",
+      "title": { "fa": "دریافت کد ساورگ", "en": "Obtain Your SAORG Code" },
+      "description": {
+        "fa": "کد ساورگ از سامانهٔ سازمان امور دانشجویان به نشانی saorg.ir دریافت می‌شود و برای تشکیل پروندهٔ ویزای تحصیلی الزامی است. این کد را همراه فرم ویزا به دانشگاه ارائه می‌دهید.",
+        "en": "The SAORG code is issued through the Students Affairs Organization portal at saorg.ir and is required to open your student visa file. You submit it to the university together with the visa form."
+      }
+    },
+    {
+      "id": "submit",
+      "title": { "fa": "ارسال درخواست", "en": "Submit Your Application" },
+      "description": {
+        "fa": "پرونده کامل‌شده را از طریق سامانهٔ پذیرش دانشگاه ارسال کنید. آسا استادی پیش از ارسال، مدارک را بررسی و نواقص را برطرف می‌کند تا پرونده در همان مرحلهٔ اول کامل باشد.",
+        "en": "Send your completed file through the university's admission system. ASA-Study reviews your documents and fixes gaps before submission, so your file arrives complete the first time."
+      }
+    },
+    {
+      "id": "offer",
+      "title": { "fa": "دریافت نامهٔ پذیرش", "en": "Receive Your Admission Letter" },
+      "description": {
+        "fa": "پس از بررسی و تأیید پرونده توسط دانشگاه، نامهٔ پذیرش رسمی برای شما صادر می‌شود. این نامه مبنای اقدام برای ویزای تحصیلی است.",
+        "en": "Once the university reviews and approves your file, an official admission letter is issued. This letter is the basis for your student visa application."
+      }
+    },
+    {
+      "id": "visa",
+      "title": { "fa": "ویزای تحصیلی و امور کنسولی", "en": "Student Visa and Consular Steps" },
+      "description": {
+        "fa": "با نامهٔ پذیرش و کد ساورگ، پروندهٔ ویزای تحصیلی شما تشکیل می‌شود و ویزا از نمایندگی جمهوری اسلامی ایران در کشور محل اقامت دریافت می‌گردد. پس از ورود نیز امور اقامت از طریق دفتر امور بین‌الملل دانشگاه پیگیری می‌شود.",
+        "en": "With your admission letter and SAORG code, your student visa file is opened and the visa is issued by the Iranian diplomatic mission in your country of residence. After arrival, residency matters are handled through the university's international office."
+      },
+      "details": {
+        "fa": [
+          "صدور ویزای تحصیلی",
+          "صدور پروانهٔ اقامت پس از ورود",
+          "تمدید اقامت در طول تحصیل",
+          "مجوز خروج و مراجعت",
+          "خروج قطعی در پایان دوره"
+        ],
+        "en": [
+          "Student visa issuance",
+          "Residence permit issuance after arrival",
+          "Extension of stay during your studies",
+          "Exit and return permits",
+          "Definite exit at the end of your programme"
+        ]
+      }
+    },
+    {
+      "id": "arrival",
+      "title": { "fa": "ورود، ثبت‌نام و استقرار", "en": "Arrival, Enrolment and Settling In" },
+      "description": {
+        "fa": "پس از ورود به ایران، ثبت‌نام نهایی در دانشگاه انجام می‌شود و اسکان در خوابگاه یا محل اقامت مناسب هماهنگ می‌گردد. آسا استادی در این مرحله نیز همراه شماست.",
+        "en": "After arriving in Iran you complete final enrolment at the university and arrange dormitory or other accommodation. ASA-Study stays with you through this stage too."
+      }
+    }
+  ],
+  "sections": [
+    {
+      "id": "degree-levels",
+      "title": { "fa": "مقاطع قابل پذیرش", "en": "Degree Levels Open to International Applicants" },
+      "items": {
+        "fa": [
+          "کارشناسی",
+          "کارشناسی ارشد",
+          "دکترای تخصصی (PhD)",
+          "پزشکی عمومی (MD)",
+          "تخصص",
+          "فوق تخصص",
+          "فلوشیپ"
+        ],
+        "en": [
+          "Bachelor's",
+          "Master's",
+          "Doctorate (PhD)",
+          "Doctor of Medicine (MD)",
+          "Specialty",
+          "Subspecialty",
+          "Fellowship"
+        ]
+      }
+    }
+  ]
+}

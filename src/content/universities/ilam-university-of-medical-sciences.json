@@ -4,6 +4,16 @@
   "images": [
     "/images/universities/ilam-university-of-medical-sciences.webp"
   ],
+  "videos": [
+    {
+      "youtubeId": "uQTeNn-KQ9I",
+      "language": "en",
+      "title": {
+        "en": "Ilam University of Medical Sciences, Iran",
+        "fa": "معرفی دانشگاه علوم پزشکی ایلام"
+      }
+    }
+  ],
   "name": {
     "en": "Ilam University of Medical Sciences (IUMS)",
     "fa": "دانشگاه علوم پزشکی ایلام (IUMS)"
