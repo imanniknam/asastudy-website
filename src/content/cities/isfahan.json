@@ -8,6 +8,7 @@
     "en": "Isfahan Province",
     "fa": "استان اصفهان"
   },
+  "image": "/images/cities/isfahan.webp",
   "tagline": {
     "en": "Isfahan: A City for Education, Culture, and Life in the Heart of Iran",
     "fa": "اصفهان؛ شهری برای تحصیل، فرهنگ و زندگی در قلب ایران"
@@ -18,73 +19,130 @@
   },
   "facts": [
     {
-      "label": { "en": "City", "fa": "شهر" },
-      "value": { "en": "Isfahan", "fa": "اصفهان" }
+      "label": {
+        "en": "City",
+        "fa": "شهر"
+      },
+      "value": {
+        "en": "Isfahan",
+        "fa": "اصفهان"
+      }
     },
     {
-      "label": { "en": "Province", "fa": "استان" },
-      "value": { "en": "Isfahan Province", "fa": "اصفهان" }
+      "label": {
+        "en": "Province",
+        "fa": "استان"
+      },
+      "value": {
+        "en": "Isfahan Province",
+        "fa": "اصفهان"
+      }
     },
     {
-      "label": { "en": "Country", "fa": "کشور" },
-      "value": { "en": "Iran", "fa": "ایران" }
+      "label": {
+        "en": "Country",
+        "fa": "کشور"
+      },
+      "value": {
+        "en": "Iran",
+        "fa": "ایران"
+      }
     },
     {
-      "label": { "en": "Official Language", "fa": "زبان رسمی" },
-      "value": { "en": "Persian", "fa": "فارسی" }
+      "label": {
+        "en": "Official Language",
+        "fa": "زبان رسمی"
+      },
+      "value": {
+        "en": "Persian",
+        "fa": "فارسی"
+      }
     },
     {
-      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
-      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+      "label": {
+        "en": "Time Zone",
+        "fa": "منطقه زمانی"
+      },
+      "value": {
+        "en": "UTC +3:30",
+        "fa": "UTC +3:30"
+      }
     },
     {
-      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "label": {
+        "en": "Climate",
+        "fa": "آب‌وهوا"
+      },
       "value": {
         "en": "Dry and semi-arid, with hot summers and relatively cold winters",
         "fa": "خشک و نیمه‌خشک؛ تابستان‌های گرم و زمستان‌های نسبتاً سرد"
       }
     },
     {
-      "label": { "en": "Airport", "fa": "فرودگاه" },
+      "label": {
+        "en": "Airport",
+        "fa": "فرودگاه"
+      },
       "value": {
         "en": "Isfahan International Airport",
         "fa": "فرودگاه بین‌المللی شهید بهشتی اصفهان"
       }
     },
     {
-      "label": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
+      "label": {
+        "en": "Public Transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
       "value": {
         "en": "Metro, buses, BRT, taxis, and ride-hailing services",
         "fa": "مترو، اتوبوس، BRT، تاکسی و تاکسی‌های اینترنتی"
       }
     },
     {
-      "label": { "en": "Major Universities", "fa": "دانشگاه‌های شاخص" },
+      "label": {
+        "en": "Major Universities",
+        "fa": "دانشگاه‌های شاخص"
+      },
       "value": {
         "en": "University of Isfahan, Isfahan University of Technology, Isfahan University of Medical Sciences, Isfahan University of Art",
         "fa": "دانشگاه اصفهان، دانشگاه صنعتی اصفهان، دانشگاه علوم پزشکی اصفهان، دانشگاه هنر اصفهان"
       }
     },
     {
-      "label": { "en": "Main Attraction", "fa": "جاذبه شاخص" },
-      "value": { "en": "Naqsh-e Jahan Square", "fa": "میدان نقش جهان" }
+      "label": {
+        "en": "Main Attraction",
+        "fa": "جاذبه شاخص"
+      },
+      "value": {
+        "en": "Naqsh-e Jahan Square",
+        "fa": "میدان نقش جهان"
+      }
     },
     {
-      "label": { "en": "UNESCO World Heritage Sites", "fa": "آثار ثبت‌شده جهانی" },
+      "label": {
+        "en": "UNESCO World Heritage Sites",
+        "fa": "آثار ثبت‌شده جهانی"
+      },
       "value": {
         "en": "Naqsh-e Jahan Square and Jameh Mosque of Isfahan",
         "fa": "میدان نقش جهان و مسجد جامع اصفهان"
       }
     },
     {
-      "label": { "en": "Nearby Destinations", "fa": "جاذبه‌های اطراف" },
+      "label": {
+        "en": "Nearby Destinations",
+        "fa": "جاذبه‌های اطراف"
+      },
       "value": {
         "en": "Kashan, Abyaneh, and the central Iranian deserts",
         "fa": "کاشان، ابیانه و کویرهای مرکزی ایران"
       }
     },
     {
-      "label": { "en": "Historical Significance", "fa": "شهرت تاریخی" },
+      "label": {
+        "en": "Historical Significance",
+        "fa": "شهرت تاریخی"
+      },
       "value": {
         "en": "One of Iran's most important historical, cultural, and artistic cities",
         "fa": "یکی از مهم‌ترین شهرهای تاریخی، فرهنگی و هنری ایران"
@@ -135,7 +193,10 @@
   },
   "universities": [
     {
-      "name": { "en": "University of Isfahan", "fa": "دانشگاه اصفهان" },
+      "name": {
+        "en": "University of Isfahan",
+        "fa": "دانشگاه اصفهان"
+      },
       "description": {
         "en": "University of Isfahan is one of Iran's major comprehensive universities and offers a wide range of academic programs across different disciplines.\n\nIts broad range of academic programs makes the University of Isfahan an important option for students interested in humanities, social sciences, natural sciences, and engineering.",
         "fa": "دانشگاه اصفهان یکی از دانشگاه‌های جامع ایران است و طیف گسترده‌ای از رشته‌ها را در حوزه‌های مختلف ارائه می‌دهد.\n\nتنوع رشته‌ها باعث شده دانشگاه اصفهان برای دانشجویانی که به دنبال تحصیل در رشته‌های مختلف علوم انسانی، اجتماعی، پایه و مهندسی هستند، گزینه‌ای قابل توجه باشد."
@@ -164,7 +225,10 @@
       }
     },
     {
-      "name": { "en": "Isfahan University of Technology", "fa": "دانشگاه صنعتی اصفهان" },
+      "name": {
+        "en": "Isfahan University of Technology",
+        "fa": "دانشگاه صنعتی اصفهان"
+      },
       "description": {
         "en": "Isfahan University of Technology (IUT) is one of Iran's major universities in engineering, technology, and applied sciences.\n\nIts strong focus on engineering, research, and industry-related fields makes it an important choice for students planning to pursue studies in technical and technological disciplines.",
         "fa": "دانشگاه صنعتی اصفهان (IUT) یکی از دانشگاه‌های مهم ایران در حوزه مهندسی، فناوری و علوم کاربردی است.\n\nتمرکز دانشگاه صنعتی اصفهان بر مهندسی، پژوهش و ارتباط با صنعت، آن را به گزینه‌ای مهم برای دانشجویانی تبدیل کرده که قصد ادامه تحصیل در رشته‌های فنی و فناوری را دارند."
@@ -191,7 +255,10 @@
       }
     },
     {
-      "name": { "en": "Isfahan University of Medical Sciences", "fa": "دانشگاه علوم پزشکی اصفهان" },
+      "name": {
+        "en": "Isfahan University of Medical Sciences",
+        "fa": "دانشگاه علوم پزشکی اصفهان"
+      },
       "slug": "isfahan-university-of-medical-sciences",
       "description": {
         "en": "Isfahan University of Medical Sciences is one of Iran's major institutions for medical and health sciences education.\n\nIts teaching hospitals and affiliated healthcare centers provide opportunities to combine academic education with practical and clinical experience.\n\nFor international students interested in medicine and health sciences, Isfahan can provide a strong academic environment together with access to an extensive healthcare and clinical training network.",
@@ -221,7 +288,10 @@
       }
     },
     {
-      "name": { "en": "Isfahan University of Art", "fa": "دانشگاه هنر اصفهان" },
+      "name": {
+        "en": "Isfahan University of Art",
+        "fa": "دانشگاه هنر اصفهان"
+      },
       "description": {
         "en": "Isfahan University of Art is a specialized institution for education in art and architecture.\n\nStudying art and architecture in a city such as Isfahan offers a unique advantage. Students can complement their university education by directly studying examples of Iranian architecture, traditional arts, and cultural heritage throughout the city.",
         "fa": "دانشگاه هنر اصفهان یکی از مراکز تخصصی آموزش هنر و معماری در ایران است.\n\nتحصیل در رشته‌های مرتبط با هنر و معماری در شهری مانند اصفهان مزیت ویژه‌ای دارد؛ زیرا دانشجویان می‌توانند علاوه بر آموزش دانشگاهی، نمونه‌های واقعی معماری، هنرهای سنتی و میراث فرهنگی ایران را از نزدیک مطالعه کنند."
@@ -286,36 +356,84 @@
   },
   "expenses": [
     {
-      "type": { "en": "University dormitory", "fa": "خوابگاه دانشگاهی" },
-      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+      "type": {
+        "en": "University dormitory",
+        "fa": "خوابگاه دانشگاهی"
+      },
+      "situation": {
+        "en": "Usually the most economical option",
+        "fa": "معمولاً اقتصادی‌ترین گزینه"
+      }
     },
     {
-      "type": { "en": "Private dormitory", "fa": "خوابگاه خصوصی" },
-      "situation": { "en": "Budget-friendly to moderate", "fa": "اقتصادی تا متوسط" }
+      "type": {
+        "en": "Private dormitory",
+        "fa": "خوابگاه خصوصی"
+      },
+      "situation": {
+        "en": "Budget-friendly to moderate",
+        "fa": "اقتصادی تا متوسط"
+      }
     },
     {
-      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
-      "situation": { "en": "Moderate", "fa": "متوسط" }
+      "type": {
+        "en": "Shared apartment",
+        "fa": "آپارتمان اشتراکی"
+      },
+      "situation": {
+        "en": "Moderate",
+        "fa": "متوسط"
+      }
     },
     {
-      "type": { "en": "Private apartment", "fa": "آپارتمان مستقل" },
-      "situation": { "en": "Moderate to higher", "fa": "متوسط تا بالاتر" }
+      "type": {
+        "en": "Private apartment",
+        "fa": "آپارتمان مستقل"
+      },
+      "situation": {
+        "en": "Moderate to higher",
+        "fa": "متوسط تا بالاتر"
+      }
     },
     {
-      "type": { "en": "Food and groceries", "fa": "غذا و مواد غذایی" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Food and groceries",
+        "fa": "غذا و مواد غذایی"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
-      "situation": { "en": "Budget-friendly", "fa": "اقتصادی" }
+      "type": {
+        "en": "Public transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
+      "situation": {
+        "en": "Budget-friendly",
+        "fa": "اقتصادی"
+      }
     },
     {
-      "type": { "en": "Internet and mobile services", "fa": "اینترنت و تلفن همراه" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Internet and mobile services",
+        "fa": "اینترنت و تلفن همراه"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Entertainment", "fa": "تفریح و سرگرمی" },
-      "situation": { "en": "Depends on lifestyle", "fa": "وابسته به سبک زندگی" }
+      "type": {
+        "en": "Entertainment",
+        "fa": "تفریح و سرگرمی"
+      },
+      "situation": {
+        "en": "Depends on lifestyle",
+        "fa": "وابسته به سبک زندگی"
+      }
     }
   ],
   "accommodation": {
@@ -382,28 +500,40 @@
   },
   "seasons": [
     {
-      "name": { "en": "Spring", "fa": "بهار" },
+      "name": {
+        "en": "Spring",
+        "fa": "بهار"
+      },
       "description": {
         "en": "Spring is one of the most pleasant seasons for living in and exploring Isfahan. Temperatures are generally milder, and the city's green spaces and historical attractions become particularly popular during this season.",
         "fa": "بهار یکی از فصل‌های مناسب برای زندگی و گردش در اصفهان است. هوا معمولاً معتدل‌تر می‌شود و فضاهای سبز و جاذبه‌های تاریخی شهر در این فصل بسیار مورد توجه قرار می‌گیرند."
       }
     },
     {
-      "name": { "en": "Summer", "fa": "تابستان" },
+      "name": {
+        "en": "Summer",
+        "fa": "تابستان"
+      },
       "description": {
         "en": "Summers in Isfahan are hot and dry. During particularly warm days, outdoor activities are generally more comfortable during cooler hours.",
         "fa": "تابستان‌های اصفهان گرم و خشک هستند. در روزهای گرم، فعالیت‌های بیرونی معمولاً در ساعات خنک‌تر روز راحت‌تر است."
       }
     },
     {
-      "name": { "en": "Autumn", "fa": "پاییز" },
+      "name": {
+        "en": "Autumn",
+        "fa": "پاییز"
+      },
       "description": {
         "en": "As autumn begins, temperatures gradually decrease, making the weather more suitable for walking and exploring the city.",
         "fa": "با آغاز پاییز، دما کاهش پیدا می‌کند و هوای شهر برای پیاده‌روی و گردش شهری مناسب‌تر می‌شود."
       }
     },
     {
-      "name": { "en": "Winter", "fa": "زمستان" },
+      "name": {
+        "en": "Winter",
+        "fa": "زمستان"
+      },
       "description": {
         "en": "Winters in Isfahan can be cold, with rain and occasional snowfall on some days. Students coming from warmer climates should be prepared for colder weather during the winter season.",
         "fa": "زمستان‌های اصفهان می‌توانند سرد باشند و در برخی روزها بارش باران یا برف رخ دهد. دانشجویانی که از مناطق گرمسیری می‌آیند بهتر است برای فصل سرد لباس مناسب همراه داشته باشند."

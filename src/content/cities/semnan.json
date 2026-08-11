@@ -8,6 +8,7 @@
     "en": "Semnan",
     "fa": "سمنان"
   },
+  "image": "/images/cities/semnan.webp",
   "tagline": {
     "en": "Semnan; A Peaceful City for Study, Research, and Experiencing Life in the Heart of Iran",
     "fa": "سمنان؛ شهری آرام برای تحصیل، پژوهش و تجربه زندگی در قلب ایران"
@@ -18,83 +19,140 @@
   },
   "facts": [
     {
-      "label": { "en": "City", "fa": "شهر" },
-      "value": { "en": "Semnan", "fa": "سمنان" }
+      "label": {
+        "en": "City",
+        "fa": "شهر"
+      },
+      "value": {
+        "en": "Semnan",
+        "fa": "سمنان"
+      }
     },
     {
-      "label": { "en": "Province", "fa": "استان" },
-      "value": { "en": "Semnan", "fa": "سمنان" }
+      "label": {
+        "en": "Province",
+        "fa": "استان"
+      },
+      "value": {
+        "en": "Semnan",
+        "fa": "سمنان"
+      }
     },
     {
-      "label": { "en": "Country", "fa": "کشور" },
-      "value": { "en": "Iran", "fa": "ایران" }
+      "label": {
+        "en": "Country",
+        "fa": "کشور"
+      },
+      "value": {
+        "en": "Iran",
+        "fa": "ایران"
+      }
     },
     {
-      "label": { "en": "Official language", "fa": "زبان رسمی" },
-      "value": { "en": "Persian", "fa": "فارسی" }
+      "label": {
+        "en": "Official language",
+        "fa": "زبان رسمی"
+      },
+      "value": {
+        "en": "Persian",
+        "fa": "فارسی"
+      }
     },
     {
-      "label": { "en": "Time zone", "fa": "منطقه زمانی" },
-      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+      "label": {
+        "en": "Time zone",
+        "fa": "منطقه زمانی"
+      },
+      "value": {
+        "en": "UTC +3:30",
+        "fa": "UTC +3:30"
+      }
     },
     {
-      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "label": {
+        "en": "Climate",
+        "fa": "آب‌وهوا"
+      },
       "value": {
         "en": "Dry and semi-arid; hot summers and cold winters",
         "fa": "خشک و نیمه‌خشک؛ تابستان‌های گرم و زمستان‌های سرد"
       }
     },
     {
-      "label": { "en": "Location", "fa": "موقعیت" },
+      "label": {
+        "en": "Location",
+        "fa": "موقعیت"
+      },
       "value": {
         "en": "On the main route connecting Tehran to eastern and northeastern Iran",
         "fa": "در مسیر ارتباطی تهران به شرق و شمال‌شرق ایران"
       }
     },
     {
-      "label": { "en": "Intercity access", "fa": "دسترسی بین‌شهری" },
+      "label": {
+        "en": "Intercity access",
+        "fa": "دسترسی بین‌شهری"
+      },
       "value": {
         "en": "Road, bus, and railway",
         "fa": "جاده، اتوبوس و راه‌آهن"
       }
     },
     {
-      "label": { "en": "Leading universities", "fa": "دانشگاه‌های شاخص" },
+      "label": {
+        "en": "Leading universities",
+        "fa": "دانشگاه‌های شاخص"
+      },
       "value": {
         "en": "Semnan University, Semnan University of Medical Sciences",
         "fa": "دانشگاه سمنان، دانشگاه علوم پزشکی سمنان"
       }
     },
     {
-      "label": { "en": "Higher education centers", "fa": "مراکز آموزش عالی" },
+      "label": {
+        "en": "Higher education centers",
+        "fa": "مراکز آموزش عالی"
+      },
       "value": {
         "en": "Islamic Azad University and non-governmental and applied science institutions",
         "fa": "دانشگاه آزاد اسلامی و مؤسسات آموزش عالی غیردولتی و علمی‌کاربردی"
       }
     },
     {
-      "label": { "en": "Historical attractions", "fa": "جاذبه‌های تاریخی" },
+      "label": {
+        "en": "Historical attractions",
+        "fa": "جاذبه‌های تاریخی"
+      },
       "value": {
         "en": "Semnan Jameh Mosque, Arg Gate, Semnan Historical Bazaar",
         "fa": "مسجد جامع سمنان، دروازه ارگ، بازار تاریخی سمنان"
       }
     },
     {
-      "label": { "en": "Natural attractions nearby", "fa": "جاذبه‌های طبیعی اطراف" },
+      "label": {
+        "en": "Natural attractions nearby",
+        "fa": "جاذبه‌های طبیعی اطراف"
+      },
       "value": {
         "en": "Touran Biosphere Reserve, Kavir National Park, Abr Forest",
         "fa": "ذخیره‌گاه زیست‌کره توران، پارک ملی کویر، جنگل ابر"
       }
     },
     {
-      "label": { "en": "Nearby and scenic cities", "fa": "شهرهای نزدیک و دیدنی" },
+      "label": {
+        "en": "Nearby and scenic cities",
+        "fa": "شهرهای نزدیک و دیدنی"
+      },
       "value": {
         "en": "Damghan, Shahroud, Bastam",
         "fa": "دامغان، شاهرود، بسطام"
       }
     },
     {
-      "label": { "en": "Key feature", "fa": "ویژگی شاخص" },
+      "label": {
+        "en": "Key feature",
+        "fa": "ویژگی شاخص"
+      },
       "value": {
         "en": "A peaceful university city with convenient access to Tehran",
         "fa": "شهر دانشگاهی آرام با دسترسی مناسب به تهران"
@@ -251,36 +309,84 @@
   },
   "expenses": [
     {
-      "type": { "en": "University dormitory", "fa": "خوابگاه دانشگاهی" },
-      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+      "type": {
+        "en": "University dormitory",
+        "fa": "خوابگاه دانشگاهی"
+      },
+      "situation": {
+        "en": "Usually the most economical option",
+        "fa": "معمولاً اقتصادی‌ترین گزینه"
+      }
     },
     {
-      "type": { "en": "Private dormitory", "fa": "خوابگاه خصوصی" },
-      "situation": { "en": "Economical to moderate", "fa": "اقتصادی تا متوسط" }
+      "type": {
+        "en": "Private dormitory",
+        "fa": "خوابگاه خصوصی"
+      },
+      "situation": {
+        "en": "Economical to moderate",
+        "fa": "اقتصادی تا متوسط"
+      }
     },
     {
-      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
-      "situation": { "en": "Moderate", "fa": "متوسط" }
+      "type": {
+        "en": "Shared apartment",
+        "fa": "آپارتمان اشتراکی"
+      },
+      "situation": {
+        "en": "Moderate",
+        "fa": "متوسط"
+      }
     },
     {
-      "type": { "en": "Private apartment", "fa": "آپارتمان مستقل" },
-      "situation": { "en": "Moderate", "fa": "متوسط" }
+      "type": {
+        "en": "Private apartment",
+        "fa": "آپارتمان مستقل"
+      },
+      "situation": {
+        "en": "Moderate",
+        "fa": "متوسط"
+      }
     },
     {
-      "type": { "en": "Food", "fa": "مواد غذایی" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Food",
+        "fa": "مواد غذایی"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
-      "situation": { "en": "Economical", "fa": "اقتصادی" }
+      "type": {
+        "en": "Public transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
+      "situation": {
+        "en": "Economical",
+        "fa": "اقتصادی"
+      }
     },
     {
-      "type": { "en": "Internet and mobile phone", "fa": "اینترنت و تلفن همراه" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Internet and mobile phone",
+        "fa": "اینترنت و تلفن همراه"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Recreation and entertainment", "fa": "تفریح و سرگرمی" },
-      "situation": { "en": "Dependent on lifestyle", "fa": "وابسته به سبک زندگی" }
+      "type": {
+        "en": "Recreation and entertainment",
+        "fa": "تفریح و سرگرمی"
+      },
+      "situation": {
+        "en": "Dependent on lifestyle",
+        "fa": "وابسته به سبک زندگی"
+      }
     }
   ],
   "accommodation": {
@@ -351,28 +457,40 @@
   },
   "seasons": [
     {
-      "name": { "en": "Spring", "fa": "بهار" },
+      "name": {
+        "en": "Spring",
+        "fa": "بهار"
+      },
       "description": {
         "en": "Spring is generally one of the best seasons for exploring Semnan and its surrounding areas. As temperatures rise, the natural landscapes of the mountainous areas and northern parts of the province also take on a different appearance.",
         "fa": "بهار معمولاً یکی از فصل‌های مناسب برای گردش در سمنان و مناطق اطراف آن است. با افزایش دما، طبیعت مناطق کوهستانی و شمال استان نیز جلوه متفاوتی پیدا می‌کند."
       }
     },
     {
-      "name": { "en": "Summer", "fa": "تابستان" },
+      "name": {
+        "en": "Summer",
+        "fa": "تابستان"
+      },
       "description": {
         "en": "Semnan's summers are hot and dry. On hot days, outdoor activities are more comfortable during the cooler hours of the day.",
         "fa": "تابستان‌های سمنان گرم و خشک هستند. در روزهای گرم، فعالیت‌های بیرونی در ساعات خنک‌تر روز راحت‌تر خواهد بود."
       }
     },
     {
-      "name": { "en": "Autumn", "fa": "پاییز" },
+      "name": {
+        "en": "Autumn",
+        "fa": "پاییز"
+      },
       "description": {
         "en": "Autumn brings a gradual decrease in temperature and creates suitable conditions for walking and exploring the city.",
         "fa": "پاییز با کاهش تدریجی دما همراه است و برای پیاده‌روی و گردش شهری شرایط مناسبی ایجاد می‌کند."
       }
     },
     {
-      "name": { "en": "Winter", "fa": "زمستان" },
+      "name": {
+        "en": "Winter",
+        "fa": "زمستان"
+      },
       "description": {
         "en": "Semnan's winters can be cold, particularly when approaching mountainous areas. Students coming from warmer regions are advised to bring appropriate clothing for the cold season.",
         "fa": "زمستان‌های سمنان می‌توانند سرد باشند، به‌ویژه با نزدیک شدن به مناطق کوهستانی. دانشجویانی که از مناطق گرم‌تر می‌آیند بهتر است برای فصل سرد لباس مناسب همراه داشته باشند."

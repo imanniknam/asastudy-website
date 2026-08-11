@@ -8,6 +8,7 @@
     "en": "Razavi Khorasan",
     "fa": "خراسان رضوی"
   },
+  "image": "/images/cities/mashhad.webp",
   "tagline": {
     "en": "Mashhad: One of Iran's Major University Cities and a Gateway to the East",
     "fa": "مشهد؛ یکی از مهم‌ترین شهرهای دانشگاهی ایران و دروازه ورود به شرق کشور"
@@ -18,80 +19,140 @@
   },
   "facts": [
     {
-      "label": { "en": "City", "fa": "شهر" },
-      "value": { "en": "Mashhad", "fa": "مشهد" }
+      "label": {
+        "en": "City",
+        "fa": "شهر"
+      },
+      "value": {
+        "en": "Mashhad",
+        "fa": "مشهد"
+      }
     },
     {
-      "label": { "en": "Province", "fa": "استان" },
-      "value": { "en": "Razavi Khorasan", "fa": "خراسان رضوی" }
+      "label": {
+        "en": "Province",
+        "fa": "استان"
+      },
+      "value": {
+        "en": "Razavi Khorasan",
+        "fa": "خراسان رضوی"
+      }
     },
     {
-      "label": { "en": "Country", "fa": "کشور" },
-      "value": { "en": "Iran", "fa": "ایران" }
+      "label": {
+        "en": "Country",
+        "fa": "کشور"
+      },
+      "value": {
+        "en": "Iran",
+        "fa": "ایران"
+      }
     },
     {
-      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
-      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+      "label": {
+        "en": "Time Zone",
+        "fa": "منطقه زمانی"
+      },
+      "value": {
+        "en": "UTC +3:30",
+        "fa": "UTC +3:30"
+      }
     },
     {
-      "label": { "en": "Official Language", "fa": "زبان رسمی" },
-      "value": { "en": "Persian", "fa": "فارسی" }
+      "label": {
+        "en": "Official Language",
+        "fa": "زبان رسمی"
+      },
+      "value": {
+        "en": "Persian",
+        "fa": "فارسی"
+      }
     },
     {
-      "label": { "en": "Population", "fa": "جمعیت" },
-      "value": { "en": "More than 3 million", "fa": "بیش از ۳ میلیون نفر" }
+      "label": {
+        "en": "Population",
+        "fa": "جمعیت"
+      },
+      "value": {
+        "en": "More than 3 million",
+        "fa": "بیش از ۳ میلیون نفر"
+      }
     },
     {
-      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "label": {
+        "en": "Climate",
+        "fa": "آب‌وهوا"
+      },
       "value": {
         "en": "Semi-arid, with hot summers and cold winters",
         "fa": "نیمه‌خشک؛ تابستان‌های گرم و زمستان‌های سرد"
       }
     },
     {
-      "label": { "en": "Airport", "fa": "فرودگاه" },
+      "label": {
+        "en": "Airport",
+        "fa": "فرودگاه"
+      },
       "value": {
         "en": "Shahid Hasheminejad International Airport",
         "fa": "فرودگاه بین‌المللی شهید هاشمی‌نژاد مشهد"
       }
     },
     {
-      "label": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
+      "label": {
+        "en": "Public Transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
       "value": {
         "en": "Metro, buses, BRT, taxis, and ride-hailing services",
         "fa": "مترو، اتوبوس، BRT، تاکسی و تاکسی‌های اینترنتی"
       }
     },
     {
-      "label": { "en": "Major Universities", "fa": "دانشگاه‌های شاخص" },
+      "label": {
+        "en": "Major Universities",
+        "fa": "دانشگاه‌های شاخص"
+      },
       "value": {
         "en": "Ferdowsi University of Mashhad, Mashhad University of Medical Sciences, and other higher education institutions",
         "fa": "دانشگاه فردوسی مشهد، دانشگاه علوم پزشکی مشهد و سایر مراکز آموزش عالی"
       }
     },
     {
-      "label": { "en": "Major Cultural Attraction", "fa": "مهم‌ترین جاذبه فرهنگی" },
+      "label": {
+        "en": "Major Cultural Attraction",
+        "fa": "مهم‌ترین جاذبه فرهنگی"
+      },
       "value": {
         "en": "The Holy Shrine of Imam Reza",
         "fa": "حرم مطهر امام رضا (ع)"
       }
     },
     {
-      "label": { "en": "Historical Attractions Nearby", "fa": "جاذبه‌های تاریخی اطراف" },
+      "label": {
+        "en": "Historical Attractions Nearby",
+        "fa": "جاذبه‌های تاریخی اطراف"
+      },
       "value": {
         "en": "Tus, Ferdowsi's Tomb, Nishapur",
         "fa": "توس، آرامگاه فردوسی، نیشابور"
       }
     },
     {
-      "label": { "en": "Natural Attractions Nearby", "fa": "جاذبه‌های طبیعی اطراف" },
+      "label": {
+        "en": "Natural Attractions Nearby",
+        "fa": "جاذبه‌های طبیعی اطراف"
+      },
       "value": {
         "en": "Torqabeh, Shandiz, Binalud Mountains",
         "fa": "طرقبه، شاندیز، رشته‌کوه بینالود"
       }
     },
     {
-      "label": { "en": "Cost of Living", "fa": "هزینه زندگی" },
+      "label": {
+        "en": "Cost of Living",
+        "fa": "هزینه زندگی"
+      },
       "value": {
         "en": "Generally lower than Tehran and many other major Iranian cities",
         "fa": "معمولاً پایین‌تر از تهران و بسیاری از کلان‌شهرهای بزرگ ایران"
@@ -263,36 +324,84 @@
   },
   "expenses": [
     {
-      "type": { "en": "University accommodation", "fa": "خوابگاه دانشگاهی" },
-      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+      "type": {
+        "en": "University accommodation",
+        "fa": "خوابگاه دانشگاهی"
+      },
+      "situation": {
+        "en": "Usually the most economical option",
+        "fa": "معمولاً اقتصادی‌ترین گزینه"
+      }
     },
     {
-      "type": { "en": "Private dormitory", "fa": "خوابگاه خصوصی" },
-      "situation": { "en": "Budget-friendly to moderate", "fa": "اقتصادی تا متوسط" }
+      "type": {
+        "en": "Private dormitory",
+        "fa": "خوابگاه خصوصی"
+      },
+      "situation": {
+        "en": "Budget-friendly to moderate",
+        "fa": "اقتصادی تا متوسط"
+      }
     },
     {
-      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
-      "situation": { "en": "Moderate", "fa": "متوسط" }
+      "type": {
+        "en": "Shared apartment",
+        "fa": "آپارتمان اشتراکی"
+      },
+      "situation": {
+        "en": "Moderate",
+        "fa": "متوسط"
+      }
     },
     {
-      "type": { "en": "Private apartment", "fa": "آپارتمان مستقل" },
-      "situation": { "en": "Moderate to higher", "fa": "متوسط تا بالاتر" }
+      "type": {
+        "en": "Private apartment",
+        "fa": "آپارتمان مستقل"
+      },
+      "situation": {
+        "en": "Moderate to higher",
+        "fa": "متوسط تا بالاتر"
+      }
     },
     {
-      "type": { "en": "Food and groceries", "fa": "غذا و مواد غذایی" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Food and groceries",
+        "fa": "غذا و مواد غذایی"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
-      "situation": { "en": "Low-cost", "fa": "کم‌هزینه" }
+      "type": {
+        "en": "Public transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
+      "situation": {
+        "en": "Low-cost",
+        "fa": "کم‌هزینه"
+      }
     },
     {
-      "type": { "en": "Internet and mobile services", "fa": "اینترنت و تلفن همراه" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Internet and mobile services",
+        "fa": "اینترنت و تلفن همراه"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Entertainment", "fa": "تفریح و سرگرمی" },
-      "situation": { "en": "Depends on lifestyle", "fa": "وابسته به سبک زندگی" }
+      "type": {
+        "en": "Entertainment",
+        "fa": "تفریح و سرگرمی"
+      },
+      "situation": {
+        "en": "Depends on lifestyle",
+        "fa": "وابسته به سبک زندگی"
+      }
     }
   ],
   "accommodation": {
@@ -363,28 +472,40 @@
   },
   "seasons": [
     {
-      "name": { "en": "Spring", "fa": "بهار" },
+      "name": {
+        "en": "Spring",
+        "fa": "بهار"
+      },
       "description": {
         "en": "Spring is one of the pleasantest seasons for living in and exploring Mashhad. As temperatures rise, the city's green spaces and surrounding areas become more vibrant, while the weather becomes more suitable for walking and outdoor activities.",
         "fa": "بهار یکی از فصل‌های مطلوب برای زندگی و گردش در مشهد است. با افزایش دما، فضای سبز شهر و مناطق اطراف آن جلوه بیشتری پیدا می‌کنند و هوا برای پیاده‌روی و گردش مناسب‌تر می‌شود."
       }
     },
     {
-      "name": { "en": "Summer", "fa": "تابستان" },
+      "name": {
+        "en": "Summer",
+        "fa": "تابستان"
+      },
       "description": {
         "en": "Summers in Mashhad are generally hot and relatively dry. During this season, outdoor activities are more comfortable during the cooler parts of the day.",
         "fa": "تابستان‌های مشهد معمولاً گرم و نسبتاً خشک هستند. در این فصل، فعالیت‌های فضای باز در ساعات خنک‌تر روز راحت‌تر است."
       }
     },
     {
-      "name": { "en": "Autumn", "fa": "پاییز" },
+      "name": {
+        "en": "Autumn",
+        "fa": "پاییز"
+      },
       "description": {
         "en": "Autumn brings gradually cooler temperatures and pleasant weather, making it a suitable season for student activities and exploring the city.",
         "fa": "پاییز با کاهش تدریجی دما و هوای خنک‌تر همراه است و برای فعالیت‌های دانشجویی و گردش شهری فصل مناسبی محسوب می‌شود."
       }
     },
     {
-      "name": { "en": "Winter", "fa": "زمستان" },
+      "name": {
+        "en": "Winter",
+        "fa": "زمستان"
+      },
       "description": {
         "en": "Winters in Mashhad are relatively cold, with snowfall and rainfall occurring on some days. Students coming from warmer climates should be prepared for colder weather during the winter months.",
         "fa": "زمستان‌های مشهد نسبتاً سرد هستند و در برخی روزها بارش برف و باران نیز اتفاق می‌افتد. دانشجویانی که از مناطق گرمسیری می‌آیند، بهتر است برای فصل سرد لباس مناسب همراه داشته باشند."

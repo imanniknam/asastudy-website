@@ -8,6 +8,7 @@
     "en": "Fars Province",
     "fa": "استان فارس"
   },
+  "image": "/images/cities/shiraz.webp",
   "tagline": {
     "en": "Shiraz: Iran's Cultural Capital and One of Its Most Popular Student Cities",
     "fa": "شیراز؛ پایتخت فرهنگی ایران و یکی از محبوب‌ترین شهرهای دانشجویی کشور"
@@ -18,76 +19,130 @@
   },
   "facts": [
     {
-      "label": { "en": "City", "fa": "شهر" },
-      "value": { "en": "Shiraz", "fa": "شیراز" }
+      "label": {
+        "en": "City",
+        "fa": "شهر"
+      },
+      "value": {
+        "en": "Shiraz",
+        "fa": "شیراز"
+      }
     },
     {
-      "label": { "en": "Province", "fa": "استان" },
-      "value": { "en": "Fars", "fa": "فارس" }
+      "label": {
+        "en": "Province",
+        "fa": "استان"
+      },
+      "value": {
+        "en": "Fars",
+        "fa": "فارس"
+      }
     },
     {
-      "label": { "en": "Country", "fa": "کشور" },
-      "value": { "en": "Iran", "fa": "ایران" }
+      "label": {
+        "en": "Country",
+        "fa": "کشور"
+      },
+      "value": {
+        "en": "Iran",
+        "fa": "ایران"
+      }
     },
     {
-      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
-      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+      "label": {
+        "en": "Time Zone",
+        "fa": "منطقه زمانی"
+      },
+      "value": {
+        "en": "UTC +3:30",
+        "fa": "UTC +3:30"
+      }
     },
     {
-      "label": { "en": "Official Language", "fa": "زبان رسمی" },
-      "value": { "en": "Persian", "fa": "فارسی" }
+      "label": {
+        "en": "Official Language",
+        "fa": "زبان رسمی"
+      },
+      "value": {
+        "en": "Persian",
+        "fa": "فارسی"
+      }
     },
     {
-      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "label": {
+        "en": "Climate",
+        "fa": "آب‌وهوا"
+      },
       "value": {
         "en": "Semi-arid, with hot summers and relatively cool winters",
         "fa": "نیمه‌خشک با تابستان‌های گرم و زمستان‌های نسبتاً سرد"
       }
     },
     {
-      "label": { "en": "Airport", "fa": "فرودگاه" },
+      "label": {
+        "en": "Airport",
+        "fa": "فرودگاه"
+      },
       "value": {
         "en": "Shiraz International Airport (Shahid Dastgheib International Airport)",
         "fa": "فرودگاه بین‌المللی شهید دستغیب شیراز"
       }
     },
     {
-      "label": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
+      "label": {
+        "en": "Public Transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
       "value": {
         "en": "Metro, city buses, taxis, and ride-hailing services",
         "fa": "مترو، اتوبوس شهری، تاکسی و تاکسی‌های اینترنتی"
       }
     },
     {
-      "label": { "en": "Major Universities", "fa": "دانشگاه‌های شاخص" },
+      "label": {
+        "en": "Major Universities",
+        "fa": "دانشگاه‌های شاخص"
+      },
       "value": {
         "en": "Shiraz University, Shiraz University of Medical Sciences, and other higher education institutions",
         "fa": "دانشگاه شیراز، دانشگاه علوم پزشکی شیراز و سایر مراکز آموزش عالی"
       }
     },
     {
-      "label": { "en": "Key Student Areas", "fa": "مهم‌ترین مناطق دانشجویی" },
+      "label": {
+        "en": "Key Student Areas",
+        "fa": "مهم‌ترین مناطق دانشجویی"
+      },
       "value": {
         "en": "Areas around Shiraz University, Shiraz University of Medical Sciences, and central Shiraz",
         "fa": "مناطق اطراف دانشگاه شیراز، دانشگاه علوم پزشکی شیراز و بخش‌های مرکزی شهر"
       }
     },
     {
-      "label": { "en": "Cultural Identity", "fa": "شهرت فرهنگی" },
+      "label": {
+        "en": "Cultural Identity",
+        "fa": "شهرت فرهنگی"
+      },
       "value": {
         "en": "City of poetry, literature, Persian gardens, and historical monuments",
         "fa": "شهر شعر، ادب، باغ‌های ایرانی و بناهای تاریخی"
       }
     },
     {
-      "label": { "en": "Major Historical Attractions", "fa": "جاذبه‌های تاریخی مهم" },
+      "label": {
+        "en": "Major Historical Attractions",
+        "fa": "جاذبه‌های تاریخی مهم"
+      },
       "value": {
         "en": "Hafezieh, Saadieh, Persepolis, Pasargadae, Naqsh-e Rostam, Arg of Karim Khan",
         "fa": "حافظیه، سعدیه، تخت‌جمشید، پاسارگاد، نقش رستم، ارگ کریم‌خان"
       }
     },
     {
-      "label": { "en": "Cost of Living", "fa": "هزینه زندگی" },
+      "label": {
+        "en": "Cost of Living",
+        "fa": "هزینه زندگی"
+      },
       "value": {
         "en": "Generally lower than Tehran and many other major Iranian cities",
         "fa": "معمولاً پایین‌تر از تهران و بسیاری از کلان‌شهرهای ایران"
@@ -136,7 +191,10 @@
   },
   "universities": [
     {
-      "name": { "en": "Shiraz University", "fa": "دانشگاه شیراز" },
+      "name": {
+        "en": "Shiraz University",
+        "fa": "دانشگاه شیراز"
+      },
       "description": {
         "en": "Shiraz University is one of Iran's well-established comprehensive universities, with a long history of higher education and research.\n\nIn addition to its academic programs, Shiraz University has an active research environment. Graduate students can participate in research projects and academic activities across a variety of disciplines.",
         "fa": "دانشگاه شیراز (Shiraz University) یکی از دانشگاه‌های جامع و شناخته‌شده ایران است و سابقه‌ای طولانی در آموزش عالی و پژوهش دارد.\n\nدانشگاه شیراز علاوه بر فعالیت‌های آموزشی، در حوزه پژوهش نیز حضور فعالی دارد و دانشجویان تحصیلات تکمیلی می‌توانند در پروژه‌های علمی و تحقیقاتی در حوزه‌های مختلف مشارکت کنند."
@@ -165,7 +223,10 @@
       }
     },
     {
-      "name": { "en": "Shiraz University of Medical Sciences", "fa": "دانشگاه علوم پزشکی شیراز" },
+      "name": {
+        "en": "Shiraz University of Medical Sciences",
+        "fa": "دانشگاه علوم پزشکی شیراز"
+      },
       "slug": "shiraz-university-of-medical-sciences",
       "description": {
         "en": "Shiraz University of Medical Sciences (SUMS) is one of Iran's major medical education institutions and a well-known option for international students interested in health and medical sciences.\n\nThe university's network of teaching hospitals and affiliated medical centers allows students to combine academic education with practical and clinical experience.\n\nFor international students, the presence of a major medical university in Shiraz is a significant advantage. It provides access not only to academic education but also to a broad network of healthcare and clinical training facilities.",
@@ -229,32 +290,74 @@
   },
   "expenses": [
     {
-      "type": { "en": "University accommodation", "fa": "خوابگاه دانشگاهی" },
-      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+      "type": {
+        "en": "University accommodation",
+        "fa": "خوابگاه دانشگاهی"
+      },
+      "situation": {
+        "en": "Usually the most economical option",
+        "fa": "معمولاً اقتصادی‌ترین گزینه"
+      }
     },
     {
-      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
-      "situation": { "en": "Budget-friendly to moderate", "fa": "اقتصادی تا متوسط" }
+      "type": {
+        "en": "Shared apartment",
+        "fa": "آپارتمان اشتراکی"
+      },
+      "situation": {
+        "en": "Budget-friendly to moderate",
+        "fa": "اقتصادی تا متوسط"
+      }
     },
     {
-      "type": { "en": "Private apartment", "fa": "آپارتمان شخصی" },
-      "situation": { "en": "Moderate", "fa": "متوسط" }
+      "type": {
+        "en": "Private apartment",
+        "fa": "آپارتمان شخصی"
+      },
+      "situation": {
+        "en": "Moderate",
+        "fa": "متوسط"
+      }
     },
     {
-      "type": { "en": "Food and groceries", "fa": "غذا و مواد غذایی" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Food and groceries",
+        "fa": "غذا و مواد غذایی"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
-      "situation": { "en": "Low-cost", "fa": "کم‌هزینه" }
+      "type": {
+        "en": "Public transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
+      "situation": {
+        "en": "Low-cost",
+        "fa": "کم‌هزینه"
+      }
     },
     {
-      "type": { "en": "Internet and mobile services", "fa": "اینترنت و تلفن همراه" },
-      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+      "type": {
+        "en": "Internet and mobile services",
+        "fa": "اینترنت و تلفن همراه"
+      },
+      "situation": {
+        "en": "Relatively affordable",
+        "fa": "نسبتاً مقرون‌به‌صرفه"
+      }
     },
     {
-      "type": { "en": "Entertainment", "fa": "تفریح و سرگرمی" },
-      "situation": { "en": "Depends on lifestyle", "fa": "وابسته به سبک زندگی" }
+      "type": {
+        "en": "Entertainment",
+        "fa": "تفریح و سرگرمی"
+      },
+      "situation": {
+        "en": "Depends on lifestyle",
+        "fa": "وابسته به سبک زندگی"
+      }
     }
   ],
   "accommodation": {
@@ -321,28 +424,40 @@
   },
   "seasons": [
     {
-      "name": { "en": "Spring: The Best Season to Explore Shiraz", "fa": "بهار؛ بهترین فصل برای کشف شیراز" },
+      "name": {
+        "en": "Spring: The Best Season to Explore Shiraz",
+        "fa": "بهار؛ بهترین فصل برای کشف شیراز"
+      },
       "description": {
         "en": "Spring is one of the most beautiful times of year in Shiraz. Mild weather, blooming trees, and the fragrance of orange blossoms create a distinctive atmosphere throughout the city.\n\nIt is also an excellent season for visiting Shiraz's historic gardens and cultural attractions.",
         "fa": "بهار یکی از زیباترین زمان‌های سال در شیراز است. هوای معتدل، شکوفه‌های درختان و عطر بهارنارنج در بسیاری از نقاط شهر، فضای ویژه‌ای ایجاد می‌کند.\n\nاین فصل همچنین زمان مناسبی برای بازدید از باغ‌های تاریخی و جاذبه‌های فرهنگی شهر است."
       }
     },
     {
-      "name": { "en": "Summer", "fa": "تابستان" },
+      "name": {
+        "en": "Summer",
+        "fa": "تابستان"
+      },
       "description": {
         "en": "Summers in Shiraz are generally hot and dry, although evenings can be noticeably cooler. Students often plan outdoor activities for the cooler parts of the day during this season.",
         "fa": "تابستان‌های شیراز معمولاً گرم و خشک هستند، اما شب‌ها می‌توانند نسبتاً خنک‌تر باشند. دانشجویان در این فصل معمولاً فعالیت‌های خارج از خانه را به ساعات خنک‌تر روز منتقل می‌کنند."
       }
     },
     {
-      "name": { "en": "Autumn", "fa": "پاییز" },
+      "name": {
+        "en": "Autumn",
+        "fa": "پاییز"
+      },
       "description": {
         "en": "Autumn brings cooler temperatures and pleasant weather, making it another comfortable season for student life and exploring the city.",
         "fa": "پاییز با کاهش دما و هوای مطبوع، یکی از فصل‌های مناسب برای زندگی دانشجویی و گردش در شهر است."
       }
     },
     {
-      "name": { "en": "Winter", "fa": "زمستان" },
+      "name": {
+        "en": "Winter",
+        "fa": "زمستان"
+      },
       "description": {
         "en": "Winters in Shiraz are relatively cool, with occasional rainfall and noticeable drops in temperature. The surrounding mountainous areas also take on a different character during the winter months.",
         "fa": "زمستان‌های شیراز نسبتاً سردتر است و در برخی روزها بارندگی و کاهش محسوس دما اتفاق می‌افتد. مناطق کوهستانی اطراف شهر نیز در این فصل چهره متفاوتی پیدا می‌کنند."
