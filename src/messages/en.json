@@ -11,6 +11,8 @@
     "universities": "Universities",
     "programs": "Programs",
     "admission": "Admission",
+    "cities": "Cities",
+    "forStudents": "For Students",
     "faq": "FAQ",
     "contact": "Contact",
     "applyNow": "Apply Now",
@@ -250,6 +252,39 @@
         "description": "Continued assistance throughout your studies, including registration and administrative matters."
       }
     ]
+  },
+  "forStudents": {
+    "eyebrow": "For Students",
+    "onThisPage": "On this page",
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "citiesPage": {
+    "hero": {
+      "eyebrow": "Cities",
+      "title": "Discover Iranian Cities",
+      "body": "Choosing a city is part of choosing where to study. Explore the academic, cultural, and everyday life of each destination."
+    },
+    "atAGlance": "At a Glance",
+    "whyStudyHere": "Why Study Here",
+    "advantages": "Key Advantages",
+    "about": "About the City",
+    "universities": "Universities in the City",
+    "research": "Research and Academic Opportunities",
+    "studentLife": "Student Life",
+    "costOfLiving": "Cost of Living",
+    "expenseType": "Type of Expense",
+    "expenseSituation": "Overall Situation",
+    "accommodation": "Accommodation and Dormitories",
+    "transport": "Transportation and Accessibility",
+    "climate": "Climate and Weather",
+    "healthcare": "Healthcare and Everyday Services",
+    "culture": "Culture and Lifestyle",
+    "historicalAttractions": "Historical and Cultural Attractions",
+    "naturalAttractions": "Natural Attractions",
+    "faq": "Frequently Asked Questions",
+    "viewUniversity": "View university profile",
+    "exploreCity": "Explore the city",
+    "universitiesInCity": "Universities in this city"
   },
   "admissionPage": {
     "hero": {

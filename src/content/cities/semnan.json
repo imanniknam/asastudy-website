@@ -1,0 +1,532 @@
+{
+  "slug": "semnan",
+  "name": {
+    "en": "Semnan",
+    "fa": "سمنان"
+  },
+  "province": {
+    "en": "Semnan",
+    "fa": "سمنان"
+  },
+  "tagline": {
+    "en": "Semnan; A Peaceful City for Study, Research, and Experiencing Life in the Heart of Iran",
+    "fa": "سمنان؛ شهری آرام برای تحصیل، پژوهش و تجربه زندگی در قلب ایران"
+  },
+  "summary": {
+    "en": "Semnan, the capital of Semnan Province, is one of Iran's growing university cities. Thanks to its geographical location, relatively peaceful urban environment, cost of living, and convenient access to Tehran, it can be a suitable option for students looking for a balanced environment for studying and living.",
+    "fa": "سمنان، مرکز استان سمنان، یکی از شهرهای دانشگاهی و رو به رشد ایران است که به دلیل موقعیت جغرافیایی، فضای نسبتاً آرام شهری، هزینه‌های زندگی و دسترسی مناسب به تهران، می‌تواند گزینه مناسبی برای دانشجویانی باشد که به دنبال محیطی متعادل برای تحصیل و زندگی هستند."
+  },
+  "facts": [
+    {
+      "label": { "en": "City", "fa": "شهر" },
+      "value": { "en": "Semnan", "fa": "سمنان" }
+    },
+    {
+      "label": { "en": "Province", "fa": "استان" },
+      "value": { "en": "Semnan", "fa": "سمنان" }
+    },
+    {
+      "label": { "en": "Country", "fa": "کشور" },
+      "value": { "en": "Iran", "fa": "ایران" }
+    },
+    {
+      "label": { "en": "Official language", "fa": "زبان رسمی" },
+      "value": { "en": "Persian", "fa": "فارسی" }
+    },
+    {
+      "label": { "en": "Time zone", "fa": "منطقه زمانی" },
+      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+    },
+    {
+      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "value": {
+        "en": "Dry and semi-arid; hot summers and cold winters",
+        "fa": "خشک و نیمه‌خشک؛ تابستان‌های گرم و زمستان‌های سرد"
+      }
+    },
+    {
+      "label": { "en": "Location", "fa": "موقعیت" },
+      "value": {
+        "en": "On the main route connecting Tehran to eastern and northeastern Iran",
+        "fa": "در مسیر ارتباطی تهران به شرق و شمال‌شرق ایران"
+      }
+    },
+    {
+      "label": { "en": "Intercity access", "fa": "دسترسی بین‌شهری" },
+      "value": {
+        "en": "Road, bus, and railway",
+        "fa": "جاده، اتوبوس و راه‌آهن"
+      }
+    },
+    {
+      "label": { "en": "Leading universities", "fa": "دانشگاه‌های شاخص" },
+      "value": {
+        "en": "Semnan University, Semnan University of Medical Sciences",
+        "fa": "دانشگاه سمنان، دانشگاه علوم پزشکی سمنان"
+      }
+    },
+    {
+      "label": { "en": "Higher education centers", "fa": "مراکز آموزش عالی" },
+      "value": {
+        "en": "Islamic Azad University and non-governmental and applied science institutions",
+        "fa": "دانشگاه آزاد اسلامی و مؤسسات آموزش عالی غیردولتی و علمی‌کاربردی"
+      }
+    },
+    {
+      "label": { "en": "Historical attractions", "fa": "جاذبه‌های تاریخی" },
+      "value": {
+        "en": "Semnan Jameh Mosque, Arg Gate, Semnan Historical Bazaar",
+        "fa": "مسجد جامع سمنان، دروازه ارگ، بازار تاریخی سمنان"
+      }
+    },
+    {
+      "label": { "en": "Natural attractions nearby", "fa": "جاذبه‌های طبیعی اطراف" },
+      "value": {
+        "en": "Touran Biosphere Reserve, Kavir National Park, Abr Forest",
+        "fa": "ذخیره‌گاه زیست‌کره توران، پارک ملی کویر، جنگل ابر"
+      }
+    },
+    {
+      "label": { "en": "Nearby and scenic cities", "fa": "شهرهای نزدیک و دیدنی" },
+      "value": {
+        "en": "Damghan, Shahroud, Bastam",
+        "fa": "دامغان، شاهرود، بسطام"
+      }
+    },
+    {
+      "label": { "en": "Key feature", "fa": "ویژگی شاخص" },
+      "value": {
+        "en": "A peaceful university city with convenient access to Tehran",
+        "fa": "شهر دانشگاهی آرام با دسترسی مناسب به تهران"
+      }
+    }
+  ],
+  "whyStudyHere": {
+    "en": "Semnan, the capital of Semnan Province, is one of Iran's growing university cities. Thanks to its geographical location, relatively peaceful urban environment, cost of living, and convenient access to Tehran, it can be a suitable option for students looking for a balanced environment for studying and living.\n\nThe city is located along an important route connecting Tehran to eastern and northeastern Iran and is connected to various cities across the country by road and railway. This location has allowed Semnan to combine the characteristics of a medium-sized, peaceful city with convenient access to the facilities and major centers of larger cities.\n\nFor international students, one of Semnan's notable features is its distance from the congestion and complexity of major metropolitan areas. The city's size and more relaxed atmosphere can provide suitable conditions for focusing on studies, research, and everyday life.\n\nOn the other hand, Semnan's location in a region with remarkable geographical diversity offers students a different experience of Iran; from the desert landscapes and arid areas in the south of the province to the mountainous and forested regions in the north and northeast.\n\nFor students looking for a more peaceful environment for their studies without wanting to be too far from Tehran and the country's main transportation routes, Semnan can be a noteworthy choice.",
+    "fa": "سمنان، مرکز استان سمنان، یکی از شهرهای دانشگاهی و رو به رشد ایران است که به دلیل موقعیت جغرافیایی، فضای نسبتاً آرام شهری، هزینه‌های زندگی و دسترسی مناسب به تهران، می‌تواند گزینه مناسبی برای دانشجویانی باشد که به دنبال محیطی متعادل برای تحصیل و زندگی هستند.\n\nاین شهر در مسیر ارتباطی مهم تهران به شرق و شمال‌شرق ایران قرار گرفته و از طریق جاده و راه‌آهن به شهرهای مختلف کشور متصل است. همین موقعیت باعث شده سمنان در کنار ویژگی‌های یک شهر متوسط و آرام، از دسترسی مناسبی به امکانات و مراکز مهم شهرهای بزرگ برخوردار باشد.\n\nبرای دانشجویان بین‌المللی، یکی از ویژگی‌های قابل توجه سمنان، فاصله گرفتن از شلوغی و پیچیدگی کلان‌شهرهاست. اندازه شهر و فضای آرام‌تر آن می‌تواند شرایط مناسبی برای تمرکز بر تحصیل، پژوهش و زندگی روزمره ایجاد کند.\n\nاز سوی دیگر، قرار گرفتن سمنان در منطقه‌ای با تنوع جغرافیایی بالا، تجربه‌ای متفاوت از ایران را در اختیار دانشجویان قرار می‌دهد؛ از چشم‌اندازهای کویری و مناطق خشک جنوب استان گرفته تا مناطق کوهستانی و جنگلی در شمال و شمال‌شرق.\n\nبرای دانشجویی که به دنبال محیطی آرام‌تر برای تحصیل است اما نمی‌خواهد از دسترسی به تهران و مسیرهای اصلی کشور فاصله زیادی داشته باشد، سمنان می‌تواند انتخابی قابل توجه باشد."
+  },
+  "advantages": {
+    "en": [
+      "Presence of public universities and higher education institutions",
+      "A specialized university in medicine and health sciences",
+      "A peaceful urban environment suitable for academic focus",
+      "Relatively affordable living and housing costs",
+      "Convenient access to Tehran",
+      "Connection to the country's road and railway networks",
+      "Relatively short distance from the capital",
+      "Availability of medical centers and urban services",
+      "Access to historical and cultural attractions",
+      "Remarkable natural diversity across the province",
+      "Proximity to desert, mountainous, and forested areas",
+      "Opportunity to experience urban life on a medium scale",
+      "A suitable environment for becoming familiar with local Iranian culture"
+    ],
+    "fa": [
+      "حضور دانشگاه‌های دولتی و مراکز آموزش عالی",
+      "وجود دانشگاه تخصصی در حوزه پزشکی و علوم سلامت",
+      "محیط شهری آرام و مناسب برای تمرکز بر تحصیل",
+      "هزینه‌های زندگی و مسکن نسبتاً مناسب",
+      "دسترسی مناسب به تهران",
+      "اتصال به شبکه جاده‌ای و ریلی کشور",
+      "فاصله نسبتاً کوتاه با پایتخت",
+      "وجود مراکز درمانی و خدمات شهری",
+      "دسترسی به جاذبه‌های تاریخی و فرهنگی",
+      "تنوع طبیعی کم‌نظیر در استان",
+      "نزدیکی به مناطق کویری، کوهستانی و جنگلی",
+      "امکان تجربه سبک زندگی شهری در مقیاس متوسط",
+      "فضای مناسب برای آشنایی با فرهنگ محلی ایران"
+    ]
+  },
+  "about": {
+    "en": "Semnan is one of Iran's historic cities and the capital of Semnan Province. Its geographical location between the southern slopes of the Alborz Mountains and the central Iranian deserts has played an important role in shaping its natural and cultural identity.\n\nThroughout history, Semnan has been located along important transportation routes, and its connection between central Iran and the eastern parts of the country has added to its importance.\n\nToday, alongside its historical identity, Semnan is a university and administrative city, with a significant portion of its population consisting of students, professors, and employees of educational and research institutions.\n\nOne of Semnan's distinctive features is the relative proximity of two very different geographical environments. On one side are the dry and desert landscapes of the southern province, while on the other are the mountainous, forested, and summer resort areas of northern Semnan Province.\n\nThis diversity means that for international students, Semnan is more than just an academic destination and also provides an opportunity to become familiar with different aspects of Iran's geography and natural environment.",
+    "fa": "سمنان یکی از شهرهای تاریخی ایران و مرکز استان سمنان است. موقعیت جغرافیایی این شهر میان دامنه‌های جنوبی البرز و مناطق کویری مرکز ایران، نقش مهمی در شکل‌گیری هویت طبیعی و فرهنگی آن داشته است.\n\nسمنان در طول تاریخ در مسیرهای ارتباطی مهم قرار داشته و ارتباط میان مناطق مرکزی ایران و شرق کشور، به اهمیت آن افزوده است.\n\nامروزه سمنان در کنار هویت تاریخی خود، شهری دانشگاهی و اداری است و بخش قابل توجهی از جمعیت آن را دانشجویان، استادان و کارکنان مراکز آموزشی و پژوهشی تشکیل می‌دهند.\n\nیکی از ویژگی‌های متمایز سمنان، نزدیکی نسبی دو محیط جغرافیایی متفاوت است. در یک سو، چشم‌اندازهای خشک و کویری جنوب استان قرار دارند و در سوی دیگر، مناطق کوهستانی، جنگلی و ییلاقی شمال استان قرار گرفته‌اند.\n\nاین تنوع باعث شده است برای دانشجویان بین‌المللی سمنان فقط یک مقصد دانشگاهی نباشد و فرصت آشنایی با بخش‌های متفاوتی از جغرافیا و طبیعت ایران را نیز فراهم کند."
+  },
+  "universities": [
+    {
+      "name": {
+        "en": "Semnan University",
+        "fa": "دانشگاه سمنان"
+      },
+      "slug": "semnan-university",
+      "description": {
+        "en": "Semnan University is the city's leading comprehensive university and one of Iran's recognized public universities.\n\nThe university is active in various educational and research fields and offers programs in areas such as engineering, basic sciences, humanities, management, economics, architecture, technology, and computer science.\n\nThe presence of various faculties, laboratories, and research centers has made Semnan University one of the province's main higher education centers.\n\nFor international students, the diversity of programs at Semnan University provides opportunities to choose from different academic fields, and its academic environment can be suitable for students seeking to study and conduct research in a more peaceful city.",
+        "fa": "دانشگاه سمنان مهم‌ترین دانشگاه جامع شهر و یکی از دانشگاه‌های دولتی شناخته‌شده ایران است.\n\nاین دانشگاه در حوزه‌های مختلف آموزشی و پژوهشی فعالیت می‌کند و رشته‌هایی در زمینه‌هایی مانند مهندسی، علوم پایه، علوم انسانی، مدیریت، اقتصاد، معماری، فناوری و علوم کامپیوتر ارائه می‌دهد.\n\nوجود دانشکده‌ها، آزمایشگاه‌ها و مراکز پژوهشی مختلف، دانشگاه سمنان را به یکی از مراکز اصلی آموزش عالی استان تبدیل کرده است.\n\nبرای دانشجویان بین‌المللی، تنوع رشته‌های دانشگاه سمنان امکان انتخاب از میان حوزه‌های مختلف علمی را فراهم می‌کند و محیط دانشگاهی آن می‌تواند برای دانشجویانی که به دنبال تحصیل و پژوهش در یک شهر آرام‌تر هستند، مناسب باشد."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Basic Sciences",
+          "Humanities",
+          "Management",
+          "Economics",
+          "Architecture",
+          "Technology",
+          "Computer Science"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "علوم انسانی",
+          "مدیریت",
+          "اقتصاد",
+          "معماری",
+          "فناوری",
+          "علوم کامپیوتر"
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Semnan University of Medical Sciences",
+        "fa": "دانشگاه علوم پزشکی سمنان"
+      },
+      "slug": "semnan-university-of-medical-sciences",
+      "description": {
+        "en": "Semnan University of Medical Sciences is one of the region's main centers for medical and health sciences education.\n\nThe university has educational and healthcare activities in areas such as medicine, nursing, midwifery, public health, paramedical sciences, and health sciences.\n\nThe presence of medical centers and teaching hospitals affiliated with the university provides opportunities to connect academic education with the clinical environment.\n\nFor students interested in medical sciences, having a specialized medical university in the city is considered one of Semnan's most important advantages.",
+        "fa": "دانشگاه علوم پزشکی سمنان یکی از مراکز اصلی آموزش پزشکی و علوم سلامت در منطقه است.\n\nاین دانشگاه در حوزه‌هایی مانند پزشکی، پرستاری، مامایی، بهداشت، علوم پیراپزشکی و علوم سلامت فعالیت آموزشی و درمانی دارد.\n\nوجود مراکز درمانی و بیمارستان‌های آموزشی وابسته به دانشگاه، امکان ارتباط میان آموزش دانشگاهی و محیط درمانی را فراهم می‌کند.\n\nبرای دانشجویان علاقه‌مند به علوم پزشکی، حضور یک دانشگاه تخصصی پزشکی در شهر، یکی از مهم‌ترین مزیت‌های سمنان به شمار می‌رود."
+      },
+      "fields": {
+        "en": [
+          "Medicine",
+          "Nursing",
+          "Midwifery",
+          "Public Health",
+          "Paramedical Sciences",
+          "Health Sciences"
+        ],
+        "fa": [
+          "پزشکی",
+          "پرستاری",
+          "مامایی",
+          "بهداشت",
+          "علوم پیراپزشکی",
+          "علوم سلامت"
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Other Higher Education Institutions",
+        "fa": "سایر مراکز آموزش عالی"
+      },
+      "description": {
+        "en": "Alongside Semnan University and Semnan University of Medical Sciences, Islamic Azad University and several non-governmental and applied science higher education institutions are also active in Semnan.\n\nThis academic network provides more diverse options for students who intend to continue their education in different fields and academic levels.",
+        "fa": "در کنار دانشگاه سمنان و دانشگاه علوم پزشکی سمنان، دانشگاه آزاد اسلامی و تعدادی از مؤسسات آموزش عالی غیردولتی و علمی‌کاربردی نیز در سمنان فعالیت دارند.\n\nاین مجموعه دانشگاهی، گزینه‌های متنوع‌تری را برای دانشجویانی که قصد ادامه تحصیل در رشته‌ها و مقاطع مختلف را دارند فراهم می‌کند."
+      }
+    }
+  ],
+  "research": {
+    "en": "In recent years, Semnan has become one of the region's important university centers, with its universities active in various academic and research fields.\n\nSemnan University, in particular, has educational and research capacities in engineering, basic sciences, technology, and several applied disciplines.\n\nSemnan University of Medical Sciences also pursues academic and research activities in medicine and health sciences alongside university education and healthcare services.\n\nFor graduate students, the presence of research centers, laboratories, and faculty members across different disciplines can be an important part of the academic experience in Semnan.\n\nSemnan's relatively peaceful urban environment can also be an advantage for students who devote a significant portion of their time to studying, laboratory work, and research activities.",
+    "fa": "سمنان در سال‌های اخیر به یکی از مراکز دانشگاهی مهم منطقه تبدیل شده و دانشگاه‌های آن در حوزه‌های مختلف علمی و پژوهشی فعالیت می‌کنند.\n\nدانشگاه سمنان به‌ویژه در حوزه‌های مهندسی، علوم پایه، فناوری و برخی رشته‌های کاربردی دارای ظرفیت‌های آموزشی و پژوهشی است.\n\nدانشگاه علوم پزشکی سمنان نیز فعالیت‌های علمی و پژوهشی خود را در حوزه پزشکی و علوم سلامت در کنار آموزش دانشگاهی و خدمات درمانی دنبال می‌کند.\n\nبرای دانشجویان مقاطع تحصیلات تکمیلی، حضور مراکز پژوهشی، آزمایشگاه‌ها و اعضای هیئت علمی در رشته‌های مختلف می‌تواند بخشی مهم از تجربه تحصیل در سمنان باشد.\n\nمحیط شهری نسبتاً آرام سمنان نیز می‌تواند برای دانشجویانی که بخش قابل توجهی از زمان خود را به مطالعه، آزمایشگاه و فعالیت‌های پژوهشی اختصاص می‌دهند، مزیت محسوب شود."
+  },
+  "studentLife": {
+    "en": "One of Semnan's important features for students is the city's medium size and peaceful atmosphere.\n\nCompared with major metropolitan areas such as Tehran, everyday life in Semnan generally involves less traffic and less urban commuting. Distances within the city are also shorter on many routes, which can reduce students' commuting time.\n\nUniversities also organize various academic and cultural programs, workshops, and student activities. These activities can provide international students with valuable opportunities to meet Iranian students and build social connections.\n\nCompared with very large cities, Semnan's social environment is smaller and more intimate, which can make adapting to a new environment easier for students living in Iran for the first time.",
+    "fa": "یکی از ویژگی‌های مهم سمنان برای دانشجویان، مقیاس متوسط و فضای آرام شهر است.\n\nدر مقایسه با کلان‌شهرهایی مانند تهران، زندگی روزمره در سمنان معمولاً با ترافیک و رفت‌وآمد شهری کمتری همراه است. فاصله‌های درون‌شهری نیز در بسیاری از مسیرها کوتاه‌تر هستند و این موضوع می‌تواند زمان رفت‌وآمد دانشجویان را کاهش دهد.\n\nدانشگاه‌ها نیز برنامه‌های علمی، فرهنگی، کارگاه‌ها و فعالیت‌های دانشجویی مختلفی برگزار می‌کنند. این فعالیت‌ها می‌توانند فرصت مناسبی برای آشنایی دانشجویان بین‌المللی با دانشجویان ایرانی و ایجاد ارتباطات اجتماعی فراهم کنند.\n\nفضای اجتماعی سمنان در مقایسه با شهرهای بسیار بزرگ، کوچک‌تر و صمیمی‌تر است و همین موضوع می‌تواند برای دانشجویی که برای نخستین بار در ایران زندگی می‌کند، سازگاری با محیط جدید را ساده‌تر کند."
+  },
+  "studentLifeFacilities": {
+    "en": [
+      "Libraries",
+      "Cultural centers",
+      "Sports halls",
+      "Cafés",
+      "Restaurants",
+      "Shopping centers",
+      "Parks",
+      "Healthcare services"
+    ],
+    "fa": [
+      "کتابخانه‌ها",
+      "مراکز فرهنگی",
+      "سالن‌های ورزشی",
+      "کافه‌ها",
+      "رستوران‌ها",
+      "مراکز خرید",
+      "پارک‌ها",
+      "خدمات درمانی"
+    ]
+  },
+  "costOfLiving": {
+    "en": "One reason Semnan can be attractive to students is its relatively affordable cost of living compared to many of Iran's major metropolitan areas.\n\nThe actual cost of living depends on the place of residence, type of housing, lifestyle, and use of urban services; however, in many cases, housing costs in Semnan are lower than in cities such as Tehran.\n\nStudents who use university dormitories or shared accommodation and rely on public transportation for commuting can manage their monthly expenses more effectively.",
+    "fa": "یکی از دلایلی که سمنان می‌تواند برای دانشجویان جذاب باشد، هزینه زندگی نسبتاً مناسب آن در مقایسه با بسیاری از کلان‌شهرهای ایران است.\n\nهزینه واقعی زندگی به محل اقامت، نوع مسکن، سبک زندگی و میزان استفاده از خدمات شهری بستگی دارد؛ اما در بسیاری از موارد، هزینه مسکن در سمنان از شهرهایی مانند تهران پایین‌تر است.\n\nدانشجویانی که از خوابگاه دانشگاهی یا اقامت اشتراکی استفاده می‌کنند و برای رفت‌وآمد از حمل‌ونقل عمومی بهره می‌برند، می‌توانند هزینه‌های ماهانه خود را بهتر مدیریت کنند."
+  },
+  "expenses": [
+    {
+      "type": { "en": "University dormitory", "fa": "خوابگاه دانشگاهی" },
+      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+    },
+    {
+      "type": { "en": "Private dormitory", "fa": "خوابگاه خصوصی" },
+      "situation": { "en": "Economical to moderate", "fa": "اقتصادی تا متوسط" }
+    },
+    {
+      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
+      "situation": { "en": "Moderate", "fa": "متوسط" }
+    },
+    {
+      "type": { "en": "Private apartment", "fa": "آپارتمان مستقل" },
+      "situation": { "en": "Moderate", "fa": "متوسط" }
+    },
+    {
+      "type": { "en": "Food", "fa": "مواد غذایی" },
+      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+    },
+    {
+      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
+      "situation": { "en": "Economical", "fa": "اقتصادی" }
+    },
+    {
+      "type": { "en": "Internet and mobile phone", "fa": "اینترنت و تلفن همراه" },
+      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+    },
+    {
+      "type": { "en": "Recreation and entertainment", "fa": "تفریح و سرگرمی" },
+      "situation": { "en": "Dependent on lifestyle", "fa": "وابسته به سبک زندگی" }
+    }
+  ],
+  "accommodation": {
+    "en": "Semnan's universities provide dormitory facilities for non-local students and, in some cases, international students. Dormitory eligibility, availability, and costs depend on the university and the regulations of each educational institution.\n\nIn addition to university dormitories, students can consider other options as well.\n\nHousing costs in Semnan are generally lower than in Tehran, which can be one of the city's major advantages for international students.\n\nWhen choosing accommodation, it is important to consider several factors.",
+    "fa": "دانشگاه‌های سمنان برای دانشجویان غیربومی و در مواردی دانشجویان بین‌المللی امکانات خوابگاهی فراهم می‌کنند. شرایط دریافت خوابگاه، ظرفیت و هزینه آن به دانشگاه و مقررات مربوط به هر مرکز آموزشی بستگی دارد.\n\nدر کنار خوابگاه‌های دانشگاهی، دانشجویان می‌توانند گزینه‌های دیگری را نیز بررسی کنند.\n\nهزینه مسکن در سمنان معمولاً نسبت به تهران پایین‌تر است و همین موضوع می‌تواند یکی از مزیت‌های مهم شهر برای دانشجویان بین‌المللی باشد.\n\nهنگام انتخاب محل اقامت، توجه به موارد زیر اهمیت دارد."
+  },
+  "accommodationOptions": {
+    "en": [
+      "Private dormitories",
+      "Shared apartments",
+      "Private apartments",
+      "Residential complexes",
+      "Rental units near the university"
+    ],
+    "fa": [
+      "خوابگاه‌های خصوصی",
+      "آپارتمان‌های اشتراکی",
+      "آپارتمان‌های مستقل",
+      "مجتمع‌های مسکونی",
+      "واحدهای اجاره‌ای نزدیک دانشگاه"
+    ]
+  },
+  "accommodationConsiderations": {
+    "en": [
+      "Distance from the university",
+      "Access to public transportation",
+      "Distance from shops and everyday services",
+      "Rent and utility costs",
+      "Contract terms",
+      "Building facilities",
+      "Access to medical centers"
+    ],
+    "fa": [
+      "فاصله تا دانشگاه",
+      "دسترسی به حمل‌ونقل عمومی",
+      "فاصله تا فروشگاه‌ها و خدمات روزمره",
+      "هزینه اجاره و قبوض",
+      "شرایط قرارداد",
+      "امکانات ساختمان",
+      "دسترسی به مراکز درمانی"
+    ]
+  },
+  "transport": {
+    "en": "Semnan's geographical location is one of its important advantages for students.\n\nThe city is located on the main Tehran–Mashhad route and is connected to Tehran, Mashhad, and other cities along the route through the road and railway networks.\n\nSemnan's relatively short distance from Tehran makes travel between the two cities possible by train, bus, or private car. For international students, this accessibility is highly important because Tehran is the center of many of Iran's international, administrative, cultural, and economic services.\n\nFor transportation within Semnan, options such as taxis, city buses, and online taxi services are available. Online transportation services such as Snapp and TAPSI also provide transportation across different routes within the city.\n\nThe city's relatively manageable size means that many everyday destinations can be reached in a short time, allowing students to spend less time commuting.",
+    "fa": "موقعیت جغرافیایی سمنان یکی از مزیت‌های مهم آن برای دانشجویان است.\n\nاین شهر در مسیر اصلی تهران به مشهد قرار دارد و از طریق شبکه جاده‌ای و ریلی به تهران، مشهد و سایر شهرهای مسیر متصل می‌شود.\n\nفاصله نسبتاً کوتاه سمنان تا تهران باعث شده سفر میان این دو شهر از طریق قطار، اتوبوس و خودرو شخصی امکان‌پذیر باشد. برای دانشجویان بین‌المللی، این دسترسی اهمیت زیادی دارد؛ زیرا تهران مرکز بسیاری از خدمات بین‌المللی، اداری، فرهنگی و اقتصادی ایران است.\n\nبرای رفت‌وآمد در داخل سمنان، گزینه‌هایی مانند تاکسی، اتوبوس شهری و تاکسی‌های اینترنتی در دسترس هستند. سرویس‌های حمل‌ونقل آنلاین مانند اسنپ و تپسی نیز امکان جابه‌جایی در مسیرهای مختلف شهر را فراهم می‌کنند.\n\nاندازه نسبتاً مناسب شهر باعث شده بسیاری از مسیرهای روزمره در زمان کوتاهی قابل دسترسی باشند و دانشجویان زمان کمتری را در رفت‌وآمد سپری کنند."
+  },
+  "transportOptions": {
+    "en": [
+      "Train",
+      "Bus",
+      "Private car",
+      "Taxis",
+      "City buses",
+      "Online taxi services"
+    ],
+    "fa": [
+      "قطار",
+      "اتوبوس",
+      "خودرو شخصی",
+      "تاکسی",
+      "اتوبوس شهری",
+      "تاکسی‌های اینترنتی"
+    ]
+  },
+  "climate": {
+    "en": "Semnan is located in a dry and semi-arid climate zone, with generally hot summers and cold winters.\n\nThe city's location near the southern slopes of the Alborz Mountains and desert areas has resulted in weather conditions that differ from those of the northern parts of the province.\n\nOne of the province's geographical features is that, within a relatively short distance from dry and desert areas, it is possible to reach mountainous and forested regions.",
+    "fa": "سمنان در منطقه‌ای با اقلیم خشک و نیمه‌خشک قرار دارد و تابستان‌های آن معمولاً گرم و زمستان‌های آن سرد است.\n\nموقعیت شهر در نزدیکی دامنه‌های جنوبی البرز و مناطق کویری باعث شده شرایط آب‌وهوایی آن با مناطق شمالی‌تر استان تفاوت داشته باشد.\n\nیکی از ویژگی‌های جغرافیایی استان این است که در فاصله‌های نه‌چندان دور از مناطق خشک و کویری، می‌توان به مناطق کوهستانی و جنگلی دسترسی پیدا کرد."
+  },
+  "seasons": [
+    {
+      "name": { "en": "Spring", "fa": "بهار" },
+      "description": {
+        "en": "Spring is generally one of the best seasons for exploring Semnan and its surrounding areas. As temperatures rise, the natural landscapes of the mountainous areas and northern parts of the province also take on a different appearance.",
+        "fa": "بهار معمولاً یکی از فصل‌های مناسب برای گردش در سمنان و مناطق اطراف آن است. با افزایش دما، طبیعت مناطق کوهستانی و شمال استان نیز جلوه متفاوتی پیدا می‌کند."
+      }
+    },
+    {
+      "name": { "en": "Summer", "fa": "تابستان" },
+      "description": {
+        "en": "Semnan's summers are hot and dry. On hot days, outdoor activities are more comfortable during the cooler hours of the day.",
+        "fa": "تابستان‌های سمنان گرم و خشک هستند. در روزهای گرم، فعالیت‌های بیرونی در ساعات خنک‌تر روز راحت‌تر خواهد بود."
+      }
+    },
+    {
+      "name": { "en": "Autumn", "fa": "پاییز" },
+      "description": {
+        "en": "Autumn brings a gradual decrease in temperature and creates suitable conditions for walking and exploring the city.",
+        "fa": "پاییز با کاهش تدریجی دما همراه است و برای پیاده‌روی و گردش شهری شرایط مناسبی ایجاد می‌کند."
+      }
+    },
+    {
+      "name": { "en": "Winter", "fa": "زمستان" },
+      "description": {
+        "en": "Semnan's winters can be cold, particularly when approaching mountainous areas. Students coming from warmer regions are advised to bring appropriate clothing for the cold season.",
+        "fa": "زمستان‌های سمنان می‌توانند سرد باشند، به‌ویژه با نزدیک شدن به مناطق کوهستانی. دانشجویانی که از مناطق گرم‌تر می‌آیند بهتر است برای فصل سرد لباس مناسب همراه داشته باشند."
+      }
+    }
+  ],
+  "healthcare": {
+    "en": "Semnan has hospitals, medical centers, clinics, pharmacies, and specialized medical facilities.\n\nSemnan University of Medical Sciences, in addition to its educational activities, also provides healthcare and health services, and its affiliated medical centers form part of the city and region's healthcare network.\n\nInternational students can, depending on their university and insurance arrangements, use university healthcare services, student insurance, and contracted medical centers.\n\nAcross the city, services such as hospitals, clinics, pharmacies, laboratories, specialized medical centers, and emergency services are available.",
+    "fa": "سمنان دارای بیمارستان‌ها، مراکز درمانی، درمانگاه‌ها، داروخانه‌ها و مراکز تخصصی پزشکی است.\n\nدانشگاه علوم پزشکی سمنان نیز علاوه بر فعالیت آموزشی، در حوزه ارائه خدمات درمانی و سلامت فعالیت دارد و مراکز درمانی وابسته به آن بخشی از شبکه سلامت شهر و منطقه را تشکیل می‌دهند.\n\nدانشجویان بین‌المللی می‌توانند بر اساس شرایط دانشگاه و بیمه خود از خدمات درمانی دانشگاهی، بیمه دانشجویی و مراکز درمانی طرف قرارداد استفاده کنند.\n\nدر سطح شهر نیز خدماتی مانند بیمارستان، درمانگاه، داروخانه، آزمایشگاه، مراکز تخصصی پزشکی و خدمات اورژانسی در دسترس هستند."
+  },
+  "culture": {
+    "en": "Semnan is a city with a long historical background and a distinctive local culture.\n\nLiving in the city gives international students an opportunity not only to become familiar with Iranian culture in general but also to connect with aspects of the region's local culture.\n\nBecoming familiar with traditional foods, local markets, customs, historic architecture, and the city's social relationships can be part of the experience of living in Semnan.\n\nThe city's medium size also makes interaction with the local community easier for many students.\n\nFor students experiencing life in Iran for the first time, such an environment can provide an opportunity to gradually become familiar with the Persian language, everyday culture, and Iranian lifestyle.",
+    "fa": "سمنان شهری با پیشینه تاریخی طولانی و فرهنگ محلی متمایز است.\n\nزندگی در این شهر به دانشجویان بین‌المللی فرصت می‌دهد علاوه بر آشنایی با فرهنگ عمومی ایران، با بخشی از فرهنگ محلی منطقه نیز ارتباط برقرار کنند.\n\nآشنایی با غذاهای سنتی، بازارهای محلی، آیین‌ها، معماری تاریخی و روابط اجتماعی شهر می‌تواند بخشی از تجربه زندگی در سمنان باشد.\n\nمقیاس متوسط شهر نیز باعث می‌شود تعامل با جامعه محلی برای بسیاری از دانشجویان ساده‌تر باشد.\n\nبرای دانشجویانی که نخستین تجربه زندگی در ایران را دارند، چنین محیطی می‌تواند فرصتی برای آشنایی تدریجی با زبان فارسی، فرهنگ روزمره و سبک زندگی ایرانی فراهم کند."
+  },
+  "historicalAttractions": {
+    "en": [
+      "Semnan Jameh Mosque — an important historical monument with roots dating back to the early Islamic periods",
+      "Semnan Arg Gate — one of the city's best-known landmarks, dating to the Qajar period",
+      "Semnan Historical Bazaar — part of the city's old urban fabric and its traditional commercial and social life",
+      "Historic houses and urban fabric — traditional houses, religious buildings, bazaars, and historic structures"
+    ],
+    "fa": [
+      "مسجد جامع سمنان — از بناهای تاریخی مهم شهر که ریشه‌های آن به دوره‌های نخستین اسلامی بازمی‌گردد",
+      "دروازه ارگ سمنان — از شناخته‌شده‌ترین نمادهای شهر و از آثار دوره قاجار",
+      "بازار تاریخی سمنان — بخشی از بافت قدیمی شهر و زندگی تجاری و اجتماعی سنتی آن",
+      "خانه‌ها و بافت تاریخی — خانه‌های سنتی، بناهای مذهبی، بازارها و ساختمان‌های تاریخی"
+    ]
+  },
+  "naturalAttractions": {
+    "en": [
+      "Touran Biosphere Reserve — south of Shahroud County, one of Iran's most important protected areas",
+      "Kavir National Park — vast desert landscapes, night skies, and diverse arid ecosystems",
+      "Shahroud Abr Forest — high-elevation forest cover, mountainous landscapes, and cloud formations",
+      "Bastam and Shahroud — important cultural and natural destinations in Semnan Province",
+      "Damghan — one of the important historic cities of Semnan Province, home to numerous historical monuments"
+    ],
+    "fa": [
+      "ذخیره‌گاه زیست‌کره توران — در جنوب شهرستان شاهرود و از مهم‌ترین مناطق حفاظت‌شده ایران",
+      "پارک ملی کویر — چشم‌اندازهای وسیع کویری، آسمان شب و تنوع زیست‌بوم‌های خشک",
+      "جنگل ابر شاهرود — پوشش جنگلی در ارتفاعات، چشم‌اندازهای کوهستانی و شکل‌گیری ابر",
+      "بسطام و شاهرود — از مقاصد مهم فرهنگی و طبیعی در استان سمنان",
+      "دامغان — یکی از شهرهای تاریخی مهم استان سمنان با آثار تاریخی متعدد"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Is Semnan a suitable city for international students?",
+        "fa": "آیا سمنان شهر مناسبی برای دانشجویان بین‌المللی است؟"
+      },
+      "answer": {
+        "en": "Yes. Semnan is a university city with a relatively peaceful environment, affordable living costs, urban amenities, and convenient access to Tehran, making it a suitable option for students looking for a calm environment for their studies.",
+        "fa": "بله. سمنان یک شهر دانشگاهی با محیط نسبتاً آرام، هزینه‌های زندگی مناسب، امکانات شهری و دسترسی مناسب به تهران است و می‌تواند برای دانشجویانی که به دنبال محیطی آرام برای تحصیل هستند گزینه مناسبی باشد."
+      }
+    },
+    {
+      "question": {
+        "en": "What are the main universities in Semnan?",
+        "fa": "مهم‌ترین دانشگاه‌های سمنان کدام‌اند؟"
+      },
+      "answer": {
+        "en": "Semnan University and Semnan University of Medical Sciences are among the city's most important higher education institutions. Islamic Azad University and several non-governmental and applied science higher education institutions are also active in the city.",
+        "fa": "دانشگاه سمنان و دانشگاه علوم پزشکی سمنان از مهم‌ترین مراکز آموزش عالی شهر هستند. دانشگاه آزاد اسلامی و برخی مؤسسات آموزش عالی غیردولتی و علمی‌کاربردی نیز در شهر فعالیت دارند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Semnan suitable for medical students?",
+        "fa": "آیا سمنان برای دانشجویان پزشکی مناسب است؟"
+      },
+      "answer": {
+        "en": "Yes. Semnan University of Medical Sciences is active in medical education and health sciences, and its affiliated medical and teaching centers are also active in the city and region.",
+        "fa": "بله. دانشگاه علوم پزشکی سمنان در زمینه آموزش پزشکی و علوم سلامت فعالیت می‌کند و مراکز درمانی و آموزشی وابسته به آن نیز در شهر و منطقه فعال هستند."
+      }
+    },
+    {
+      "question": {
+        "en": "How much does it cost to live in Semnan?",
+        "fa": "هزینه زندگی در سمنان چقدر است؟"
+      },
+      "answer": {
+        "en": "The cost of living depends on the type of accommodation and lifestyle, but housing and some everyday expenses in Semnan are generally lower than in major metropolitan areas such as Tehran.",
+        "fa": "هزینه زندگی به نوع اقامت و سبک زندگی بستگی دارد، اما هزینه مسکن و برخی هزینه‌های روزمره در سمنان معمولاً از کلان‌شهرهایی مانند تهران پایین‌تر است."
+      }
+    },
+    {
+      "question": {
+        "en": "Does Semnan have student dormitories?",
+        "fa": "آیا سمنان خوابگاه دانشجویی دارد؟"
+      },
+      "answer": {
+        "en": "The city's universities provide dormitory facilities for non-local students and, under certain conditions, international students. Private dormitories and apartment rentals are also among the available options.",
+        "fa": "دانشگاه‌های شهر برای دانشجویان غیربومی و در برخی شرایط دانشجویان بین‌المللی امکانات خوابگاهی ارائه می‌کنند. خوابگاه خصوصی و اجاره آپارتمان نیز از گزینه‌های دیگر هستند."
+      }
+    },
+    {
+      "question": {
+        "en": "How far is Semnan from Tehran?",
+        "fa": "فاصله سمنان تا تهران چقدر است؟"
+      },
+      "answer": {
+        "en": "Semnan is located relatively close to Tehran and is connected to the capital by road, bus, and railway.",
+        "fa": "سمنان در فاصله نسبتاً نزدیکی از تهران قرار دارد و از طریق جاده، اتوبوس و راه‌آهن به پایتخت متصل است."
+      }
+    },
+    {
+      "question": {
+        "en": "Is public transportation suitable in Semnan?",
+        "fa": "آیا حمل‌ونقل عمومی در سمنان مناسب است؟"
+      },
+      "answer": {
+        "en": "For everyday transportation, taxis, city buses, and online transportation services are available. The city's relatively small size also means that many everyday routes do not require much time.",
+        "fa": "برای رفت‌وآمد روزمره، تاکسی، اتوبوس شهری و سرویس‌های حمل‌ونقل آنلاین در دسترس هستند. اندازه نسبتاً کوچک شهر نیز باعث می‌شود بسیاری از مسیرهای روزمره زمان زیادی نیاز نداشته باشند."
+      }
+    },
+    {
+      "question": {
+        "en": "What is Semnan's climate like?",
+        "fa": "آب‌وهوای سمنان چگونه است؟"
+      },
+      "answer": {
+        "en": "Semnan has a dry and semi-arid climate. Summers are generally hot and dry, while winters are cold. The northern areas of the province have different weather conditions due to their higher elevation.",
+        "fa": "سمنان اقلیمی خشک و نیمه‌خشک دارد. تابستان‌ها معمولاً گرم و خشک و زمستان‌ها سرد هستند. مناطق شمالی استان به دلیل ارتفاع بیشتر، آب‌وهوای متفاوتی دارند."
+      }
+    },
+    {
+      "question": {
+        "en": "What are the main historical attractions in Semnan?",
+        "fa": "مهم‌ترین جاذبه‌های تاریخی سمنان کدام‌اند؟"
+      },
+      "answer": {
+        "en": "Semnan Jameh Mosque, Arg Gate, the Historical Bazaar, traditional houses, and the city's religious and historic buildings are among Semnan's main cultural and historical attractions.",
+        "fa": "مسجد جامع سمنان، دروازه ارگ، بازار تاریخی، خانه‌های سنتی و بناهای مذهبی و تاریخی شهر از مهم‌ترین جاذبه‌های فرهنگی و تاریخی سمنان هستند."
+      }
+    },
+    {
+      "question": {
+        "en": "Does Semnan have natural attractions?",
+        "fa": "آیا سمنان جاذبه‌های طبیعی دارد؟"
+      },
+      "answer": {
+        "en": "Yes. Semnan Province has considerable natural diversity, and areas such as Touran Biosphere Reserve, desert regions, Abr Forest, Bastam, and the mountainous areas around Shahroud are among its major natural attractions.",
+        "fa": "بله. استان سمنان از تنوع طبیعی زیادی برخوردار است و مناطقی مانند ذخیره‌گاه زیست‌کره توران، مناطق کویری، جنگل ابر، بسطام و مناطق کوهستانی اطراف شاهرود از مهم‌ترین جاذبه‌های طبیعی آن هستند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Touran a UNESCO World Heritage Site?",
+        "fa": "آیا توران میراث جهانی یونسکو است؟"
+      },
+      "answer": {
+        "en": "Touran is a UNESCO Biosphere Reserve under the Man and the Biosphere (MAB) Programme. This designation is different from having a site listed as a UNESCO World Heritage Site.",
+        "fa": "توران ذخیره‌گاه زیست‌کره یونسکو در برنامه انسان و کره مسکون (MAB) است. این عنوان با ثبت یک مکان در فهرست میراث جهانی یونسکو تفاوت دارد."
+      }
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "slug": "shiraz",
+  "name": {
+    "en": "Shiraz",
+    "fa": "شیراز"
+  },
+  "province": {
+    "en": "Fars Province",
+    "fa": "استان فارس"
+  },
+  "tagline": {
+    "en": "Shiraz: Iran's Cultural Capital and One of Its Most Popular Student Cities",
+    "fa": "شیراز؛ پایتخت فرهنگی ایران و یکی از محبوب‌ترین شهرهای دانشجویی کشور"
+  },
+  "summary": {
+    "en": "Shiraz is one of the few cities in Iran where academic education, a relaxed lifestyle, rich culture, and access to world-renowned historical heritage come together. Modern Shiraz is an important center for higher education and medical sciences, attracting students from across Iran and from different countries.",
+    "fa": "شیراز یکی از معدود شهرهای ایران است که می‌توان در آن تحصیل دانشگاهی، زندگی آرام، فرهنگ غنی و دسترسی به میراث تاریخی جهان را هم‌زمان تجربه کرد. شیراز امروزه یکی از مراکز مهم آموزش عالی و علوم پزشکی ایران محسوب می‌شود و دانشگاه‌های آن دانشجویانی از سراسر کشور و کشورهای مختلف را جذب می‌کنند."
+  },
+  "facts": [
+    {
+      "label": { "en": "City", "fa": "شهر" },
+      "value": { "en": "Shiraz", "fa": "شیراز" }
+    },
+    {
+      "label": { "en": "Province", "fa": "استان" },
+      "value": { "en": "Fars", "fa": "فارس" }
+    },
+    {
+      "label": { "en": "Country", "fa": "کشور" },
+      "value": { "en": "Iran", "fa": "ایران" }
+    },
+    {
+      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
+      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+    },
+    {
+      "label": { "en": "Official Language", "fa": "زبان رسمی" },
+      "value": { "en": "Persian", "fa": "فارسی" }
+    },
+    {
+      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "value": {
+        "en": "Semi-arid, with hot summers and relatively cool winters",
+        "fa": "نیمه‌خشک با تابستان‌های گرم و زمستان‌های نسبتاً سرد"
+      }
+    },
+    {
+      "label": { "en": "Airport", "fa": "فرودگاه" },
+      "value": {
+        "en": "Shiraz International Airport (Shahid Dastgheib International Airport)",
+        "fa": "فرودگاه بین‌المللی شهید دستغیب شیراز"
+      }
+    },
+    {
+      "label": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
+      "value": {
+        "en": "Metro, city buses, taxis, and ride-hailing services",
+        "fa": "مترو، اتوبوس شهری، تاکسی و تاکسی‌های اینترنتی"
+      }
+    },
+    {
+      "label": { "en": "Major Universities", "fa": "دانشگاه‌های شاخص" },
+      "value": {
+        "en": "Shiraz University, Shiraz University of Medical Sciences, and other higher education institutions",
+        "fa": "دانشگاه شیراز، دانشگاه علوم پزشکی شیراز و سایر مراکز آموزش عالی"
+      }
+    },
+    {
+      "label": { "en": "Key Student Areas", "fa": "مهم‌ترین مناطق دانشجویی" },
+      "value": {
+        "en": "Areas around Shiraz University, Shiraz University of Medical Sciences, and central Shiraz",
+        "fa": "مناطق اطراف دانشگاه شیراز، دانشگاه علوم پزشکی شیراز و بخش‌های مرکزی شهر"
+      }
+    },
+    {
+      "label": { "en": "Cultural Identity", "fa": "شهرت فرهنگی" },
+      "value": {
+        "en": "City of poetry, literature, Persian gardens, and historical monuments",
+        "fa": "شهر شعر، ادب، باغ‌های ایرانی و بناهای تاریخی"
+      }
+    },
+    {
+      "label": { "en": "Major Historical Attractions", "fa": "جاذبه‌های تاریخی مهم" },
+      "value": {
+        "en": "Hafezieh, Saadieh, Persepolis, Pasargadae, Naqsh-e Rostam, Arg of Karim Khan",
+        "fa": "حافظیه، سعدیه، تخت‌جمشید، پاسارگاد، نقش رستم، ارگ کریم‌خان"
+      }
+    },
+    {
+      "label": { "en": "Cost of Living", "fa": "هزینه زندگی" },
+      "value": {
+        "en": "Generally lower than Tehran and many other major Iranian cities",
+        "fa": "معمولاً پایین‌تر از تهران و بسیاری از کلان‌شهرهای ایران"
+      }
+    }
+  ],
+  "whyStudyHere": {
+    "en": "Shiraz is one of the few cities in Iran where academic education, a relaxed lifestyle, rich culture, and access to world-renowned historical heritage come together.\n\nLocated in Fars Province in southern Iran, Shiraz is one of the country's most important cultural and historical cities. It has long been associated with Persian poetry and literature, traditional gardens, art, and Iranian architecture. At the same time, modern Shiraz is an important center for higher education and medical sciences, attracting students from across Iran and from different countries.\n\nFor international students, one of Shiraz's greatest advantages is that it offers the experience of a university city without many of the pressures associated with extremely large and crowded metropolitan areas. Its manageable size, relatively convenient access to universities and urban services, strong cultural identity, and generally lower living costs make Shiraz an attractive choice for students looking for a calmer environment in which to study.\n\nLife in Shiraz also extends far beyond the university campus. Students can spend their free time exploring historic gardens, museums, architectural landmarks, and the tombs of Hafez and Saadi. Some of Iran's most important archaeological sites, including Persepolis and Pasargadae, are also within reach of the city.",
+    "fa": "شیراز یکی از معدود شهرهای ایران است که می‌توان در آن تحصیل دانشگاهی، زندگی آرام، فرهنگ غنی و دسترسی به میراث تاریخی جهان را هم‌زمان تجربه کرد.\n\nاین شهر، مرکز استان فارس، یکی از مهم‌ترین مراکز تاریخی و فرهنگی ایران است و از گذشته با شعر، ادبیات، باغ‌های ایرانی، هنر و معماری ایرانی پیوند خورده است. در عین حال، شیراز امروزه یکی از مراکز مهم آموزش عالی و علوم پزشکی ایران نیز محسوب می‌شود و دانشگاه‌های آن دانشجویانی از سراسر کشور و کشورهای مختلف را جذب می‌کنند.\n\nبرای دانشجویان بین‌المللی، یکی از مهم‌ترین مزیت‌های شیراز این است که تجربه یک شهر دانشگاهی را بدون بسیاری از فشارهای زندگی در کلان‌شهرهای بسیار شلوغ ارائه می‌کند. اندازه شهر، دسترسی نسبتاً مناسب به دانشگاه‌ها و خدمات شهری، فضای فرهنگی پررنگ و هزینه‌های زندگی معمولاً پایین‌تر، شیراز را به گزینه‌ای جذاب برای دانشجویانی تبدیل کرده است که به دنبال محیطی آرام‌تر برای تحصیل هستند.\n\nاز طرف دیگر، زندگی در شیراز فقط به دانشگاه محدود نمی‌شود. دانشجویان می‌توانند در اوقات فراغت خود از باغ‌های تاریخی، موزه‌ها، بناهای معماری، آرامگاه حافظ و سعدی و مجموعه‌های تاریخی اطراف شهر بازدید کنند. حتی برخی از مهم‌ترین آثار تمدن ایران باستان، از جمله تخت‌جمشید و پاسارگاد، در دسترس دانشجویانی هستند که در شیراز زندگی می‌کنند."
+  },
+  "advantages": {
+    "en": [
+      "Home to reputable universities across a wide range of academic fields",
+      "One of Iran's major centers for medical education",
+      "Generally lower living costs than Tehran",
+      "A relatively relaxed urban environment compared with some of Iran's larger cities",
+      "Access to public transportation",
+      "Well-established hospitals and specialized medical centers",
+      "Rich cultural heritage and a welcoming local community",
+      "Easy access to major historical and cultural sites",
+      "Close proximity to Persepolis, Pasargadae, and Naqsh-e Rostam",
+      "Historic Persian gardens and green spaces",
+      "Opportunities to experience Persian literature and culture firsthand",
+      "Access to diverse natural landscapes across Fars Province",
+      "The opportunity to experience student life in a city known for its quality of life"
+    ],
+    "fa": [
+      "حضور دانشگاه‌های معتبر در حوزه‌های مختلف علمی",
+      "یکی از مهم‌ترین مراکز آموزش پزشکی ایران",
+      "هزینه زندگی معمولاً پایین‌تر از تهران",
+      "محیط شهری آرام‌تر در مقایسه با برخی کلان‌شهرهای ایران",
+      "دسترسی به شبکه حمل‌ونقل عمومی",
+      "برخورداری از بیمارستان‌ها و مراکز درمانی تخصصی",
+      "فرهنگ غنی و جامعه‌ی مهمان‌نواز",
+      "دسترسی آسان به آثار تاریخی و فرهنگی مهم ایران",
+      "نزدیکی به تخت‌جمشید، پاسارگاد و نقش رستم",
+      "وجود باغ‌ها و فضاهای سبز تاریخی",
+      "فرصت آشنایی نزدیک با ادبیات و فرهنگ فارسی",
+      "دسترسی به طبیعت متنوع استان فارس",
+      "امکان تجربه زندگی دانشجویی در شهری با کیفیت زندگی مطلوب"
+    ]
+  },
+  "about": {
+    "en": "Shiraz is located in southern Iran, in the historically significant region of Fars Province, and is one of the country's best-known cultural cities. Its identity is closely connected with Persian poetry and literature, Persian gardens, historic architecture, and Iran's cultural heritage.\n\nThe presence of two of the most influential figures in Persian literature, Hafez and Saadi, has given Shiraz a unique cultural position in Iran. Their tombs, Hafezieh and Saadieh, are now among the city's most important cultural landmarks and attract visitors from Iran and around the world.\n\nHowever, Shiraz's importance extends far beyond literature. The city has played a role in several periods of Iranian history and became an important political center during the Zand dynasty. Monuments from this period, including the Arg of Karim Khan, Vakil Bazaar, Vakil Mosque, and Vakil Bathhouse, remain important parts of the city's historic fabric.\n\nShiraz is also strategically located near some of Iran's most significant archaeological sites. This makes the city particularly appealing to students interested in history, archaeology, ancient civilizations, and Iranian culture.\n\nPersepolis, Pasargadae, and Naqsh-e Rostam are all located within reach of Shiraz, allowing students living in the city to explore these sites during weekends and university holidays.\n\nPersepolis, a UNESCO World Heritage Site, is one of the world's most important archaeological sites. UNESCO describes the complex as an outstanding example of Achaemenid architecture, urban planning, art, and construction technology.\n\nThis combination of universities, culture, history, and nature is what makes Shiraz different from purely academic destinations.",
+    "fa": "شیراز در جنوب ایران و در منطقه‌ای تاریخی از استان فارس قرار گرفته و یکی از شناخته‌شده‌ترین شهرهای فرهنگی کشور است. نام این شهر بیش از هر چیز با شعر و ادبیات فارسی، باغ‌های ایرانی، معماری تاریخی و میراث فرهنگی ایران گره خورده است.\n\nحضور حافظ و سعدی در تاریخ ادبی ایران باعث شده شیراز جایگاه ویژه‌ای در فرهنگ ایرانی داشته باشد. آرامگاه این دو شاعر بزرگ، یعنی حافظیه و سعدیه، امروزه از مهم‌ترین جاذبه‌های فرهنگی شهر هستند و هر ساله بازدیدکنندگان زیادی از ایران و کشورهای مختلف را به خود جذب می‌کنند.\n\nاما اهمیت شیراز تنها به ادبیات محدود نمی‌شود. این شهر در طول تاریخ دوره‌های مختلفی از تمدن و حکومت‌های ایرانی را به خود دیده و در دوره زندیه نیز به یکی از مهم‌ترین مراکز سیاسی ایران تبدیل شد. آثار به‌جامانده از آن دوران، مانند ارگ کریم‌خان، بازار وکیل، مسجد وکیل و حمام وکیل، هنوز بخشی از بافت تاریخی شهر را شکل می‌دهند.\n\nاز طرف دیگر، قرار گرفتن شیراز در منطقه‌ای نزدیک به برخی از مهم‌ترین محوطه‌های باستان‌شناسی ایران، آن را به نقطه‌ای استراتژیک برای علاقه‌مندان به تاریخ و تمدن ایران تبدیل کرده است.\n\nتخت‌جمشید، پاسارگاد و نقش رستم در اطراف شیراز قرار دارند و دانشجویانی که در این شهر زندگی می‌کنند می‌توانند در تعطیلات آخر هفته یا تعطیلات دانشگاهی از این آثار بازدید کنند.\n\nتخت‌جمشید که در فهرست میراث جهانی یونسکو ثبت شده، یکی از مهم‌ترین محوطه‌های باستانی جهان است. یونسکو این مجموعه را از برجسته‌ترین نمونه‌های معماری، شهرسازی، هنر و فناوری ساخت‌وساز دوره هخامنشی معرفی می‌کند.\n\nاین ترکیب از دانشگاه، فرهنگ، تاریخ و طبیعت ویژگی‌ای است که شیراز را از بسیاری از مقاصد صرفاً دانشگاهی متمایز می‌کند."
+  },
+  "universities": [
+    {
+      "name": { "en": "Shiraz University", "fa": "دانشگاه شیراز" },
+      "description": {
+        "en": "Shiraz University is one of Iran's well-established comprehensive universities, with a long history of higher education and research.\n\nIn addition to its academic programs, Shiraz University has an active research environment. Graduate students can participate in research projects and academic activities across a variety of disciplines.",
+        "fa": "دانشگاه شیراز (Shiraz University) یکی از دانشگاه‌های جامع و شناخته‌شده ایران است و سابقه‌ای طولانی در آموزش عالی و پژوهش دارد.\n\nدانشگاه شیراز علاوه بر فعالیت‌های آموزشی، در حوزه پژوهش نیز حضور فعالی دارد و دانشجویان تحصیلات تکمیلی می‌توانند در پروژه‌های علمی و تحقیقاتی در حوزه‌های مختلف مشارکت کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural Sciences",
+          "Agricultural Sciences",
+          "Humanities",
+          "Social Sciences",
+          "Arts",
+          "Architecture",
+          "Computer Science and related technologies"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "علوم کشاورزی",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "هنر",
+          "معماری",
+          "علوم کامپیوتر و فناوری‌های مرتبط"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Shiraz University of Medical Sciences", "fa": "دانشگاه علوم پزشکی شیراز" },
+      "slug": "shiraz-university-of-medical-sciences",
+      "description": {
+        "en": "Shiraz University of Medical Sciences (SUMS) is one of Iran's major medical education institutions and a well-known option for international students interested in health and medical sciences.\n\nThe university's network of teaching hospitals and affiliated medical centers allows students to combine academic education with practical and clinical experience.\n\nFor international students, the presence of a major medical university in Shiraz is a significant advantage. It provides access not only to academic education but also to a broad network of healthcare and clinical training facilities.",
+        "fa": "دانشگاه علوم پزشکی شیراز (Shiraz University of Medical Sciences یا SUMS) یکی از مهم‌ترین مراکز آموزش پزشکی ایران و یکی از شناخته‌شده‌ترین گزینه‌ها برای دانشجویان بین‌المللی علاقه‌مند به علوم پزشکی است.\n\nوجود بیمارستان‌های آموزشی و مراکز درمانی وابسته به دانشگاه، به دانشجویان رشته‌های پزشکی امکان می‌دهد آموزش نظری را در کنار تجربه بالینی دنبال کنند.\n\nبرای دانشجویان بین‌المللی، حضور یک دانشگاه علوم پزشکی بزرگ در شهری مانند شیراز اهمیت زیادی دارد؛ زیرا علاوه بر آموزش دانشگاهی، امکان دسترسی به شبکه‌ای از مراکز درمانی و آموزشی را فراهم می‌کند."
+      },
+      "fields": {
+        "en": [
+          "Medicine",
+          "Dentistry",
+          "Pharmacy",
+          "Nursing",
+          "Public Health",
+          "Allied Health Sciences",
+          "Laboratory Sciences",
+          "Other health-related disciplines"
+        ],
+        "fa": [
+          "پزشکی",
+          "دندان‌پزشکی",
+          "داروسازی",
+          "پرستاری",
+          "بهداشت عمومی",
+          "علوم پیراپزشکی",
+          "علوم آزمایشگاهی",
+          "سایر رشته‌های علوم سلامت"
+        ]
+      }
+    }
+  ],
+  "research": {
+    "en": "Shiraz's academic ecosystem extends beyond its universities. The city is home to research centers, innovation hubs, science and technology parks, and knowledge-based companies that can create opportunities for research and university-industry collaboration.\n\nThis is particularly important for master's and PhD students, as the research environment of a city can influence the choice of university, academic supervisor, research project, and even future career opportunities.\n\nStudents can also participate in conferences, academic seminars, professional workshops, and university events while building connections with researchers and professionals in their fields.",
+    "fa": "اکوسیستم علمی شیراز تنها به دانشگاه‌ها محدود نمی‌شود. این شهر دارای مراکز تحقیقاتی، مراکز نوآوری، پارک‌های علم و فناوری و شرکت‌های دانش‌بنیان است که می‌توانند فرصت‌هایی برای فعالیت‌های پژوهشی و همکاری میان دانشگاه و صنعت فراهم کنند.\n\nاین موضوع به‌ویژه برای دانشجویان کارشناسی ارشد و دکتری اهمیت دارد؛ زیرا محیط پژوهشی یک شهر می‌تواند در انتخاب دانشگاه، استاد راهنما، پروژه تحقیقاتی و حتی مسیر شغلی آینده نقش مهمی داشته باشد.\n\nدانشجویان می‌توانند در کنار تحصیل، در کنفرانس‌ها، سمینارهای علمی، کارگاه‌های تخصصی و رویدادهای دانشگاهی شرکت کنند و ارتباط خود را با سایر پژوهشگران و متخصصان گسترش دهند."
+  },
+  "studentLife": {
+    "en": "One of the main reasons Shiraz is attractive to international students is its balance between the facilities of a major city and the atmosphere of a relatively relaxed university town.\n\nCompared with Tehran and some of Iran's largest metropolitan areas, everyday life in Shiraz can feel calmer and more manageable. The city's layout, access to universities and urban services, and variety of cultural and recreational spaces allow students to devote more time to studying, relaxing, and social activities.\n\nFor international students, this environment can also provide opportunities to interact with Iranian students and gradually become familiar with Persian and everyday life in Iran.\n\nThroughout the academic year, universities and cultural institutions host events such as academic conferences, seminars, artistic festivals, workshops, and student programs. Participating in these activities can help students expand their university experience beyond the classroom.",
+    "fa": "یکی از مهم‌ترین دلایلی که شیراز را برای دانشجویان بین‌المللی جذاب می‌کند، تعادل میان امکانات یک شهر بزرگ و آرامش یک شهر دانشگاهی است.\n\nدر مقایسه با تهران و برخی کلان‌شهرهای بزرگ ایران، زندگی روزمره در شیراز می‌تواند آرام‌تر باشد. فاصله میان بخش‌های مختلف شهر و مراکز دانشگاهی، دسترسی به خدمات شهری و وجود فضاهای فرهنگی و تفریحی متعدد باعث شده دانشجویان بتوانند زمان بیشتری را به تحصیل، استراحت و فعالیت‌های اجتماعی اختصاص دهند.\n\nبرای دانشجویان بین‌المللی، این محیط می‌تواند فرصتی مناسب برای برقراری ارتباط با دانشجویان ایرانی و آشنایی تدریجی با زبان و فرهنگ روزمره ایران باشد.\n\nدر طول سال نیز دانشگاه‌ها و مراکز فرهنگی شهر میزبان رویدادهایی مانند کنفرانس‌های علمی، سمینارها، جشنواره‌های هنری، کارگاه‌ها و برنامه‌های دانشجویی هستند. شرکت در چنین رویدادهایی می‌تواند تجربه دانشگاهی دانشجو را فراتر از کلاس درس گسترش دهد."
+  },
+  "studentLifeFacilities": {
+    "en": [
+      "Libraries",
+      "Bookstores",
+      "Cafés",
+      "Educational centers",
+      "Restaurants",
+      "Cultural venues",
+      "Student services"
+    ],
+    "fa": [
+      "کتابخانه‌ها",
+      "کتاب‌فروشی‌ها",
+      "کافه‌ها",
+      "مراکز آموزشی",
+      "رستوران‌ها",
+      "فضاهای فرهنگی",
+      "خدمات دانشجویی"
+    ]
+  },
+  "costOfLiving": {
+    "en": "One of Shiraz's major advantages for international students is its relatively affordable cost of living compared with Tehran and many other major cities in the region.\n\nActual living expenses depend on factors such as accommodation, lifestyle, location, eating habits, and spending on entertainment and services. Students who live in university accommodation, use university dining services, and rely on public transportation can significantly reduce their monthly expenses.",
+    "fa": "یکی از مهم‌ترین مزایای شیراز برای دانشجویان بین‌المللی، هزینه زندگی نسبتاً مناسب آن در مقایسه با تهران و بسیاری از شهرهای بزرگ منطقه است.\n\nالبته هزینه واقعی زندگی به نوع اقامت، سبک زندگی، محل سکونت، عادات غذایی و میزان استفاده از خدمات و تفریحات بستگی دارد؛ بنابراین بهتر است اعداد مربوط به هزینه‌ها در سایت به‌عنوان برآورد تقریبی معرفی شوند و در فواصل منظم به‌روزرسانی شوند.\n\nبه طور کلی، دانشجویانی که در خوابگاه دانشگاهی زندگی می‌کنند، از سلف دانشگاه استفاده می‌کنند و برای رفت‌وآمد از حمل‌ونقل عمومی استفاده می‌کنند، می‌توانند هزینه‌های ماهانه خود را به شکل قابل توجهی کنترل کنند."
+  },
+  "expenses": [
+    {
+      "type": { "en": "University accommodation", "fa": "خوابگاه دانشگاهی" },
+      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+    },
+    {
+      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
+      "situation": { "en": "Budget-friendly to moderate", "fa": "اقتصادی تا متوسط" }
+    },
+    {
+      "type": { "en": "Private apartment", "fa": "آپارتمان شخصی" },
+      "situation": { "en": "Moderate", "fa": "متوسط" }
+    },
+    {
+      "type": { "en": "Food and groceries", "fa": "غذا و مواد غذایی" },
+      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+    },
+    {
+      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
+      "situation": { "en": "Low-cost", "fa": "کم‌هزینه" }
+    },
+    {
+      "type": { "en": "Internet and mobile services", "fa": "اینترنت و تلفن همراه" },
+      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+    },
+    {
+      "type": { "en": "Entertainment", "fa": "تفریح و سرگرمی" },
+      "situation": { "en": "Depends on lifestyle", "fa": "وابسته به سبک زندگی" }
+    }
+  ],
+  "accommodation": {
+    "en": "Most major universities in Shiraz provide student accommodation, and international students may be eligible to apply for university housing depending on the university and available capacity.\n\nUniversity dormitories are generally one of the most economical accommodation options, particularly for newly arrived international students who are still becoming familiar with the city and may prefer to live close to campus during their first months.\n\nCompared with Tehran, accommodation in Shiraz is generally more affordable, making the city particularly attractive to students who want to keep their living expenses under control.",
+    "fa": "بیشتر دانشگاه‌های بزرگ شیراز برای دانشجویان خود امکانات خوابگاهی ارائه می‌کنند و دانشجویان بین‌المللی نیز بسته به دانشگاه و ظرفیت موجود می‌توانند برای دریافت خوابگاه درخواست دهند.\n\nخوابگاه دانشگاهی معمولاً اقتصادی‌ترین گزینه برای دانشجویان تازه‌وارد است؛ به‌خصوص برای افرادی که هنوز با شهر آشنا نیستند و ترجیح می‌دهند در ماه‌های ابتدایی تحصیل، در محیطی نزدیک به دانشگاه زندگی کنند.\n\nدر مقایسه با تهران، هزینه اقامت در شیراز معمولاً مناسب‌تر است و همین موضوع یکی از دلایلی است که این شهر را برای دانشجویانی که به دنبال کاهش هزینه‌های زندگی هستند، جذاب می‌کند."
+  },
+  "accommodationOptions": {
+    "en": [
+      "Private student dormitories",
+      "Student residences",
+      "Shared apartments",
+      "Private apartments",
+      "Rental units close to universities"
+    ],
+    "fa": [
+      "خوابگاه‌های خصوصی",
+      "اقامتگاه‌های دانشجویی",
+      "آپارتمان‌های اشتراکی",
+      "آپارتمان‌های مستقل",
+      "واحدهای اجاره‌ای نزدیک دانشگاه"
+    ]
+  },
+  "accommodationConsiderations": {
+    "en": [
+      "Distance from the university",
+      "Access to metro and buses",
+      "Access to grocery stores and everyday services",
+      "Rent and utility costs",
+      "Rental contract conditions",
+      "Neighborhood safety and quality",
+      "Access to healthcare facilities"
+    ],
+    "fa": [
+      "فاصله تا دانشگاه",
+      "دسترسی به مترو یا اتوبوس",
+      "دسترسی به فروشگاه‌ها و خدمات روزمره",
+      "هزینه اجاره و قبوض",
+      "شرایط قرارداد",
+      "امنیت و کیفیت محله",
+      "دسترسی به مراکز درمانی"
+    ]
+  },
+  "transport": {
+    "en": "Shiraz has a public transportation network that allows students to travel between different parts of the city.",
+    "fa": "شیراز دارای شبکه‌ای از حمل‌ونقل عمومی است که امکان جابه‌جایی دانشجویان در بخش‌های مختلف شهر را فراهم می‌کند."
+  },
+  "transportOptions": {
+    "en": [
+      "Shiraz Metro — The Shiraz Metro is one of the city's main public transportation options and connects parts of the residential, commercial, and urban areas. For students living near metro stations, the metro can be an affordable option for daily transportation.",
+      "City Buses — Shiraz's bus network is another important part of the city's public transportation system. Buses provide access to areas that may not be directly covered by the metro.",
+      "Taxis and Ride-Hailing Services — Traditional taxis and ride-hailing services such as Snapp and Tapsi are also widely used in Shiraz. They provide a flexible option for getting around the city, particularly when public transportation is less convenient.",
+      "Shiraz International Airport — Shahid Dastgheib International Airport is one of southern Iran's major airports and connects Shiraz with domestic destinations as well as selected international routes. For international students, having an international airport in the city is an important advantage, making travel to and from Shiraz more convenient."
+    ],
+    "fa": [
+      "متروی شیراز — متروی شیراز یکی از گزینه‌های مهم حمل‌ونقل شهری برای دانشجویان است و بخش‌هایی از مناطق مسکونی، تجاری و شهری را به یکدیگر متصل می‌کند. برای دانشجویانی که محل زندگی‌شان نزدیک ایستگاه‌های مترو باشد، استفاده از مترو می‌تواند راهی اقتصادی برای رفت‌وآمد روزانه باشد.",
+      "اتوبوس شهری — شبکه اتوبوس‌رانی شیراز بخش دیگری از حمل‌ونقل عمومی شهر است و برای دسترسی به مناطقی که تحت پوشش مترو نیستند، اهمیت زیادی دارد.",
+      "تاکسی و تاکسی‌های اینترنتی — تاکسی‌های شهری و سرویس‌های تاکسی اینترنتی مانند اسنپ و تپسی نیز در شیراز مورد استفاده قرار می‌گیرند و برای سفرهای درون‌شهری گزینه‌ای انعطاف‌پذیر هستند.",
+      "فرودگاه بین‌المللی شیراز — فرودگاه بین‌المللی شهید دستغیب شیراز، یکی از فرودگاه‌های مهم جنوب ایران است و ارتباط هوایی شیراز را با مقاصد داخلی و برخی مسیرهای بین‌المللی فراهم می‌کند. برای دانشجویان خارجی، وجود فرودگاه بین‌المللی یک مزیت مهم است؛ زیرا رفت‌وآمد به شیراز و سفرهای بین‌شهری و بین‌المللی را ساده‌تر می‌کند."
+    ]
+  },
+  "climate": {
+    "en": "Shiraz has a relatively dry climate, with hot summers and cooler winters. Because of its elevation and geographical location, its climate differs from that of many of Iran's much hotter southern cities.",
+    "fa": "شیراز دارای اقلیمی نسبتاً خشک با تابستان‌های گرم و زمستان‌های خنک‌تر است و به دلیل قرار گرفتن در منطقه‌ای مرتفع‌تر از بسیاری از شهرهای جنوبی ایران، آب‌وهوای آن با شهرهای بسیار گرم جنوب کشور تفاوت دارد."
+  },
+  "seasons": [
+    {
+      "name": { "en": "Spring: The Best Season to Explore Shiraz", "fa": "بهار؛ بهترین فصل برای کشف شیراز" },
+      "description": {
+        "en": "Spring is one of the most beautiful times of year in Shiraz. Mild weather, blooming trees, and the fragrance of orange blossoms create a distinctive atmosphere throughout the city.\n\nIt is also an excellent season for visiting Shiraz's historic gardens and cultural attractions.",
+        "fa": "بهار یکی از زیباترین زمان‌های سال در شیراز است. هوای معتدل، شکوفه‌های درختان و عطر بهارنارنج در بسیاری از نقاط شهر، فضای ویژه‌ای ایجاد می‌کند.\n\nاین فصل همچنین زمان مناسبی برای بازدید از باغ‌های تاریخی و جاذبه‌های فرهنگی شهر است."
+      }
+    },
+    {
+      "name": { "en": "Summer", "fa": "تابستان" },
+      "description": {
+        "en": "Summers in Shiraz are generally hot and dry, although evenings can be noticeably cooler. Students often plan outdoor activities for the cooler parts of the day during this season.",
+        "fa": "تابستان‌های شیراز معمولاً گرم و خشک هستند، اما شب‌ها می‌توانند نسبتاً خنک‌تر باشند. دانشجویان در این فصل معمولاً فعالیت‌های خارج از خانه را به ساعات خنک‌تر روز منتقل می‌کنند."
+      }
+    },
+    {
+      "name": { "en": "Autumn", "fa": "پاییز" },
+      "description": {
+        "en": "Autumn brings cooler temperatures and pleasant weather, making it another comfortable season for student life and exploring the city.",
+        "fa": "پاییز با کاهش دما و هوای مطبوع، یکی از فصل‌های مناسب برای زندگی دانشجویی و گردش در شهر است."
+      }
+    },
+    {
+      "name": { "en": "Winter", "fa": "زمستان" },
+      "description": {
+        "en": "Winters in Shiraz are relatively cool, with occasional rainfall and noticeable drops in temperature. The surrounding mountainous areas also take on a different character during the winter months.",
+        "fa": "زمستان‌های شیراز نسبتاً سردتر است و در برخی روزها بارندگی و کاهش محسوس دما اتفاق می‌افتد. مناطق کوهستانی اطراف شهر نیز در این فصل چهره متفاوتی پیدا می‌کنند."
+      }
+    }
+  ],
+  "healthcare": {
+    "en": "Shiraz is one of Iran's major medical centers, and Shiraz University of Medical Sciences plays an important role in medical education, research, and healthcare delivery in the region.\n\nThe city has specialized and highly specialized hospitals as well as medical centers affiliated with the university, making Shiraz an important healthcare destination in Iran.\n\nThis medical infrastructure is also important for international students, as access to healthcare, university medical services, and student insurance coverage are key factors to consider when choosing a study destination.\n\nMedical students also benefit from being part of a major clinical environment, where they can combine their academic education with practical training in hospitals and healthcare facilities.",
+    "fa": "شیراز یکی از مهم‌ترین مراکز پزشکی ایران است و دانشگاه علوم پزشکی شیراز نقش مهمی در آموزش پزشکی، پژوهش و ارائه خدمات درمانی در منطقه دارد.\n\nوجود بیمارستان‌های تخصصی و فوق‌تخصصی و مراکز درمانی وابسته به دانشگاه علوم پزشکی، این شهر را به یکی از مقاصد مهم درمانی در ایران تبدیل کرده است.\n\nاین ظرفیت درمانی برای دانشجویان بین‌المللی نیز اهمیت دارد؛ زیرا دسترسی به مراکز درمانی، خدمات دانشگاهی و پوشش بیمه دانشجویی از عوامل مهم در انتخاب شهر محل تحصیل هستند.\n\nدانشجویان رشته‌های پزشکی نیز از مزیت حضور در یک محیط بالینی بزرگ بهره می‌برند و می‌توانند آموزش خود را در کنار فعالیت‌های بیمارستانی و مراکز درمانی دنبال کنند."
+  },
+  "culture": {
+    "en": "If Tehran is considered Iran's political and economic capital, Shiraz is one of the country's strongest symbols of culture and Persian literature.\n\nThe city is closely associated with legendary Persian poets such as Hafez and Saadi, whose literary heritage remains an important part of Shiraz's identity.\n\nFor international students, these attractions are more than tourist destinations. They provide opportunities to experience Iranian history, literature, architecture, art, and everyday culture firsthand.",
+    "fa": "اگر تهران را پایتخت سیاسی و اقتصادی ایران بدانیم، شیراز یکی از مهم‌ترین نمادهای فرهنگ و ادبیات ایرانی است.\n\nاین شهر با نام شاعران بزرگی مانند حافظ و سعدی پیوند خورده و میراث ادبی آن بخش مهمی از هویت فرهنگی ایران را تشکیل می‌دهد.\n\nبرای دانشجویان بین‌المللی، این جاذبه‌ها فقط مکان‌های گردشگری نیستند؛ بلکه فرصتی برای آشنایی مستقیم با تاریخ، ادبیات، معماری، هنر و سبک زندگی ایرانی هستند."
+  },
+  "historicalAttractions": {
+    "en": [
+      "Hafezieh — The tomb of Hafez, one of Shiraz's most famous cultural landmarks and the resting place of one of the greatest poets of the Persian language.",
+      "Saadieh — The tomb of Saadi, a major literary landmark connected to one of Iran's most influential poets and writers.",
+      "Eram Garden — One of Shiraz's outstanding examples of the traditional Persian garden, included in UNESCO's World Heritage listing of The Persian Garden.",
+      "Qavam Orangery (Narenjestan-e Qavam) — An impressive example of Qajar-era architecture and garden design, combining architecture, mirror work, gardens, and greenery.",
+      "Nasir al-Mulk Mosque (Pink Mosque) — A famous architectural landmark whose colorful stained glass windows create spectacular patterns of light inside the mosque.",
+      "Arg of Karim Khan — One of the most important surviving monuments from the Zand period, located in the historic center of Shiraz.",
+      "Vakil Bazaar — One of Shiraz's most important historic commercial complexes, showcasing traditional bazaar architecture, handicrafts, souvenirs, and local products.",
+      "Persepolis — A UNESCO World Heritage Site and one of the world's most important archaeological sites, an outstanding example of Achaemenid architecture and art, located relatively close to Shiraz.",
+      "Pasargadae — The first dynastic capital of the Achaemenid Empire, home to the tomb traditionally associated with Cyrus the Great.",
+      "Naqsh-e Rostam — An important historical site near Persepolis, containing rock-cut royal tombs of Achaemenid rulers and significant ancient reliefs."
+    ],
+    "fa": [
+      "حافظیه — آرامگاه حافظ، یکی از شناخته‌شده‌ترین مکان‌های فرهنگی شیراز و آرامگاه یکی از بزرگ‌ترین شاعران زبان فارسی.",
+      "سعدیه — آرامگاه سعدی، یکی از مهم‌ترین جاذبه‌های ادبی شیراز مرتبط با یکی از تأثیرگذارترین شاعران و نویسندگان ایران.",
+      "باغ ارم — یکی از نمونه‌های شاخص باغ ایرانی در شیراز که در مجموعه «باغ ایرانی» یونسکو ثبت شده است.",
+      "نارنجستان قوام — نمونه‌ای برجسته از معماری و باغ‌سازی دوره قاجار در شیراز با ترکیبی از معماری، آینه‌کاری، باغ و فضای سبز.",
+      "مسجد نصیرالملک (مسجد صورتی) — یکی از مشهورترین بناهای معماری شیراز که شیشه‌های رنگی و بازی نور در فضای داخلی آن را به یکی از شناخته‌شده‌ترین نمونه‌های معماری ایرانی تبدیل کرده است.",
+      "ارگ کریم‌خان — یکی از مهم‌ترین بناهای دوره زندیه که در مرکز تاریخی شیراز قرار دارد.",
+      "بازار وکیل — یکی از مهم‌ترین مجموعه‌های تاریخی و تجاری شیراز و فضایی مناسب برای آشنایی با معماری بازارهای ایرانی، صنایع‌دستی، سوغات و فرهنگ خرید محلی.",
+      "تخت‌جمشید — یکی از مشهورترین آثار باستانی ایران و یکی از مهم‌ترین محوطه‌های میراث جهانی یونسکو در نزدیکی شیراز و از برجسته‌ترین نمونه‌های معماری و هنر هخامنشی.",
+      "پاساراگاد — نخستین پایتخت دودمانی هخامنشی و محل آرامگاه کوروش بزرگ، یکی دیگر از مهم‌ترین آثار تاریخی اطراف شیراز.",
+      "نقش رستم — مجموعه‌ای تاریخی در نزدیکی تخت‌جمشید که آرامگاه‌های صخره‌ای شاهان هخامنشی و نقش‌برجسته‌های تاریخی را در خود جای داده است."
+    ]
+  },
+  "naturalAttractions": {
+    "en": [
+      "Margoon Waterfall",
+      "Tang-e Bostanak",
+      "Maharloo Lake",
+      "Mountainous areas surrounding Shiraz",
+      "Rural areas and natural landscapes throughout Fars Province"
+    ],
+    "fa": [
+      "آبشار مارگون",
+      "تنگ بستانک",
+      "دریاچه مهارلو",
+      "مناطق کوهستانی اطراف شیراز",
+      "روستاها و مناطق طبیعی استان فارس"
+    ]
+  }
+}

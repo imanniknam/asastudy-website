@@ -1,0 +1,831 @@
+{
+  "hero": {
+    "title": {
+      "en": "Study in Iran with Confidence",
+      "fa": "با اطمینان در ایران تحصیل کنید"
+    },
+    "body": {
+      "en": "Your journey to studying in Iran starts with the right information and guidance.\n\nFrom choosing the right university and study program to preparing your documents, applying for admission, obtaining a student visa, and preparing for life in Iran, ASA Study can support you throughout your journey.",
+      "fa": "مسیر تحصیل در ایران با انتخاب درست دانشگاه و رشته و آگاهی از مراحل پذیرش آغاز می‌شود.\n\nاز انتخاب دانشگاه و رشته مناسب تا آماده‌سازی مدارک، درخواست پذیرش، دریافت ویزای تحصیلی و آماده‌شدن برای زندگی دانشجویی در ایران، آسا استادی می‌تواند در تمام مراحل این مسیر همراه شما باشد."
+    }
+  },
+  "blocks": [
+    {
+      "id": "why-iran",
+      "title": { "en": "Why Study in Iran?", "fa": "چرا تحصیل در ایران؟" },
+      "intro": {
+        "en": "Iran offers international students the opportunity to study in a country with a long academic, cultural, and historical heritage.\n\nWith universities and higher education institutions across a wide range of academic fields, students can find study opportunities in areas such as medicine, engineering, computer science, business, humanities, arts, architecture, and natural sciences.",
+        "fa": "ایران با برخورداری از پیشینه علمی، فرهنگی و تاریخی غنی، فرصت‌های متنوعی را برای دانشجویان بین‌المللی فراهم می‌کند.\n\nدانشگاه‌ها و مؤسسات آموزش عالی ایران در طیف گسترده‌ای از حوزه‌های علمی فعالیت می‌کنند و دانشجویان می‌توانند در رشته‌هایی مانند پزشکی، مهندسی، علوم کامپیوتر، مدیریت، علوم انسانی، هنر، معماری و علوم پایه به تحصیل بپردازند."
+      },
+      "items": {
+        "en": [
+          "A wide range of academic programs",
+          "Universities and higher education institutions in different cities",
+          "Opportunities to study medicine, engineering, sciences, humanities, arts, and other fields",
+          "Diverse cultural and historical experiences",
+          "Affordable living opportunities compared with many international destinations",
+          "A wide range of cities and environments to choose from",
+          "Research and academic opportunities",
+          "The opportunity to experience Iranian culture and everyday life"
+        ],
+        "fa": [
+          "تنوع رشته‌ها و برنامه‌های تحصیلی",
+          "وجود دانشگاه‌ها و مؤسسات آموزش عالی در شهرهای مختلف",
+          "امکان تحصیل در رشته‌های پزشکی، مهندسی، علوم، علوم انسانی، هنر و سایر حوزه‌ها",
+          "پیشینه تاریخی و فرهنگی غنی",
+          "هزینه‌های زندگی مناسب در مقایسه با بسیاری از مقاصد تحصیلی",
+          "تنوع شهرها و محیط‌های دانشجویی",
+          "فرصت‌های علمی و پژوهشی",
+          "امکان تجربه مستقیم فرهنگ و زندگی روزمره ایرانی"
+        ]
+      },
+      "cta": {
+        "label": { "en": "Explore Universities in Iran", "fa": "مشاهده دانشگاه‌های ایران" },
+        "href": "/universities"
+      }
+    },
+    {
+      "id": "find-university",
+      "title": { "en": "Find the Right University", "fa": "دانشگاه مناسب خود را پیدا کنید" },
+      "intro": {
+        "en": "Choosing the right university is one of the most important steps in your study-abroad journey.\n\nThe right choice depends on your academic background, field of study, degree level, preferred city, admission requirements, budget, and future goals.\n\nASA Study helps international students explore universities and identify options that match their academic profile and study plans.",
+        "fa": "انتخاب دانشگاه مناسب یکی از مهم‌ترین مراحل مسیر تحصیل در خارج از کشور است.\n\nاین انتخاب به عواملی مانند سوابق تحصیلی، رشته موردنظر، مقطع تحصیلی، شهر مورد علاقه، شرایط پذیرش، بودجه و اهداف آینده شما بستگی دارد.\n\nآسا استادی به دانشجویان بین‌المللی کمک می‌کند دانشگاه‌های مختلف را بررسی کنند و گزینه‌هایی متناسب با شرایط تحصیلی و اهداف خود پیدا کنند."
+      },
+      "subsections": [
+        {
+          "id": "by-field",
+          "title": { "en": "Choose by Field", "fa": "انتخاب بر اساس رشته" },
+          "body": {
+            "en": "Explore study opportunities in fields such as:",
+            "fa": "فرصت‌های تحصیل در حوزه‌هایی مانند:"
+          },
+          "items": {
+            "en": [
+              "Medicine",
+              "Dentistry",
+              "Pharmacy",
+              "Engineering",
+              "Computer Science",
+              "Business & Management",
+              "Humanities",
+              "Arts & Architecture",
+              "Natural Sciences",
+              "Other Academic Fields"
+            ],
+            "fa": [
+              "پزشکی",
+              "دندانپزشکی",
+              "داروسازی",
+              "مهندسی",
+              "علوم کامپیوتر",
+              "کسب‌وکار و مدیریت",
+              "علوم انسانی",
+              "هنر و معماری",
+              "علوم پایه",
+              "سایر رشته‌های دانشگاهی"
+            ]
+          }
+        },
+        {
+          "id": "by-city",
+          "title": { "en": "Choose by City", "fa": "انتخاب بر اساس شهر" },
+          "body": {
+            "en": "Iranian universities are located across cities with very different academic, cultural, and lifestyle environments. Explore destinations such as:",
+            "fa": "دانشگاه‌های ایران در شهرهایی با شرایط دانشگاهی، فرهنگی و سبک زندگی متفاوت قرار دارند. از جمله:"
+          },
+          "items": {
+            "en": ["Tehran", "Shiraz", "Mashhad", "Isfahan", "Semnan", "And other Iranian cities"],
+            "fa": ["تهران", "شیراز", "مشهد", "اصفهان", "سمنان", "و سایر شهرهای ایران"]
+          }
+        }
+      ],
+      "cta": {
+        "label": { "en": "Explore Universities", "fa": "مشاهده دانشگاه‌ها" },
+        "href": "/universities"
+      }
+    },
+    {
+      "id": "choose-program",
+      "title": { "en": "Choose Your Study Program", "fa": "رشته و برنامه تحصیلی مناسب خود را انتخاب کنید" },
+      "intro": {
+        "en": "Finding the right program is just as important as choosing the right university.\n\nYour choice should take into account your previous education, academic interests, degree level, language of instruction, admission requirements, tuition fees, program duration, and preferred location.",
+        "fa": "پیدا کردن رشته مناسب به اندازه انتخاب دانشگاه اهمیت دارد.\n\nهنگام انتخاب رشته باید عواملی مانند سوابق تحصیلی، علایق علمی، مقطع تحصیلی، زبان آموزش، شرایط پذیرش، شهریه، مدت تحصیل، محل دانشگاه و اهداف آینده خود را در نظر بگیرید."
+      },
+      "subsections": [
+        {
+          "id": "program-factors",
+          "title": {
+            "en": "What should you consider when choosing a program?",
+            "fa": "هنگام انتخاب رشته به چه مواردی توجه کنیم؟"
+          },
+          "items": {
+            "en": [
+              "Your academic background",
+              "Your intended field of study",
+              "Degree level",
+              "Language of instruction",
+              "Admission requirements",
+              "Tuition fees",
+              "Program duration",
+              "University location",
+              "Academic and research opportunities",
+              "Your future educational or professional goals"
+            ],
+            "fa": [
+              "سوابق تحصیلی",
+              "حوزه علمی مورد علاقه",
+              "مقطع تحصیلی",
+              "زبان آموزش",
+              "شرایط پذیرش",
+              "میزان شهریه",
+              "مدت دوره تحصیلی",
+              "محل قرارگیری دانشگاه",
+              "فرصت‌های علمی و پژوهشی",
+              "اهداف تحصیلی یا حرفه‌ای آینده"
+            ]
+          }
+        }
+      ],
+      "cta": {
+        "label": { "en": "Talk to an Admission Advisor", "fa": "گفت‌وگو با مشاور پذیرش" },
+        "href": "/contact"
+      }
+    },
+    {
+      "id": "requirements",
+      "title": { "en": "Understand Admission Requirements", "fa": "شرایط پذیرش دانشگاه‌های ایران را بشناسید" },
+      "intro": {
+        "en": "Admission requirements vary depending on the university, program, and level of study.\n\nUnderstanding these requirements before starting your application can help you prepare the right documents and avoid unnecessary delays.",
+        "fa": "شرایط پذیرش بسته به دانشگاه، رشته و مقطع تحصیلی متفاوت است.\n\nشناخت این شرایط پیش از شروع درخواست پذیرش کمک می‌کند مدارک موردنیاز را از ابتدا آماده کنید و از تأخیرهای غیرضروری در روند درخواست جلوگیری شود."
+      },
+      "subsections": [
+        {
+          "id": "academic-requirements",
+          "title": { "en": "Academic Requirements", "fa": "شرایط تحصیلی" },
+          "body": {
+            "en": "Depending on the program, you may need:",
+            "fa": "بسته به رشته و مقطع ممکن است به مدارکی مانند موارد زیر نیاز داشته باشید:"
+          },
+          "items": {
+            "en": [
+              "Previous academic qualifications",
+              "Academic transcripts",
+              "Required academic background",
+              "Minimum academic requirements, where applicable",
+              "Program-specific prerequisites"
+            ],
+            "fa": [
+              "مدارک تحصیلی مقاطع قبلی",
+              "ریزنمرات تحصیلی",
+              "سوابق تحصیلی مرتبط با رشته",
+              "حداقل شرایط تحصیلی در صورت وجود",
+              "پیش‌نیازهای اختصاصی رشته"
+            ]
+          }
+        },
+        {
+          "id": "language-requirements",
+          "title": { "en": "Language Requirements", "fa": "شرایط زبان" },
+          "body": {
+            "en": "Language requirements depend on the university and program. Some programs may require proof of language proficiency, while requirements can vary depending on the language of instruction.",
+            "fa": "شرایط زبان به دانشگاه و رشته موردنظر بستگی دارد. برخی برنامه‌ها ممکن است به زبان انگلیسی ارائه شوند و برخی دیگر به دانش زبان فارسی نیاز داشته باشند. شرایط زبان باید بر اساس برنامه و دانشگاه انتخابی بررسی شود."
+          }
+        },
+        {
+          "id": "required-documents",
+          "title": { "en": "Required Documents", "fa": "مدارک موردنیاز" },
+          "body": {
+            "en": "Applicants may be asked to provide documents such as:",
+            "fa": "ممکن است از متقاضی مدارکی مانند موارد زیر درخواست شود:"
+          },
+          "items": {
+            "en": [
+              "Passport",
+              "Academic certificates",
+              "Academic transcripts",
+              "Passport-size photographs",
+              "Language certificate, if required",
+              "CV, if required",
+              "Motivation letter, if required",
+              "Additional program-specific documents"
+            ],
+            "fa": [
+              "گذرنامه",
+              "مدارک تحصیلی",
+              "ریزنمرات",
+              "عکس پرسنلی",
+              "مدرک زبان در صورت نیاز",
+              "رزومه تحصیلی یا حرفه‌ای در صورت نیاز",
+              "انگیزه‌نامه در صورت نیاز",
+              "سایر مدارک اختصاصی رشته یا دانشگاه"
+            ]
+          }
+        },
+        {
+          "id": "additional-requirements",
+          "title": { "en": "Additional Requirements", "fa": "الزامات تکمیلی" },
+          "body": {
+            "en": "Some universities or programs may have additional requirements, such as:",
+            "fa": "برخی دانشگاه‌ها یا رشته‌ها ممکن است شرایط دیگری نیز داشته باشند، از جمله:"
+          },
+          "items": {
+            "en": [
+              "Interviews",
+              "Entrance examinations",
+              "Additional academic documents",
+              "Program-specific assessments"
+            ],
+            "fa": ["مصاحبه", "آزمون ورودی", "مدارک تحصیلی تکمیلی", "ارزیابی‌های اختصاصی رشته"]
+          }
+        }
+      ],
+      "cta": {
+        "label": { "en": "Check Your Eligibility", "fa": "بررسی شرایط پذیرش من" },
+        "href": "/contact"
+      }
+    },
+    {
+      "id": "journey",
+      "title": { "en": "Your Application Journey", "fa": "مسیر درخواست پذیرش شما" },
+      "intro": {
+        "en": "Applying to a university abroad can involve several stages. Understanding the process can make your journey clearer and more manageable.",
+        "fa": "اپلای برای دانشگاه در یک کشور دیگر ممکن است شامل چندین مرحله باشد. آشنایی با این مراحل کمک می‌کند مسیر پیش رو را بهتر بشناسید و برای هر مرحله آماده باشید."
+      },
+      "steps": [
+        {
+          "id": "step-1",
+          "title": { "en": "Tell Us About Yourself", "fa": "اطلاعات خود را با ما در میان بگذارید" },
+          "description": {
+            "en": "Share your academic background, preferred field of study, degree level, and study goals.",
+            "fa": "سوابق تحصیلی، رشته موردنظر، مقطع تحصیلی و اهداف خود را با آسا استادی در میان بگذارید."
+          }
+        },
+        {
+          "id": "step-2",
+          "title": { "en": "Choose Your University & Program", "fa": "دانشگاه و رشته خود را انتخاب کنید" },
+          "description": {
+            "en": "Explore suitable universities and programs based on your academic profile and preferences.",
+            "fa": "بر اساس سوابق تحصیلی، علایق و شرایط خود، دانشگاه‌ها و رشته‌های مناسب را بررسی و انتخاب کنید."
+          }
+        },
+        {
+          "id": "step-3",
+          "title": { "en": "Prepare Your Documents", "fa": "مدارک خود را آماده کنید" },
+          "description": {
+            "en": "Collect and prepare the academic, identification, and other documents required for your application.",
+            "fa": "مدارک تحصیلی، هویتی و سایر مدارک موردنیاز برای درخواست پذیرش را جمع‌آوری و آماده کنید."
+          }
+        },
+        {
+          "id": "step-4",
+          "title": { "en": "Submit Your Application", "fa": "درخواست پذیرش را ارسال کنید" },
+          "description": {
+            "en": "Your application is prepared and submitted to the selected university or program.",
+            "fa": "درخواست پذیرش شما برای دانشگاه یا برنامه تحصیلی انتخاب‌شده آماده و ارسال می‌شود."
+          }
+        },
+        {
+          "id": "step-5",
+          "title": { "en": "Receive Your Admission", "fa": "پذیرش دانشگاه را دریافت کنید" },
+          "description": {
+            "en": "Once your application has been reviewed and approved, you can receive your university admission.",
+            "fa": "پس از بررسی و تأیید درخواست، نامه پذیرش دانشگاه را دریافت خواهید کرد."
+          }
+        },
+        {
+          "id": "step-6",
+          "title": { "en": "Apply for Your Student Visa", "fa": "برای ویزای تحصیلی اقدام کنید" },
+          "description": {
+            "en": "After admission, you can proceed with the relevant steps for obtaining your student visa.",
+            "fa": "پس از دریافت پذیرش، مراحل مربوط به دریافت ویزای تحصیلی را آغاز کنید."
+          }
+        },
+        {
+          "id": "step-7",
+          "title": { "en": "Prepare for Your Arrival", "fa": "برای ورود به ایران آماده شوید" },
+          "description": {
+            "en": "Prepare for your move to Iran, including accommodation, travel arrangements, university registration, and your first days as a student.",
+            "fa": "محل اقامت، سفر، ثبت‌نام دانشگاه و سایر مقدمات لازم برای شروع زندگی دانشجویی در ایران را آماده کنید."
+          }
+        }
+      ]
+    },
+    {
+      "id": "documents",
+      "title": { "en": "Documents You Need", "fa": "چه مدارکی برای اپلای نیاز دارید؟" },
+      "intro": {
+        "en": "Preparing your documents is an essential part of the university application process.\n\nDepending on your university, program, and degree level, you may need some or all of the following:",
+        "fa": "آماده‌سازی مدارک یکی از بخش‌های مهم فرآیند درخواست پذیرش دانشگاه است.\n\nبا توجه به دانشگاه، رشته و مقطع تحصیلی ممکن است به برخی یا همه مدارک زیر نیاز داشته باشید:"
+      },
+      "checklist": {
+        "en": [
+          "Passport",
+          "Academic Certificates",
+          "Academic Transcripts",
+          "Passport Photos",
+          "Language Certificate, if required",
+          "CV, if required",
+          "Motivation Letter, if required",
+          "Additional Program-Specific Documents"
+        ],
+        "fa": [
+          "گذرنامه",
+          "مدارک تحصیلی",
+          "ریزنمرات تحصیلی",
+          "عکس پرسنلی",
+          "مدرک زبان در صورت نیاز",
+          "رزومه در صورت نیاز",
+          "انگیزه‌نامه در صورت نیاز",
+          "سایر مدارک اختصاصی رشته یا دانشگاه"
+        ]
+      },
+      "cta": {
+        "label": { "en": "Check Your Documents", "fa": "بررسی مدارک من" },
+        "href": "/contact"
+      }
+    },
+    {
+      "id": "visa",
+      "title": { "en": "Student Visa", "fa": "ویزای تحصیلی ایران" },
+      "intro": {
+        "en": "Once you receive university admission, obtaining the appropriate student visa is an important part of your journey to Iran.\n\nThe visa process is connected to your university admission and requires the preparation of the relevant documentation and completion of the required procedures.",
+        "fa": "پس از دریافت پذیرش دانشگاه، دریافت ویزای تحصیلی یکی از مراحل مهم مسیر شما برای ورود به ایران است.\n\nروند دریافت ویزای تحصیلی با پذیرش دانشگاه ارتباط دارد و نیازمند آماده‌سازی مدارک و انجام مراحل مربوط به درخواست ویزا است."
+      },
+      "subsections": [
+        {
+          "id": "visa-process",
+          "title": { "en": "The Student Visa Process", "fa": "مراحل کلی دریافت ویزای تحصیلی" },
+          "body": { "en": "The process generally involves:", "fa": "روند کلی به این صورت است:" },
+          "items": {
+            "en": [
+              "Receiving university admission",
+              "Preparing the required visa documents",
+              "Completing the relevant procedures",
+              "Following the status of your application",
+              "Obtaining your student visa",
+              "Preparing for your travel to Iran"
+            ],
+            "fa": [
+              "دریافت پذیرش دانشگاه",
+              "آماده‌سازی مدارک موردنیاز ویزا",
+              "انجام مراحل مربوط به درخواست ویزا",
+              "پیگیری وضعیت درخواست",
+              "دریافت ویزای تحصیلی",
+              "آماده‌شدن برای سفر به ایران"
+            ]
+          }
+        }
+      ],
+      "cta": {
+        "label": { "en": "Get Visa Guidance", "fa": "دریافت راهنمای ویزای تحصیلی" },
+        "href": "/admission"
+      }
+    },
+    {
+      "id": "costs",
+      "title": { "en": "Tuition Fees & Cost of Living", "fa": "شهریه و هزینه زندگی در ایران" },
+      "intro": {
+        "en": "Understanding the cost of studying and living in Iran is an important part of choosing your destination.\n\nYour overall expenses depend on factors such as your university, field of study, city, accommodation, and lifestyle.",
+        "fa": "آگاهی از هزینه‌های تحصیل و زندگی یکی از عوامل مهم در انتخاب مقصد تحصیلی است.\n\nهزینه کلی تحصیل و زندگی به عواملی مانند دانشگاه، رشته، شهر محل تحصیل، نوع اقامت و سبک زندگی شما بستگی دارد."
+      },
+      "subsections": [
+        {
+          "id": "tuition-factors",
+          "title": { "en": "Tuition Fees", "fa": "شهریه دانشگاه" },
+          "body": {
+            "en": "Tuition fees may vary depending on:",
+            "fa": "میزان شهریه می‌تواند بر اساس عوامل زیر متفاوت باشد:"
+          },
+          "items": {
+            "en": ["University", "Field of study", "Degree level", "Program", "Type of institution"],
+            "fa": ["دانشگاه", "رشته تحصیلی", "مقطع تحصیلی", "نوع برنامه", "نوع مؤسسه آموزشی"]
+          }
+        },
+        {
+          "id": "living-costs",
+          "title": { "en": "Cost of Living", "fa": "هزینه زندگی" },
+          "body": {
+            "en": "Your daily expenses may include:",
+            "fa": "هزینه‌های روزمره دانشجویی می‌تواند شامل موارد زیر باشد:"
+          },
+          "items": {
+            "en": [
+              "Accommodation",
+              "Food",
+              "Transportation",
+              "Internet and mobile services",
+              "Personal expenses",
+              "Entertainment and leisure"
+            ],
+            "fa": [
+              "محل اقامت",
+              "غذا",
+              "حمل‌ونقل",
+              "اینترنت و تلفن همراه",
+              "هزینه‌های شخصی",
+              "تفریح و سرگرمی"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "accommodation",
+      "title": { "en": "Accommodation & Student Housing", "fa": "اقامت و خوابگاه دانشجویی" },
+      "intro": {
+        "en": "Finding suitable accommodation is an important part of preparing for student life in Iran.\n\nDepending on the university and city, students may have access to different accommodation options.",
+        "fa": "پیدا کردن محل اقامت مناسب یکی از بخش‌های مهم آماده‌شدن برای زندگی دانشجویی در ایران است.\n\nبسته به دانشگاه و شهر محل تحصیل، دانشجویان می‌توانند گزینه‌های مختلفی برای اقامت داشته باشند."
+      },
+      "subsections": [
+        {
+          "id": "accommodation-options",
+          "title": { "en": "Accommodation Options", "fa": "گزینه‌های اقامت" },
+          "items": {
+            "en": [
+              "University dormitories",
+              "Private student dormitories",
+              "Shared apartments",
+              "Private apartments",
+              "Student residences"
+            ],
+            "fa": [
+              "خوابگاه دانشگاهی",
+              "خوابگاه‌های خصوصی دانشجویی",
+              "آپارتمان اشتراکی",
+              "آپارتمان مستقل",
+              "اقامتگاه‌های دانشجویی"
+            ]
+          }
+        },
+        {
+          "id": "accommodation-considerations",
+          "title": {
+            "en": "What to consider when choosing",
+            "fa": "هنگام انتخاب محل اقامت چه چیزی مهم است؟"
+          },
+          "items": {
+            "en": [
+              "Distance from the university",
+              "Access to public transportation",
+              "Monthly rent",
+              "Utility costs",
+              "Nearby shops and services",
+              "Building facilities",
+              "Neighborhood",
+              "Access to healthcare services"
+            ],
+            "fa": [
+              "فاصله تا دانشگاه",
+              "دسترسی به حمل‌ونقل عمومی",
+              "مبلغ اجاره",
+              "هزینه خدمات و قبوض",
+              "دسترسی به فروشگاه‌ها و خدمات روزمره",
+              "امکانات ساختمان",
+              "شرایط محله",
+              "دسترسی به مراکز درمانی"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "student-life",
+      "title": { "en": "Student Life in Iran", "fa": "زندگی دانشجویی در ایران" },
+      "intro": {
+        "en": "Studying abroad is about more than attending classes. Your experience also includes your everyday life, social environment, culture, and the city you call home.",
+        "fa": "تحصیل در خارج از کشور فقط حضور در کلاس‌های دانشگاه نیست. تجربه شما شامل زندگی روزمره، محیط اجتماعی، فرهنگ و شهری است که در آن زندگی می‌کنید."
+      },
+      "subsections": [
+        {
+          "id": "everyday-life",
+          "title": { "en": "Everyday Life", "fa": "زندگی روزمره" },
+          "body": {
+            "en": "International students can experience everyday life in Iran through:",
+            "fa": "دانشجویان بین‌المللی می‌توانند زندگی روزمره در ایران را از طریق فعالیت‌ها و تجربه‌هایی مانند موارد زیر تجربه کنند:"
+          },
+          "items": {
+            "en": [
+              "University life",
+              "Local communities",
+              "Cafés and restaurants",
+              "Shopping centers and local markets",
+              "Parks and public spaces",
+              "Cultural activities",
+              "Sports and recreational facilities"
+            ],
+            "fa": [
+              "زندگی دانشگاهی",
+              "ارتباط با جامعه محلی",
+              "کافه‌ها و رستوران‌ها",
+              "مراکز خرید و بازارهای محلی",
+              "پارک‌ها و فضاهای عمومی",
+              "فعالیت‌های فرهنگی",
+              "امکانات ورزشی و تفریحی"
+            ]
+          }
+        },
+        {
+          "id": "transportation",
+          "title": { "en": "Transportation", "fa": "حمل‌ونقل" },
+          "body": {
+            "en": "Depending on the city, students can use:",
+            "fa": "بسته به شهر محل زندگی، دانشجویان می‌توانند از روش‌های مختلف حمل‌ونقل استفاده کنند:"
+          },
+          "items": {
+            "en": [
+              "Public buses",
+              "Taxis",
+              "Ride-hailing services",
+              "Intercity buses",
+              "Trains",
+              "Domestic flights"
+            ],
+            "fa": [
+              "اتوبوس‌های شهری",
+              "تاکسی",
+              "سامانه‌های حمل‌ونقل اینترنتی",
+              "اتوبوس‌های بین‌شهری",
+              "قطار",
+              "پروازهای داخلی"
+            ]
+          }
+        },
+        {
+          "id": "culture",
+          "title": { "en": "Culture & Social Life", "fa": "فرهنگ و زندگی اجتماعی" },
+          "body": {
+            "en": "Living in Iran gives international students the opportunity to experience Iranian culture directly, meet local students, explore traditional and modern lifestyles, and learn more about the country's history and customs.\n\nUniversities may also organize academic, cultural, social, and student activities that provide opportunities for interaction with Iranian students and the wider university community.",
+            "fa": "زندگی در ایران به دانشجویان بین‌المللی فرصت می‌دهد فرهنگ ایرانی را از نزدیک تجربه کنند، با دانشجویان ایرانی ارتباط برقرار کنند، با سبک‌های مختلف زندگی آشنا شوند و درباره تاریخ و آداب‌ورسوم کشور اطلاعات بیشتری به دست آورند.\n\nدانشگاه‌ها نیز ممکن است برنامه‌های علمی، فرهنگی، اجتماعی و دانشجویی مختلفی برگزار کنند که فرصت تعامل با دانشجویان ایرانی و اعضای جامعه دانشگاهی را فراهم می‌کند."
+          }
+        },
+        {
+          "id": "healthcare",
+          "title": { "en": "Healthcare & Everyday Services", "fa": "خدمات درمانی و روزمره" },
+          "body": {
+            "en": "Students can access healthcare facilities, pharmacies, supermarkets, banks, restaurants, and other everyday services throughout Iranian cities.",
+            "fa": "در شهرهای مختلف ایران، دانشجویان به مراکز درمانی، داروخانه‌ها، فروشگاه‌ها، بانک‌ها، رستوران‌ها و سایر خدمات موردنیاز زندگی روزمره دسترسی دارند."
+          }
+        }
+      ]
+    },
+    {
+      "id": "before-arrival",
+      "title": { "en": "Before You Arrive", "fa": "قبل از ورود به ایران" },
+      "intro": {
+        "en": "Preparing before your departure can make the transition to student life in Iran easier.",
+        "fa": "آماده‌شدن پیش از سفر می‌تواند انتقال به محیط جدید و شروع زندگی دانشجویی در ایران را ساده‌تر کند."
+      },
+      "checklist": {
+        "en": [
+          "Valid passport",
+          "Student visa",
+          "University admission documents",
+          "Required translated documents",
+          "Health insurance, where applicable",
+          "Accommodation arrangements",
+          "Initial funds and payment arrangements",
+          "Mobile phone and communication arrangements",
+          "Travel arrangements",
+          "University contact information",
+          "Essential personal belongings"
+        ],
+        "fa": [
+          "گذرنامه معتبر",
+          "ویزای تحصیلی",
+          "مدارک پذیرش دانشگاه",
+          "مدارک ترجمه‌شده موردنیاز",
+          "بیمه درمانی در صورت نیاز",
+          "هماهنگی محل اقامت",
+          "تأمین هزینه‌های اولیه",
+          "آماده‌سازی تلفن همراه و ارتباطات",
+          "برنامه‌ریزی سفر",
+          "اطلاعات تماس دانشگاه",
+          "وسایل شخصی ضروری"
+        ]
+      }
+    },
+    {
+      "id": "after-arrival",
+      "title": { "en": "After You Arrive", "fa": "پس از ورود به ایران" },
+      "intro": {
+        "en": "Arriving in a new country is the beginning of your student journey.\n\nAfter arriving in Iran, international students may need to complete several practical and university-related steps.",
+        "fa": "ورود به ایران آغاز مرحله جدیدی از زندگی دانشجویی شماست.\n\nپس از ورود، ممکن است لازم باشد چند مرحله دانشگاهی و اداری را انجام دهید."
+      },
+      "steps": [
+        {
+          "id": "arrive",
+          "title": { "en": "Arrive in Iran", "fa": "ورود به ایران" },
+          "description": {
+            "en": "Complete your arrival and travel to your destination city.",
+            "fa": "ورود به کشور و سفر به شهر محل تحصیل."
+          }
+        },
+        {
+          "id": "accommodation",
+          "title": { "en": "Reach Your Accommodation", "fa": "رفتن به محل اقامت" },
+          "description": {
+            "en": "Move into your university dormitory, student residence, or private accommodation.",
+            "fa": "استقرار در خوابگاه دانشگاه، اقامتگاه دانشجویی یا محل اقامت شخصی."
+          }
+        },
+        {
+          "id": "registration",
+          "title": { "en": "Complete University Registration", "fa": "تکمیل ثبت‌نام دانشگاه" },
+          "description": {
+            "en": "Follow the university's registration and enrollment procedures.",
+            "fa": "انجام مراحل ثبت‌نام و پذیرش نهایی در دانشگاه."
+          }
+        },
+        {
+          "id": "student-id",
+          "title": { "en": "Receive Your Student Identification", "fa": "دریافت مدارک و شناسه دانشجویی" },
+          "description": {
+            "en": "Complete the necessary steps for obtaining your student identification and university-related documents.",
+            "fa": "انجام مراحل مربوط به دریافت کارت دانشجویی و مدارک دانشگاهی."
+          }
+        },
+        {
+          "id": "admin",
+          "title": { "en": "Complete Administrative Procedures", "fa": "انجام امور اداری" },
+          "description": {
+            "en": "Take care of any remaining administrative requirements related to your studies and residence.",
+            "fa": "تکمیل سایر امور اداری مرتبط با تحصیل و اقامت."
+          }
+        },
+        {
+          "id": "campus",
+          "title": { "en": "Get Familiar with Your University", "fa": "آشنایی با دانشگاه" },
+          "description": {
+            "en": "Explore your campus, academic facilities, student services, libraries, and other university resources.",
+            "fa": "آشنایی با محیط دانشگاه، امکانات آموزشی، خدمات دانشجویی، کتابخانه‌ها و سایر امکانات دانشگاه."
+          }
+        },
+        {
+          "id": "city",
+          "title": { "en": "Get to Know Your City", "fa": "آشنایی با شهر" },
+          "description": {
+            "en": "Learn how to use local transportation, find essential services, and become familiar with your new surroundings.",
+            "fa": "یادگیری مسیرهای رفت‌وآمد، پیدا کردن خدمات ضروری و آشنایی با محیط جدید زندگی."
+          }
+        },
+        {
+          "id": "classes",
+          "title": { "en": "Start Your Classes", "fa": "شروع کلاس‌ها" },
+          "description": {
+            "en": "Once your university registration is complete, you can begin your academic journey in Iran.",
+            "fa": "پس از تکمیل مراحل ثبت‌نام، مسیر تحصیلی شما در دانشگاه آغاز می‌شود."
+          }
+        }
+      ]
+    },
+    {
+      "id": "why-asa",
+      "title": { "en": "Why Choose ASA Study?", "fa": "چرا آسا استادی؟" },
+      "intro": {
+        "en": "Choosing to study abroad involves many decisions, from selecting a university to preparing documents and completing admission procedures.\n\nASA Study supports international students throughout different stages of their journey to studying in Iran.",
+        "fa": "تحصیل در یک کشور دیگر تصمیم‌های متعددی را به همراه دارد؛ از انتخاب دانشگاه و رشته گرفته تا آماده‌سازی مدارک و انجام مراحل پذیرش.\n\nآسا استادی در مراحل مختلف مسیر تحصیل در ایران، به دانشجویان بین‌المللی خدمات و راهنمایی ارائه می‌دهد."
+      },
+      "subsections": [
+        {
+          "id": "personalized",
+          "title": { "en": "Personalized Guidance", "fa": "راهنمایی متناسب با شرایط شما" },
+          "body": {
+            "en": "Guidance based on your academic background, goals, and study preferences.",
+            "fa": "ارائه راهنمایی بر اساس سوابق تحصیلی، اهداف و ترجیحات تحصیلی هر دانشجو."
+          }
+        },
+        {
+          "id": "matching",
+          "title": { "en": "University & Program Matching", "fa": "انتخاب دانشگاه و رشته مناسب" },
+          "body": {
+            "en": "Support in identifying universities and programs that match your academic profile.",
+            "fa": "کمک به شناسایی دانشگاه‌ها و رشته‌هایی که با سوابق و اهداف تحصیلی شما هماهنگ هستند."
+          }
+        },
+        {
+          "id": "application",
+          "title": { "en": "Application Support", "fa": "پشتیبانی در فرآیند درخواست پذیرش" },
+          "body": {
+            "en": "Assistance with preparing and submitting your university application.",
+            "fa": "کمک در آماده‌سازی و ارسال درخواست پذیرش دانشگاه."
+          }
+        },
+        {
+          "id": "admission",
+          "title": { "en": "Admission Support", "fa": "پشتیبانی در فرآیند پذیرش" },
+          "body": {
+            "en": "Guidance throughout the university admission process.",
+            "fa": "راهنمایی و همراهی در مراحل مختلف دریافت پذیرش دانشگاه."
+          }
+        },
+        {
+          "id": "visa-guidance",
+          "title": { "en": "Visa Guidance", "fa": "راهنمایی برای ویزای تحصیلی" },
+          "body": {
+            "en": "Support and guidance during the student visa process.",
+            "fa": "ارائه راهنمایی در مسیر دریافت ویزای تحصیلی."
+          }
+        },
+        {
+          "id": "pre-arrival",
+          "title": { "en": "Pre-Arrival Support", "fa": "همراهی پیش از ورود" },
+          "body": {
+            "en": "Preparation and guidance to help you get ready for your arrival and student life in Iran.",
+            "fa": "کمک به دانشجویان برای آماده‌شدن جهت سفر، ورود به ایران و آغاز زندگی دانشجویی."
+          }
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": {
+        "en": "Do I need to speak Persian to study in Iran?",
+        "fa": "آیا برای تحصیل در ایران باید فارسی بلد باشم؟"
+      },
+      "answer": {
+        "en": "Language requirements depend on the university and program. Some programs may be offered in English, while others may require Persian proficiency.",
+        "fa": "شرایط زبان به دانشگاه و رشته تحصیلی بستگی دارد. برخی برنامه‌ها ممکن است به زبان انگلیسی ارائه شوند، در حالی که برخی دیگر به دانش زبان فارسی نیاز دارند."
+      }
+    },
+    {
+      "question": { "en": "Can I study in Iran in English?", "fa": "آیا امکان تحصیل به زبان انگلیسی در ایران وجود دارد؟" },
+      "answer": {
+        "en": "Some Iranian universities offer programs or courses in English, depending on the field and degree level. Program availability and language requirements vary between universities.",
+        "fa": "برخی دانشگاه‌های ایران، بسته به رشته و مقطع تحصیلی، برنامه‌هایی را به زبان انگلیسی ارائه می‌کنند. شرایط و تعداد این برنامه‌ها در دانشگاه‌های مختلف متفاوت است."
+      }
+    },
+    {
+      "question": {
+        "en": "What are the admission requirements for studying in Iran?",
+        "fa": "شرایط پذیرش دانشگاه‌های ایران چیست؟"
+      },
+      "answer": {
+        "en": "Admission requirements depend on the university, program, and degree level. Applicants may need to provide academic certificates, transcripts, identification documents, and other program-specific materials.",
+        "fa": "شرایط پذیرش به دانشگاه، رشته و مقطع تحصیلی بستگی دارد. معمولاً مدارکی مانند مدارک تحصیلی، ریزنمرات، مدارک هویتی و سایر مدارک موردنیاز رشته باید ارائه شوند."
+      }
+    },
+    {
+      "question": { "en": "What documents do I need to apply?", "fa": "برای اپلای چه مدارکی لازم است؟" },
+      "answer": {
+        "en": "Common documents include a valid passport, academic certificates, academic transcripts, photographs, and other documents required by the selected university or program.",
+        "fa": "مدارک رایج شامل گذرنامه معتبر، مدارک تحصیلی، ریزنمرات، عکس و سایر مدارکی است که دانشگاه یا رشته موردنظر تعیین می‌کند."
+      }
+    },
+    {
+      "question": { "en": "How much does it cost to study in Iran?", "fa": "هزینه تحصیل در ایران چقدر است؟" },
+      "answer": {
+        "en": "Tuition fees vary depending on the university, program, degree level, and field of study. Living expenses also vary depending on the city, accommodation, and lifestyle.",
+        "fa": "شهریه بر اساس دانشگاه، رشته، مقطع و نوع برنامه تحصیلی متفاوت است. هزینه زندگی نیز به شهر، نوع اقامت و سبک زندگی بستگی دارد."
+      }
+    },
+    {
+      "question": { "en": "Is student accommodation available?", "fa": "آیا دانشگاه‌های ایران خوابگاه دارند؟" },
+      "answer": {
+        "en": "Many universities provide dormitories or student accommodation, although availability and eligibility depend on the university and individual circumstances. Private accommodation is also available in many cities.",
+        "fa": "بسیاری از دانشگاه‌ها برای دانشجویان خوابگاه یا امکانات اقامتی ارائه می‌کنند، اما شرایط استفاده و ظرفیت خوابگاه به دانشگاه و شرایط دانشجو بستگی دارد. گزینه‌های اقامت خصوصی نیز در بسیاری از شهرها وجود دارد."
+      }
+    },
+    {
+      "question": { "en": "How can I get a student visa for Iran?", "fa": "چگونه می‌توانم ویزای تحصیلی ایران دریافت کنم؟" },
+      "answer": {
+        "en": "The student visa process generally begins after receiving university admission and involves preparing the required documents and completing the relevant visa procedures.",
+        "fa": "روند ویزای تحصیلی معمولاً پس از دریافت پذیرش دانشگاه آغاز می‌شود و شامل آماده‌سازی مدارک و انجام مراحل مربوط به درخواست ویزا است."
+      }
+    },
+    {
+      "question": { "en": "How long does the admission process take?", "fa": "فرآیند پذیرش دانشگاه چقدر طول می‌کشد؟" },
+      "answer": {
+        "en": "Processing times can vary depending on the university, program, documents, and application circumstances.",
+        "fa": "مدت زمان بررسی درخواست به دانشگاه، رشته، کامل‌بودن مدارک و شرایط هر متقاضی بستگی دارد و ممکن است متفاوت باشد."
+      }
+    },
+    {
+      "question": {
+        "en": "Can ASA Study help me choose a university?",
+        "fa": "آیا آسا استادی در انتخاب دانشگاه به من کمک می‌کند؟"
+      },
+      "answer": {
+        "en": "Yes. ASA Study can help international students explore universities and programs based on their academic background, field of interest, study goals, and preferences.",
+        "fa": "بله. آسا استادی می‌تواند به دانشجویان بین‌المللی در بررسی دانشگاه‌ها و رشته‌ها بر اساس سوابق تحصیلی، زمینه موردعلاقه، اهداف تحصیلی و شرایط آن‌ها کمک کند."
+      }
+    },
+    {
+      "question": {
+        "en": "Can I receive guidance before choosing a university?",
+        "fa": "آیا می‌توانم قبل از انتخاب دانشگاه مشاوره بگیرم؟"
+      },
+      "answer": {
+        "en": "Yes. Students can seek guidance before making their final university and program choices.",
+        "fa": "بله. دانشجویان می‌توانند پیش از انتخاب نهایی دانشگاه و رشته، برای بررسی گزینه‌های مناسب و آشنایی با مسیر پذیرش از خدمات مشاوره‌ای استفاده کنند."
+      }
+    },
+    {
+      "question": { "en": "What should I do after arriving in Iran?", "fa": "پس از ورود به ایران چه کارهایی باید انجام دهم؟" },
+      "answer": {
+        "en": "After arrival, students may need to complete university registration, accommodation arrangements, administrative procedures, and other steps before beginning their studies.",
+        "fa": "پس از ورود، بسته به شرایط دانشگاه و محل اقامت، ممکن است لازم باشد ثبت‌نام دانشگاه، امور اقامتی، مراحل اداری و سایر اقدامات ضروری را انجام دهید."
+      }
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "slug": "isfahan",
+  "name": {
+    "en": "Isfahan",
+    "fa": "اصفهان"
+  },
+  "province": {
+    "en": "Isfahan Province",
+    "fa": "استان اصفهان"
+  },
+  "tagline": {
+    "en": "Isfahan: A City for Education, Culture, and Life in the Heart of Iran",
+    "fa": "اصفهان؛ شهری برای تحصیل، فرهنگ و زندگی در قلب ایران"
+  },
+  "summary": {
+    "en": "Isfahan, the capital of Isfahan Province and one of Iran's best-known cities, has been an important center of science, culture, art, economy, and politics for centuries. Known by the famous nickname \"Half of the World,\" the city offers a unique combination of historic architecture, Iranian art, reputable universities, modern infrastructure, and urban life.",
+    "fa": "اصفهان، مرکز استان اصفهان و یکی از شناخته‌شده‌ترین شهرهای ایران، قرن‌هاست که یکی از مراکز مهم علمی، فرهنگی، هنری، اقتصادی و سیاسی کشور به شمار می‌رود. این شهر که با لقب مشهور «نصف جهان» شناخته می‌شود، ترکیبی کم‌نظیر از معماری تاریخی، هنر ایرانی، دانشگاه‌های معتبر، امکانات شهری و زندگی مدرن را در اختیار ساکنان خود قرار می‌دهد."
+  },
+  "facts": [
+    {
+      "label": { "en": "City", "fa": "شهر" },
+      "value": { "en": "Isfahan", "fa": "اصفهان" }
+    },
+    {
+      "label": { "en": "Province", "fa": "استان" },
+      "value": { "en": "Isfahan Province", "fa": "اصفهان" }
+    },
+    {
+      "label": { "en": "Country", "fa": "کشور" },
+      "value": { "en": "Iran", "fa": "ایران" }
+    },
+    {
+      "label": { "en": "Official Language", "fa": "زبان رسمی" },
+      "value": { "en": "Persian", "fa": "فارسی" }
+    },
+    {
+      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
+      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+    },
+    {
+      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "value": {
+        "en": "Dry and semi-arid, with hot summers and relatively cold winters",
+        "fa": "خشک و نیمه‌خشک؛ تابستان‌های گرم و زمستان‌های نسبتاً سرد"
+      }
+    },
+    {
+      "label": { "en": "Airport", "fa": "فرودگاه" },
+      "value": {
+        "en": "Isfahan International Airport",
+        "fa": "فرودگاه بین‌المللی شهید بهشتی اصفهان"
+      }
+    },
+    {
+      "label": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
+      "value": {
+        "en": "Metro, buses, BRT, taxis, and ride-hailing services",
+        "fa": "مترو، اتوبوس، BRT، تاکسی و تاکسی‌های اینترنتی"
+      }
+    },
+    {
+      "label": { "en": "Major Universities", "fa": "دانشگاه‌های شاخص" },
+      "value": {
+        "en": "University of Isfahan, Isfahan University of Technology, Isfahan University of Medical Sciences, Isfahan University of Art",
+        "fa": "دانشگاه اصفهان، دانشگاه صنعتی اصفهان، دانشگاه علوم پزشکی اصفهان، دانشگاه هنر اصفهان"
+      }
+    },
+    {
+      "label": { "en": "Main Attraction", "fa": "جاذبه شاخص" },
+      "value": { "en": "Naqsh-e Jahan Square", "fa": "میدان نقش جهان" }
+    },
+    {
+      "label": { "en": "UNESCO World Heritage Sites", "fa": "آثار ثبت‌شده جهانی" },
+      "value": {
+        "en": "Naqsh-e Jahan Square and Jameh Mosque of Isfahan",
+        "fa": "میدان نقش جهان و مسجد جامع اصفهان"
+      }
+    },
+    {
+      "label": { "en": "Nearby Destinations", "fa": "جاذبه‌های اطراف" },
+      "value": {
+        "en": "Kashan, Abyaneh, and the central Iranian deserts",
+        "fa": "کاشان، ابیانه و کویرهای مرکزی ایران"
+      }
+    },
+    {
+      "label": { "en": "Historical Significance", "fa": "شهرت تاریخی" },
+      "value": {
+        "en": "One of Iran's most important historical, cultural, and artistic cities",
+        "fa": "یکی از مهم‌ترین شهرهای تاریخی، فرهنگی و هنری ایران"
+      }
+    }
+  ],
+  "whyStudyHere": {
+    "en": "Isfahan, the capital of Isfahan Province and one of Iran's best-known cities, has been an important center of science, culture, art, economy, and politics for centuries. Known by the famous nickname \"Half of the World,\" the city offers a unique combination of historic architecture, Iranian art, reputable universities, modern infrastructure, and urban life.\n\nFor international students, Isfahan is more than an academic destination. It is an opportunity to live in one of Iran's most important cultural cities and experience the country's history, art, architecture, and lifestyle firsthand.\n\nThe city's reputable universities, medical and research centers, public transportation network, cultural facilities, and relatively affordable living costs make Isfahan an attractive option for students planning to study in Iran.\n\nIts central location also makes Isfahan a convenient base for exploring many of Iran's historical cities and natural attractions.",
+    "fa": "اصفهان، مرکز استان اصفهان و یکی از شناخته‌شده‌ترین شهرهای ایران، قرن‌هاست که یکی از مراکز مهم علمی، فرهنگی، هنری، اقتصادی و سیاسی کشور به شمار می‌رود. این شهر که با لقب مشهور «نصف جهان» شناخته می‌شود، ترکیبی کم‌نظیر از معماری تاریخی، هنر ایرانی، دانشگاه‌های معتبر، امکانات شهری و زندگی مدرن را در اختیار ساکنان خود قرار می‌دهد.\n\nبرای دانشجویان بین‌المللی، اصفهان فقط یک مقصد تحصیلی نیست؛ بلکه فرصتی برای زندگی در یکی از مهم‌ترین شهرهای فرهنگی ایران و آشنایی مستقیم با تاریخ، هنر، معماری و سبک زندگی ایرانی است.\n\nوجود دانشگاه‌های معتبر در حوزه‌های مختلف، مراکز درمانی و پژوهشی، شبکه حمل‌ونقل عمومی، امکانات رفاهی و فرهنگی و هزینه‌های زندگی نسبتاً مناسب، اصفهان را به یکی از گزینه‌های جذاب برای دانشجویانی تبدیل کرده است که قصد تحصیل در ایران دارند.\n\nاصفهان همچنین در بخش مرکزی ایران قرار گرفته و به همین دلیل می‌تواند نقطه شروع مناسبی برای سفر به بسیاری از شهرها و جاذبه‌های تاریخی کشور باشد."
+  },
+  "advantages": {
+    "en": [
+      "Home to reputable universities across a wide range of academic fields",
+      "Well-known universities in engineering and technology",
+      "One of Iran's important centers for medical education",
+      "Home to a specialized university for art",
+      "A distinctive historical and cultural environment",
+      "Generally lower living costs compared with Tehran",
+      "Access to metro, bus, and BRT services",
+      "An international airport",
+      "Access to specialized hospitals and medical centers",
+      "Libraries, museums, cultural centers, and artistic spaces",
+      "A wide range of historical and tourism attractions",
+      "Easy access to historical destinations such as Kashan and Abyaneh",
+      "Access to the deserts of central Iran",
+      "An excellent environment for experiencing Iranian culture and art"
+    ],
+    "fa": [
+      "حضور دانشگاه‌های معتبر در رشته‌های مختلف",
+      "دانشگاه‌های شناخته‌شده در حوزه مهندسی و فناوری",
+      "یکی از مراکز مهم آموزش پزشکی ایران",
+      "وجود دانشگاه تخصصی هنر",
+      "محیط فرهنگی و تاریخی منحصربه‌فرد",
+      "هزینه زندگی نسبتاً مناسب در مقایسه با تهران",
+      "دسترسی به مترو، اتوبوس و BRT",
+      "وجود فرودگاه بین‌المللی",
+      "دسترسی به بیمارستان‌ها و مراکز درمانی تخصصی",
+      "وجود کتابخانه‌ها، مراکز فرهنگی، موزه‌ها و فضاهای هنری",
+      "تنوع بالای جاذبه‌های تاریخی و گردشگری",
+      "دسترسی به شهرهای تاریخی مانند کاشان و ابیانه",
+      "نزدیکی به مناطق کویری مرکز ایران",
+      "فضای مناسب برای تجربه فرهنگ و هنر ایرانی"
+    ]
+  },
+  "about": {
+    "en": "Isfahan is one of Iran's most important historical cities and has played a major role in the country's political, cultural, and artistic development, particularly during the Safavid period.\n\nThe city became the capital of Iran under Shah Abbas I of the Safavid dynasty, and many of its most famous historical monuments were built or developed during this period. Naqsh-e Jahan Square, Imam Mosque, Sheikh Lotfollah Mosque, Ali Qapu Palace, and parts of Isfahan's historic bazaar are among the most important architectural legacies of the Safavid era.\n\nIsfahan's location in central Iran has also contributed to its historical importance. The city has long been situated along important routes connecting different parts of the country and has historically attracted merchants, artists, scholars, and travelers.\n\nToday, Isfahan combines its historic identity with modern urban life. It is an important university city, with a significant student population studying at universities and higher education institutions throughout the city.\n\nFor international students, this combination offers a unique experience: they can study in a modern urban environment while encountering examples of Iranian history and culture throughout the city.",
+    "fa": "اصفهان یکی از مهم‌ترین شهرهای تاریخی ایران است و در طول تاریخ، به‌ویژه در دوره صفوی، نقش مهمی در تحولات سیاسی، فرهنگی و هنری ایران داشته است.\n\nاین شهر در دوره شاه عباس اول صفوی به پایتخت ایران تبدیل شد و بسیاری از بناها و مجموعه‌های تاریخی شاخص آن در همین دوره شکل گرفتند. میدان نقش جهان، مسجد امام، مسجد شیخ لطف‌الله، عالی‌قاپو و بخش‌هایی از بازار تاریخی اصفهان از مهم‌ترین یادگارهای این دوره هستند.\n\nموقعیت اصفهان در مرکز ایران نیز اهمیت تاریخی آن را افزایش داده است. این شهر در مسیرهای ارتباطی مهم کشور قرار داشته و در طول قرن‌ها محل رفت‌وآمد بازرگانان، هنرمندان، دانشمندان و مسافران بوده است.\n\nامروزه اصفهان در کنار میراث تاریخی خود، یک شهر مدرن و دانشگاهی است و جمعیت قابل توجهی از دانشجویان در دانشگاه‌ها و مؤسسات آموزش عالی آن تحصیل می‌کنند.\n\nبرای دانشجویان بین‌المللی، این ترکیب اهمیت زیادی دارد: می‌توانند در یک شهر مدرن تحصیل کنند و در عین حال تقریباً در تمام نقاط شهر با نشانه‌هایی از تاریخ و فرهنگ ایران روبه‌رو شوند."
+  },
+  "universities": [
+    {
+      "name": { "en": "University of Isfahan", "fa": "دانشگاه اصفهان" },
+      "description": {
+        "en": "University of Isfahan is one of Iran's major comprehensive universities and offers a wide range of academic programs across different disciplines.\n\nIts broad range of academic programs makes the University of Isfahan an important option for students interested in humanities, social sciences, natural sciences, and engineering.",
+        "fa": "دانشگاه اصفهان یکی از دانشگاه‌های جامع ایران است و طیف گسترده‌ای از رشته‌ها را در حوزه‌های مختلف ارائه می‌دهد.\n\nتنوع رشته‌ها باعث شده دانشگاه اصفهان برای دانشجویانی که به دنبال تحصیل در رشته‌های مختلف علوم انسانی، اجتماعی، پایه و مهندسی هستند، گزینه‌ای قابل توجه باشد."
+      },
+      "fields": {
+        "en": [
+          "Humanities",
+          "Social Sciences",
+          "Economics and Management",
+          "Languages and Literature",
+          "Natural Sciences",
+          "Engineering",
+          "Computer Science",
+          "Interdisciplinary fields"
+        ],
+        "fa": [
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "اقتصاد و مدیریت",
+          "زبان و ادبیات",
+          "علوم پایه",
+          "مهندسی",
+          "علوم کامپیوتر",
+          "حوزه‌های بین‌رشته‌ای"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Isfahan University of Technology", "fa": "دانشگاه صنعتی اصفهان" },
+      "description": {
+        "en": "Isfahan University of Technology (IUT) is one of Iran's major universities in engineering, technology, and applied sciences.\n\nIts strong focus on engineering, research, and industry-related fields makes it an important choice for students planning to pursue studies in technical and technological disciplines.",
+        "fa": "دانشگاه صنعتی اصفهان (IUT) یکی از دانشگاه‌های مهم ایران در حوزه مهندسی، فناوری و علوم کاربردی است.\n\nتمرکز دانشگاه صنعتی اصفهان بر مهندسی، پژوهش و ارتباط با صنعت، آن را به گزینه‌ای مهم برای دانشجویانی تبدیل کرده که قصد ادامه تحصیل در رشته‌های فنی و فناوری را دارند."
+      },
+      "fields": {
+        "en": [
+          "Electrical Engineering",
+          "Mechanical Engineering",
+          "Civil Engineering",
+          "Chemical Engineering",
+          "Materials Engineering",
+          "Natural Sciences",
+          "Technology and industrial fields"
+        ],
+        "fa": [
+          "مهندسی برق",
+          "مهندسی مکانیک",
+          "مهندسی عمران",
+          "مهندسی شیمی",
+          "مهندسی مواد",
+          "علوم پایه",
+          "فناوری و حوزه‌های صنعتی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Isfahan University of Medical Sciences", "fa": "دانشگاه علوم پزشکی اصفهان" },
+      "slug": "isfahan-university-of-medical-sciences",
+      "description": {
+        "en": "Isfahan University of Medical Sciences is one of Iran's major institutions for medical and health sciences education.\n\nIts teaching hospitals and affiliated healthcare centers provide opportunities to combine academic education with practical and clinical experience.\n\nFor international students interested in medicine and health sciences, Isfahan can provide a strong academic environment together with access to an extensive healthcare and clinical training network.",
+        "fa": "دانشگاه علوم پزشکی اصفهان یکی از مراکز مهم آموزش پزشکی و علوم سلامت در ایران است.\n\nوجود بیمارستان‌های آموزشی و مراکز درمانی وابسته به دانشگاه، امکان ارتباط میان آموزش دانشگاهی و تجربه بالینی را فراهم می‌کند.\n\nبرای دانشجویان بین‌المللی علاقه‌مند به پزشکی و علوم سلامت، اصفهان می‌تواند محیطی مناسب برای تحصیل در کنار دسترسی به شبکه گسترده مراکز درمانی و آموزشی باشد."
+      },
+      "fields": {
+        "en": [
+          "Medicine",
+          "Dentistry",
+          "Pharmacy",
+          "Nursing",
+          "Laboratory Sciences",
+          "Public Health",
+          "Rehabilitation Sciences",
+          "Other health-related fields"
+        ],
+        "fa": [
+          "پزشکی",
+          "دندان‌پزشکی",
+          "داروسازی",
+          "پرستاری",
+          "علوم آزمایشگاهی",
+          "بهداشت",
+          "توانبخشی",
+          "سایر رشته‌های علوم پزشکی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Isfahan University of Art", "fa": "دانشگاه هنر اصفهان" },
+      "description": {
+        "en": "Isfahan University of Art is a specialized institution for education in art and architecture.\n\nStudying art and architecture in a city such as Isfahan offers a unique advantage. Students can complement their university education by directly studying examples of Iranian architecture, traditional arts, and cultural heritage throughout the city.",
+        "fa": "دانشگاه هنر اصفهان یکی از مراکز تخصصی آموزش هنر و معماری در ایران است.\n\nتحصیل در رشته‌های مرتبط با هنر و معماری در شهری مانند اصفهان مزیت ویژه‌ای دارد؛ زیرا دانشجویان می‌توانند علاوه بر آموزش دانشگاهی، نمونه‌های واقعی معماری، هنرهای سنتی و میراث فرهنگی ایران را از نزدیک مطالعه کنند."
+      },
+      "fields": {
+        "en": [
+          "Visual Arts",
+          "Architecture",
+          "Conservation and Restoration",
+          "Handicrafts",
+          "Design",
+          "Traditional Arts"
+        ],
+        "fa": [
+          "هنرهای تجسمی",
+          "معماری",
+          "مرمت",
+          "صنایع دستی",
+          "طراحی",
+          "هنرهای سنتی"
+        ]
+      }
+    }
+  ],
+  "research": {
+    "en": "Isfahan is one of Iran's important scientific and research centers, and its universities conduct research across a wide range of disciplines.\n\nIsfahan University of Technology is particularly active in engineering and technology, while the University of Isfahan and Isfahan University of Medical Sciences conduct research across natural sciences, humanities, medicine, and other fields.\n\nFor master's and PhD students, access to laboratories, research centers, experienced academics, and research projects can be an important part of the academic experience in Isfahan.\n\nThe connection between universities and the province's industrial sector can also provide students with opportunities to become familiar with professional environments and practical applications of academic knowledge.",
+    "fa": "اصفهان یکی از مراکز علمی و پژوهشی مهم ایران است و دانشگاه‌های آن در حوزه‌های متنوعی فعالیت‌های تحقیقاتی انجام می‌دهند.\n\nدانشگاه صنعتی اصفهان به‌ویژه در حوزه‌های مهندسی و فناوری و دانشگاه‌های اصفهان و علوم پزشکی نیز در حوزه‌های علوم پایه، علوم انسانی، پزشکی و سایر رشته‌ها فعالیت پژوهشی دارند.\n\nبرای دانشجویان مقاطع کارشناسی ارشد و دکتری، دسترسی به آزمایشگاه‌ها، مراکز تحقیقاتی، استادان متخصص و پروژه‌های پژوهشی می‌تواند بخش مهمی از تجربه تحصیل در اصفهان باشد.\n\nارتباط میان دانشگاه‌ها و بخش‌های صنعتی استان نیز فرصت‌هایی برای آشنایی دانشجویان با محیط حرفه‌ای و کاربردهای عملی دانش فراهم می‌کند."
+  },
+  "studentLife": {
+    "en": "Isfahan offers a balanced environment for student life. Compared with some of Iran's larger metropolitan areas, many parts of the city offer a relatively calmer environment, while living expenses can also be more manageable for students.\n\nAreas surrounding the city's major universities also offer various options for student accommodation, allowing students to choose between dormitories and apartments based on their budget and university location.\n\nThroughout the year, Isfahan hosts cultural festivals, art exhibitions, academic conferences, university events, and social programs. Participating in these events can provide opportunities for networking, meeting other students, and experiencing local culture.",
+    "fa": "اصفهان از نظر کیفیت زندگی دانشجویی یکی از شهرهای متعادل ایران محسوب می‌شود. در مقایسه با برخی کلان‌شهرهای بزرگ، فضای شهر در بسیاری از مناطق آرام‌تر است و هزینه‌های زندگی نیز می‌تواند برای دانشجویان قابل مدیریت‌تر باشد.\n\nمناطق اطراف دانشگاه‌های اصلی نیز امکانات مختلفی برای زندگی دانشجویی دارند و دانشجویان می‌توانند بر اساس بودجه و محل تحصیل خود، خوابگاه یا آپارتمان مناسب انتخاب کنند.\n\nاصفهان در طول سال میزبان جشنواره‌های فرهنگی، نمایشگاه‌های هنری، کنفرانس‌های علمی، رویدادهای دانشگاهی و برنامه‌های اجتماعی مختلف است. حضور در چنین رویدادهایی می‌تواند فرصت خوبی برای شبکه‌سازی، آشنایی با دانشجویان دیگر و تجربه فرهنگ محلی باشد."
+  },
+  "studentLifeFacilities": {
+    "en": [
+      "Libraries",
+      "Cafés",
+      "Restaurants",
+      "Shopping centers",
+      "Parks",
+      "Sports facilities",
+      "Cultural centers",
+      "Museums",
+      "Artistic spaces",
+      "Healthcare services"
+    ],
+    "fa": [
+      "کتابخانه‌ها",
+      "کافه‌ها",
+      "رستوران‌ها",
+      "مراکز خرید",
+      "پارک‌ها",
+      "مراکز ورزشی",
+      "مراکز فرهنگی",
+      "موزه‌ها",
+      "فضاهای هنری",
+      "خدمات درمانی"
+    ]
+  },
+  "costOfLiving": {
+    "en": "Cost of living is one of the factors that makes Isfahan attractive to many international students.\n\nCompared with Tehran, some everyday expenses in Isfahan may be lower. However, actual living costs depend on factors such as accommodation, neighborhood, lifestyle, and use of public services.\n\nChoosing university accommodation, using public transportation, and taking advantage of student services can help students manage their monthly expenses more effectively.",
+    "fa": "هزینه زندگی یکی از عواملی است که اصفهان را برای بسیاری از دانشجویان بین‌المللی جذاب می‌کند.\n\nدر مقایسه با تهران، هزینه برخی خدمات و اقلام زندگی در اصفهان می‌تواند پایین‌تر باشد؛ با این حال، هزینه واقعی زندگی به نوع اقامت، محله، سبک زندگی و میزان استفاده از امکانات شهری بستگی دارد.\n\nانتخاب خوابگاه دانشگاهی، استفاده از حمل‌ونقل عمومی و بهره‌گیری از خدمات دانشجویی می‌تواند به مدیریت بهتر هزینه‌های ماهانه کمک کند."
+  },
+  "expenses": [
+    {
+      "type": { "en": "University dormitory", "fa": "خوابگاه دانشگاهی" },
+      "situation": { "en": "Usually the most economical option", "fa": "معمولاً اقتصادی‌ترین گزینه" }
+    },
+    {
+      "type": { "en": "Private dormitory", "fa": "خوابگاه خصوصی" },
+      "situation": { "en": "Budget-friendly to moderate", "fa": "اقتصادی تا متوسط" }
+    },
+    {
+      "type": { "en": "Shared apartment", "fa": "آپارتمان اشتراکی" },
+      "situation": { "en": "Moderate", "fa": "متوسط" }
+    },
+    {
+      "type": { "en": "Private apartment", "fa": "آپارتمان مستقل" },
+      "situation": { "en": "Moderate to higher", "fa": "متوسط تا بالاتر" }
+    },
+    {
+      "type": { "en": "Food and groceries", "fa": "غذا و مواد غذایی" },
+      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+    },
+    {
+      "type": { "en": "Public transportation", "fa": "حمل‌ونقل عمومی" },
+      "situation": { "en": "Budget-friendly", "fa": "اقتصادی" }
+    },
+    {
+      "type": { "en": "Internet and mobile services", "fa": "اینترنت و تلفن همراه" },
+      "situation": { "en": "Relatively affordable", "fa": "نسبتاً مقرون‌به‌صرفه" }
+    },
+    {
+      "type": { "en": "Entertainment", "fa": "تفریح و سرگرمی" },
+      "situation": { "en": "Depends on lifestyle", "fa": "وابسته به سبک زندگی" }
+    }
+  ],
+  "accommodation": {
+    "en": "Many major universities in Isfahan provide dormitory facilities for non-local students and, in some cases, international students. Availability, capacity, and application procedures depend on each university's regulations.\n\nAreas around the University of Isfahan, Isfahan University of Medical Sciences, and other academic institutions are among the options considered by students.",
+    "fa": "بسیاری از دانشگاه‌های بزرگ اصفهان امکانات خوابگاهی برای دانشجویان غیربومی و در برخی موارد دانشجویان بین‌المللی فراهم می‌کنند. شرایط، ظرفیت و نحوه درخواست خوابگاه به مقررات هر دانشگاه بستگی دارد.\n\nمناطق اطراف دانشگاه اصفهان، دانشگاه علوم پزشکی اصفهان و سایر مراکز دانشگاهی از جمله گزینه‌های مورد توجه دانشجویان هستند."
+  },
+  "accommodationOptions": {
+    "en": [
+      "Private student dormitories",
+      "Student residences",
+      "Shared apartments",
+      "Private apartments",
+      "Rental units near universities"
+    ],
+    "fa": [
+      "خوابگاه‌های خصوصی",
+      "اقامتگاه‌های دانشجویی",
+      "آپارتمان‌های اشتراکی",
+      "آپارتمان‌های مستقل",
+      "واحدهای اجاره‌ای نزدیک دانشگاه"
+    ]
+  },
+  "accommodationConsiderations": {
+    "en": [
+      "Distance from the university",
+      "Access to metro and buses",
+      "Distance to grocery stores and everyday services",
+      "Rent and utility costs",
+      "Rental contract conditions",
+      "Neighborhood conditions",
+      "Access to healthcare facilities"
+    ],
+    "fa": [
+      "فاصله تا دانشگاه",
+      "دسترسی به مترو و اتوبوس",
+      "فاصله تا فروشگاه‌ها و خدمات روزمره",
+      "هزینه اجاره و قبوض",
+      "شرایط قرارداد",
+      "وضعیت محله",
+      "دسترسی به مراکز درمانی"
+    ]
+  },
+  "transport": {
+    "en": "Isfahan has a diverse public transportation network, and students can use metro, buses, BRT, and taxis for their daily commute.",
+    "fa": "اصفهان از شبکه متنوعی از حمل‌ونقل عمومی برخوردار است و دانشجویان می‌توانند برای رفت‌وآمد روزمره از مترو، اتوبوس، BRT و تاکسی استفاده کنند."
+  },
+  "transportOptions": {
+    "en": [
+      "Isfahan Metro — The Isfahan Metro connects parts of the city and is an important option for faster transportation. The network continues to develop, with access to different parts of the city expanding over time.",
+      "Buses and BRT — The city's bus network covers a large part of Isfahan, while BRT services provide faster transportation along some major routes. For students whose accommodation or university is located near bus routes, buses can be an economical transportation option.",
+      "Taxis and Ride-Hailing Services — Traditional taxis and ride-hailing services such as Snapp and Tapsi are also available in Isfahan, offering a flexible option for traveling around the city.",
+      "Isfahan International Airport — Isfahan International Airport provides access to a number of domestic and international destinations. For international students, having an international airport in the city is an important advantage, making travel between Isfahan, other Iranian cities, and their home countries more convenient."
+    ],
+    "fa": [
+      "متروی اصفهان — متروی اصفهان بخش‌هایی از شهر را به یکدیگر متصل می‌کند و یکی از گزینه‌های مهم برای جابه‌جایی سریع در شهر است. شبکه مترو در حال توسعه است و دسترسی آن به مناطق مختلف شهر در طول زمان گسترده‌تر شده است.",
+      "اتوبوس و BRT — شبکه اتوبوس‌رانی اصفهان بخش گسترده‌ای از شهر را پوشش می‌دهد و خطوط BRT نیز امکان جابه‌جایی سریع‌تر در برخی مسیرهای اصلی را فراهم می‌کنند. برای دانشجویانی که محل اقامت یا دانشگاه آن‌ها در نزدیکی خطوط اتوبوس قرار دارد، این روش یکی از گزینه‌های اقتصادی رفت‌وآمد محسوب می‌شود.",
+      "تاکسی و تاکسی‌های اینترنتی — تاکسی‌های شهری و سرویس‌های تاکسی اینترنتی مانند اسنپ و تپسی نیز در اصفهان فعال هستند و برای سفرهای درون‌شهری گزینه‌ای انعطاف‌پذیر ارائه می‌کنند.",
+      "فرودگاه بین‌المللی اصفهان — فرودگاه بین‌المللی شهید بهشتی اصفهان امکان دسترسی به برخی مقاصد داخلی و بین‌المللی را فراهم می‌کند. وجود فرودگاه بین‌المللی در شهر برای دانشجویان یک مزیت مهم است و رفت‌وآمد میان اصفهان، سایر شهرهای ایران و مقصد کشور مبدأ را ساده‌تر می‌کند."
+    ]
+  },
+  "climate": {
+    "en": "Isfahan has a dry and semi-arid climate, with noticeable differences in temperature between the seasons.",
+    "fa": "اصفهان دارای اقلیم خشک و نیمه‌خشک است و اختلاف دمای قابل توجهی میان فصل‌های مختلف سال دارد."
+  },
+  "seasons": [
+    {
+      "name": { "en": "Spring", "fa": "بهار" },
+      "description": {
+        "en": "Spring is one of the most pleasant seasons for living in and exploring Isfahan. Temperatures are generally milder, and the city's green spaces and historical attractions become particularly popular during this season.",
+        "fa": "بهار یکی از فصل‌های مناسب برای زندگی و گردش در اصفهان است. هوا معمولاً معتدل‌تر می‌شود و فضاهای سبز و جاذبه‌های تاریخی شهر در این فصل بسیار مورد توجه قرار می‌گیرند."
+      }
+    },
+    {
+      "name": { "en": "Summer", "fa": "تابستان" },
+      "description": {
+        "en": "Summers in Isfahan are hot and dry. During particularly warm days, outdoor activities are generally more comfortable during cooler hours.",
+        "fa": "تابستان‌های اصفهان گرم و خشک هستند. در روزهای گرم، فعالیت‌های بیرونی معمولاً در ساعات خنک‌تر روز راحت‌تر است."
+      }
+    },
+    {
+      "name": { "en": "Autumn", "fa": "پاییز" },
+      "description": {
+        "en": "As autumn begins, temperatures gradually decrease, making the weather more suitable for walking and exploring the city.",
+        "fa": "با آغاز پاییز، دما کاهش پیدا می‌کند و هوای شهر برای پیاده‌روی و گردش شهری مناسب‌تر می‌شود."
+      }
+    },
+    {
+      "name": { "en": "Winter", "fa": "زمستان" },
+      "description": {
+        "en": "Winters in Isfahan can be cold, with rain and occasional snowfall on some days. Students coming from warmer climates should be prepared for colder weather during the winter season.",
+        "fa": "زمستان‌های اصفهان می‌توانند سرد باشند و در برخی روزها بارش باران یا برف رخ دهد. دانشجویانی که از مناطق گرمسیری می‌آیند بهتر است برای فصل سرد لباس مناسب همراه داشته باشند."
+      }
+    }
+  ],
+  "healthcare": {
+    "en": "Isfahan is one of Iran's major healthcare centers and has an extensive network of hospitals, specialized medical centers, clinics, and medical research institutions.\n\nHospitals and healthcare facilities affiliated with Isfahan University of Medical Sciences provide medical and specialized services across a wide range of fields.\n\nInternational students can also use student insurance and university healthcare services or other contracted medical centers, depending on their university and insurance arrangements.\n\nAcross the city, students can find specialized hospitals, clinics, medical centers, pharmacies, laboratories, and healthcare facilities. This extensive healthcare network provides students with convenient access to medical services when needed.",
+    "fa": "اصفهان یکی از قطب‌های مهم درمانی ایران است و شبکه گسترده‌ای از بیمارستان‌ها، مراکز تخصصی، کلینیک‌ها و مراکز پژوهشی پزشکی در آن فعالیت می‌کنند.\n\nبیمارستان‌ها و مراکز درمانی وابسته به دانشگاه علوم پزشکی اصفهان در حوزه‌های مختلف پزشکی و تخصصی خدمات ارائه می‌کنند.\n\nدانشجویان بین‌المللی نیز می‌توانند بر اساس شرایط دانشگاه و بیمه خود از خدمات بیمه دانشجویی و مراکز درمانی دانشگاهی یا سایر مراکز طرف قرارداد استفاده کنند.\n\nدر سطح شهر نیز بیمارستان‌های تخصصی، درمانگاه‌ها، کلینیک‌های تخصصی، داروخانه‌ها، آزمایشگاه‌ها و مراکز خدمات پزشکی در دسترس هستند. وجود چنین شبکه‌ای باعث می‌شود دانشجویان در صورت نیاز، دسترسی مناسبی به خدمات درمانی داشته باشند."
+  },
+  "culture": {
+    "en": "Isfahan is one of Iran's most important cultural and historical cities and a major center of heritage in the Islamic world. Its many historical monuments reflect different periods of Iranian history and art.\n\nFor international students, living in Isfahan provides a unique opportunity to experience Iranian architecture, traditional arts, handicrafts, calligraphy, music, and an important part of the country's cultural history firsthand.\n\nStudent life in Isfahan extends beyond universities and academic activities. The city offers a variety of shopping centers, traditional bazaars, cafés, restaurants, parks, museums, art galleries, and cultural spaces. Isfahan is also famous for its long tradition of handicrafts, offering opportunities to discover arts such as miniature painting, enamelwork, metal engraving, Khatamkari, Persian carpets, and other traditional Iranian crafts.",
+    "fa": "اصفهان یکی از مهم‌ترین شهرهای فرهنگی و تاریخی ایران و جهان اسلام است. آثار تاریخی متعدد شهر، تصویری از دوره‌های مختلف تاریخ و هنر ایران ارائه می‌کنند.\n\nبرای دانشجویان بین‌المللی، زندگی در اصفهان فرصتی استثنایی برای آشنایی نزدیک با معماری ایرانی، هنرهای سنتی، صنایع دستی، خوشنویسی، موسیقی و بخش مهمی از تاریخ فرهنگی ایران فراهم می‌کند.\n\nزندگی دانشجویی در اصفهان فقط به دانشگاه محدود نمی‌شود. شهر دارای مجموعه‌ای از مراکز خرید، بازارهای سنتی، کافه‌ها، رستوران‌ها، پارک‌ها، موزه‌ها، گالری‌های هنری و فضاهای فرهنگی است. اصفهان همچنین به دلیل سابقه طولانی در صنایع دستی، محیط مناسبی برای آشنایی با هنرهایی مانند میناکاری، قلم‌زنی، خاتم‌کاری، فرش و سایر هنرهای سنتی ایران است."
+  },
+  "historicalAttractions": {
+    "en": [
+      "Naqsh-e Jahan Square — A UNESCO World Heritage Site and one of the world's largest historic urban squares, surrounded by four major Safavid landmarks.",
+      "Imam Mosque — One of the masterpieces of Safavid architecture, on the southern side of Naqsh-e Jahan Square.",
+      "Sheikh Lotfollah Mosque — On the eastern side of the square, internationally known for its architecture, dome, and intricate tilework.",
+      "Ali Qapu Palace — On the western side of the square, one of the most important buildings of the Safavid period.",
+      "Qeysarieh Gate and Isfahan Grand Bazaar — A historic bazaar offering traditional handicrafts, Iranian art, carpets, textiles, and local products.",
+      "Si-o-se-pol Bridge — One of Isfahan's most famous historic bridges, stretching across the Zayandeh River.",
+      "Khaju Bridge — A major historic bridge with architectural and historical value that has traditionally served as a social space.",
+      "Chehel Sotoun Palace — A Safavid-era monument known for its garden, halls, and valuable wall paintings.",
+      "Vank Cathedral and Jolfa District — An important historic monument of the Armenian community in the Jolfa district, known for its cafés and distinctive atmosphere.",
+      "Jameh Mosque of Isfahan — A UNESCO World Heritage Site showing the development of mosque architecture in Iran, notable for its four-iwan layout and historic domes."
+    ],
+    "fa": [
+      "میدان نقش جهان — ثبت‌شده در فهرست میراث جهانی یونسکو و یکی از بزرگ‌ترین میدان‌های شهری تاریخی جهان که چهار بنای مهم صفوی در اطراف آن قرار دارند.",
+      "مسجد امام — واقع در ضلع جنوبی میدان نقش جهان و یکی از شاهکارهای معماری دوره صفوی.",
+      "مسجد شیخ لطف‌الله — در ضلع شرقی میدان، به دلیل معماری، گنبد و تزئینات کاشی‌کاری شهرت جهانی دارد.",
+      "عمارت عالی‌قاپو — در ضلع غربی میدان نقش جهان و یکی از بناهای شاخص دوره صفوی.",
+      "بازار قیصریه و بازار تاریخی اصفهان — بخشی از بافت تاریخی شهر که می‌توان از طریق آن با صنایع دستی، هنرهای سنتی، فرش، پارچه و محصولات محلی آشنا شد.",
+      "سی‌وسه‌پل — یکی از مشهورترین پل‌های تاریخی اصفهان در امتداد زاینده‌رود.",
+      "پل خواجو — یکی از مهم‌ترین پل‌های تاریخی شهر که علاوه بر نقش ارتباطی، از نظر معماری و فضای اجتماعی اهمیت دارد.",
+      "کاخ چهلستون — یکی از بناهای مهم دوره صفوی با باغ، تالارها و نقاشی‌های دیواری ارزشمند.",
+      "کلیسای وانک و محله جلفا — یکی از مهم‌ترین بناهای تاریخی جامعه ارمنی شهر در محله جلفا که به کافه‌ها و فضای خاص خود شناخته می‌شود.",
+      "مسجد جامع اصفهان — ثبت‌شده در فهرست میراث جهانی یونسکو که روند تحول معماری مسجد در ایران را نشان می‌دهد و به‌ویژه به دلیل ساختار چهارایوانی و گنبدهای تاریخی اهمیت دارد."
+    ]
+  },
+  "naturalAttractions": {
+    "en": [
+      "The Central Iranian Deserts — Areas surrounding Isfahan provide convenient access to the deserts of central Iran, offering nature exploration, stargazing, photography, and a different landscape of Iran."
+    ],
+    "fa": [
+      "کویرهای مرکزی ایران — اطراف اصفهان دسترسی مناسبی به مناطق کویری مرکز ایران دارد و فرصت‌هایی برای طبیعت‌گردی، تماشای آسمان شب، عکاسی و تجربه چشم‌اندازهای متفاوت ایران فراهم می‌کند."
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Is Isfahan a good city for international students?",
+        "fa": "آیا اصفهان شهر مناسبی برای دانشجویان بین‌المللی است؟"
+      },
+      "answer": {
+        "en": "Yes. Isfahan is one of Iran's major academic and cultural cities and offers reputable universities, urban facilities, healthcare services, public transportation, and a wide range of cultural attractions.",
+        "fa": "بله. اصفهان یکی از شهرهای مهم دانشگاهی و فرهنگی ایران است و در کنار دانشگاه‌های معتبر، امکانات شهری، مراکز درمانی، حمل‌ونقل عمومی و جاذبه‌های فرهنگی متنوعی در اختیار دانشجویان قرار می‌دهد."
+      }
+    },
+    {
+      "question": {
+        "en": "How much does it cost to live in Isfahan?",
+        "fa": "هزینه زندگی در اصفهان چقدر است؟"
+      },
+      "answer": {
+        "en": "Living costs depend on accommodation, location, and lifestyle. However, compared with Tehran, Isfahan can be a more affordable option for many students.",
+        "fa": "هزینه زندگی به نوع اقامت، محل سکونت و سبک زندگی بستگی دارد، اما اصفهان در مقایسه با تهران می‌تواند گزینه‌ای مقرون‌به‌صرفه‌تر برای بسیاری از دانشجویان باشد."
+      }
+    },
+    {
+      "question": {
+        "en": "Does Isfahan have student accommodation?",
+        "fa": "آیا اصفهان خوابگاه دانشجویی دارد؟"
+      },
+      "answer": {
+        "en": "Many major universities in Isfahan provide student accommodation. Availability depends on the university, capacity, and regulations. Private dormitories and rental apartments are also available.",
+        "fa": "بسیاری از دانشگاه‌های بزرگ اصفهان امکانات خوابگاهی دارند. شرایط دریافت خوابگاه به دانشگاه، ظرفیت و مقررات مربوط به دانشجویان بستگی دارد. خوابگاه خصوصی و آپارتمان اجاره‌ای نیز از گزینه‌های دیگر هستند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is public transportation convenient in Isfahan?",
+        "fa": "آیا حمل‌ونقل عمومی در اصفهان مناسب است؟"
+      },
+      "answer": {
+        "en": "Yes. Metro, buses, BRT, traditional taxis, and ride-hailing services provide several options for getting around the city.",
+        "fa": "بله. مترو، اتوبوس، BRT و تاکسی‌های شهری و اینترنتی گزینه‌های مختلفی برای رفت‌وآمد در شهر فراهم می‌کنند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Isfahan suitable for medical students?",
+        "fa": "آیا اصفهان برای دانشجویان پزشکی مناسب است؟"
+      },
+      "answer": {
+        "en": "Yes. Isfahan University of Medical Sciences is one of Iran's major medical education institutions, and the city is home to numerous teaching hospitals and healthcare centers.",
+        "fa": "بله. دانشگاه علوم پزشکی اصفهان یکی از مراکز مهم آموزش پزشکی ایران است و در کنار آن، بیمارستان‌ها و مراکز درمانی آموزشی متعددی در شهر فعالیت می‌کنند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Isfahan suitable for engineering students?",
+        "fa": "آیا اصفهان برای تحصیل در رشته‌های مهندسی مناسب است؟"
+      },
+      "answer": {
+        "en": "Yes. Isfahan University of Technology is one of Iran's well-known universities in engineering and technology, while the University of Isfahan also offers programs in engineering and natural sciences.",
+        "fa": "بله. دانشگاه صنعتی اصفهان یکی از دانشگاه‌های شناخته‌شده ایران در حوزه مهندسی و فناوری است و دانشگاه اصفهان نیز رشته‌های مختلف مهندسی و علوم پایه را ارائه می‌کند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Isfahan a good city for art and architecture students?",
+        "fa": "آیا اصفهان برای دانشجویان هنر و معماری مناسب است؟"
+      },
+      "answer": {
+        "en": "Isfahan's rich architectural and artistic heritage makes it a unique environment for students of art, architecture, conservation, and traditional crafts. Isfahan University of Art also specializes in these fields.",
+        "fa": "اصفهان به دلیل میراث معماری و هنری بسیار غنی خود، محیطی منحصربه‌فرد برای دانشجویان هنر، معماری، مرمت و صنایع دستی فراهم می‌کند. دانشگاه هنر اصفهان نیز در این زمینه فعالیت می‌کند."
+      }
+    },
+    {
+      "question": {
+        "en": "What are the main historical attractions in Isfahan?",
+        "fa": "مهم‌ترین جاذبه‌های تاریخی اصفهان کدام‌اند؟"
+      },
+      "answer": {
+        "en": "Naqsh-e Jahan Square, Imam Mosque, Sheikh Lotfollah Mosque, Ali Qapu Palace, the historic bazaar, Si-o-se-pol Bridge, Khaju Bridge, Chehel Sotoun Palace, Vank Cathedral, and Jameh Mosque of Isfahan are among the city's most important historical attractions.",
+        "fa": "میدان نقش جهان، مسجد امام، مسجد شیخ لطف‌الله، عمارت عالی‌قاپو، بازار تاریخی، سی‌وسه‌پل، پل خواجو، کاخ چهلستون، کلیسای وانک و مسجد جامع اصفهان از مهم‌ترین جاذبه‌های تاریخی شهر هستند."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Isfahan close to other historic destinations in Iran?",
+        "fa": "آیا اصفهان به شهرهای تاریخی دیگر ایران نزدیک است؟"
+      },
+      "answer": {
+        "en": "Yes. Its central location provides relatively convenient access to destinations such as Kashan and Abyaneh, as well as the desert regions of central Iran, making short trips and weekend excursions possible.",
+        "fa": "بله. موقعیت اصفهان در مرکز ایران باعث شده دسترسی به مقاصدی مانند کاشان و ابیانه و همچنین مناطق کویری اطراف برای سفرهای کوتاه امکان‌پذیر باشد."
+      }
+    }
+  ]
+}

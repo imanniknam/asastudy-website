@@ -1,0 +1,816 @@
+{
+  "slug": "tehran",
+  "name": {
+    "en": "Tehran",
+    "fa": "تهران"
+  },
+  "province": {
+    "en": "Tehran Province",
+    "fa": "استان تهران"
+  },
+  "tagline": {
+    "en": "Tehran: Iran's Academic Capital and a Leading Destination for International Students",
+    "fa": "تهران؛ پایتخت علمی ایران و یکی از بهترین مقاصد تحصیلی برای دانشجویان بین‌المللی"
+  },
+  "summary": {
+    "en": "Tehran is Iran's academic, scientific, cultural, and economic center, home to the largest concentration of universities, research institutes, and teaching hospitals in the country. For international students it offers the most comprehensive study experience in Iran, combining academic excellence with real-world opportunities.",
+    "fa": "تهران پایتخت علمی، فرهنگی و اقتصادی ایران و میزبان بزرگ‌ترین مجموعه دانشگاه‌ها، مراکز تحقیقاتی و بیمارستان‌های آموزشی کشور است. این شهر کامل‌ترین تجربه تحصیل در ایران را در اختیار دانشجویان بین‌المللی قرار می‌دهد."
+  },
+  "facts": [
+    {
+      "label": { "en": "City", "fa": "شهر" },
+      "value": { "en": "Tehran", "fa": "تهران" }
+    },
+    {
+      "label": { "en": "Province", "fa": "استان" },
+      "value": { "en": "Tehran Province", "fa": "تهران" }
+    },
+    {
+      "label": { "en": "Population", "fa": "جمعیت" },
+      "value": {
+        "en": "Over 9 million (More than 14 million in the metropolitan area)",
+        "fa": "بیش از ۹ میلیون نفر (بیش از ۱۴ میلیون نفر در کلان‌شهر تهران)"
+      }
+    },
+    {
+      "label": { "en": "Country", "fa": "کشور" },
+      "value": { "en": "Iran", "fa": "ایران" }
+    },
+    {
+      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
+      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+    },
+    {
+      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "value": {
+        "en": "Semi-arid with four distinct seasons",
+        "fa": "نیمه‌خشک با چهار فصل متمایز"
+      }
+    },
+    {
+      "label": { "en": "Official Language", "fa": "زبان رسمی" },
+      "value": { "en": "Persian (Farsi)", "fa": "فارسی" }
+    },
+    {
+      "label": { "en": "Currency", "fa": "واحد پول" },
+      "value": { "en": "Iranian Rial (IRR)", "fa": "ریال ایران (IRR)" }
+    },
+    {
+      "label": { "en": "International Airport", "fa": "فرودگاه بین‌المللی" },
+      "value": {
+        "en": "Imam Khomeini International Airport (IKA)",
+        "fa": "فرودگاه بین‌المللی امام خمینی (IKA)"
+      }
+    },
+    {
+      "label": { "en": "Main Student Areas", "fa": "مهم‌ترین مناطق دانشجویی" },
+      "value": {
+        "en": "Enghelab, Amirabad, Yousef Abad, Gisha, North Kargar, Vanak",
+        "fa": "امیرآباد، انقلاب، یوسف‌آباد، گیشا، کارگر شمالی، ونک"
+      }
+    },
+    {
+      "label": { "en": "Public Transportation", "fa": "سیستم حمل‌ونقل" },
+      "value": {
+        "en": "Metro, BRT, City Buses, Taxis, Snapp & Tapsi",
+        "fa": "مترو، اتوبوس تندرو (BRT)، اتوبوس شهری، تاکسی، اسنپ و تپسی"
+      }
+    },
+    {
+      "label": { "en": "Average Living Cost", "fa": "هزینه زندگی" },
+      "value": {
+        "en": "Moderate compared to many regional capitals",
+        "fa": "متوسط و مقرون‌به‌صرفه در مقایسه با بسیاری از پایتخت‌های منطقه"
+      }
+    }
+  ],
+  "whyStudyHere": {
+    "en": "For many international students, Tehran is more than just Iran's capital—it is the country's academic, scientific, cultural, and economic center. Home to the largest concentration of universities, research institutes, teaching hospitals, and technology companies, the city offers an educational environment that combines academic excellence with real-world opportunities.\n\nStudying in Tehran means learning in a city where higher education, innovation, and professional development intersect. Students have access to internationally recognized universities, modern research laboratories, advanced healthcare facilities, startup ecosystems, and a vibrant academic community.\n\nLife in Tehran is not limited to the classroom. Cultural diversity, academic events, exhibitions, international conferences, art centers, libraries, museums, and numerous amenities allow students to gain a rich experience of life in Iran alongside their academic progress.\n\nWhether you plan to study medicine, engineering, architecture, business, social sciences, or the arts, Tehran provides one of the most comprehensive academic ecosystems in Iran.",
+    "fa": "برای بسیاری از دانشجویان بین‌المللی، تهران تنها پایتخت ایران نیست؛ بلکه قلب تپنده آموزش عالی، پژوهش، فناوری، اقتصاد و فرهنگ کشور به شمار می‌رود. این شهر با میزبانی بزرگ‌ترین مجموعه دانشگاه‌ها، مراکز تحقیقاتی، بیمارستان‌های آموزشی و شرکت‌های دانش‌بنیان، یکی از کامل‌ترین محیط‌های آموزشی ایران را برای ادامه تحصیل فراهم کرده است.\n\nتحصیل در تهران به معنای حضور در شهری است که آموزش دانشگاهی با فرصت‌های واقعی شغلی، پژوهشی و نوآوری پیوند خورده است. دانشجویان علاوه بر بهره‌مندی از آموزش در دانشگاه‌های معتبر، به آزمایشگاه‌های پیشرفته، مراکز تحقیقاتی، بیمارستان‌های تخصصی، پارک‌های علم و فناوری و اکوسیستم فعال استارتاپی نیز دسترسی دارند؛ موضوعی که تهران را به یکی از بهترین گزینه‌ها برای ادامه تحصیل در ایران تبدیل کرده است.\n\nاز سوی دیگر، زندگی در تهران فقط به حضور در کلاس‌های درس محدود نمی‌شود. تنوع فرهنگی، رویدادهای علمی، نمایشگاه‌ها، همایش‌های بین‌المللی، مراکز هنری، کتابخانه‌ها، موزه‌ها و امکانات رفاهی متعدد باعث شده‌اند دانشجویان بتوانند در کنار پیشرفت تحصیلی، تجربه‌ای غنی از زندگی در ایران نیز به دست آورند.\n\nفرقی نمی‌کند قصد تحصیل در رشته‌های پزشکی، دندان‌پزشکی، داروسازی، مهندسی، معماری، مدیریت، علوم انسانی، هنر یا علوم پایه را داشته باشید؛ تهران با ترکیب دانشگاه‌های معتبر، امکانات آموزشی پیشرفته و محیطی پویا، یکی از کامل‌ترین و جذاب‌ترین مقاصد تحصیلی برای دانشجویان بین‌المللی محسوب می‌شود."
+  },
+  "advantages": {
+    "en": [
+      "Home to Iran's highest-ranked universities",
+      "Wide range of undergraduate and postgraduate programs",
+      "Leading medical, engineering, business, and humanities schools",
+      "Numerous research institutes and innovation centers",
+      "Extensive teaching hospitals for medical education",
+      "Diverse international student community",
+      "Excellent public transportation system",
+      "Rich cultural, historical, and artistic environment",
+      "Greater internship and networking opportunities",
+      "Easy access to embassies, government organizations, and international services"
+    ],
+    "fa": [
+      "میزبان معتبرترین و برترین دانشگاه‌های ایران",
+      "تنوع گسترده رشته‌های کارشناسی، کارشناسی ارشد و دکتری",
+      "قطب آموزش پزشکی، دندان‌پزشکی، داروسازی، مهندسی، مدیریت و علوم انسانی",
+      "برخورداری از ده‌ها مرکز تحقیقاتی، پژوهشی و نوآوری",
+      "وجود بیمارستان‌های آموزشی پیشرفته برای آموزش علوم پزشکی",
+      "جامعه بزرگ و چندملیتی از دانشجویان بین‌المللی",
+      "شبکه گسترده و مقرون‌به‌صرفه حمل‌ونقل عمومی",
+      "زندگی در بزرگ‌ترین مرکز فرهنگی، اقتصادی و علمی ایران",
+      "فرصت‌های بیشتر برای کارآموزی، فعالیت‌های پژوهشی و ارتباط با صنعت",
+      "دسترسی آسان به سفارتخانه‌ها، سازمان‌های دولتی و خدمات بین‌المللی"
+    ]
+  },
+  "about": {
+    "en": "Located at the southern foothills of the Alborz Mountains, Tehran is Iran's largest city and serves as the country's political, economic, educational, and cultural capital.\n\nWith a metropolitan population exceeding fourteen million, Tehran is one of the largest urban centers in the Middle East. The city has developed into Iran's primary hub for higher education, scientific research, healthcare, finance, technology, media, and international cooperation.\n\nFor international students, Tehran is often the first introduction to Iran. Its combination of historic landmarks, modern infrastructure, multicultural neighborhoods, and dynamic student life creates an environment where academic achievement and cultural exploration go hand in hand.\n\nUnlike many capitals that are dominated by business districts, Tehran's universities are deeply integrated into the city. Campuses, research centers, libraries, museums, cafés, bookstores, and student communities are spread across different neighborhoods, making education an integral part of everyday urban life.\n\nLiving in Tehran also provides students with opportunities to experience Persian culture firsthand—from traditional bazaars and historical palaces to contemporary art galleries, theaters, music festivals, and modern shopping centers.",
+    "fa": "تهران، پایتخت جمهوری اسلامی ایران، در دامنه‌های جنوبی رشته‌کوه البرز قرار گرفته و بزرگ‌ترین شهر کشور از نظر جمعیت، وسعت و اهمیت اقتصادی، علمی و فرهنگی به شمار می‌رود. این شهر نه‌تنها مرکز سیاسی ایران است، بلکه مهم‌ترین قطب آموزش عالی، پژوهش، فناوری، تجارت، خدمات درمانی و فعالیت‌های بین‌المللی نیز محسوب می‌شود.\n\nبا جمعیتی بیش از ۹ میلیون نفر در محدوده شهری و بیش از ۱۴ میلیون نفر در کلان‌شهر تهران، این شهر یکی از بزرگ‌ترین مراکز شهری خاورمیانه است. حضور صدها مرکز آموزشی، پژوهشی، فرهنگی و اقتصادی باعث شده تهران به مقصد اصلی بسیاری از دانشجویان داخلی و بین‌المللی تبدیل شود.\n\nبرای دانشجویانی که از کشورهای دیگر به ایران می‌آیند، تهران معمولاً نخستین تجربه زندگی در این کشور است. ترکیب معماری تاریخی و مدرن، زیرساخت‌های شهری پیشرفته، محله‌های متنوع، مراکز خرید، فضاهای فرهنگی و محیط دانشگاهی پویا، تجربه‌ای منحصربه‌فرد از زندگی دانشجویی را فراهم می‌کند.\n\nیکی از ویژگی‌های منحصربه‌فرد تهران، تلفیق دانشگاه‌ها با بافت شهری است. برخلاف بسیاری از شهرها که پردیس‌های دانشگاهی در خارج از شهر قرار دارند، دانشگاه‌های تهران در قلب مناطق مختلف شهر واقع شده‌اند. کتابخانه‌ها، مراکز تحقیقاتی، کافه‌های دانشجویی، کتاب‌فروشی‌ها، مراکز فرهنگی و فضاهای مطالعه در نزدیکی دانشگاه‌ها قرار دارند و همین موضوع باعث شده فضای علمی در زندگی روزمره شهر جریان داشته باشد.\n\nزندگی در تهران همچنین فرصتی ارزشمند برای آشنایی با فرهنگ ایرانی است. از بازارهای سنتی و کاخ‌های تاریخی گرفته تا گالری‌های هنری، سالن‌های تئاتر، جشنواره‌های فرهنگی، کنسرت‌ها و مراکز خرید مدرن، این شهر مجموعه‌ای متنوع از تجربه‌های فرهنگی و اجتماعی را در اختیار دانشجویان قرار می‌دهد."
+  },
+  "universities": [
+    {
+      "name": {
+        "en": "Tehran University of Medical Sciences (TUMS)",
+        "fa": "دانشگاه علوم پزشکی تهران (TUMS)"
+      },
+      "slug": "tehran-university-of-medical-sciences",
+      "description": {
+        "en": "One of Tehran's leading medical universities, internationally recognized for the quality of its teaching, its clinical facilities, and its research activity. Its affiliated teaching hospitals are among the best-equipped medical centers in the country and provide students with valuable clinical experience and access to advanced healthcare facilities.",
+        "fa": "یکی از معتبرترین دانشگاه‌های علوم پزشکی تهران که در سطح بین‌المللی به دلیل کیفیت آموزش، امکانات درمانی و فعالیت‌های پژوهشی شناخته شده است. بیمارستان‌های آموزشی وابسته به این دانشگاه از مجهزترین مراکز درمانی کشور هستند و فرصت ارزشمندی برای کسب تجربه عملی در کنار آموزش دانشگاهی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Medicine (MD)",
+          "Dentistry (DDS)",
+          "Pharmacy (PharmD)",
+          "Nursing",
+          "Public Health",
+          "Allied Health Sciences",
+          "Medical Specialties",
+          "Biomedical Research"
+        ],
+        "fa": [
+          "پزشکی (MD)",
+          "دندان‌پزشکی (DDS)",
+          "داروسازی (PharmD)",
+          "پرستاری",
+          "بهداشت عمومی",
+          "علوم پیراپزشکی",
+          "رشته‌های تخصصی پزشکی",
+          "پژوهش‌های علوم زیست‌پزشکی"
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Shahid Beheshti University of Medical Sciences (SBMU)",
+        "fa": "دانشگاه علوم پزشکی شهید بهشتی (SBMU)"
+      },
+      "slug": "shahid-beheshti-university-of-medical-sciences",
+      "description": {
+        "en": "One of Tehran's leading medical universities, internationally recognized for the quality of its teaching, its clinical facilities, and its research activity. Its affiliated teaching hospitals are among the best-equipped medical centers in the country and provide students with valuable clinical experience and access to advanced healthcare facilities.",
+        "fa": "یکی از معتبرترین دانشگاه‌های علوم پزشکی تهران که در سطح بین‌المللی به دلیل کیفیت آموزش، امکانات درمانی و فعالیت‌های پژوهشی شناخته شده است. بیمارستان‌های آموزشی وابسته به این دانشگاه از مجهزترین مراکز درمانی کشور هستند و فرصت ارزشمندی برای کسب تجربه عملی در کنار آموزش دانشگاهی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Medicine (MD)",
+          "Dentistry (DDS)",
+          "Pharmacy (PharmD)",
+          "Nursing",
+          "Public Health",
+          "Allied Health Sciences",
+          "Medical Specialties",
+          "Biomedical Research"
+        ],
+        "fa": [
+          "پزشکی (MD)",
+          "دندان‌پزشکی (DDS)",
+          "داروسازی (PharmD)",
+          "پرستاری",
+          "بهداشت عمومی",
+          "علوم پیراپزشکی",
+          "رشته‌های تخصصی پزشکی",
+          "پژوهش‌های علوم زیست‌پزشکی"
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Iran University of Medical Sciences (IUMS)",
+        "fa": "دانشگاه علوم پزشکی ایران (IUMS)"
+      },
+      "slug": "iran-university-of-medical-sciences",
+      "description": {
+        "en": "One of Tehran's leading medical universities, internationally recognized for the quality of its teaching, its clinical facilities, and its research activity. Its affiliated teaching hospitals are among the best-equipped medical centers in the country and provide students with valuable clinical experience and access to advanced healthcare facilities.",
+        "fa": "یکی از معتبرترین دانشگاه‌های علوم پزشکی تهران که در سطح بین‌المللی به دلیل کیفیت آموزش، امکانات درمانی و فعالیت‌های پژوهشی شناخته شده است. بیمارستان‌های آموزشی وابسته به این دانشگاه از مجهزترین مراکز درمانی کشور هستند و فرصت ارزشمندی برای کسب تجربه عملی در کنار آموزش دانشگاهی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Medicine (MD)",
+          "Dentistry (DDS)",
+          "Pharmacy (PharmD)",
+          "Nursing",
+          "Public Health",
+          "Allied Health Sciences",
+          "Medical Specialties",
+          "Biomedical Research"
+        ],
+        "fa": [
+          "پزشکی (MD)",
+          "دندان‌پزشکی (DDS)",
+          "داروسازی (PharmD)",
+          "پرستاری",
+          "بهداشت عمومی",
+          "علوم پیراپزشکی",
+          "رشته‌های تخصصی پزشکی",
+          "پژوهش‌های علوم زیست‌پزشکی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "University of Tehran", "fa": "دانشگاه تهران" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Shahid Beheshti University", "fa": "دانشگاه شهید بهشتی" },
+      "slug": "shahid-beheshti-university",
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Tarbiat Modares University", "fa": "دانشگاه تربیت مدرس" },
+      "slug": "tarbiat-modares-university",
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Sharif University of Technology", "fa": "دانشگاه صنعتی شریف" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Amirkabir University of Technology", "fa": "دانشگاه صنعتی امیرکبیر" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Iran University of Science and Technology", "fa": "دانشگاه علم و صنعت ایران" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Kharazmi University", "fa": "دانشگاه خوارزمی" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Allameh Tabataba'i University", "fa": "دانشگاه علامه طباطبایی" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Alzahra University", "fa": "دانشگاه الزهرا" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    },
+    {
+      "name": { "en": "Shahed University", "fa": "دانشگاه شاهد" },
+      "description": {
+        "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
+        "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
+      },
+      "fields": {
+        "en": [
+          "Engineering",
+          "Natural sciences",
+          "Architecture",
+          "Computer science and information technology",
+          "Management and economics",
+          "Law",
+          "Humanities",
+          "Social sciences",
+          "Education",
+          "Art and design"
+        ],
+        "fa": [
+          "مهندسی",
+          "علوم پایه",
+          "معماری",
+          "علوم کامپیوتر و فناوری اطلاعات",
+          "مدیریت و اقتصاد",
+          "حقوق",
+          "علوم انسانی",
+          "علوم اجتماعی",
+          "علوم تربیتی",
+          "هنر و طراحی"
+        ]
+      }
+    }
+  ],
+  "research": {
+    "en": "Beyond its universities, Tehran hosts many of Iran's leading research institutes, science and technology parks, innovation hubs, and knowledge-based companies. This ecosystem provides students with opportunities to participate in research projects, academic conferences, startup events, and collaborations with industry.\n\nFor graduate students and researchers, studying in Tehran offers access to a broad academic network, modern laboratories, specialized libraries, and interdisciplinary research centers that support innovation across a wide range of fields.\n\nThis dynamic scientific environment helps students strengthen their research and professional skills alongside their theoretical knowledge.",
+    "fa": "تهران تنها یک شهر دانشگاهی نیست؛ بلکه قلب پژوهش و نوآوری ایران نیز محسوب می‌شود. بخش قابل توجهی از مراکز تحقیقاتی کشور، پارک‌های علم و فناوری، شرکت‌های دانش‌بنیان، شتاب‌دهنده‌های استارتاپی و مراکز نوآوری در این شهر مستقر هستند.\n\nدانشجویان، به‌ویژه در مقاطع تحصیلات تکمیلی، فرصت دارند در پروژه‌های پژوهشی، کنفرانس‌های علمی، همایش‌های بین‌المللی، کارگاه‌های تخصصی و برنامه‌های مشترک میان دانشگاه و صنعت مشارکت کنند.\n\nوجود آزمایشگاه‌های مدرن، مراکز تحقیقاتی میان‌رشته‌ای، کتابخانه‌های تخصصی و شبکه گسترده‌ای از استادان و پژوهشگران برجسته، تهران را به یکی از بهترین شهرهای ایران برای انجام تحقیقات علمی و توسعه فناوری تبدیل کرده است. این محیط علمی پویا به دانشجویان کمک می‌کند علاوه بر کسب دانش نظری، مهارت‌های پژوهشی و حرفه‌ای خود را نیز تقویت کنند."
+  },
+  "studentLife": {
+    "en": "Studying in Tehran offers much more than earning a university degree. As Iran's largest academic hub, the city provides an active student lifestyle where education, culture, research, and social life come together.\n\nThousands of students from across Iran and many other countries live and study in Tehran, creating a diverse academic community. Around major university campuses, you'll find bookstores, libraries, study cafés, co-working spaces, cultural centers, and student-friendly restaurants, making it easy to balance academic responsibilities with social activities.\n\nSome of the city's best-known student neighborhoods include Enghelab Street, Karim Khan Avenue, Valiasr Street, Amirabad, Gisha, North Kargar, and Yousef Abad. These areas are popular because of their proximity to universities, affordable dining options, bookstores, and convenient public transportation.\n\nThroughout the academic year, universities and research institutions organize conferences, seminars, startup competitions, cultural festivals, workshops, and networking events. These activities give students valuable opportunities to expand their academic knowledge, develop professional skills, and build connections with professors, researchers, and industry professionals.\n\nFor international students, living in Tehran also means experiencing everyday Iranian culture—from traditional cafés and Persian cuisine to museums, theaters, art galleries, and seasonal celebrations.\n\nTehran is Iran's cultural capital and offers a rich blend of history, modernity, and artistic life. Students can visit:",
+    "fa": "تحصیل در تهران تنها به حضور در کلاس‌های دانشگاه محدود نمی‌شود؛ بلکه تجربه‌ای کامل از زندگی در بزرگ‌ترین مرکز علمی و فرهنگی ایران را فراهم می‌کند. این شهر با میزبانی صدها هزار دانشجو از سراسر ایران و کشورهای مختلف، محیطی پویا، چندفرهنگی و سرشار از فرصت‌های آموزشی و اجتماعی ایجاد کرده است.\n\nدر اطراف دانشگاه‌های بزرگ تهران، مجموعه‌ای از امکانات موردنیاز دانشجویان در دسترس است؛ از کتاب‌فروشی‌های تخصصی و کافه‌های مناسب مطالعه گرفته تا فضاهای کار اشتراکی، مراکز فرهنگی، رستوران‌های دانشجویی و مراکز خدمات آموزشی. این امکانات باعث می‌شوند دانشجویان بتوانند تعادل مناسبی میان تحصیل، پژوهش و زندگی روزمره برقرار کنند.\n\nبرخی از شناخته‌شده‌ترین مناطق دانشجویی تهران عبارت‌اند از خیابان انقلاب، خیابان کریم‌خان، خیابان ولیعصر، امیرآباد، گیشا، کارگر شمالی و یوسف‌آباد. این مناطق به دلیل نزدیکی به دانشگاه‌های معتبر، دسترسی آسان به حمل‌ونقل عمومی، کتاب‌فروشی‌های متعدد، مراکز خدماتی و غذاخوری‌های مقرون‌به‌صرفه، از محبوب‌ترین محله‌ها میان دانشجویان محسوب می‌شوند.\n\nدر طول سال تحصیلی نیز دانشگاه‌های تهران میزبان رویدادهای متنوعی مانند کنفرانس‌های علمی، سمینارها، کارگاه‌های آموزشی، جشنواره‌های فرهنگی، مسابقات استارتاپی و برنامه‌های شبکه‌سازی هستند. حضور در این رویدادها فرصت مناسبی برای آشنایی با استادان، پژوهشگران، کارآفرینان و سایر دانشجویان فراهم می‌کند و نقش مهمی در توسعه مهارت‌های حرفه‌ای و آینده شغلی دانشجویان دارد.\n\nاز سوی دیگر، زندگی در تهران فرصتی مناسب برای آشنایی با فرهنگ و سبک زندگی ایرانی است. دانشجویان بین‌المللی می‌توانند در کنار تحصیل، از کافه‌های سنتی، غذاهای ایرانی، موزه‌ها، گالری‌های هنری، سالن‌های تئاتر، جشنواره‌های فرهنگی و آیین‌های مختلف ایرانی نیز لذت ببرند و تجربه‌ای فراتر از یک دوره تحصیلی کسب کنند.\n\nتهران به عنوان پایتخت فرهنگی ایران، شهری است که در آن تاریخ، هنر، سنت و زندگی مدرن در کنار یکدیگر جریان دارند. برخی از مهم‌ترین جاذبه‌های فرهنگی تهران عبارت‌اند از:"
+  },
+  "studentLifeFacilities": {
+    "en": [
+      "National museums",
+      "Contemporary art galleries",
+      "Historic palaces",
+      "Libraries and cultural centers",
+      "International book fairs",
+      "Music concerts",
+      "Film festivals",
+      "Theater performances",
+      "Science and technology exhibitions"
+    ],
+    "fa": [
+      "موزه‌های ملی و تخصصی",
+      "گالری‌های هنرهای معاصر",
+      "کاخ‌ها و بناهای تاریخی",
+      "کتابخانه‌ها و مراکز فرهنگی",
+      "نمایشگاه بین‌المللی کتاب تهران",
+      "جشنواره‌های موسیقی",
+      "جشنواره‌های فیلم",
+      "سالن‌های تئاتر",
+      "نمایشگاه‌های علمی و فناوری"
+    ]
+  },
+  "costOfLiving": {
+    "en": "Compared with many other capital cities in the region, Tehran offers a relatively affordable cost of living for international students. Although living costs are generally higher than in other Iranian cities, they remain considerably lower than those of many European, North American, or neighboring Middle Eastern capitals.\n\nActual monthly expenses depend on lifestyle, accommodation type, eating habits, use of public transportation, and personal spending habits. Students who use university dormitories, student cafeterias, and public transportation generally spend considerably less each month than those renting a private apartment.\n\nMany universities also offer subsidized cafeterias, student housing, libraries, healthcare services, sports facilities, and discounted transportation, helping students reduce their overall living expenses.",
+    "fa": "یکی از مهم‌ترین دغدغه‌های دانشجویان بین‌المللی پیش از انتخاب مقصد تحصیلی، هزینه‌های زندگی است. خبر خوب این است که تهران، با وجود اینکه گران‌ترین شهر ایران محسوب می‌شود، همچنان در مقایسه با بسیاری از پایتخت‌های منطقه و شهرهای دانشجویی اروپا، آمریکای شمالی و حتی برخی کشورهای همسایه، مقصدی مقرون‌به‌صرفه برای ادامه تحصیل به شمار می‌رود.\n\nهزینه نهایی زندگی در تهران به عوامل مختلفی مانند نوع محل اقامت، سبک زندگی، عادات غذایی، استفاده از حمل‌ونقل عمومی و میزان تفریحات شخصی بستگی دارد. دانشجویانی که از خوابگاه‌های دانشجویی، سلف‌های دانشجویی و وسایل حمل‌ونقل عمومی استفاده می‌کنند، معمولاً هزینه‌های ماهانه بسیار کمتری نسبت به افرادی دارند که آپارتمان شخصی اجاره می‌کنند.\n\nبه طور کلی، بسیاری از دانشگاه‌های ایران امکانات رفاهی متنوعی مانند خوابگاه، سلف دانشجویی، کتابخانه، مراکز ورزشی، خدمات درمانی و حتی تخفیف در استفاده از حمل‌ونقل عمومی را با هزینه‌ای یارانه‌ای در اختیار دانشجویان بین‌المللی قرار می‌دهند که نقش مهمی در کاهش هزینه‌های زندگی دارد."
+  },
+  "expenses": [
+    {
+      "type": { "en": "University Dormitory", "fa": "خوابگاه دانشجویی" },
+      "situation": { "en": "USD 30–120", "fa": "۳۰ تا ۱۲۰ دلار آمریکا" }
+    },
+    {
+      "type": { "en": "Private Accommodation", "fa": "اقامت در آپارتمان شخصی" },
+      "situation": { "en": "USD 150–400", "fa": "۱۵۰ تا ۴۰۰ دلار آمریکا" }
+    },
+    {
+      "type": { "en": "Food and Groceries", "fa": "غذا و مواد غذایی" },
+      "situation": { "en": "USD 80–180", "fa": "۸۰ تا ۱۸۰ دلار آمریکا" }
+    },
+    {
+      "type": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
+      "situation": { "en": "USD 10–25", "fa": "۱۰ تا ۲۵ دلار آمریکا" }
+    },
+    {
+      "type": { "en": "Mobile & Internet", "fa": "اینترنت و تلفن همراه" },
+      "situation": { "en": "USD 5–15", "fa": "۵ تا ۱۵ دلار آمریکا" }
+    },
+    {
+      "type": { "en": "Personal Expenses & Entertainment", "fa": "هزینه‌های شخصی و تفریح" },
+      "situation": { "en": "USD 30–100", "fa": "۳۰ تا ۱۰۰ دلار آمریکا" }
+    }
+  ],
+  "accommodation": {
+    "en": "Most major universities in Tehran provide accommodation for international students, subject to availability. Because dormitory allocation usually depends on university capacity and admission conditions, students are advised to follow up on the dormitory situation at their chosen university from the earliest stages of the application process.\n\nUniversity dormitories are generally the most affordable option and are usually located either on campus or within easy reach of university facilities, which reduces costs and makes daily commuting easier.\n\nStudents who prefer greater independence have a wide range of rental options across the city.\n\nPopular residential areas for students include Amirabad, Gisha, Yousef Abad, North Kargar, Sattarkhan, Tehranpars, Vanak, and the areas surrounding major university campuses.",
+    "fa": "بیشتر دانشگاه‌های بزرگ تهران برای دانشجویان بین‌المللی خوابگاه اختصاصی یا امکانات اسکان دانشجویی فراهم می‌کنند. البته تخصیص خوابگاه معمولاً به ظرفیت دانشگاه و شرایط پذیرش بستگی دارد؛ بنابراین توصیه می‌شود دانشجویان از همان مراحل اولیه اپلای، وضعیت خوابگاه را در دانشگاه موردنظر خود پیگیری کنند.\n\nخوابگاه‌های دانشگاهی معمولاً اقتصادی‌ترین گزینه برای اقامت هستند و اغلب در داخل پردیس دانشگاه یا در فاصله‌ای کوتاه از آن قرار دارند. این موضوع علاوه بر کاهش هزینه‌ها، رفت‌وآمد روزانه دانشجویان را نیز آسان می‌کند.\n\nدانشجویانی که ترجیح می‌دهند به‌صورت مستقل زندگی کنند، گزینه‌های متنوعی برای اجاره مسکن در تهران در اختیار دارند.\n\nمحبوب‌ترین مناطق برای سکونت دانشجویان عبارت‌اند از امیرآباد، گیشا، یوسف‌آباد، کارگر شمالی، ستارخان، تهرانپارس، ونک و محله‌های اطراف دانشگاه‌های بزرگ."
+  },
+  "accommodationOptions": {
+    "en": [
+      "Private student residences",
+      "Shared apartments",
+      "Studio apartments",
+      "Family apartments",
+      "Rental housing near university campuses"
+    ],
+    "fa": [
+      "خوابگاه‌های خصوصی",
+      "آپارتمان‌های اشتراکی",
+      "واحدهای استودیویی",
+      "آپارتمان‌های مناسب خانواده",
+      "واحدهای اجاره‌ای در نزدیکی دانشگاه‌ها"
+    ]
+  },
+  "accommodationConsiderations": {
+    "en": [
+      "Commuting time to the university",
+      "Access to metro or bus stations",
+      "Nearby supermarkets and grocery stores",
+      "Healthcare facilities",
+      "Daily living expenses"
+    ],
+    "fa": [
+      "فاصله تا دانشگاه",
+      "دسترسی به ایستگاه مترو یا اتوبوس",
+      "وجود فروشگاه‌های مواد غذایی",
+      "مراکز درمانی",
+      "هزینه‌های روزمره"
+    ]
+  },
+  "transport": {
+    "en": "One of Tehran's greatest advantages for students is its extensive and affordable public transportation network—one of the largest public transport systems in the Middle East. It allows students to reach universities, hospitals, research centers, and other parts of the city at reasonable cost and without needing a private car.\n\nThe Tehran Metro is the largest urban rail system in Iran and one of the most efficient ways to travel across the city. With multiple interconnected lines, it provides convenient access to residential neighborhoods, business districts, hospitals, and many university campuses, and several major universities are located within walking distance of metro stations, making daily commuting fast and economical.\n\nTehran also operates an extensive Bus Rapid Transit (BRT) network that connects many parts of the city. Dedicated bus lanes help reduce travel time, making BRT a reliable option for students. Conventional city buses and licensed taxis complement the public transport system and provide additional flexibility for commuting, including in areas the metro does not cover.\n\nOnline ride-hailing platforms such as Snapp and Tapsi are widely used throughout Tehran. These services are generally affordable, easy to use through mobile apps, and available 24 hours a day, making them a good option for daily trips or late-night travel.\n\nFor international students, using public transportation is both affordable and efficient, making it easy to explore different parts of the city without owning a private vehicle.",
+    "fa": "یکی از مهم‌ترین مزایای زندگی دانشجویی در تهران، دسترسی به یکی از گسترده‌ترین و کارآمدترین شبکه‌های حمل‌ونقل عمومی در خاورمیانه است. این سیستم به دانشجویان امکان می‌دهد با هزینه‌ای مناسب و بدون نیاز به خودروی شخصی، به دانشگاه، مراکز درمانی، کتابخانه‌ها و سایر نقاط شهر رفت‌وآمد کنند.\n\nمتروی تهران بزرگ‌ترین شبکه ریلی شهری ایران است و سریع‌ترین و اقتصادی‌ترین وسیله برای تردد در سطح شهر به شمار می‌رود. خطوط متعدد مترو تقریباً تمامی مناطق مهم تهران را به یکدیگر متصل می‌کنند و بسیاری از دانشگاه‌های بزرگ در فاصله چند دقیقه‌ای از ایستگاه‌های مترو قرار دارند. به همین دلیل، مترو نخستین انتخاب بسیاری از دانشجویان برای رفت‌وآمد روزانه است.\n\nشبکه اتوبوس‌های تندرو تهران بخش مهم دیگری از سیستم حمل‌ونقل عمومی شهر را تشکیل می‌دهد. خطوط اختصاصی BRT باعث کاهش زمان سفر شده و دسترسی به بسیاری از مناطق دانشگاهی را آسان می‌کند. علاوه بر مترو و BRT، شبکه گسترده اتوبوس‌های شهری و تاکسی‌های رسمی نیز در سراسر تهران فعال هستند و امکان دسترسی به مناطقی را که تحت پوشش مترو نیستند، فراهم می‌کنند.\n\nاپلیکیشن‌های تاکسی اینترنتی مانند اسنپ و تپسی در سراسر تهران به‌صورت ۲۴ ساعته فعالیت می‌کنند. این خدمات به دلیل قیمت مناسب، سهولت استفاده و دسترسی سریع، در میان دانشجویان ایرانی و بین‌المللی بسیار محبوب هستند و گزینه‌ای مناسب برای سفرهای روزانه یا رفت‌وآمد در ساعات پایانی شب محسوب می‌شوند.\n\nبه لطف این شبکه گسترده، دانشجویان بین‌المللی می‌توانند بدون نیاز به خودروی شخصی، به‌راحتی در سطح شهر رفت‌وآمد کرده و از جاذبه‌های مختلف تهران نیز بازدید کنند."
+  },
+  "transportOptions": {
+    "en": [
+      "Tehran Metro (seven main lines covering most districts)",
+      "Bus Rapid Transit (BRT)",
+      "Urban bus network",
+      "Licensed taxis",
+      "Ride-hailing applications such as Snapp and Tapsi"
+    ],
+    "fa": [
+      "متروی تهران (با هفت خط اصلی و پوشش بخش بزرگی از شهر)",
+      "اتوبوس‌های تندرو (BRT)",
+      "شبکه اتوبوس‌های شهری",
+      "تاکسی‌های رسمی",
+      "تاکسی‌های اینترنتی مانند اسنپ و تپسی"
+    ]
+  },
+  "climate": {
+    "en": "Tehran experiences a semi-arid climate with four distinct seasons, allowing students to enjoy a variety of weather conditions throughout the year.\n\nThe city's location at the southern foothills of the Alborz Mountains creates noticeable climate differences between northern and southern areas, with the north generally enjoying cooler temperatures, more humidity, and cleaner air, while southern districts are somewhat warmer and drier. This climatic variety gives each part of the city its own character.\n\nOne unique advantage of Tehran is its proximity to the Alborz Mountain Range, where students can enjoy hiking, mountain climbing, cable cars, and skiing only a short distance from the city center—something rarely found in a capital city, and which noticeably improves the quality of student life.",
+    "fa": "تهران دارای آب‌وهوایی نیمه‌خشک با چهار فصل کاملاً متمایز است. قرار گرفتن این شهر در دامنه‌های جنوبی رشته‌کوه البرز باعث شده که هر فصل، ویژگی‌های آب‌وهوایی خاص خود را داشته باشد و دانشجویان در طول سال شرایط آب‌وهوایی متنوعی را تجربه کنند.\n\nیکی از ویژگی‌های جالب تهران، اختلاف آب‌وهوا میان مناطق مختلف است. مناطق شمالی که به کوهستان البرز نزدیک‌تر هستند، معمولاً هوای خنک‌تر، رطوبت بیشتر و کیفیت هوای بهتری دارند؛ در حالی که مناطق جنوبی نسبتاً گرم‌تر و خشک‌تر هستند. این تنوع اقلیمی باعث شده هر بخش از شهر ویژگی‌های منحصربه‌فرد خود را داشته باشد.\n\nیکی از مزیت‌های منحصربه‌فرد تهران، دسترسی آسان به طبیعت کوهستانی البرز است. تنها در مدت کوتاهی می‌توان از مرکز شهر به مسیرهای کوهنوردی، طبیعت‌گردی، تله‌کابین و پیست‌های اسکی رسید؛ ویژگی‌ای که در کمتر پایتختی دیده می‌شود و کیفیت زندگی دانشجویی را به‌طور چشمگیری افزایش می‌دهد."
+  },
+  "seasons": [
+    {
+      "name": { "en": "Spring (March–May)", "fa": "بهار (مارس تا مه)" },
+      "description": {
+        "en": "Spring is widely considered the best time to live in Tehran. Mild temperatures, blossoming trees, green parks and gardens, and gentle rainfall create a pleasant atmosphere across the city, making it ideal for outdoor activities and sightseeing. In this season many students spend their free time in the parks, gardens, and mountainous areas around Tehran.",
+        "fa": "بهار بدون تردید یکی از بهترین فصل‌ها برای زندگی و تحصیل در تهران است. هوای معتدل، شکوفه‌های درختان، سرسبزی پارک‌ها و بارندگی‌های ملایم، فضای دل‌نشینی را در سراسر شهر ایجاد می‌کند. در این فصل، بسیاری از دانشجویان اوقات فراغت خود را در پارک‌ها، باغ‌ها و مناطق کوهستانی اطراف تهران سپری می‌کنند."
+      }
+    },
+    {
+      "name": { "en": "Summer (June–August)", "fa": "تابستان (ژوئن تا اوت)" },
+      "description": {
+        "en": "Summers are generally hot and dry, with temperatures often exceeding 35°C during the day. However, low humidity makes the heat more comfortable than in many coastal regions. Many academic centers, libraries, shopping centers, and public spaces are equipped with suitable cooling systems.",
+        "fa": "تابستان‌های تهران معمولاً گرم و خشک است و دمای هوا در برخی روزها از ۳۵ درجه سانتی‌گراد نیز فراتر می‌رود. با این حال، رطوبت پایین هوا باعث می‌شود گرمای تهران نسبت به بسیاری از شهرهای ساحلی قابل تحمل‌تر باشد. بسیاری از مراکز آموزشی، کتابخانه‌ها، مراکز خرید و فضاهای عمومی نیز مجهز به سیستم‌های سرمایشی مناسب هستند."
+      }
+    },
+    {
+      "name": { "en": "Autumn (September–November)", "fa": "پاییز (سپتامبر تا نوامبر)" },
+      "description": {
+        "en": "Autumn brings gradually cooler temperatures and colorful landscapes, and coincides with the start of the academic year. It is one of the most enjoyable seasons for students, because the weather is very pleasant for commuting, studying, and activities outside the university.",
+        "fa": "پاییز یکی از زیباترین فصل‌های تهران به شمار می‌رود. کاهش تدریجی دما، رنگارنگ شدن درختان و آغاز سال تحصیلی، حال‌وهوای ویژه‌ای به شهر می‌بخشد. بسیاری از دانشجویان این فصل را بهترین زمان برای زندگی در تهران می‌دانند؛ زیرا شرایط آب‌وهوایی برای رفت‌وآمد، مطالعه و فعالیت‌های خارج از دانشگاه بسیار مطلوب است."
+      }
+    },
+    {
+      "name": { "en": "Winter (December–February)", "fa": "زمستان (دسامبر تا فوریه)" },
+      "description": {
+        "en": "Winters are cold, particularly in the northern districts near the Alborz Mountains, and snowfall occasionally occurs. The season is a good opportunity for anyone interested in winter sports: Iran's best-known ski resorts are only a short distance from the city, and nearby ski resorts become popular weekend destinations for students.",
+        "fa": "زمستان‌های تهران سرد است و در مناطق شمالی شهر که به رشته‌کوه البرز نزدیک‌تر هستند، بارش برف نیز دور از انتظار نیست. این فصل فرصت مناسبی برای علاقه‌مندان به ورزش‌های زمستانی فراهم می‌کند؛ زیرا معروف‌ترین پیست‌های اسکی ایران تنها فاصله کوتاهی با شهر دارند و دانشجویان می‌توانند در تعطیلات آخر هفته از این امکانات استفاده کنند."
+      }
+    }
+  ],
+  "healthcare": {
+    "en": "As the country's primary medical hub, Tehran offers one of the most advanced healthcare systems in Iran. International students have access to university hospitals, specialized medical centers, emergency healthcare services, private and public clinics, and pharmacies throughout the city.\n\nStudents enrolled at medical universities also benefit from direct exposure to some of Iran's leading teaching hospitals during their clinical education, becoming familiar with the newest medical equipment and treatment methods.\n\nTehran hosts thousands of domestic and international students every year, and most universities maintain dedicated International Offices that assist students with admission procedures, visa and residence permits, accommodation, registration, academic guidance, and student affairs.\n\nLike any major city, students are advised to follow general safety precautions, particularly when using public transportation or traveling late at night. University campuses and student residences generally provide a secure academic environment.",
+    "fa": "تهران مهم‌ترین قطب پزشکی و درمانی ایران است و پیشرفته‌ترین بیمارستان‌ها، مراکز درمانی تخصصی و دانشگاه‌های علوم پزشکی کشور در این شهر قرار دارند. به همین دلیل، دانشجویان بین‌المللی در طول دوران تحصیل به خدمات درمانی باکیفیت و امکانات پزشکی پیشرفته دسترسی خواهند داشت؛ از جمله بیمارستان‌های آموزشی دانشگاهی، مراکز درمانی تخصصی، درمانگاه‌های دولتی و خصوصی، خدمات اورژانس و داروخانه‌های شبانه‌روزی و روزانه در سراسر شهر.\n\nدانشجویانی که در رشته‌های علوم پزشکی تحصیل می‌کنند نیز بخش قابل توجهی از آموزش بالینی خود را در بیمارستان‌های آموزشی معتبر تهران سپری می‌کنند و با جدیدترین تجهیزات پزشکی و روش‌های درمانی آشنا می‌شوند.\n\nهر سال هزاران دانشجوی داخلی و بین‌المللی تهران را برای ادامه تحصیل انتخاب می‌کنند. دانشگاه‌های بزرگ این شهر دارای دفاتر امور بین‌الملل هستند که در تمامی مراحل ورود و تحصیل، دانشجویان خارجی را همراهی می‌کنند و معمولاً در زمینه‌های راهنمایی در فرآیند پذیرش، دریافت و تمدید ویزای تحصیلی، امور اقامت دانشجویی، ثبت‌نام دانشگاه، مشاوره آموزشی و خدمات دانشجویی و رفاهی خدمات ارائه می‌دهند.\n\nمانند هر کلان‌شهر دیگری، رعایت نکات عمومی ایمنی در تهران نیز توصیه می‌شود. با این حال، محیط دانشگاه‌ها، خوابگاه‌های دانشجویی و مراکز آموزشی معمولاً از امنیت مناسبی برخوردار هستند و دانشجویان بین‌المللی می‌توانند با آرامش بر تحصیل و فعالیت‌های علمی خود تمرکز کنند."
+  },
+  "culture": {
+    "en": "Tehran is Iran's cultural capital and offers a rich blend of history, modernity, and artistic life. Across the city there are national and specialized museums, contemporary art galleries, historic palaces, libraries and cultural centers, international book fairs, music concerts, film festivals, theater performances, and science and technology exhibitions.\n\nThe city also features numerous cafés, restaurants, shopping malls, cinemas, and public parks that contribute to an active social life.\n\nFor international students, Tehran provides opportunities to engage with people from different regions of Iran while experiencing Persian traditions, customs, cuisine, and art alongside contemporary urban culture in one of the most important cultural cities of the Middle East.",
+    "fa": "تهران به عنوان پایتخت فرهنگی ایران، شهری است که در آن تاریخ، هنر، سنت و زندگی مدرن در کنار یکدیگر جریان دارند. زندگی در این شهر فرصتی ارزشمند برای دانشجویان بین‌المللی فراهم می‌کند تا علاوه بر تحصیل، با فرهنگ غنی ایرانی، سبک زندگی مردم و رویدادهای فرهنگی کشور نیز آشنا شوند.\n\nدر سراسر شهر، مراکز فرهنگی، هنری و تاریخی متعددی وجود دارد که هر ساله میزبان میلیون‌ها بازدیدکننده هستند. دانشجویان می‌توانند در اوقات فراغت خود از مکان‌های مختلف فرهنگی بازدید کرده و شناخت عمیق‌تری از تاریخ و تمدن ایران به دست آورند.\n\nعلاوه بر این، تهران صدها کافه، رستوران، مرکز خرید، سینما، مجموعه‌های تفریحی و پارک‌های شهری را در خود جای داده است که فضای مناسبی برای استراحت، دیدار با دوستان و تجربه زندگی اجتماعی فراهم می‌کنند.\n\nدانشجویان بین‌المللی در تهران علاوه بر آشنایی با مردم مناطق مختلف ایران، فرصت خواهند داشت فرهنگ، آداب‌ورسوم، غذاهای سنتی و هنر ایرانی را از نزدیک تجربه کنند و زندگی در یکی از مهم‌ترین شهرهای فرهنگی خاورمیانه را لمس نمایند."
+  },
+  "historicalAttractions": {
+    "en": [
+      "Golestan Palace — a UNESCO World Heritage Site built during the Qajar era",
+      "National Museum of Iran — the country's most important archaeological collection",
+      "Sa'dabad Cultural and Historical Complex — museums and former royal residences in northern Tehran",
+      "Niavaran Palace Complex — once the residence of Iran's last royal family",
+      "Milad Tower — a modern landmark standing at over 430 meters",
+      "Tabiat Bridge — a celebrated example of contemporary Iranian architecture",
+      "Tehran Grand Bazaar — one of the oldest commercial centers in Iran",
+      "Qazvin — a historic city featuring Safavid architecture and traditional bazaars",
+      "Kashan — famous for Persian gardens, historic houses, and traditional architecture"
+    ],
+    "fa": [
+      "کاخ گلستان — از آثار ثبت‌شده ایران در فهرست میراث جهانی یونسکو و یادگار دوران قاجار",
+      "موزه ملی ایران — بزرگ‌ترین موزه باستان‌شناسی کشور",
+      "مجموعه فرهنگی تاریخی سعدآباد — شامل چندین کاخ، موزه و باغ تاریخی در شمال تهران",
+      "مجموعه کاخ نیاوران — محل اقامت آخرین خانواده سلطنتی ایران",
+      "برج میلاد — با ارتفاع بیش از ۴۳۰ متر، یکی از نمادهای مدرن تهران",
+      "پل طبیعت — از شاهکارهای معماری معاصر ایران",
+      "بازار بزرگ تهران — یکی از قدیمی‌ترین مراکز تجاری ایران",
+      "قزوین — شهری تاریخی با معماری باشکوه و بازارهای سنتی",
+      "کاشان — مشهور به باغ‌های ایرانی، خانه‌های تاریخی و معماری اصیل ایرانی"
+    ]
+  },
+  "naturalAttractions": {
+    "en": [
+      "Mellat Park",
+      "Laleh Park",
+      "Jamshidieh Park",
+      "Chitgar Forest Park",
+      "Tochal Recreational Complex — hiking, cable car rides, skiing, and views of the Alborz Mountains",
+      "Darband — a mountain village famous for hiking trails and traditional restaurants",
+      "Darakeh — a scenic valley ideal for nature walks and outdoor cafés",
+      "Dizin Ski Resort — one of the Middle East's largest ski resorts, a few hours from Tehran",
+      "Karaj & Chalous Road — a route through the Alborz Mountains known for spectacular landscapes",
+      "Alborz Mountain Range — hiking, mountain climbing, and skiing a short distance from the city center"
+    ],
+    "fa": [
+      "پارک ملت",
+      "پارک لاله",
+      "پارک جمشیدیه",
+      "پارک جنگلی چیتگر",
+      "مجموعه تفریحی توچال — تله‌کابین، مسیرهای کوهنوردی، پیست اسکی و چشم‌انداز رشته‌کوه البرز",
+      "دربند — مناسب برای کوهنوردی و رستوران‌های سنتی",
+      "درکه — منطقه‌ای سرسبز برای پیاده‌روی و طبیعت‌گردی",
+      "پیست اسکی دیزین — یکی از بزرگ‌ترین پیست‌های اسکی خاورمیانه",
+      "جاده کرج — چالوس — از زیباترین مسیرهای کوهستانی ایران",
+      "رشته‌کوه البرز — کوهنوردی، طبیعت‌گردی و اسکی در نزدیکی مرکز شهر"
+    ]
+  },
+  "faq": [
+    {
+      "question": {
+        "en": "Is Tehran a good city for international students?",
+        "fa": "آیا تهران شهر مناسبی برای دانشجویان بین‌المللی است؟"
+      },
+      "answer": {
+        "en": "Yes. Tehran hosts many of Iran's leading universities and research institutions, offering diverse academic programs, modern healthcare facilities, extensive public transportation, and an active student community.",
+        "fa": "بله. تهران میزبان معتبرترین دانشگاه‌ها، مراکز پژوهشی و بیمارستان‌های آموزشی ایران است و امکانات گسترده آموزشی، حمل‌ونقل، خدمات درمانی و زندگی دانشجویی را در اختیار دانشجویان قرار می‌دهد."
+      }
+    },
+    {
+      "question": {
+        "en": "Is public transportation affordable?",
+        "fa": "آیا هزینه حمل‌ونقل در تهران مناسب است؟"
+      },
+      "answer": {
+        "en": "Yes. The metro, BRT buses, and city buses provide an economical and efficient way to travel across Tehran, with discounted fares available for students in many cases.",
+        "fa": "بله. مترو، اتوبوس‌های تندرو و اتوبوس‌های شهری از اقتصادی‌ترین روش‌های جابه‌جایی در سطح شهر هستند و در بسیاری از موارد دانشجویان می‌توانند از تخفیف‌های ویژه نیز استفاده کنند."
+      }
+    },
+    {
+      "question": {
+        "en": "Can international students find accommodation?",
+        "fa": "آیا امکان دریافت خوابگاه وجود دارد؟"
+      },
+      "answer": {
+        "en": "Most universities offer student dormitories based on availability. Students may also choose to rent private apartments or shared accommodations throughout the city.",
+        "fa": "بیشتر دانشگاه‌ها بر اساس ظرفیت، خوابگاه دانشجویی ارائه می‌دهند. همچنین امکان اجاره آپارتمان یا اقامت در خوابگاه‌های خصوصی نیز وجود دارد."
+      }
+    },
+    {
+      "question": {
+        "en": "Do I need to speak Persian?",
+        "fa": "آیا برای زندگی در تهران باید زبان فارسی بدانم؟"
+      },
+      "answer": {
+        "en": "Many graduate programs and some international courses use English, but learning Persian is highly recommended for daily life and is essential for students enrolled in clinical or patient-facing programs.",
+        "fa": "بسیاری از دوره‌های بین‌المللی، به‌ویژه در مقاطع تحصیلات تکمیلی، به زبان انگلیسی ارائه می‌شوند. با این حال، یادگیری زبان فارسی برای زندگی روزمره و به‌ویژه دانشجویان رشته‌های علوم پزشکی که با بیماران در ارتباط هستند، بسیار توصیه می‌شود."
+      }
+    },
+    {
+      "question": {
+        "en": "Is Tehran expensive?",
+        "fa": "آیا تهران شهر گرانی است؟"
+      },
+      "answer": {
+        "en": "Compared with many international capitals, Tehran offers a relatively affordable cost of living, especially when students use university housing, cafeterias, and public transportation.",
+        "fa": "اگرچه هزینه زندگی در تهران نسبت به سایر شهرهای ایران بیشتر است، اما در مقایسه با بسیاری از شهرهای دانشجویی جهان، همچنان شهری مقرون‌به‌صرفه محسوب می‌شود؛ به‌ویژه اگر از امکانات دانشگاهی مانند خوابگاه، سلف و حمل‌ونقل عمومی استفاده کنید."
+      }
+    }
+  ]
+}

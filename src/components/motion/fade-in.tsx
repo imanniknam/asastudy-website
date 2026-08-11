@@ -12,13 +12,17 @@ export function FadeIn({
   children,
   delay = 0,
   className,
+  id,
 }: {
   children: ReactNode;
   delay?: number;
   className?: string;
+  /** Set when the section needs to be an anchor target. */
+  id?: string;
 }) {
   return (
     <motion.div
+      id={id}
       initial="hidden"
       whileInView="visible"
       viewport={{ once: true, margin: "-80px" }}

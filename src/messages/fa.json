@@ -11,6 +11,8 @@
     "universities": "دانشگاه‌ها",
     "programs": "رشته‌ها",
     "admission": "مراحل اپلای",
+    "cities": "شهرها",
+    "forStudents": "راهنمای دانشجویان",
     "faq": "سوالات متداول",
     "contact": "تماس با ما",
     "applyNow": "درخواست پذیرش",
@@ -190,6 +192,39 @@
       { "title": "راهنمایی خوابگاه و اسکان", "description": "کمک به یافتن خوابگاه دانشگاهی یا محل اقامت مناسب خارج از دانشگاه." },
       { "title": "پشتیبانی مستمر تحصیلی", "description": "همراهی در طول دوران تحصیل، از جمله ثبت‌نام ترم و امور اداری." }
     ]
+  },
+  "forStudents": {
+    "eyebrow": "راهنمای دانشجویان",
+    "onThisPage": "در این صفحه",
+    "faqTitle": "سوالات متداول"
+  },
+  "citiesPage": {
+    "hero": {
+      "eyebrow": "شهرها",
+      "title": "شهرهای ایران را بشناسید",
+      "body": "انتخاب شهر بخشی از انتخاب مقصد تحصیلی است. با فضای دانشگاهی، فرهنگی و زندگی روزمره هر شهر آشنا شوید."
+    },
+    "atAGlance": "در یک نگاه",
+    "whyStudyHere": "چرا این شهر؟",
+    "advantages": "مزایای کلیدی",
+    "about": "درباره شهر",
+    "universities": "دانشگاه‌های شهر",
+    "research": "فرصت‌های علمی و پژوهشی",
+    "studentLife": "زندگی دانشجویی",
+    "costOfLiving": "هزینه زندگی",
+    "expenseType": "نوع هزینه",
+    "expenseSituation": "وضعیت کلی",
+    "accommodation": "اقامت و خوابگاه",
+    "transport": "حمل‌ونقل و دسترسی",
+    "climate": "آب‌وهوا",
+    "healthcare": "خدمات درمانی و روزمره",
+    "culture": "فرهنگ و سبک زندگی",
+    "historicalAttractions": "جاذبه‌های تاریخی و فرهنگی",
+    "naturalAttractions": "جاذبه‌های طبیعی",
+    "faq": "سوالات متداول",
+    "viewUniversity": "مشاهده صفحه دانشگاه",
+    "exploreCity": "مشاهده شهر",
+    "universitiesInCity": "دانشگاه‌های این شهر"
   },
   "admissionPage": {
     "hero": {

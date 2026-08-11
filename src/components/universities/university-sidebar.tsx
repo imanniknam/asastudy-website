@@ -5,9 +5,17 @@ import type { University, Locale } from "@/types/university";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
-export function UniversitySidebar({ university }: { university: University }) {
+export function UniversitySidebar({
+  university,
+  cityHref,
+}: {
+  university: University;
+  /** Set when the university's city has a guide page to link to. */
+  cityHref?: string;
+}) {
   const locale = useLocale() as Locale;
   const t = useTranslations("common");
+  const tc = useTranslations("citiesPage");
 
   const facts = [
     { icon: MapPin, label: t("city"), value: university.city[locale] },
@@ -40,6 +48,16 @@ export function UniversitySidebar({ university }: { university: University }) {
             <ArrowUpRight className="size-4" />
           </Link>
         </Button>
+
+        {cityHref && (
+          <Link
+            href={cityHref}
+            className="inline-flex items-center justify-center gap-1.5 text-sm font-medium text-accent underline-offset-4 hover:underline"
+          >
+            {tc("exploreCity")}
+            <ArrowUpRight className="size-4" />
+          </Link>
+        )}
       </CardContent>
     </Card>
   );

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Locale } from "@/types/university";
 import { getAllUniversitySlugs, getUniversityBySlug } from "@/lib/content/universities";
+import { findCitySlugByName } from "@/lib/content/cities";
 import { routing } from "@/i18n/routing";
 import { UniversityHero } from "@/components/universities/university-hero";
 import { UniversitySidebar } from "@/components/universities/university-sidebar";
@@ -50,6 +51,9 @@ export default async function UniversityDetailPage({
   const university = getUniversityBySlug(slug);
   if (!university) notFound();
 
+  const citySlug = findCitySlugByName(university.city.en);
+  const cityHref = citySlug ? `/cities/${citySlug}` : undefined;
+
   const t = await getTranslations({ locale, namespace: "common" });
 
   return (
@@ -60,7 +64,7 @@ export default async function UniversityDetailPage({
         <div className="container-page grid gap-12 lg:grid-cols-[1fr_320px] lg:gap-16">
           <div className="flex flex-col gap-14">
             <div className="lg:hidden">
-              <UniversitySidebar university={university} />
+              <UniversitySidebar university={university} cityHref={cityHref} />
             </div>
 
             <UniversityContentSection id="overview" title={t("overview")}>

@@ -32,9 +32,9 @@ export function Navbar() {
     { href: "/about", label: t("about") },
     { href: "/services", label: t("services") },
     { href: "/universities", label: t("universities") },
+    { href: "/cities", label: t("cities") },
     { href: "/programs", label: t("programs") },
-    { href: "/admission", label: t("admission") },
-    { href: "/faq", label: t("faq") },
+    { href: "/for-students", label: t("forStudents") },
     { href: "/contact", label: t("contact") },
   ] as const;
 
