@@ -7,7 +7,6 @@ import { JourneyTimeline } from "@/components/sections/journey-timeline";
 import { UniversitiesTeaser } from "@/components/sections/universities-teaser";
 import { ProgramsTeaser } from "@/components/sections/programs-teaser";
 import { WhyIran } from "@/components/sections/why-iran";
-import { IntroVideosSection } from "@/components/sections/intro-videos-section";
 import { FaqSection } from "@/components/sections/faq-section";
 import { FinalCta } from "@/components/sections/final-cta";
 
@@ -29,7 +28,6 @@ export default async function HomePage({
       <UniversitiesTeaser />
       <ProgramsTeaser />
       <WhyIran />
-      <IntroVideosSection />
       <FaqSection />
       <FinalCta />
     </>

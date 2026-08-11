@@ -144,11 +144,6 @@
       "items": ["Medicine", "Dentistry", "Pharmacy", "Engineering", "Business & Management", "Arts", "Humanities", "Basic Sciences"],
       "cta": "Explore All Programs"
     },
-    "videos": {
-      "eyebrow": "See Iran for Yourself",
-      "title": "Life and Study in Iran, on Film",
-      "body": "A closer look at the country you may soon call home — its campuses, cities, and everyday student life."
-    },
     "whyIran": {
       "eyebrow": "Why Study in Iran?",
       "title": "Discover the Advantages of Studying in Iran",
@@ -281,6 +276,10 @@
     "culture": "Culture and Lifestyle",
     "historicalAttractions": "Historical and Cultural Attractions",
     "naturalAttractions": "Natural Attractions",
+    "videos": "Videos",
+    "discoverEyebrow": "Watch",
+    "discoverTitle": "Study and Life in Iran, on Film",
+    "discoverBody": "A closer look at the country you may soon call home — its universities, cities, and everyday student life.",
     "faq": "Frequently Asked Questions",
     "viewUniversity": "View university profile",
     "exploreCity": "Explore the city",

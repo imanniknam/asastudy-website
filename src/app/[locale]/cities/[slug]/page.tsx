@@ -10,6 +10,7 @@ import { FadeIn } from "@/components/motion/fade-in";
 import { BulletList } from "@/components/universities/university-content-section";
 import { CityFactsTable } from "@/components/cities/city-facts-table";
 import { CityUniversities } from "@/components/cities/city-universities";
+import { VideoEmbed } from "@/components/media/video-embed";
 import {
   CitySection,
   CityExpenses,
@@ -102,6 +103,18 @@ export default async function CityDetailPage({
           <FadeIn>
             <CityUniversities universities={city.universities} />
           </FadeIn>
+
+          {city.videos && city.videos.length > 0 && (
+            <FadeIn>
+              <CitySection title={t("videos")}>
+                <div className="grid gap-5 sm:grid-cols-2">
+                  {city.videos.map((video) => (
+                    <VideoEmbed key={video.youtubeId} video={video} />
+                  ))}
+                </div>
+              </CitySection>
+            </FadeIn>
+          )}
 
           {city.research && (
             <FadeIn>

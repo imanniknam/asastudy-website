@@ -1,4 +1,4 @@
-import type { LocalizedText, LocalizedList, FaqItem } from "./university";
+import type { LocalizedText, LocalizedList, FaqItem, VideoItem } from "./university";
 export type { Locale } from "./university";
 
 /** One row of the "City at a Glance" table. */
@@ -31,6 +31,8 @@ export interface City {
   slug: string;
   name: LocalizedText;
   province: LocalizedText;
+  /** Videos related to this city — typically its universities' intro clips. */
+  videos?: VideoItem[];
   /** Headline tagline from the source brochure. */
   tagline: LocalizedText;
   /** Short summary used on the cities index card. */

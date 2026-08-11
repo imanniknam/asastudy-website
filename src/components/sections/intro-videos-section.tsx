@@ -4,16 +4,24 @@ import { SectionHeading } from "@/components/ui/section-heading";
 import { FadeIn } from "@/components/motion/fade-in";
 import { VideoEmbed } from "@/components/media/video-embed";
 
+/**
+ * "Study in Iran" showcase videos. Lives on the Cities (discovery) page, which
+ * is the page about Iran and its cities.
+ */
 export function IntroVideosSection() {
-  const t = useTranslations("home.videos");
+  const t = useTranslations("citiesPage");
   const videos = getIntroVideos();
 
   if (videos.length === 0) return null;
 
   return (
-    <section className="py-20 sm:py-28">
+    <section className="border-t border-border bg-surface py-20 sm:py-28">
       <div className="container-page flex flex-col gap-12">
-        <SectionHeading eyebrow={t("eyebrow")} title={t("title")} body={t("body")} />
+        <SectionHeading
+          eyebrow={t("discoverEyebrow")}
+          title={t("discoverTitle")}
+          body={t("discoverBody")}
+        />
 
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {videos.map((video, i) => (

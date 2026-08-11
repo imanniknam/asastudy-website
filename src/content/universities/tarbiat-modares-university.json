@@ -4,24 +4,6 @@
   "images": [
     "/images/universities/tarbiat-modares-university.webp"
   ],
-  "videos": [
-    {
-      "youtubeId": "wXg6L7XAZM8",
-      "language": "en",
-      "title": {
-        "en": "Study in Iran — Tarbiat Modares University",
-        "fa": "تحصیل در ایران — دانشگاه تربیت مدرس"
-      }
-    },
-    {
-      "youtubeId": "aiAqLkvCR9I",
-      "language": "ar",
-      "title": {
-        "en": "Tarbiat Modares University (Arabic)",
-        "fa": "دانشگاه تربیت مدرس (روایت عربی)"
-      }
-    }
-  ],
   "name": {
     "en": "Tarbiat Modares University (TMU)",
     "fa": "دانشگاه تربیت مدرس (TMU)"

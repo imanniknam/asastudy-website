@@ -8,6 +8,48 @@
     "en": "Tehran Province",
     "fa": "استان تهران"
   },
+  "videos": [
+    {
+      "youtubeId": "OqAzhh8Ijkw",
+      "language": "en",
+      "title": {
+        "en": "Iran University of Medical Sciences",
+        "fa": "معرفی دانشگاه علوم پزشکی ایران"
+      }
+    },
+    {
+      "youtubeId": "Ke54yC0FkLE",
+      "language": "en",
+      "title": {
+        "en": "IUMS Campus Tour 2025 — From Home to University",
+        "fa": "تور پردیس دانشگاه علوم پزشکی ایران ۲۰۲۵"
+      }
+    },
+    {
+      "youtubeId": "Przl0EG29z8",
+      "language": "en",
+      "title": {
+        "en": "Shahid Beheshti University of Medical Sciences — MBBS in Iran",
+        "fa": "دانشگاه علوم پزشکی شهید بهشتی — تحصیل پزشکی در ایران"
+      }
+    },
+    {
+      "youtubeId": "wXg6L7XAZM8",
+      "language": "en",
+      "title": {
+        "en": "Study in Iran — Tarbiat Modares University",
+        "fa": "تحصیل در ایران — دانشگاه تربیت مدرس"
+      }
+    },
+    {
+      "youtubeId": "aiAqLkvCR9I",
+      "language": "ar",
+      "title": {
+        "en": "Tarbiat Modares University (Arabic)",
+        "fa": "دانشگاه تربیت مدرس (روایت عربی)"
+      }
+    }
+  ],
   "tagline": {
     "en": "Tehran: Iran's Academic Capital and a Leading Destination for International Students",
     "fa": "تهران؛ پایتخت علمی ایران و یکی از بهترین مقاصد تحصیلی برای دانشجویان بین‌المللی"
@@ -18,66 +60,120 @@
   },
   "facts": [
     {
-      "label": { "en": "City", "fa": "شهر" },
-      "value": { "en": "Tehran", "fa": "تهران" }
+      "label": {
+        "en": "City",
+        "fa": "شهر"
+      },
+      "value": {
+        "en": "Tehran",
+        "fa": "تهران"
+      }
     },
     {
-      "label": { "en": "Province", "fa": "استان" },
-      "value": { "en": "Tehran Province", "fa": "تهران" }
+      "label": {
+        "en": "Province",
+        "fa": "استان"
+      },
+      "value": {
+        "en": "Tehran Province",
+        "fa": "تهران"
+      }
     },
     {
-      "label": { "en": "Population", "fa": "جمعیت" },
+      "label": {
+        "en": "Population",
+        "fa": "جمعیت"
+      },
       "value": {
         "en": "Over 9 million (More than 14 million in the metropolitan area)",
         "fa": "بیش از ۹ میلیون نفر (بیش از ۱۴ میلیون نفر در کلان‌شهر تهران)"
       }
     },
     {
-      "label": { "en": "Country", "fa": "کشور" },
-      "value": { "en": "Iran", "fa": "ایران" }
+      "label": {
+        "en": "Country",
+        "fa": "کشور"
+      },
+      "value": {
+        "en": "Iran",
+        "fa": "ایران"
+      }
     },
     {
-      "label": { "en": "Time Zone", "fa": "منطقه زمانی" },
-      "value": { "en": "UTC +3:30", "fa": "UTC +3:30" }
+      "label": {
+        "en": "Time Zone",
+        "fa": "منطقه زمانی"
+      },
+      "value": {
+        "en": "UTC +3:30",
+        "fa": "UTC +3:30"
+      }
     },
     {
-      "label": { "en": "Climate", "fa": "آب‌وهوا" },
+      "label": {
+        "en": "Climate",
+        "fa": "آب‌وهوا"
+      },
       "value": {
         "en": "Semi-arid with four distinct seasons",
         "fa": "نیمه‌خشک با چهار فصل متمایز"
       }
     },
     {
-      "label": { "en": "Official Language", "fa": "زبان رسمی" },
-      "value": { "en": "Persian (Farsi)", "fa": "فارسی" }
+      "label": {
+        "en": "Official Language",
+        "fa": "زبان رسمی"
+      },
+      "value": {
+        "en": "Persian (Farsi)",
+        "fa": "فارسی"
+      }
     },
     {
-      "label": { "en": "Currency", "fa": "واحد پول" },
-      "value": { "en": "Iranian Rial (IRR)", "fa": "ریال ایران (IRR)" }
+      "label": {
+        "en": "Currency",
+        "fa": "واحد پول"
+      },
+      "value": {
+        "en": "Iranian Rial (IRR)",
+        "fa": "ریال ایران (IRR)"
+      }
     },
     {
-      "label": { "en": "International Airport", "fa": "فرودگاه بین‌المللی" },
+      "label": {
+        "en": "International Airport",
+        "fa": "فرودگاه بین‌المللی"
+      },
       "value": {
         "en": "Imam Khomeini International Airport (IKA)",
         "fa": "فرودگاه بین‌المللی امام خمینی (IKA)"
       }
     },
     {
-      "label": { "en": "Main Student Areas", "fa": "مهم‌ترین مناطق دانشجویی" },
+      "label": {
+        "en": "Main Student Areas",
+        "fa": "مهم‌ترین مناطق دانشجویی"
+      },
       "value": {
         "en": "Enghelab, Amirabad, Yousef Abad, Gisha, North Kargar, Vanak",
         "fa": "امیرآباد، انقلاب، یوسف‌آباد، گیشا، کارگر شمالی، ونک"
       }
     },
     {
-      "label": { "en": "Public Transportation", "fa": "سیستم حمل‌ونقل" },
+      "label": {
+        "en": "Public Transportation",
+        "fa": "سیستم حمل‌ونقل"
+      },
       "value": {
         "en": "Metro, BRT, City Buses, Taxis, Snapp & Tapsi",
         "fa": "مترو، اتوبوس تندرو (BRT)، اتوبوس شهری، تاکسی، اسنپ و تپسی"
       }
     },
     {
-      "label": { "en": "Average Living Cost", "fa": "هزینه زندگی" },
+      "label": {
+        "en": "Average Living Cost",
+        "fa": "هزینه زندگی"
+      },
       "value": {
         "en": "Moderate compared to many regional capitals",
         "fa": "متوسط و مقرون‌به‌صرفه در مقایسه با بسیاری از پایتخت‌های منطقه"
@@ -219,7 +315,10 @@
       }
     },
     {
-      "name": { "en": "University of Tehran", "fa": "دانشگاه تهران" },
+      "name": {
+        "en": "University of Tehran",
+        "fa": "دانشگاه تهران"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -252,7 +351,10 @@
       }
     },
     {
-      "name": { "en": "Shahid Beheshti University", "fa": "دانشگاه شهید بهشتی" },
+      "name": {
+        "en": "Shahid Beheshti University",
+        "fa": "دانشگاه شهید بهشتی"
+      },
       "slug": "shahid-beheshti-university",
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
@@ -286,7 +388,10 @@
       }
     },
     {
-      "name": { "en": "Tarbiat Modares University", "fa": "دانشگاه تربیت مدرس" },
+      "name": {
+        "en": "Tarbiat Modares University",
+        "fa": "دانشگاه تربیت مدرس"
+      },
       "slug": "tarbiat-modares-university",
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
@@ -320,7 +425,10 @@
       }
     },
     {
-      "name": { "en": "Sharif University of Technology", "fa": "دانشگاه صنعتی شریف" },
+      "name": {
+        "en": "Sharif University of Technology",
+        "fa": "دانشگاه صنعتی شریف"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -353,7 +461,10 @@
       }
     },
     {
-      "name": { "en": "Amirkabir University of Technology", "fa": "دانشگاه صنعتی امیرکبیر" },
+      "name": {
+        "en": "Amirkabir University of Technology",
+        "fa": "دانشگاه صنعتی امیرکبیر"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -386,7 +497,10 @@
       }
     },
     {
-      "name": { "en": "Iran University of Science and Technology", "fa": "دانشگاه علم و صنعت ایران" },
+      "name": {
+        "en": "Iran University of Science and Technology",
+        "fa": "دانشگاه علم و صنعت ایران"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -419,7 +533,10 @@
       }
     },
     {
-      "name": { "en": "Kharazmi University", "fa": "دانشگاه خوارزمی" },
+      "name": {
+        "en": "Kharazmi University",
+        "fa": "دانشگاه خوارزمی"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -452,7 +569,10 @@
       }
     },
     {
-      "name": { "en": "Allameh Tabataba'i University", "fa": "دانشگاه علامه طباطبایی" },
+      "name": {
+        "en": "Allameh Tabataba'i University",
+        "fa": "دانشگاه علامه طباطبایی"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -485,7 +605,10 @@
       }
     },
     {
-      "name": { "en": "Alzahra University", "fa": "دانشگاه الزهرا" },
+      "name": {
+        "en": "Alzahra University",
+        "fa": "دانشگاه الزهرا"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -518,7 +641,10 @@
       }
     },
     {
-      "name": { "en": "Shahed University", "fa": "دانشگاه شاهد" },
+      "name": {
+        "en": "Shahed University",
+        "fa": "دانشگاه شاهد"
+      },
       "description": {
         "en": "One of Tehran's most highly respected comprehensive universities, welcoming thousands of international students every year. Many of these institutions have specialized research centers, advanced laboratories, and international academic collaborations, and offer bachelor's, master's, and PhD study for international students.",
         "fa": "یکی از معتبرترین دانشگاه‌های جامع و فنی ایران که هر ساله پذیرای هزاران دانشجوی بین‌المللی است. بسیاری از این دانشگاه‌ها دارای مراکز تحقیقاتی تخصصی، آزمایشگاه‌های پیشرفته و همکاری‌های علمی بین‌المللی هستند و امکان ادامه تحصیل در مقاطع کارشناسی، کارشناسی ارشد و دکتری را برای دانشجویان خارجی فراهم می‌کنند."
@@ -589,28 +715,64 @@
   },
   "expenses": [
     {
-      "type": { "en": "University Dormitory", "fa": "خوابگاه دانشجویی" },
-      "situation": { "en": "USD 30–120", "fa": "۳۰ تا ۱۲۰ دلار آمریکا" }
+      "type": {
+        "en": "University Dormitory",
+        "fa": "خوابگاه دانشجویی"
+      },
+      "situation": {
+        "en": "USD 30–120",
+        "fa": "۳۰ تا ۱۲۰ دلار آمریکا"
+      }
     },
     {
-      "type": { "en": "Private Accommodation", "fa": "اقامت در آپارتمان شخصی" },
-      "situation": { "en": "USD 150–400", "fa": "۱۵۰ تا ۴۰۰ دلار آمریکا" }
+      "type": {
+        "en": "Private Accommodation",
+        "fa": "اقامت در آپارتمان شخصی"
+      },
+      "situation": {
+        "en": "USD 150–400",
+        "fa": "۱۵۰ تا ۴۰۰ دلار آمریکا"
+      }
     },
     {
-      "type": { "en": "Food and Groceries", "fa": "غذا و مواد غذایی" },
-      "situation": { "en": "USD 80–180", "fa": "۸۰ تا ۱۸۰ دلار آمریکا" }
+      "type": {
+        "en": "Food and Groceries",
+        "fa": "غذا و مواد غذایی"
+      },
+      "situation": {
+        "en": "USD 80–180",
+        "fa": "۸۰ تا ۱۸۰ دلار آمریکا"
+      }
     },
     {
-      "type": { "en": "Public Transportation", "fa": "حمل‌ونقل عمومی" },
-      "situation": { "en": "USD 10–25", "fa": "۱۰ تا ۲۵ دلار آمریکا" }
+      "type": {
+        "en": "Public Transportation",
+        "fa": "حمل‌ونقل عمومی"
+      },
+      "situation": {
+        "en": "USD 10–25",
+        "fa": "۱۰ تا ۲۵ دلار آمریکا"
+      }
     },
     {
-      "type": { "en": "Mobile & Internet", "fa": "اینترنت و تلفن همراه" },
-      "situation": { "en": "USD 5–15", "fa": "۵ تا ۱۵ دلار آمریکا" }
+      "type": {
+        "en": "Mobile & Internet",
+        "fa": "اینترنت و تلفن همراه"
+      },
+      "situation": {
+        "en": "USD 5–15",
+        "fa": "۵ تا ۱۵ دلار آمریکا"
+      }
     },
     {
-      "type": { "en": "Personal Expenses & Entertainment", "fa": "هزینه‌های شخصی و تفریح" },
-      "situation": { "en": "USD 30–100", "fa": "۳۰ تا ۱۰۰ دلار آمریکا" }
+      "type": {
+        "en": "Personal Expenses & Entertainment",
+        "fa": "هزینه‌های شخصی و تفریح"
+      },
+      "situation": {
+        "en": "USD 30–100",
+        "fa": "۳۰ تا ۱۰۰ دلار آمریکا"
+      }
     }
   ],
   "accommodation": {
@@ -675,28 +837,40 @@
   },
   "seasons": [
     {
-      "name": { "en": "Spring (March–May)", "fa": "بهار (مارس تا مه)" },
+      "name": {
+        "en": "Spring (March–May)",
+        "fa": "بهار (مارس تا مه)"
+      },
       "description": {
         "en": "Spring is widely considered the best time to live in Tehran. Mild temperatures, blossoming trees, green parks and gardens, and gentle rainfall create a pleasant atmosphere across the city, making it ideal for outdoor activities and sightseeing. In this season many students spend their free time in the parks, gardens, and mountainous areas around Tehran.",
         "fa": "بهار بدون تردید یکی از بهترین فصل‌ها برای زندگی و تحصیل در تهران است. هوای معتدل، شکوفه‌های درختان، سرسبزی پارک‌ها و بارندگی‌های ملایم، فضای دل‌نشینی را در سراسر شهر ایجاد می‌کند. در این فصل، بسیاری از دانشجویان اوقات فراغت خود را در پارک‌ها، باغ‌ها و مناطق کوهستانی اطراف تهران سپری می‌کنند."
       }
     },
     {
-      "name": { "en": "Summer (June–August)", "fa": "تابستان (ژوئن تا اوت)" },
+      "name": {
+        "en": "Summer (June–August)",
+        "fa": "تابستان (ژوئن تا اوت)"
+      },
       "description": {
         "en": "Summers are generally hot and dry, with temperatures often exceeding 35°C during the day. However, low humidity makes the heat more comfortable than in many coastal regions. Many academic centers, libraries, shopping centers, and public spaces are equipped with suitable cooling systems.",
         "fa": "تابستان‌های تهران معمولاً گرم و خشک است و دمای هوا در برخی روزها از ۳۵ درجه سانتی‌گراد نیز فراتر می‌رود. با این حال، رطوبت پایین هوا باعث می‌شود گرمای تهران نسبت به بسیاری از شهرهای ساحلی قابل تحمل‌تر باشد. بسیاری از مراکز آموزشی، کتابخانه‌ها، مراکز خرید و فضاهای عمومی نیز مجهز به سیستم‌های سرمایشی مناسب هستند."
       }
     },
     {
-      "name": { "en": "Autumn (September–November)", "fa": "پاییز (سپتامبر تا نوامبر)" },
+      "name": {
+        "en": "Autumn (September–November)",
+        "fa": "پاییز (سپتامبر تا نوامبر)"
+      },
       "description": {
         "en": "Autumn brings gradually cooler temperatures and colorful landscapes, and coincides with the start of the academic year. It is one of the most enjoyable seasons for students, because the weather is very pleasant for commuting, studying, and activities outside the university.",
         "fa": "پاییز یکی از زیباترین فصل‌های تهران به شمار می‌رود. کاهش تدریجی دما، رنگارنگ شدن درختان و آغاز سال تحصیلی، حال‌وهوای ویژه‌ای به شهر می‌بخشد. بسیاری از دانشجویان این فصل را بهترین زمان برای زندگی در تهران می‌دانند؛ زیرا شرایط آب‌وهوایی برای رفت‌وآمد، مطالعه و فعالیت‌های خارج از دانشگاه بسیار مطلوب است."
       }
     },
     {
-      "name": { "en": "Winter (December–February)", "fa": "زمستان (دسامبر تا فوریه)" },
+      "name": {
+        "en": "Winter (December–February)",
+        "fa": "زمستان (دسامبر تا فوریه)"
+      },
       "description": {
         "en": "Winters are cold, particularly in the northern districts near the Alborz Mountains, and snowfall occasionally occurs. The season is a good opportunity for anyone interested in winter sports: Iran's best-known ski resorts are only a short distance from the city, and nearby ski resorts become popular weekend destinations for students.",
         "fa": "زمستان‌های تهران سرد است و در مناطق شمالی شهر که به رشته‌کوه البرز نزدیک‌تر هستند، بارش برف نیز دور از انتظار نیست. این فصل فرصت مناسبی برای علاقه‌مندان به ورزش‌های زمستانی فراهم می‌کند؛ زیرا معروف‌ترین پیست‌های اسکی ایران تنها فاصله کوتاهی با شهر دارند و دانشجویان می‌توانند در تعطیلات آخر هفته از این امکانات استفاده کنند."

@@ -3,6 +3,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getAllCities } from "@/lib/content/cities";
 import { PageHero } from "@/components/sections/page-hero";
 import { CityCard } from "@/components/cities/city-card";
+import { IntroVideosSection } from "@/components/sections/intro-videos-section";
 import { FadeIn } from "@/components/motion/fade-in";
 
 export async function generateMetadata({
@@ -37,6 +38,8 @@ export default async function CitiesPage({
           ))}
         </div>
       </section>
+
+      <IntroVideosSection />
     </>
   );
 }

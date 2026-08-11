@@ -4,24 +4,6 @@
   "images": [
     "/images/universities/iran-university-of-medical-sciences.webp"
   ],
-  "videos": [
-    {
-      "youtubeId": "OqAzhh8Ijkw",
-      "language": "en",
-      "title": {
-        "en": "Iran University of Medical Sciences",
-        "fa": "معرفی دانشگاه علوم پزشکی ایران"
-      }
-    },
-    {
-      "youtubeId": "Ke54yC0FkLE",
-      "language": "en",
-      "title": {
-        "en": "IUMS Campus Tour 2025 — From Home to University",
-        "fa": "تور پردیس دانشگاه علوم پزشکی ایران ۲۰۲۵"
-      }
-    }
-  ],
   "name": {
     "en": "Iran University of Medical Sciences (IUMS)",
     "fa": "دانشگاه علوم پزشکی ایران (IUMS)"
