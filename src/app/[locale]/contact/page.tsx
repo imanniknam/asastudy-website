@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Mail, MapPin, MessageCircle, Share2 } from "lucide-react";
+import { Instagram, Mail, MapPin, MessageCircle } from "lucide-react";
 import { PageHero } from "@/components/sections/page-hero";
 import { ContactForm } from "@/components/sections/contact-form";
 import { Card, CardContent } from "@/components/ui/card";
@@ -61,12 +61,18 @@ export default async function ContactPage({
                     {t("info.whatsapp")}
                   </span>
                 </div>
-                <div className="flex items-start gap-3">
-                  <Share2 className="mt-0.5 size-5 shrink-0 text-accent" />
-                  <span className="text-sm leading-relaxed text-white/85">
-                    {t("info.social")}
+                <a
+                  href="https://www.instagram.com/asa.study/"
+                  target="_blank"
+                  rel="noreferrer"
+                  aria-label="Instagram: asa.study"
+                  className="flex min-h-11 items-start gap-3 rounded-sm text-white/85 transition-colors hover:text-white"
+                >
+                  <Instagram className="mt-0.5 size-5 shrink-0 text-accent" />
+                  <span dir="ltr" className="text-sm leading-relaxed">
+                    @asa.study
                   </span>
-                </div>
+                </a>
               </CardContent>
             </Card>
           </FadeIn>

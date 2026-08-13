@@ -1,5 +1,5 @@
 import { useTranslations } from "next-intl";
-import { Mail, MapPin, MessageCircle, Share2 } from "lucide-react";
+import { Instagram, Mail, MapPin, MessageCircle } from "lucide-react";
 import { Link } from "@/i18n/navigation";
 import { LogoMark } from "@/components/layout/logo-mark";
 
@@ -35,9 +35,17 @@ export function Footer() {
               <MessageCircle className="size-4 shrink-0 text-accent" />
               <span>{t("whatsapp")}</span>
             </li>
-            <li className="flex items-center gap-2">
-              <Share2 className="size-4 shrink-0 text-accent" />
-              <span>{t("social")}</span>
+            <li>
+              <a
+                href="https://www.instagram.com/asa.study/"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="Instagram: asa.study"
+                className="flex min-h-11 items-center gap-2 transition-colors hover:text-accent"
+              >
+                <Instagram className="size-4 shrink-0 text-accent" />
+                <span dir="ltr">@asa.study</span>
+              </a>
             </li>
           </ul>
         </div>

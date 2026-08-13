@@ -32,8 +32,8 @@
   --radius-md: var(--radius-md);
   --radius-lg: var(--radius-lg);
 
-  --font-sans: Inter, "Segoe UI", Arial, ui-sans-serif, system-ui, sans-serif;
-  --font-fa: Vazirmatn, Tahoma, "Segoe UI", Arial, ui-sans-serif, system-ui, sans-serif;
+  --font-sans: Arial, ui-sans-serif, system-ui, sans-serif;
+  --font-fa: "B Nazanin", BNazanin, Tahoma, Arial, sans-serif;
 
   --animate-marquee: marquee 32s linear infinite;
   --animate-float: float 6s ease-in-out infinite;
